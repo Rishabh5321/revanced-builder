@@ -111,6 +111,7 @@ uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
 [Backdrops]
 version = "5.1.8"
-#arch = "arm64-v8a"
+arch = "all"
+build-mode = "apk"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
 uptodown-dlurl ="https://backdrops.en.uptodown.com/android"
