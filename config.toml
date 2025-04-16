@@ -1,15 +1,13 @@
-enable-magisk-update = false # set this to false if you do not want to receive updates for the module in magisk app
+# General settings
+enable-magisk-update = false  # Set this to false to disable module updates in Magisk app
 parallel-jobs = 1
 
-# add 'enabled = false' for not patching a specific app or remove it from the config
-# see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
-
-# you can use rvmm-config-gen to generate a config
+# ======================================================================
+# YouTube
+# ======================================================================
 
 [YouTube]
-build-mode = "both"
-excluded-patches = ""
-included-patches = ""
+build-mode = "apk"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
@@ -20,57 +18,61 @@ enabled = true
 app-name = "YouTube-inotia00"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
-#rv-brand = "ReVanced Extended"
-build-mode = "both"
+version = "auto"
+build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
 [YouTube-anddea]
 enabled = true
 app-name = "YouTube-anddea"
 patches-source = "anddea/revanced-patches"
 cli-source = "anddea/revanced-cli"
-#rv-brand = "ReVanced Extended"
-build-mode = "both"
+version = "auto"
+build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+
+# ======================================================================
+# YouTube Music
+# ======================================================================
 
 [Music]
-build-mode = "both"
+build-mode = "apk"
 arch = "both"
+version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
-# dont build on gh actions (https://github.com/j-hc/revanced-magisk-module/issues/554)
 [Music-inotia00]
 enabled = true
 app-name = "Music-inotia00"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
-#rv-brand = "ReVanced Extended"
-build-mode = "both"
+build-mode = "apk"
 arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
 [Music-anddea]
 enabled = true
 app-name = "Music-anddea"
 patches-source = "anddea/revanced-patches"
 cli-source = "anddea/revanced-cli"
-#rv-brand = "ReVanced Extended"
-build-mode = "both"
+build-mode = "apk"
 arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+
+# ======================================================================
+# Reddit
+# ======================================================================
 
 [Reddit]
-build-mode = "both"
+build-mode = "apk"
+version = "auto"
 excluded-patches = ""
 included-patches = ""
-version = "auto"
-apkmirror-dlurl = "www.apkmirror.com/apk/redditinc/reddit"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
 [Reddit-inotia00]
@@ -78,10 +80,8 @@ enabled = true
 app-name = "Reddit-inotia00"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
-#rv-brand = "ReVanced Extended"
-build-mode = "both"
-apkmirror-dlurl = "www.apkmirror.com/apk/redditinc/reddit"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+build-mode = "apk"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
 [Reddit-anddea]
@@ -89,18 +89,24 @@ enabled = true
 app-name = "Reddit-anddea"
 patches-source = "anddea/revanced-patches"
 cli-source = "anddea/revanced-cli"
-#rv-brand = "ReVanced Extended"
-build-mode = "both"
+build-mode = "apk"
+version = "auto"
 excluded-patches = ""
 included-patches = ""
-version = "auto"
-apkmirror-dlurl = "www.apkmirror.com/apk/redditinc/reddit"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
+# ======================================================================
+# Spotify
+# ======================================================================
+
 [Spotify]
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 version = "9.0.36.683"
+uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+
+# ======================================================================
+# Icon Pack Studio
+# ======================================================================
 
 [IconPackStudio]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
