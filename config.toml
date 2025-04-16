@@ -53,6 +53,7 @@ patches-source = "inotia00/revanced-patches"
 build-mode = "apk"
 arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
 [Music-anddea]
 enabled = true
@@ -62,6 +63,7 @@ patches-source = "anddea/revanced-patches"
 build-mode = "apk"
 arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
 # ======================================================================
 # Reddit
@@ -75,26 +77,25 @@ included-patches = ""
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
-[Reddit-inotia00]
-enabled = true
-app-name = "Reddit-inotia00"
-patches-source = "inotia00/revanced-patches"
-###cli-source = "inotia00/revanced-cli"
-build-mode = "apk"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
-uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
+# [Reddit-inotia00]
+# enabled = true
+# app-name = "Reddit-inotia00"
+# patches-source = "inotia00/revanced-patches"
+# ###cli-source = "inotia00/revanced-cli"
+# build-mode = "apk"
+# version = "auto"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
+# uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
-[Reddit-anddea]
-enabled = true
-app-name = "Reddit-anddea"
-patches-source = "anddea/revanced-patches"
-#cli-source = "inotia00/revanced-cli"
-build-mode = "apk"
-version = "auto"
-excluded-patches = ""
-included-patches = ""
-apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
-uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
+# [Reddit-anddea]
+# enabled = true
+# app-name = "Reddit-anddea"
+# patches-source = "anddea/revanced-patches"
+# #cli-source = "inotia00/revanced-cli"
+# build-mode = "apk"
+# version = "auto"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
+# uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
 # ======================================================================
 # Spotify
