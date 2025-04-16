@@ -112,7 +112,7 @@ uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 # ======================================================================
 
 [Backdrops]
-#version = "5.1.8"
+version = "5.1.8"
 arch = "all"
 apkmirror-dpi = "120-640dpi"
 build-mode = "apk"
