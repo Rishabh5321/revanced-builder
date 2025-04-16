@@ -1,9 +1,10 @@
-IconPackStudio: 2.2 build 016  
+Backdrops: 5.2  
 Music: 8.05.51  
 Music-anddea: 8.05.51  
 Music-inotia00: 8.05.51  
 Reddit: 2024.17.0  
-Spotify: 9.0.36.683  
+Reddit-anddea: 2025.12.1  
+Reddit-inotia00: 2025.12.1  
 YouTube: 20.07.39  
 YouTube-anddea: 19.47.53  
 YouTube-inotia00: 19.47.53  
