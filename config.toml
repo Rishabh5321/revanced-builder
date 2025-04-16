@@ -77,37 +77,40 @@ included-patches = ""
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
-# [Reddit-inotia00]
-# enabled = true
-# app-name = "Reddit-inotia00"
-# patches-source = "inotia00/revanced-patches"
-# ###cli-source = "inotia00/revanced-cli"
-# build-mode = "apk"
-# version = "auto"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
-# uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
+[Reddit-inotia00]
+enabled = true
+app-name = "Reddit-inotia00"
+patches-source = "inotia00/revanced-patches"
+###cli-source = "inotia00/revanced-cli"
+build-mode = "apk"
+arch = "arm64-v8a"
+version = "auto"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
+uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
-# [Reddit-anddea]
-# enabled = true
-# app-name = "Reddit-anddea"
-# patches-source = "anddea/revanced-patches"
-# #cli-source = "inotia00/revanced-cli"
-# build-mode = "apk"
-# version = "auto"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
-# uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
+[Reddit-anddea]
+enabled = true
+app-name = "Reddit-anddea"
+patches-source = "anddea/revanced-patches"
+#cli-source = "inotia00/revanced-cli"
+arch = "arm64-v8a"
+build-mode = "apk"
+version = "auto"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
+uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
 # ======================================================================
 # Spotify
 # ======================================================================
 
 [Spotify]
-version = "9.0.36.683"
+#version = "9.0.36.683"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
 # ======================================================================
-# Icon Pack Studio
+# Backdrops - Wallpapers
 # ======================================================================
 
-[IconPackStudio]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+[Backdrops]
+version = "5.1.8"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
