@@ -82,8 +82,9 @@ patches-source = "inotia00/revanced-patches"
 ###cli-source = "inotia00/revanced-cli"
 build-mode = "apk"
 arch = "arm64-v8a"
+apkmirror-dpi = "120-640dpi"
 version = "auto"
-#apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
 [Reddit-anddea]
@@ -92,9 +93,10 @@ app-name = "Reddit-anddea"
 patches-source = "anddea/revanced-patches"
 #cli-source = "inotia00/revanced-cli"
 arch = "arm64-v8a"
+apkmirror-dpi = "120-640dpi"
 build-mode = "apk"
 version = "auto"
-#apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
 # ======================================================================
