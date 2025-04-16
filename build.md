@@ -1,10 +1,7 @@
 IconPackStudio: 2.2 build 016  
-Music (arm64-v8a): 8.05.51  
-Music (arm-v7a): 8.05.51  
-Music-anddea (arm64-v8a): 8.05.51  
-Music-anddea (arm-v7a): 8.05.51  
-Music-inotia00 (arm64-v8a): 8.05.51  
-Music-inotia00 (arm-v7a): 8.05.51  
+Music: 8.05.51  
+Music-anddea: 8.05.51  
+Music-inotia00: 8.05.51  
 Reddit: 2024.17.0  
 Spotify: 9.0.36.683  
 YouTube: 20.07.39  
