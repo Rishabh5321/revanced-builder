@@ -72,8 +72,6 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 [Reddit]
 build-mode = "apk"
 version = "auto"
-excluded-patches = ""
-included-patches = ""
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
@@ -85,7 +83,7 @@ patches-source = "inotia00/revanced-patches"
 build-mode = "apk"
 arch = "arm64-v8a"
 version = "auto"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
+#apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
 [Reddit-anddea]
@@ -96,7 +94,7 @@ patches-source = "anddea/revanced-patches"
 arch = "arm64-v8a"
 build-mode = "apk"
 version = "auto"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
+#apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
 # ======================================================================
@@ -113,4 +111,5 @@ uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
 [Backdrops]
 version = "5.1.8"
+arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
