@@ -107,6 +107,15 @@ uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 version = "9.0.36.683"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
+[Spotify-anddea]
+enabled = true
+app-name = "Spotify-anddea"
+patches-source = "anddea/revanced-patches"
+#cli-source = "inotia00/revanced-cli"
+build-mode = "apk"
+version = "9.0.36.683"
+uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+
 # ======================================================================
 # Backdrops - Wallpapers
 # ======================================================================
