@@ -104,7 +104,7 @@ uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 # ======================================================================
 
 [Spotify]
-version = "9.0.36.683"
+#version = "9.0.36.683"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
 [Spotify-anddea]
@@ -113,7 +113,7 @@ app-name = "Spotify-anddea"
 patches-source = "anddea/revanced-patches"
 #cli-source = "inotia00/revanced-cli"
 build-mode = "apk"
-version = "9.0.36.683"
+#version = "9.0.36.683"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
 # ======================================================================
