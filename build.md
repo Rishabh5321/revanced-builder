@@ -1,6 +1,15 @@
-YouTube: 20.12.46  
+Backdrops: 5.1.8  
+Music: 8.05.51  
+Music-anddea: 8.05.51  
+Music-inotia00: 8.05.51  
+Reddit: 2024.17.0  
+Reddit-anddea: 2025.12.1  
+Reddit-inotia00: 2025.12.1  
+Spotify: 9.0.44.478  
+Spotify-anddea: 9.0.46.493  
 YouTube-anddea: 19.47.53  
 YouTube-inotia00: 19.47.53  
+youtube: 20.12.46  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
