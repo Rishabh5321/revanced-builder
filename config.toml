@@ -102,9 +102,10 @@ uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
 [Spotify-anddea]
 enabled = true
+version = "9.0.46.496"
 app-name = "Spotify-anddea"
 patches-source = "anddea/revanced-patches"
-build-mode = "9.0.46.496"
+build-mode = "apk"
 arch = "arm64-v8a"
 apkmirror-dpi = "120-640dpi"
 version = "auto"
