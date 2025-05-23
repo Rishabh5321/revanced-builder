@@ -5,7 +5,6 @@ Music-inotia00: 8.05.51
 Reddit: 2024.17.0  
 Reddit-anddea: 2025.12.1  
 Reddit-inotia00: 2025.12.1  
-Spotify: 9.0.46.496  
 Spotify-anddea: 9.0.46.496  
 YouTube-anddea: 19.47.53  
 YouTube-inotia00: 19.47.53  
