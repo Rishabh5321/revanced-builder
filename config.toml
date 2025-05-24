@@ -98,6 +98,7 @@ uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
 [Spotify]
 version = "auto"
+app-name = "Spotify"
 arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts"
 
