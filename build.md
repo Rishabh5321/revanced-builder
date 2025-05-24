@@ -5,8 +5,7 @@ Music-inotia00: 8.05.51
 Reddit: 2024.17.0  
 Reddit-anddea: 2025.12.1  
 Reddit-inotia00: 2025.12.1  
-Spotify: 9.0.46.493  
-Spotify-anddea: 9.0.46.493  
+Spotify-anddea: 9.0.48.169  
 YouTube-anddea: 19.47.53  
 YouTube-inotia00: 19.47.53  
 youtube: 20.12.46  
@@ -19,9 +18,24 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 Patches: anddea/patches-3.9.0.rvp  
 [Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.9.0)
 
+Patches: anddea/patches-3.9.0.rvp  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.9.0)
+
+Patches: anddea/patches-3.9.0.rvp  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.9.0)
+
+Patches: anddea/patches-3.9.0.rvp  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.9.0)
+
+Patches: inotia00/patches-5.6.2.rvp  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.6.2)
+
+Patches: inotia00/patches-5.6.2.rvp  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.6.2)
+
 Patches: inotia00/patches-5.6.2.rvp  
 [Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.6.2)
 
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.24.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.24.0)  
+Patches: ReVanced/patches-5.25.0-dev.6.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.25.0-dev.6)  
