@@ -1,6 +1,7 @@
 # General settings
 enable-magisk-update = false # Set this to false to disable module updates in Magisk app
 parallel-jobs = 1
+patches-version = "dev"
 
 # ======================================================================
 # YouTube
@@ -96,12 +97,12 @@ uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 # ======================================================================
 
 [Spotify]
-version = "9.0.46.493"
+version = "auto"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
 [Spotify-anddea]
 enabled = true
-version = "9.0.46.493"
+version = "auto"
 app-name = "Spotify-anddea"
 patches-source = "anddea/revanced-patches"
 build-mode = "apk"
