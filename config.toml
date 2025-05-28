@@ -103,15 +103,17 @@ app-name = "Spotify"
 arch = "arm64-v8a"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
-[Spotify-anddea]
+[Spotify-Anddea]
 enabled = true
-version = "auto"
-app-name = "Spotify-anddea"
-patches-source = "anddea/revanced-patches"
+app-name = "Spotify-Anddea"
 build-mode = "apk"
-arch = "arm64-v8a"
-apkmirror-dpi = "120-640dpi"
+# arch = "arm64-v8a"
+# apkmirror-dpi = "480dpi"
+version = "auto"
+patches-source = "anddea/revanced-patches"
+cli-source = "j-hc/revanced-cli"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts"
 
 # ======================================================================
 # Backdrops - Wallpapers
