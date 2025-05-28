@@ -97,15 +97,15 @@ uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 # Spotify
 # ======================================================================
 
-[Spotify]
-version = "auto"
-app-name = "Spotify"
-arch = "arm64-v8a"
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+# [Spotify]
+# version = "auto"
+# app-name = "Spotify"
+# arch = "arm64-v8a"
+# uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
 [Spotify-Anddea]
 enabled = true
-app-name = "Spotify-Anddea"
+app-name = "Spotify"
 build-mode = "apk"
 # arch = "arm64-v8a"
 # apkmirror-dpi = "480dpi"
