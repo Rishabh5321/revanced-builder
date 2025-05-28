@@ -1,7 +1,9 @@
-# see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
-
+# General settings
 parallel-jobs = 1
 
+# ======================================================================
+# YouTube
+# ======================================================================
 [YouTube]
 enabled = true
 app-name = "YouTube"
@@ -13,6 +15,34 @@ cli-source = "j-hc/revanced-cli"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+
+[YouTube-inotia00]
+enabled = true
+app-name = "YouTube-inotia00"
+build-mode = "apk"
+arch = "all"
+version = "auto"
+patches-source = "inotia00/revanced-patches"
+cli-source = "j-hc/revanced-cli"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+
+[YouTube-anddea]
+enabled = true
+app-name = "YouTube-anddea"
+build-mode = "apk"
+arch = "all"
+version = "auto"
+patches-source = "anddea/revanced-patches"
+cli-source = "j-hc/revanced-cli"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+
+# ======================================================================
+# YouTube Music
+# ======================================================================
 
 [Music]
 enabled = true
@@ -26,20 +56,91 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
-[Photos]
+[Music-inotia00]
 enabled = true
-app-name = "Photos"
+app-name = "Music-inotia00"
+build-mode = "apk"
+arch = "arm64-v8a"
+version = "auto"
+patches-source = "inotia00/revanced-patches"
+cli-source = "j-hc/revanced-cli"
+uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+
+[Music-anddea]
+enabled = true
+app-name = "Music-anddea"
+build-mode = "apk"
+arch = "arm64-v8a"
+version = "auto"
+patches-source = "anddea/revanced-patches"
+cli-source = "j-hc/revanced-cli"
+uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+
+# ======================================================================
+# Reddit
+# ======================================================================
+
+[Reddit]
+enabled = true
+app-name = "Reddit"
 build-mode = "apk"
 arch = "arm64-v8a"
 version = "auto"
 patches-source = "revanced/revanced-patches"
 cli-source = "j-hc/revanced-cli"
-uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos"
+uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+
+[Reddit-inotia00]
+enabled = true
+app-name = "Reddit-inotia00"
+build-mode = "apk"
+arch = "arm64-v8a"
+version = "auto"
+patches-source = "inotia00/revanced-patches"
+cli-source = "j-hc/revanced-cli"
+uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+
+[Reddit-anddea]
+enabled = true
+app-name = "Reddit-anddea"
+build-mode = "apk"
+arch = "arm64-v8a"
+version = "auto"
+patches-source = "anddea/revanced-patches"
+cli-source = "j-hc/revanced-cli"
+uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+
+
+# ======================================================================
+# Spotify
+# ======================================================================
 
 [Spotify]
 enabled = true
 app-name = "Spotify"
+build-mode = "apk"
+# arch = "arm64-v8a"
+# apkmirror-dpi = "480dpi"
+version = "auto"
+patches-source = "revanced/revanced-patches"
+cli-source = "j-hc/revanced-cli"
+uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
+
+[Spotify-anddea]
+enabled = true
+app-name = "Spotify-anddea"
 build-mode = "apk"
 # arch = "arm64-v8a"
 # apkmirror-dpi = "480dpi"
@@ -50,54 +151,15 @@ uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 
-[Music-Extended]
-enabled = true
-app-name = "Music"
-build-mode = "apk"
-arch = "arm64-v8a"
-version = "auto"
-rv-brand = "ReVanced Extended"
-patches-source = "anddea/revanced-patches"
-cli-source = "j-hc/revanced-cli"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
-[YouTube-Extended]
-enabled = true
-app-name = "YouTube"
-build-mode = "apk"
+# ======================================================================
+# Backdrops - Wallpapers
+# ======================================================================
+
+[Backdrops]
+version = "5.1.8"
 arch = "all"
-version = "auto"
-rv-brand = "ReVanced Extended"
-patches-source = "anddea/revanced-patches"
-cli-source = "j-hc/revanced-cli"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-
-[Reddit-Extended]
-enabled = true
-app-name = "Reddit"
+apkmirror-dpi = "120-640dpi"
 build-mode = "apk"
-arch = "arm64-v8a"
-version = "auto"
-rv-brand = "ReVanced Extended"
-patches-source = "anddea/revanced-patches"
 cli-source = "j-hc/revanced-cli"
-uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
-
-[Lightroom]
-enabled = true
-build-mode = "apk"
-arch = "arm64-v8a"
-# apkmirror-dpi = "120-640dpi"
-version = "auto"
-app-name = "Lightroom"
-patches-source = "revanced/revanced-patches"
-cli-source = "j-hc/revanced-cli"
-uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.adobe.lrmobile/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers"
