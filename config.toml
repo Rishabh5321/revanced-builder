@@ -9,9 +9,9 @@ patches-version = "dev"
 [Spotify]
 version = "auto"
 app-name = "Spotify"
-# arch = "arm64-v8a"
-apkmirror-dpi = "120-640dpi"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"
+arch = "arm64-v8a"
+apkmirror-dpi = "360-480dpi"
+uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
 [Spotify-anddea]
 enabled = true
@@ -21,4 +21,4 @@ patches-source = "anddea/revanced-patches"
 build-mode = "apk"
 arch = "arm64-v8a"
 apkmirror-dpi = "120-640dpi"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"
+uptodown-dlurl = "https://spotify.en.uptodown.com/android"
