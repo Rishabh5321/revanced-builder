@@ -177,3 +177,16 @@ build-mode = "apk"
 patches-source = "revanced/revanced-patches"
 cli-source = "j-hc/revanced-cli"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-news/"
+
+# ======================================================================
+# Inshorts
+# ======================================================================
+
+[Inshorts]
+enabled = true
+app-name = "Inshorts"
+version = "auto"
+build-mode = "apk"
+patches-source = "revanced/revanced-patches"
+cli-source = "j-hc/revanced-cli"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/inshorts-formerly-news-in-shorts/inshorts-news-in-60-words-2/"
