@@ -1,5 +1,6 @@
 # General settings
 parallel-jobs = 1
+patches-version = "dev"
 
 # ======================================================================
 # YouTube
@@ -88,7 +89,6 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 enabled = true
 app-name = "Reddit"
 build-mode = "apk"
-arch = "arm64-v8a"
 version = "auto"
 patches-source = "revanced/revanced-patches"
 cli-source = "j-hc/revanced-cli"
