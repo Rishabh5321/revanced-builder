@@ -1,4 +1,3 @@
-Backdrops: 5.1.8  
 Google-News: 5.108.0.644447823  
 Music: 8.05.51  
 Spotify: 9.0.48.380  
@@ -10,11 +9,12 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.26.1-dev.1.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.26.1-dev.1)  
+Patches: revanced/patches-5.26.1-dev.1.rvp  
+[Changelog](https://github.com/revanced/revanced-patches/releases/tag/v5.26.1-dev.1)  
 
 Skipped:  
+Patches: ReVanced/patches-5.26.1-dev.1.rvp  
 Patches: anddea/patches-3.10.0-dev.1.rvp  
 Patches: inotia00/patches-5.6.2.rvp  
 Patches: inotia00/patches-5.6.2.rvp  
-Patches: inotia00/patches-5.6.2.rvp            
+Patches: inotia00/patches-5.6.2.rvp              
