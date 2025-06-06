@@ -1,6 +1,6 @@
 # General settings
 parallel-jobs = 1
-patches-version = "dev"
+patches-version = "latest"
 
 # ======================================================================
 # YouTube
