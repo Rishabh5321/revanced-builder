@@ -90,10 +90,11 @@ enabled = true
 app-name = "Reddit"
 build-mode = "apk"
 version = "auto"
+apkmirror-dpi = "120-640dpi"
 patches-source = "revanced/revanced-patches"
 cli-source = "j-hc/revanced-cli"
-uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
+# uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 
 [Reddit-inotia00]
@@ -158,6 +159,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 # ======================================================================
 
 [Backdrops]
+enabled = true
 version = "5.1.8"
 arch = "all"
 apkmirror-dpi = "120-640dpi"
@@ -177,3 +179,81 @@ build-mode = "apk"
 patches-source = "revanced/revanced-patches"
 cli-source = "j-hc/revanced-cli"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-news/"
+
+# ======================================================================
+# Twitter
+# ======================================================================
+
+[Twitter]
+enabled = true
+app-name = "Twitter"
+build-mode = "apk"
+version = "auto"
+apkmirror-dpi = "120-640dpi"
+arch = "arm64-v8a"
+patches-source = "revanced/revanced-patches"
+cli-source = "revanced/revanced-cli"
+uptodown-dlurl = "https://twitter.en.uptodown.com/android"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+
+# ======================================================================
+# Icon Pack Studio
+# ======================================================================
+
+[Icon-Pack-Studio]
+enabled = true
+app-name = "Icon Pack Studio"
+build-mode = "apk"
+version = "auto"
+patches-source = "revanced/revanced-patches"
+cli-source = "revanced/revanced-cli"
+uptodown-dlurl = "https://icon-pack-studio.en.uptodown.com/android"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+
+# ======================================================================
+# Inshorts - News in 60 words
+# ======================================================================
+
+[Inshorts]
+enabled = true
+app-name = "Inshorts"
+build-mode = "apk"
+version = "auto"
+arch = "arm64-v8a"
+patches-source = "revanced/revanced-patches"
+cli-source = "revanced/revanced-cli"
+uptodown-dlurl = "https://inshorts.en.uptodown.com/android"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+
+# ======================================================================
+# irplus - Infrared Remote
+# ======================================================================
+
+[irplus]
+enabled = true
+app-name = "irplus"
+build-mode = "apk"
+arch = "arm64-v8a"
+apkmirror-dpi = "160-640dpi"
+version = "auto"
+patches-source = "revanced/revanced-patches"
+cli-source = "revanced/revanced-cli"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/binarymode/irplus-infrared-remote/"
+uptodown-dlurl = "https://irplus.en.uptodown.com/android"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+
+# ======================================================================
+# google photos
+# ======================================================================
+
+[googlephotos]
+enabled = true
+app-name = "googlephotos"
+build-mode = "apk"
+arch = "arm64-v8a"
+version = "auto"
+patches-source = "revanced/revanced-patches"
+cli-source = "revanced/revanced-cli"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
