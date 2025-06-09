@@ -1,5 +1,6 @@
 Backdrops: 5.1.8  
 Google-News: 5.108.0.644447823  
+Icon-Pack-Studio: 2.2 build 016  
 Inshorts: 6.11.5  
 Music: 8.05.51  
 Music-anddea: 8.05.51  
