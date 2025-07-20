@@ -111,7 +111,7 @@ jobs:
         uses: ophub/delete-releases-workflows@main
         with:
           delete_releases: true
-          releases_keep_latest: 3
+          releases_keep_latest: 30
           delete_workflows: false
           gh_token: ${{ secrets.GITHUB_TOKEN }}
 
