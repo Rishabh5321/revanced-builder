@@ -1,4 +1,3 @@
-Backdrops: 5.1.8  
 Google-News: 5.108.0.644447823  
 Icon-Pack-Studio: 2.2 build 016  
 Inshorts: 6.11.14  
@@ -16,11 +15,12 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.33.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.33.0)
+Patches: revanced/patches-5.33.0.rvp  
+[Changelog](https://github.com/revanced/revanced-patches/releases/tag/v5.33.0)
 
 CLI: revanced/revanced-cli-5.0.1-all.jar    
 
 Skipped:  
+Patches: ReVanced/patches-5.33.0.rvp  
 Patches: anddea/patches-3.11.0.rvp  
-Patches: inotia00/patches-5.8.1.rvp      
+Patches: inotia00/patches-5.8.1.rvp        
