@@ -1,17 +1,5 @@
-Icon-Pack-Studio: 2.2 build 016  
-Music: 8.10.52  
+Backdrops: 5.1.8  
 Music-anddea: 8.30.54  
-Music-inotia00: 8.30.54  
-Reddit: 2024.17.0  
-Reddit-anddea: 2025.12.1  
-Reddit-inotia00: 2025.12.1  
-Twitter: 10.86.0-release.0  
-YouTube: 20.14.43  
-YouTube-anddea: 20.05.46  
-YouTube-inotia00: 20.05.46  
-googlephotos: 7.55.0.835314738  
-irplus: 1.9.13  
-telegram: 12.2.7  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
@@ -21,14 +9,6 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 Patches: anddea/patches-3.14.0.rvp  
 [Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.14.0)
 
-Patches: Aunali321/patches-1.9.0.rvp  
-[Changelog](https://github.com/Aunali321/ReVancedExperiments/releases/tag/v1.9.0)
-
-Patches: inotia00/patches-5.13.1.rvp  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.13.1)
-
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
 Patches: ReVanced/patches-5.46.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.46.0)
-
-CLI: revanced/revanced-cli-5.0.1-all.jar    
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.46.0)  
