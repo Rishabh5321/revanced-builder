@@ -6,10 +6,10 @@ Reddit: 2024.17.0
 Reddit-anddea: 2025.12.1  
 Reddit-inotia00: 2025.12.1  
 YouTube: 20.14.43  
-Twitter: 10.86.0-release.0  
 YouTube-anddea: 20.05.46  
-YouTube-inotia00: 20.05.46  
 googlephotos: 7.55.0.835314738  
+YouTube-inotia00: 20.05.46  
+Twitter: 11.42.0-release.2  
 irplus: 1.9.13  
 telegram: 12.2.7  
 
@@ -21,8 +21,14 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 Patches: anddea/patches-3.14.0.rvp  
 [Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.14.0)
 
+Patches: anddea/patches-3.15.0-dev.3.rvp  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.15.0-dev.3)
+
 Patches: Aunali321/patches-1.9.0.rvp  
 [Changelog](https://github.com/Aunali321/ReVancedExperiments/releases/tag/v1.9.0)
+
+Patches: crimera/patches-2.0.0-dev.13.rvp  
+[Changelog](https://github.com/crimera/piko/releases/tag/v2.0.0-dev.13)
 
 Patches: inotia00/patches-5.13.1.rvp  
 [Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.13.1)
