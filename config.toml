@@ -168,6 +168,7 @@ dpi = "120-640dpi"
 build-mode = "apk"
 cli-source = "j-hc/revanced-cli"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers"
+uptodown-dlurl = "https://backdrops.en.uptodown.com/android"
 
 # ======================================================================
 # Google News
@@ -182,6 +183,7 @@ dpi = "120-640dpi"
 patches-source = "revanced/revanced-patches"
 cli-source = "j-hc/revanced-cli"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/google-news/"
+uptodown-dlurl = "https://google-play-newsstand.en.uptodown.com/android"
 
 # ======================================================================
 # Twitter
