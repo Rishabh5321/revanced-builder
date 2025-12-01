@@ -7,8 +7,8 @@ Reddit-anddea: 2025.12.1
 Reddit-inotia00: 2025.12.1  
 YouTube: 20.14.43  
 YouTube-anddea: 20.05.46  
-googlephotos: 7.55.0.835314738  
 YouTube-inotia00: 20.05.46  
+googlephotos: 7.55.0.835314738  
 Twitter: 11.42.0-release.2  
 irplus: 1.9.13  
 telegram: 12.2.7  
