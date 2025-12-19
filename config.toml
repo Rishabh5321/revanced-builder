@@ -96,7 +96,7 @@ version = "auto"
 apkmirror-dpi = "120-640dpi"
 patches-source = "revanced/revanced-patches"
 cli-source = "j-hc/revanced-cli"
-# uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
+uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 
