@@ -2,12 +2,13 @@ Icon-Pack-Studio: 2.2 build 016
 Music: 8.10.52  
 Music-anddea: 8.30.54  
 Music-inotia00: 8.30.54  
+Reddit: 2024.22.0  
 Reddit-anddea: 2025.12.1  
 Reddit-inotia00: 2025.12.1  
 YouTube: 20.14.43  
 YouTube-anddea: 20.05.46  
 YouTube-inotia00: 20.05.46  
-Twitter: 11.48.0-release.0  
+Twitter: 11.49.1-release.0  
 googlephotos: 7.57.0.843750501  
 irplus: 1.9.13  
 telegram: 12.2.10  
