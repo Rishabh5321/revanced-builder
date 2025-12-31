@@ -2,6 +2,7 @@
 # GENERAL SETTINGS
 # ======================================================================
 patches-version = "latest"
+dpi = "nodpi anydpi 120-640dpi"
 # parallel-jobs = 1
 
 # ======================================================================
@@ -38,7 +39,6 @@ app-name        = "YouTube-anddea"
 build-mode      = "apk"
 arch            = "all"
 version         = "auto"
-patches-version = "dev"
 patches-source  = "anddea/revanced-patches"
 cli-source      = "j-hc/revanced-cli"
 uptodown-dlurl  = "https://youtube.en.uptodown.com/android"
