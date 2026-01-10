@@ -6,11 +6,11 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
-CLI: MorpheApp/morphe-cli-1.0.0-all.jar  
-Patches: MorpheApp/patches-1.3.0.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.3.0)
+CLI: MorpheApp/morphe-cli-1.1.0-all.jar  
+Patches: MorpheApp/patches-1.3.2.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.3.2)
 
-CLI: MorpheApp/morphe-cli-1.0.0-all.jar    
+CLI: MorpheApp/morphe-cli-1.1.0-all.jar    
 
 Skipped:  
 Patches: revanced/patches-5.47.0.rvp  
@@ -18,4 +18,4 @@ Patches: anddea/patches-3.15.0.rvp 
 Patches: inotia00/patches-5.14.1.rvp  
 Patches: ReVanced/patches-5.47.0.rvp  
 Patches: crimera/patches-2.0.0-dev.20.rvp  
-Patches: Aunali321/patches-1.9.0.rvp        
+Patches: Aunali321/patches-1.9.0.rvp          
