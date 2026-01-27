@@ -2,7 +2,7 @@
 # GENERAL SETTINGS
 # ======================================================================
 patches-version = "latest"
-dpi = "nodpi anydpi 120-640dpi"
+dpi = "nodpi anydpi 120-640dpi 240-480dpi"
 # parallel-jobs = 1
 
 # ======================================================================
