@@ -1,4 +1,5 @@
 Reddit-anddea: 2025.12.1  
+Reddit: 2026.05.0  
 Reddit-Moprphe: 2026.03.0  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
