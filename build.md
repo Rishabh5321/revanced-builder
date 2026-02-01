@@ -7,8 +7,8 @@ Reddit-anddea: 2025.12.1
 Reddit-Moprphe: 2026.03.0  
 YouTube: 20.14.43  
 YouTube-Moprphe: 20.40.45  
-Twitter: 11.61.0-release.0  
 YouTube-anddea: 20.05.46  
+Twitter: 11.61.0-release.0  
 googlephotos: 7.61.0.860908034  
 irplus: 1.9.13  
 telegram: 12.3.1  
