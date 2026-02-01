@@ -121,27 +121,27 @@ dpi = "nodpi anydpi 120-640dpi 240-480dpi 160-640dpi"
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
 # # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 
-[Twitter]
-enabled         = true
-app-name        = "Twitter"
-build-mode      = "apk"
-version         = "auto"
-arch            = "arm64-v8a"
-patches-source  = "crimera/piko"
-patches-version = "dev"
-cli-source      = "revanced/revanced-cli"
-uptodown-dlurl  = "https://twitter.en.uptodown.com/android"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+# [Twitter]
+# enabled         = true
+# app-name        = "Twitter"
+# build-mode      = "apk"
+# version         = "auto"
+# arch            = "arm64-v8a"
+# patches-source  = "crimera/piko"
+# patches-version = "dev"
+# cli-source      = "revanced/revanced-cli"
+# uptodown-dlurl  = "https://twitter.en.uptodown.com/android"
+# # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 
-[telegram]
-enabled         = true
-app-name        = "telegram"
-build-mode      = "apk"
-version         = "auto"
-patches-source  = "Aunali321/ReVancedExperiments"
-cli-source      = "revanced/revanced-cli"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/telegram-fz-llc/telegram/"
-uptodown-dlurl  = "https://telegram.en.uptodown.com/android"
+# [telegram]
+# enabled         = true
+# app-name        = "telegram"
+# build-mode      = "apk"
+# version         = "auto"
+# patches-source  = "Aunali321/ReVancedExperiments"
+# cli-source      = "revanced/revanced-cli"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/telegram-fz-llc/telegram/"
+# uptodown-dlurl  = "https://telegram.en.uptodown.com/android"
 
 # # ======================================================================
 # # SYSTEM & UTILITIES
@@ -152,22 +152,20 @@ enabled         = true
 app-name        = "googlephotos"
 build-mode      = "apk"
 version         = "auto"
-patches-source  = "revanced/revanced-patches"
-cli-source      = "revanced/revanced-cli"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl  = "https://google-photos.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 
-[irplus]
-enabled         = true
-app-name        = "irplus"
-build-mode      = "apk"
-version         = "auto"
-patches-source  = "revanced/revanced-patches"
-cli-source      = "revanced/revanced-cli"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/binarymode/irplus-infrared-remote/"
-uptodown-dlurl  = "https://irplus.en.uptodown.com/android"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+# [irplus]
+# enabled         = true
+# app-name        = "irplus"
+# build-mode      = "apk"
+# version         = "auto"
+# patches-source  = "revanced/revanced-patches"
+# cli-source      = "revanced/revanced-cli"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/binarymode/irplus-infrared-remote/"
+# uptodown-dlurl  = "https://irplus.en.uptodown.com/android"
+# # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 
 # [Icon-Pack-Studio]
 # enabled         = true
