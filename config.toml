@@ -9,139 +9,139 @@ dpi = "nodpi anydpi 120-640dpi 240-480dpi 160-640dpi"
 # VIDEO & STREAMING
 # ======================================================================
 
-# [YouTube]
-# enabled         = true
-# app-name        = "YouTube"
-# build-mode      = "apk"
-# arch            = "all"
-# version         = "auto"
-# patches-source  = "revanced/revanced-patches"
-# cli-source      = "j-hc/revanced-cli"
-# uptodown-dlurl  = "https://youtube.en.uptodown.com/android"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-# # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+[YouTube]
+enabled         = true
+app-name        = "YouTube"
+build-mode      = "apk"
+arch            = "all"
+version         = "auto"
+patches-source  = "revanced/revanced-patches"
+cli-source      = "j-hc/revanced-cli"
+uptodown-dlurl  = "https://youtube.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
-# [YouTube-Moprphe]
-# enabled         = true
-# app-name        = "YouTube-Moprphe"
-# build-mode      = "apk"
-# arch            = "all"
-# version         = "auto"
-# patches-source  = "MorpheApp/morphe-patches"
-# cli-source      = "MorpheApp/morphe-cli"
-# uptodown-dlurl  = "https://youtube.en.uptodown.com/android"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-# # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+[YouTube-Moprphe]
+enabled         = true
+app-name        = "YouTube-Moprphe"
+build-mode      = "apk"
+arch            = "all"
+version         = "auto"
+patches-source  = "MorpheApp/morphe-patches"
+cli-source      = "MorpheApp/morphe-cli"
+uptodown-dlurl  = "https://youtube.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
-# [YouTube-anddea]
-# enabled         = true
-# app-name        = "YouTube-anddea"
-# build-mode      = "apk"
-# arch            = "all"
-# version         = "auto"
-# patches-source  = "anddea/revanced-patches"
-# cli-source      = "j-hc/revanced-cli"
-# uptodown-dlurl  = "https://youtube.en.uptodown.com/android"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-# # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+[YouTube-anddea]
+enabled         = true
+app-name        = "YouTube-anddea"
+build-mode      = "apk"
+arch            = "all"
+version         = "auto"
+patches-source  = "anddea/revanced-patches"
+cli-source      = "j-hc/revanced-cli"
+uptodown-dlurl  = "https://youtube.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 # ======================================================================
 # MUSIC
 # ======================================================================
 
-# [Music]
-# enabled         = true
-# app-name        = "Music"
-# build-mode      = "apk"
-# arch            = "arm64-v8a"
-# version         = "auto"
-# patches-source  = "revanced/revanced-patches"
-# cli-source      = "j-hc/revanced-cli"
-# uptodown-dlurl  = "https://youtube-music.en.uptodown.com/android"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-# # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+[Music]
+enabled         = true
+app-name        = "Music"
+build-mode      = "apk"
+arch            = "arm64-v8a"
+version         = "auto"
+patches-source  = "revanced/revanced-patches"
+cli-source      = "j-hc/revanced-cli"
+uptodown-dlurl  = "https://youtube-music.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
-# [Music-Moprphe]
-# enabled         = true
-# app-name        = "Music-Moprphe"
-# build-mode      = "apk"
-# arch            = "arm64-v8a"
-# version         = "auto"
-# patches-source  = "MorpheApp/morphe-patches"
-# cli-source      = "MorpheApp/morphe-cli"
-# uptodown-dlurl  = "https://youtube-music.en.uptodown.com/android"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-# # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+[Music-Moprphe]
+enabled         = true
+app-name        = "Music-Moprphe"
+build-mode      = "apk"
+arch            = "arm64-v8a"
+version         = "auto"
+patches-source  = "MorpheApp/morphe-patches"
+cli-source      = "MorpheApp/morphe-cli"
+uptodown-dlurl  = "https://youtube-music.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
-# [Music-anddea]
-# enabled         = true
-# app-name        = "Music-anddea"
-# build-mode      = "apk"
-# arch            = "arm64-v8a"
-# version         = "auto"
-# patches-source  = "anddea/revanced-patches"
-# cli-source      = "j-hc/revanced-cli"
-# uptodown-dlurl  = "https://youtube-music.en.uptodown.com/android"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-# # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+[Music-anddea]
+enabled         = true
+app-name        = "Music-anddea"
+build-mode      = "apk"
+arch            = "arm64-v8a"
+version         = "auto"
+patches-source  = "anddea/revanced-patches"
+cli-source      = "j-hc/revanced-cli"
+uptodown-dlurl  = "https://youtube-music.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
 # ======================================================================
 # SOCIAL MEDIA & COMMUNICATION
 # ======================================================================
 
-# [Reddit]
-# enabled         = true
-# app-name        = "Reddit"
-# build-mode      = "apk"
-# # dpi             = "anydpi"
-# version         = "auto"
-# uptodown-dlurl  = "https://reddit-official-app.en.uptodown.com/android"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
-# # archive-dlurl   = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+[Reddit]
+enabled         = true
+app-name        = "Reddit"
+build-mode      = "apk"
+# dpi             = "anydpi"
+version         = "auto"
+uptodown-dlurl  = "https://reddit-official-app.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
+# archive-dlurl   = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 
-# [Reddit-anddea]
-# enabled         = true
-# app-name        = "Reddit-anddea"
-# build-mode      = "apk"
-# version         = "auto"
-# patches-source  = "anddea/revanced-patches"
-# cli-source      = "j-hc/revanced-cli"
-# uptodown-dlurl  = "https://reddit-official-app.en.uptodown.com/android"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
-# # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+[Reddit-anddea]
+enabled         = true
+app-name        = "Reddit-anddea"
+build-mode      = "apk"
+version         = "auto"
+patches-source  = "anddea/revanced-patches"
+cli-source      = "j-hc/revanced-cli"
+uptodown-dlurl  = "https://reddit-official-app.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 
-# [Reddit-Moprphe]
-# enabled         = true
-# app-name        = "Reddit-Moprphe"
-# build-mode      = "apk"
-# version         = "auto"
-# patches-source  = "MorpheApp/morphe-patches"
-# cli-source      = "MorpheApp/morphe-cli"
-# uptodown-dlurl  = "https://reddit-official-app.en.uptodown.com/android"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
-# # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+[Reddit-Moprphe]
+enabled         = true
+app-name        = "Reddit-Moprphe"
+build-mode      = "apk"
+version         = "auto"
+patches-source  = "MorpheApp/morphe-patches"
+cli-source      = "MorpheApp/morphe-cli"
+uptodown-dlurl  = "https://reddit-official-app.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 
-# [Twitter]
-# enabled         = true
-# app-name        = "Twitter"
-# build-mode      = "apk"
-# version         = "auto"
-# arch            = "arm64-v8a"
-# patches-source  = "crimera/piko"
-# patches-version = "dev"
-# cli-source      = "revanced/revanced-cli"
-# uptodown-dlurl  = "https://twitter.en.uptodown.com/android"
-# # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+[Twitter]
+enabled         = true
+app-name        = "Twitter"
+build-mode      = "apk"
+version         = "auto"
+arch            = "arm64-v8a"
+patches-source  = "crimera/piko"
+patches-version = "dev"
+cli-source      = "revanced/revanced-cli"
+uptodown-dlurl  = "https://twitter.en.uptodown.com/android"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 
-# [telegram]
-# enabled         = true
-# app-name        = "telegram"
-# build-mode      = "apk"
-# version         = "auto"
-# patches-source  = "Aunali321/ReVancedExperiments"
-# cli-source      = "revanced/revanced-cli"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/telegram-fz-llc/telegram/"
-# uptodown-dlurl  = "https://telegram.en.uptodown.com/android"
+[telegram]
+enabled         = true
+app-name        = "telegram"
+build-mode      = "apk"
+version         = "auto"
+patches-source  = "Aunali321/ReVancedExperiments"
+cli-source      = "revanced/revanced-cli"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/telegram-fz-llc/telegram/"
+uptodown-dlurl  = "https://telegram.en.uptodown.com/android"
 
 # # ======================================================================
 # # SYSTEM & UTILITIES
@@ -157,23 +157,23 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl  = "https://google-photos.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 
-# [irplus]
-# enabled         = true
-# app-name        = "irplus"
-# build-mode      = "apk"
-# version         = "auto"
-# patches-source  = "revanced/revanced-patches"
-# cli-source      = "revanced/revanced-cli"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/binarymode/irplus-infrared-remote/"
-# uptodown-dlurl  = "https://irplus.en.uptodown.com/android"
-# # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+[irplus]
+enabled         = true
+app-name        = "irplus"
+build-mode      = "apk"
+version         = "auto"
+patches-source  = "revanced/revanced-patches"
+cli-source      = "revanced/revanced-cli"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/binarymode/irplus-infrared-remote/"
+uptodown-dlurl  = "https://irplus.en.uptodown.com/android"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 
-# [Icon-Pack-Studio]
-# enabled         = true
-# app-name        = "Icon Pack Studio"
-# build-mode      = "apk"
-# version         = "auto"
-# patches-source  = "revanced/revanced-patches"
-# cli-source      = "revanced/revanced-cli"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
-# # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+[Icon-Pack-Studio]
+enabled         = true
+app-name        = "Icon Pack Studio"
+build-mode      = "apk"
+version         = "auto"
+patches-source  = "revanced/revanced-patches"
+cli-source      = "revanced/revanced-cli"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
