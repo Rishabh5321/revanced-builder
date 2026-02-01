@@ -141,7 +141,6 @@ enabled         = true
 app-name        = "googlephotos"
 build-mode      = "apk"
 arch            = "arm64-v8a"
-version         = "7.59.0.856624550"   # Pinned version to avoid download error
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl  = "https://google-photos.en.uptodown.com/android"
 
