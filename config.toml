@@ -162,6 +162,7 @@ version         = "auto"
 patches-source  = "revanced/revanced-patches"
 cli-source      = "revanced/revanced-cli"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+uptodown-dlurl  = "https://icon-pack-studio.en.uptodown.com/android"
 
 # ======================================================================
 # DISABLED / ARCHIVED
