@@ -14,4 +14,4 @@ Patches: revanced/patches-5.48.0.rvp 
 Patches: MorpheApp/patches-1.12.0.mpp  
 Patches: anddea/patches-3.16.0.rvp  
 Patches: ReVanced/patches-5.48.0.rvp  
-Patches: Aunali321/patches-1.9.0.rvp      
+Patches: Aunali321/patches-1.9.0.rvp        
