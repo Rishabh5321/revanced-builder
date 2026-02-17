@@ -1,9 +1,4 @@
-# ======================================================================
-# GLOBAL SETTINGS
-# ======================================================================
-patches-version = "latest"
-dpi             = "nodpi anydpi 120-640dpi 240-480dpi 160-640dpi"
-# parallel-jobs = 1
+parallel-jobs = 1
 
 # ======================================================================
 # VIDEO & STREAMING
@@ -16,7 +11,6 @@ build-mode      = "apk"
 arch            = "all"
 version         = "auto"
 patches-source  = "revanced/revanced-patches"
-cli-source      = "j-hc/revanced-cli"
 uptodown-dlurl  = "https://youtube.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
@@ -38,137 +32,5 @@ build-mode      = "apk"
 arch            = "all"
 version         = "auto"
 patches-source  = "anddea/revanced-patches"
-cli-source      = "j-hc/revanced-cli"
 uptodown-dlurl  = "https://youtube.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-
-# ======================================================================
-# MUSIC
-# ======================================================================
-
-[Music]
-enabled         = true
-app-name        = "Music"
-build-mode      = "apk"
-arch            = "arm64-v8a"
-version         = "auto"
-patches-source  = "revanced/revanced-patches"
-cli-source      = "j-hc/revanced-cli"
-uptodown-dlurl  = "https://youtube-music.en.uptodown.com/android"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-
-[Music-Moprphe]
-enabled         = true
-app-name        = "Music-Moprphe"
-build-mode      = "apk"
-arch            = "arm64-v8a"
-version         = "auto"
-patches-source  = "MorpheApp/morphe-patches"
-cli-source      = "MorpheApp/morphe-cli"
-uptodown-dlurl  = "https://youtube-music.en.uptodown.com/android"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-
-[Music-anddea]
-enabled         = true
-app-name        = "Music-anddea"
-build-mode      = "apk"
-arch            = "arm64-v8a"
-version         = "auto"
-patches-source  = "anddea/revanced-patches"
-cli-source      = "j-hc/revanced-cli"
-uptodown-dlurl  = "https://youtube-music.en.uptodown.com/android"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-
-# ======================================================================
-# SOCIAL MEDIA & COMMUNICATION
-# ======================================================================
-
-[Reddit]
-enabled         = true
-app-name        = "Reddit"
-build-mode      = "apk"
-version         = "auto"
-uptodown-dlurl  = "https://reddit-official-app.en.uptodown.com/android"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
-
-[Reddit-anddea]
-enabled         = true
-app-name        = "Reddit-anddea"
-build-mode      = "apk"
-version         = "auto"
-patches-source  = "anddea/revanced-patches"
-cli-source      = "j-hc/revanced-cli"
-uptodown-dlurl  = "https://reddit-official-app.en.uptodown.com/android"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
-
-[Reddit-Moprphe]
-enabled         = true
-app-name        = "Reddit-Moprphe"
-build-mode      = "apk"
-version         = "auto"
-patches-source  = "MorpheApp/morphe-patches"
-cli-source      = "MorpheApp/morphe-cli"
-uptodown-dlurl  = "https://reddit-official-app.en.uptodown.com/android"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
-
-[Twitter]
-enabled         = true
-app-name        = "Twitter"
-build-mode      = "apk"
-arch            = "arm64-v8a"
-version         = "auto"
-patches-source  = "crimera/piko"
-patches-version = "dev"
-cli-source      = "revanced/revanced-cli"
-uptodown-dlurl  = "https://twitter.en.uptodown.com/android"
-
-[telegram]
-enabled         = true
-app-name        = "telegram"
-build-mode      = "apk"
-version         = "auto"
-patches-source  = "Aunali321/ReVancedExperiments"
-cli-source      = "revanced/revanced-cli"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/telegram-fz-llc/telegram"
-uptodown-dlurl  = "https://telegram.en.uptodown.com/android"
-
-# ======================================================================
-# SYSTEM & UTILITIES
-# ======================================================================
-
-[googlephotos]
-enabled         = true
-app-name        = "googlephotos"
-build-mode      = "apk"
-arch            = "arm64-v8a"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos"
-uptodown-dlurl  = "https://google-photos.en.uptodown.com/android"
-
-[irplus]
-enabled         = true
-app-name        = "irplus"
-build-mode      = "apk"
-version         = "auto"
-patches-source  = "revanced/revanced-patches"
-cli-source      = "revanced/revanced-cli"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/binarymode/irplus-infrared-remote"
-uptodown-dlurl  = "https://irplus.en.uptodown.com/android"
-
-[Icon-Pack-Studio]
-enabled         = true
-app-name        = "Icon Pack Studio"
-build-mode      = "apk"
-version         = "auto"
-patches-source  = "revanced/revanced-patches"
-cli-source      = "revanced/revanced-cli"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio"
-uptodown-dlurl  = "https://icon-pack-studio.en.uptodown.com/android"
-
-# ======================================================================
-# DISABLED / ARCHIVED
-# ======================================================================
-# [YouTube-inotia00]
-# [Music-inotia00]
-# [Reddit-inotia00]
-# [Spotify]
-# [Google-News]
