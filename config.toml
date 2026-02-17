@@ -129,7 +129,7 @@ build-mode      = "apk"
 version         = "auto"
 patches-source  = "Aunali321/ReVancedExperiments"
 cli-source      = "revanced/revanced-cli"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/telegram-fz-llc/telegram/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/telegram-fz-llc/telegram"
 uptodown-dlurl  = "https://telegram.en.uptodown.com/android"
 
 # ======================================================================
@@ -141,7 +141,7 @@ enabled         = true
 app-name        = "googlephotos"
 build-mode      = "apk"
 arch            = "arm64-v8a"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos"
 uptodown-dlurl  = "https://google-photos.en.uptodown.com/android"
 
 [irplus]
@@ -151,7 +151,7 @@ build-mode      = "apk"
 version         = "auto"
 patches-source  = "revanced/revanced-patches"
 cli-source      = "revanced/revanced-cli"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/binarymode/irplus-infrared-remote/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/binarymode/irplus-infrared-remote"
 uptodown-dlurl  = "https://irplus.en.uptodown.com/android"
 
 [Icon-Pack-Studio]
@@ -161,7 +161,7 @@ build-mode      = "apk"
 version         = "auto"
 patches-source  = "revanced/revanced-patches"
 cli-source      = "revanced/revanced-cli"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio"
 uptodown-dlurl  = "https://icon-pack-studio.en.uptodown.com/android"
 
 # ======================================================================
