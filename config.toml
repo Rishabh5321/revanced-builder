@@ -10,26 +10,20 @@ dpi             = "nodpi anydpi 120-640dpi 240-480dpi 160-640dpi"
 # ======================================================================
 
 [YouTube]
-enabled         = true
-app-name        = "YouTube"
 build-mode      = "apk"
-arch            = "all"
-version         = "auto"
-patches-source  = "revanced/revanced-patches"
-cli-source      = "j-hc/revanced-cli"
-uptodown-dlurl  = "https://youtube.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
-[YouTube-Moprphe]
-enabled         = true
-app-name        = "YouTube-Moprphe"
-build-mode      = "apk"
-arch            = "all"
-version         = "auto"
+[YouTube-Morphe]
+app-name        = "YouTube"
 patches-source  = "MorpheApp/morphe-patches"
 cli-source      = "MorpheApp/morphe-cli"
-uptodown-dlurl  = "https://youtube.en.uptodown.com/android"
+rv-brand        = "Morphe"
+build-mode      = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+uptodown-dlurl  = "https://youtube.en.uptodown.com/android"
+archive-dlurl   = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 # [YouTube-anddea]
 # enabled         = true
@@ -47,26 +41,22 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 # ======================================================================
 
 [Music]
-enabled         = true
-app-name        = "Music"
 build-mode      = "apk"
 arch            = "arm64-v8a"
-version         = "auto"
-patches-source  = "revanced/revanced-patches"
-cli-source      = "j-hc/revanced-cli"
-uptodown-dlurl  = "https://youtube-music.en.uptodown.com/android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+uptodown-dlurl  = "https://youtube-music.en.uptodown.com/android"
+archive-dlurl   = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
-[Music-Moprphe]
-enabled         = true
-app-name        = "Music-Moprphe"
-build-mode      = "apk"
-arch            = "arm64-v8a"
-version         = "auto"
+[Music-Morphe]
+app-name        = "Music"
 patches-source  = "MorpheApp/morphe-patches"
 cli-source      = "MorpheApp/morphe-cli"
-uptodown-dlurl  = "https://youtube-music.en.uptodown.com/android"
+rv-brand        = "Morphe"
+build-mode      = "apk"
+arch            = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+uptodown-dlurl  = "https://youtube-music.en.uptodown.com/android"
+archive-dlurl   = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
 # [Music-anddea]
 # enabled         = true
@@ -101,15 +91,15 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
 # uptodown-dlurl  = "https://reddit-official-app.en.uptodown.com/android"
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
 
-[Reddit-Moprphe]
-enabled         = true
-app-name        = "Reddit-Moprphe"
-build-mode      = "apk"
-version         = "auto"
+[Reddit-Morphe]
+app-name        = "Reddit"
+rv-brand        = "Morphe"
 patches-source  = "MorpheApp/morphe-patches"
 cli-source      = "MorpheApp/morphe-cli"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
+archive-dlurl   = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 uptodown-dlurl  = "https://reddit-official-app.en.uptodown.com/android"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
+dpi             = "120-640dpi"
 
 [Twitter]
 enabled         = true
