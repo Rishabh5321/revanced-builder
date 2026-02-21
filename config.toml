@@ -154,15 +154,15 @@ cli-source      = "revanced/revanced-cli"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/binarymode/irplus-infrared-remote"
 uptodown-dlurl  = "https://irplus.en.uptodown.com/android"
 
-[Icon-Pack-Studio]
-enabled         = true
-app-name        = "Icon Pack Studio"
-build-mode      = "apk"
-version         = "auto"
-patches-source  = "revanced/revanced-patches"
-cli-source      = "revanced/revanced-cli"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio"
-uptodown-dlurl  = "https://icon-pack-studio.en.uptodown.com/android"
+# [Icon-Pack-Studio]
+# enabled         = true
+# app-name        = "Icon Pack Studio"
+# build-mode      = "apk"
+# version         = "auto"
+# patches-source  = "revanced/revanced-patches"
+# cli-source      = "revanced/revanced-cli"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio"
+# uptodown-dlurl  = "https://icon-pack-studio.en.uptodown.com/android"
 
 # ======================================================================
 # DISABLED / ARCHIVED
