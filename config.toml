@@ -9,16 +9,16 @@ dpi             = "nodpi anydpi 120-640dpi 240-480dpi 160-640dpi"
 # VIDEO & STREAMING
 # ======================================================================
 
-[YouTube]
-enabled         = true
-app-name        = "YouTube"
-build-mode      = "apk"
-arch            = "all"
-version         = "auto"
-patches-source  = "revanced/revanced-patches"
-cli-source      = "j-hc/revanced-cli"
-uptodown-dlurl  = "https://youtube.en.uptodown.com/android"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+# [YouTube]
+# enabled         = true
+# app-name        = "YouTube"
+# build-mode      = "apk"
+# arch            = "all"
+# version         = "auto"
+# patches-source  = "revanced/revanced-patches"
+# cli-source      = "j-hc/revanced-cli"
+# uptodown-dlurl  = "https://youtube.en.uptodown.com/android"
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
 [YouTube-Moprphe]
 enabled         = true
