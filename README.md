@@ -57,12 +57,12 @@ Patches: nvbangg/patches-1.15.1.mpp
 <blockquote>
 
 <details>
-<summary id="YouTube-Morphe">&ensp;<a href="../../releases/download/14/youtube-morphe-v20.40.45-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.40.45-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube-Morphe">&ensp;<a href="../../releases/download/18/youtube-morphe-v20.40.45-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.40.45-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-02-27<br>
-Patches: MorpheApp/patches-1.15.0.mpp
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.15.0)
+Patch date: 2026-03-03<br>
+Patches: MorpheApp/patches-1.16.0.mpp
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.16.0)
 - Alternative thumbnails
 - Ambient mode
 - Bypass URL redirects
@@ -107,7 +107,9 @@ Patches: MorpheApp/patches-1.15.0.mpp
 - Navigation bar
 - Open Shorts in regular player
 - Open links externally
+- Open system share sheet
 - Open videos fullscreen
+- Override YouTube Music actions
 - Playback speed
 - Remove background playback restrictions
 - Remove viewer discretion dialog
@@ -221,14 +223,16 @@ Patches: nvbangg/patches-1.15.1.mpp
 <blockquote>
 
 <details>
-<summary id="YouTube-Music-Morphe">&ensp;<a href="../../releases/download/14/youtube-music-morphe-v8.40.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music_Morphe-v8.40.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music-Morphe">&ensp;<a href="../../releases/download/18/youtube-music-morphe-v8.40.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music_Morphe-v8.40.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-02-27<br>
-Patches: MorpheApp/patches-1.15.0.mpp
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.15.0)
+Patch date: 2026-03-03<br>
+Patches: MorpheApp/patches-1.16.0.mpp
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.16.0)
 - Bypass certificate checks
+- Change header
 - Change miniplayer color
+- Change start page
 - Check watch history domain name resolution
 - Disable DRC audio
 - Disable QUIC protocol
@@ -535,14 +539,15 @@ Patches: hoo-dles/patches-1.10.1.mpp
 ### [Duolingo:](https://play.google.com/store/apps/details?id=com.duolingo)
 
 <details>
-<summary id="Duolingo">&ensp;<a href="../../releases/download/17/duolingo-hoo-dles-v6.68.3-arm64-v8a.apk"><img src="https://img.shields.io/badge/Duolingo-v6.68.3-gray?labelColor=4DC730&logo=Duolingo&logoColor=white"></a></summary>
+<summary id="Duolingo">&ensp;<a href="../../releases/download/18/duolingo-hoo-dles-v6.66.5-arm64-v8a.apk"><img src="https://img.shields.io/badge/Duolingo-v6.66.5-gray?labelColor=4DC730&logo=Duolingo&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-02<br>
-Patches: hoo-dles/patches-1.10.1.mpp
-[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.10.1)
+Patch date: 2026-03-03<br>
+Patches: hoo-dles/patches-1.10.2.mpp
+[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.10.2)
 - Disable Login Integrity
 - Enable Premium
+- Add resources
 </blockquote>
 </details>
 
@@ -550,13 +555,14 @@ Patches: hoo-dles/patches-1.10.1.mpp
 ### [Cake:](https://play.google.com/store/apps/details?id=me.mycake)
 
 <details>
-<summary id="Cake">&ensp;<a href="../../releases/download/17/cake-hoo-dles-v6.4.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cake-v6.4.0-gray?labelColor=FF6B35&logo=cake&logoColor=white"></a></summary>
+<summary id="Cake">&ensp;<a href="../../releases/download/18/cake-hoo-dles-v6.4.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cake-v6.4.0-gray?labelColor=FF6B35&logo=cake&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-02<br>
-Patches: hoo-dles/patches-1.10.1.mpp
-[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.10.1)
+Patch date: 2026-03-03<br>
+Patches: hoo-dles/patches-1.10.2.mpp
+[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.10.2)
 - Enable Plus
+- Add resources
 </blockquote>
 </details>
 
@@ -583,12 +589,12 @@ Patches: ReVanced/patches-5.50.2.rvp
 ### [Reddit:](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
 
 <details>
-<summary id="Reddit">&ensp;<a href="../../releases/download/14/reddit-morphe-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Reddit-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
+<summary id="Reddit">&ensp;<a href="../../releases/download/18/reddit-morphe-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Reddit-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-02-27<br>
-Patches: MorpheApp/patches-1.15.0.mpp
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.15.0)
+Patch date: 2026-03-03<br>
+Patches: MorpheApp/patches-1.16.0.mpp
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.16.0)
 - Disable screenshot popup
 - Hide Trending Today shelf
 - Hide ads
@@ -653,14 +659,15 @@ Patches: ReVanced/patches-5.50.2.rvp
 ### [Pandora:](https://play.google.com/store/apps/details?id=com.pandora.android)
 
 <details>
-<summary id="Pandora">&ensp;<a href="../../releases/download/17/pandora-hoo-dles-v2601.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Pandora-v2601.1-gray?labelColor=3668FF&logo=Pandora&logoColor=white"></a></summary>
+<summary id="Pandora">&ensp;<a href="../../releases/download/18/pandora-hoo-dles-v2601.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Pandora-v2601.1-gray?labelColor=3668FF&logo=Pandora&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-02<br>
-Patches: hoo-dles/patches-1.10.1.mpp
-[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.10.1)
-- Disable audio ads
-- Enable unlimited skips
+Patch date: 2026-03-03<br>
+Patches: hoo-dles/patches-1.10.2.mpp
+[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.10.2)
+- Disable ads
+- Unlimited skips
+- Add resources
 </blockquote>
 </details>
 
