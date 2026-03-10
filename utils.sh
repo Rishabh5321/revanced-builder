@@ -542,7 +542,11 @@ build_rv() {
 		return 0
 	fi
 	local list_patches
-	list_patches=$(java -jar "$cli_jar" list-patches "$patches_jar" -f "$pkg_name" -v -p 2>&1)
+	if ! list_patches=$(java -jar "$cli_jar" list-patches "$patches_jar" -f "$pkg_name" -v -p 2>&1) &&
+		! list_patches=$(java -jar "$cli_jar" list-patches --patches "$patches_jar" -f "$pkg_name" -v -p 2>&1); then
+		epr "CLI $(basename "$cli_jar") failed, skipping ${table}"
+		return 0
+	fi
 
 	local get_latest_ver=false
 	if [ "$version_mode" = auto ]; then
