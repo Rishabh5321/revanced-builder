@@ -1,9 +1,8 @@
 # Patches APK Builder
 
 > [!NOTE]
-> This repository automatically builds APK apps with Morphe, ReVanced, and many other patches after each patch release.    
-> ⬇️ Download and install the apps you want to use below.  
-> 📱 Easily install and update apps with Obtainium: [See Guide](GUIDE.md)
+> Automated APK builds and README updates for Morphe, ReVanced & many other patches after each release      
+> ⬇️ Easily install and update apps with [**Obtainium**](https://github.com/ImranR98/Obtainium/releases): [See Guide](GUIDE.md)
 
 <div align="center">
 
@@ -27,16 +26,14 @@
 ### [YouTube:](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
 <details>
-<summary id="YouTube">&ensp;<a href="../../releases/download/14/youtube-nvbangg-v20.40.45-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube-v20.40.45-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube">&ensp;<a href="../../releases/download/22/youtube-nvbangg-v20.44.38-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube-v20.44.38-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-02-27<br>
-Patches: nvbangg/patches-1.15.1.mpp
-[Changelog](https://github.com/nvbangg/nvbangg-patches/releases/tag/v1.15.1)
+Patch date: 2026-03-10<br>
+Patches: nvbangg/patches-1.17.0.mpp
+[Changelog](https://github.com/nvbangg/nvbangg-patches/releases/tag/v1.17.0)
 - Bypass URL redirects
-- Change header
 - Change start page
-- Disable layout updates
 - Disable resuming Shorts on startup
 - GmsCore support
 - Hide Shorts components
@@ -201,13 +198,14 @@ Patches: ReVanced/patches-5.50.2.rvp
 ### [YouTube Music:](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 
 <details>
-<summary id="YouTube-Music">&ensp;<a href="../../releases/download/14/youtube-music-nvbangg-v8.40.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music-v8.40.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music">&ensp;<a href="../../releases/download/22/youtube-music-nvbangg-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-02-27<br>
-Patches: nvbangg/patches-1.15.1.mpp
-[Changelog](https://github.com/nvbangg/nvbangg-patches/releases/tag/v1.15.1)
+Patch date: 2026-03-10<br>
+Patches: nvbangg/patches-1.17.0.mpp
+[Changelog](https://github.com/nvbangg/nvbangg-patches/releases/tag/v1.17.0)
 - Bypass certificate checks
+- Change start page
 - Enable exclusive audio playback
 - GmsCore support
 - Hide 'Get Music Premium'
@@ -754,6 +752,9 @@ Patches: hoo-dles/patches-1.9.1.mpp
 
 ---
 
-## Patches used in this repository:
+## 🙏 Credits
+- Patches used in this repository:
 
 [![nvbangg](https://img.shields.io/github/license/nvbangg/nvbangg-patches?label=nvbangg)](https://github.com/nvbangg/nvbangg-patches) [![ReVanced](https://img.shields.io/github/license/ReVanced/revanced-patches?label=ReVanced)](https://github.com/ReVanced/revanced-patches) [![MorpheApp](https://img.shields.io/github/license/MorpheApp/morphe-patches?label=MorpheApp)](https://github.com/MorpheApp/morphe-patches) [![hoo-dles](https://img.shields.io/github/license/hoo-dles/morphe-patches?label=hoo-dles)](https://github.com/hoo-dles/morphe-patches) [![Aunali321](https://img.shields.io/github/license/Aunali321/ReVancedExperiments?label=Aunali321)](https://github.com/Aunali321/ReVancedExperiments) [![crimera](https://img.shields.io/github/license/crimera/piko?label=crimera)](https://github.com/crimera/piko) 
+
+- Template generated from [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
