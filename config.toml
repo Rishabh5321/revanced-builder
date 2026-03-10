@@ -9,13 +9,11 @@ rv-brand = "nvbangg"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
 [YouTube-ReVanced]
-excluded-patches = "'Custom branding'"
 app-name = "youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
 [YouTube-Morphe]
 patches-source = "MorpheApp/morphe-patches"
-excluded-patches = "'Custom branding'"
 cli-source = "MorpheApp/morphe-cli"
 app-name = "youtube"
 rv-brand = "morphe"
@@ -30,7 +28,6 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
 [YouTube-Music-Morphe]
 patches-source = "MorpheApp/morphe-patches"
-excluded-patches = "'Custom branding'"
 cli-source = "MorpheApp/morphe-cli"
 app-name = "youtube-music"
 rv-brand = "morphe"
