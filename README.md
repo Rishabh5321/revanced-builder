@@ -54,12 +54,12 @@ Patches: nvbangg/patches-1.17.0.mpp
 <blockquote>
 
 <details>
-<summary id="YouTube-Morphe">&ensp;<a href="../../releases/download/20/youtube-morphe-v20.44.38-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.44.38-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube-Morphe">&ensp;<a href="../../releases/download/24/youtube-morphe-v20.44.38-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.44.38-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-06<br>
-Patches: MorpheApp/patches-1.17.0.mpp
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.17.0)
+Patch date: 2026-03-10<br>
+Patches: MorpheApp/patches-1.18.0.mpp
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.18.0)
 - Alternative thumbnails
 - Ambient mode
 - Bypass URL redirects
@@ -70,6 +70,7 @@ Patches: MorpheApp/patches-1.17.0.mpp
 - Change start page
 - Check watch history domain name resolution
 - Copy video URL
+- Custom branding
 - Custom player overlay opacity
 - Disable DRC audio
 - Disable QUIC protocol
@@ -222,21 +223,23 @@ Patches: nvbangg/patches-1.17.0.mpp
 <blockquote>
 
 <details>
-<summary id="YouTube-Music-Morphe">&ensp;<a href="../../releases/download/18/youtube-music-morphe-v8.40.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music_Morphe-v8.40.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music-Morphe">&ensp;<a href="../../releases/download/24/youtube-music-morphe-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music_Morphe-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-03<br>
-Patches: MorpheApp/patches-1.16.0.mpp
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.16.0)
+Patch date: 2026-03-10<br>
+Patches: MorpheApp/patches-1.18.0.mpp
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.18.0)
 - Bypass certificate checks
 - Change header
 - Change miniplayer color
 - Change start page
 - Check watch history domain name resolution
+- Custom branding
 - Disable DRC audio
 - Disable QUIC protocol
 - Enable debugging
 - Enable exclusive audio playback
+- Enable forced miniplayer
 - Force original audio
 - GmsCore support
 - Hide 'Get Music Premium'
@@ -586,12 +589,12 @@ Patches: ReVanced/patches-5.50.2.rvp
 ### [Reddit:](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
 
 <details>
-<summary id="Reddit">&ensp;<a href="../../releases/download/20/reddit-morphe-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Reddit-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
+<summary id="Reddit">&ensp;<a href="../../releases/download/24/reddit-morphe-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Reddit-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-06<br>
-Patches: MorpheApp/patches-1.17.0.mpp
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.17.0)
+Patch date: 2026-03-10<br>
+Patches: MorpheApp/patches-1.18.0.mpp
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.18.0)
 - Disable screenshot popup
 - Hide Trending Today shelf
 - Hide ads
