@@ -26,24 +26,19 @@
 ### [YouTube:](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
 <details>
-<summary id="YouTube">&ensp;<a href="../../releases/download/22/youtube-nvbangg-v20.44.38-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube-v20.44.38-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube">&ensp;<a href="../../releases/download/25/youtube-nvbangg-v20.44.38-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube-v20.44.38-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-10<br>
-Patches: nvbangg/patches-1.17.0.mpp
-[Changelog](https://github.com/nvbangg/nvbangg-patches/releases/tag/v1.17.0)
+Patch date: 2026-03-11<br>
+Patches: nvbangg/patches-1.18.0.mpp
+[Changelog](https://github.com/nvbangg/nvbangg-patches/releases/tag/v1.18.0)
 - Bypass URL redirects
-- Change start page
-- Disable resuming Shorts on startup
 - GmsCore support
-- Hide Shorts components
 - Hide ads
-- Navigation bar
 - Open links externally
 - Playback speed
 - Remove background playback restrictions
 - Sanitize sharing links
-- Shorts autoplay
 - SponsorBlock
 - Video ads
 - Video quality
@@ -199,14 +194,13 @@ Patches: ReVanced/patches-5.50.2.rvp
 ### [YouTube Music:](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 
 <details>
-<summary id="YouTube-Music">&ensp;<a href="../../releases/download/22/youtube-music-nvbangg-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music">&ensp;<a href="../../releases/download/25/youtube-music-nvbangg-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-10<br>
-Patches: nvbangg/patches-1.17.0.mpp
-[Changelog](https://github.com/nvbangg/nvbangg-patches/releases/tag/v1.17.0)
+Patch date: 2026-03-11<br>
+Patches: nvbangg/patches-1.18.0.mpp
+[Changelog](https://github.com/nvbangg/nvbangg-patches/releases/tag/v1.18.0)
 - Bypass certificate checks
-- Change start page
 - Enable exclusive audio playback
 - GmsCore support
 - Hide 'Get Music Premium'
@@ -541,12 +535,12 @@ Patches: hoo-dles/patches-1.10.1.mpp
 ### [Duolingo:](https://play.google.com/store/apps/details?id=com.duolingo)
 
 <details>
-<summary id="Duolingo">&ensp;<a href="../../releases/download/21/duolingo-hoo-dles-v6.66.5-arm64-v8a.apk"><img src="https://img.shields.io/badge/Duolingo-v6.66.5-gray?labelColor=4DC730&logo=Duolingo&logoColor=white"></a></summary>
+<summary id="Duolingo">&ensp;<a href="../../releases/download/25/duolingo-hoo-dles-v6.66.5-arm64-v8a.apk"><img src="https://img.shields.io/badge/Duolingo-v6.66.5-gray?labelColor=4DC730&logo=Duolingo&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-07<br>
-Patches: hoo-dles/patches-1.12.0.mpp
-[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.12.0)
+Patch date: 2026-03-11<br>
+Patches: hoo-dles/patches-1.13.0.mpp
+[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.13.0)
 - Disable Login Integrity
 - Enable Premium
 </blockquote>
@@ -556,12 +550,12 @@ Patches: hoo-dles/patches-1.12.0.mpp
 ### [Cake:](https://play.google.com/store/apps/details?id=me.mycake)
 
 <details>
-<summary id="Cake">&ensp;<a href="../../releases/download/21/cake-hoo-dles-v6.4.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cake-v6.4.0-gray?labelColor=FF6B35&logo=cake&logoColor=white"></a></summary>
+<summary id="Cake">&ensp;<a href="../../releases/download/25/cake-hoo-dles-v6.4.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cake-v6.4.0-gray?labelColor=FF6B35&logo=cake&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-07<br>
-Patches: hoo-dles/patches-1.12.0.mpp
-[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.12.0)
+Patch date: 2026-03-11<br>
+Patches: hoo-dles/patches-1.13.0.mpp
+[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.13.0)
 - Enable Plus
 </blockquote>
 </details>
@@ -659,12 +653,12 @@ Patches: ReVanced/patches-5.50.2.rvp
 ### [Pandora:](https://play.google.com/store/apps/details?id=com.pandora.android)
 
 <details>
-<summary id="Pandora">&ensp;<a href="../../releases/download/21/pandora-hoo-dles-v2601.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Pandora-v2601.1-gray?labelColor=3668FF&logo=Pandora&logoColor=white"></a></summary>
+<summary id="Pandora">&ensp;<a href="../../releases/download/25/pandora-hoo-dles-v2601.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Pandora-v2601.1-gray?labelColor=3668FF&logo=Pandora&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-07<br>
-Patches: hoo-dles/patches-1.12.0.mpp
-[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.12.0)
+Patch date: 2026-03-11<br>
+Patches: hoo-dles/patches-1.13.0.mpp
+[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.13.0)
 - Disable ads
 - Unlimited skips
 </blockquote>
@@ -707,12 +701,12 @@ Patches: ReVanced/patches-5.50.2.rvp
 ### [MyFitnessPal:](https://play.google.com/store/apps/details?id=com.myfitnesspal.android)
 
 <details>
-<summary id="MyFitnessPal">&ensp;<a href="../../releases/download/21/myfitnesspal-hoo-dles-v25.50.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/MyFitnessPal-v25.50.0-gray?labelColor=0066EE&logo=MyFitnessPal&logoColor=white"></a></summary>
+<summary id="MyFitnessPal">&ensp;<a href="../../releases/download/25/myfitnesspal-hoo-dles-v25.50.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/MyFitnessPal-v25.50.0-gray?labelColor=0066EE&logo=MyFitnessPal&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-07<br>
-Patches: hoo-dles/patches-1.12.0.mpp
-[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.12.0)
+Patch date: 2026-03-11<br>
+Patches: hoo-dles/patches-1.13.0.mpp
+[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.13.0)
 - Enable Premium+
 </blockquote>
 </details>
