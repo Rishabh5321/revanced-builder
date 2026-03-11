@@ -94,8 +94,11 @@ get_prebuilts() {
 			resp=$(gh_req "$rv_rel" -) || return 1
 			tag_name=$(jq -r '.tag_name' <<<"$resp")
 			matches=$(jq -e '.assets | map(select(.name | endswith("asc") | not))' <<<"$resp")
+			if [ "$(jq 'length' <<<"$matches")" -gt 1 ]; then
+				matches=$(jq -e -r 'map(select(.name | contains("-dev") | not))' <<<"$matches")
+			fi
 			if [ "$(jq 'length' <<<"$matches")" -eq 0 ]; then
-				abort "No asset was found"
+				epr "No asset was found"
 			fi
 			asset=$(jq -r ".[0]" <<<"$matches")
 			url=$(jq -r .url <<<"$asset")
@@ -542,10 +545,11 @@ build_rv() {
 		return 0
 	fi
 	local list_patches
-	if ! list_patches=$(java -jar "$cli_jar" list-patches "$patches_jar" -f "$pkg_name" -v -p 2>&1) &&
-		! list_patches=$(java -jar "$cli_jar" list-patches --patches "$patches_jar" -f "$pkg_name" -v -p 2>&1); then
-		epr "CLI $(basename "$cli_jar") failed, skipping ${table}"
-		return 0
+	if ! list_patches=$(java -jar "$cli_jar" list-patches "$patches_jar" -f "$pkg_name" -v -p 2>&1); then
+		if ! list_patches=$(java -jar "$cli_jar" list-patches --patches "$patches_jar" -f "$pkg_name" -v -p 2>&1); then
+			epr "Could not get patches list from $cli_jar"
+			return 0
+		fi
 	fi
 
 	local get_latest_ver=false
@@ -609,7 +613,7 @@ build_rv() {
 	local microg_patch
 	microg_patch=$(grep "^Name: " <<<"$list_patches" | grep -i "gmscore\|microg" || :) microg_patch=${microg_patch#*: }
 	if [ -n "$microg_patch" ] && [[ ${p_patcher_args[*]} =~ $microg_patch ]]; then
-		epr "You cant include/exclude microg patch as that's done by rvmm builder automatically."
+		wpr "You cant include/exclude microg patch as that's done by rvmm builder automatically."
 		p_patcher_args=("${p_patcher_args[@]//-[ei] ${microg_patch}/}")
 	fi
 
