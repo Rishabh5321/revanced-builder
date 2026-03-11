@@ -1,0 +1,47 @@
+name: Sync Upstream
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 13 * * *"
+
+jobs:
+  sync:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check for upstream changes
+        id: check
+        run: |
+          git remote add upstream https://github.com/j-hc/revanced-magisk-module
+          git fetch upstream main
+          COMMITS=$(git log HEAD..upstream/main --oneline -- . ':!config.toml' ':!README.md')
+          if [ -z "$COMMITS" ]; then
+            echo "HAS_CHANGES=false" >> $GITHUB_OUTPUT
+          else
+            echo "HAS_CHANGES=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create PR
+        if: steps.check.outputs.HAS_CHANGES == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          BRANCH="sync-upstream"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git branch -D $BRANCH 2>/dev/null || true
+          git checkout -b $BRANCH
+          git merge upstream/main --no-commit --no-ff
+          git checkout HEAD -- config.toml README.md 2>/dev/null || true
+          git commit -m "Merge remote-tracking branch 'upstream/main'"
+          git push origin $BRANCH --force
+          gh pr list --head $BRANCH --state open --json number --jq length | grep -qx 0 && \
+            curl -s -X POST "https://api.github.com/repos/$GITHUB_REPOSITORY/pulls" \
+              -H "Authorization: Bearer $GH_TOKEN" \
+              -H "Accept: application/vnd.github+json" \
+              -d "{\"title\":\"Merge remote-tracking branch 'upstream/main'\",\"head\":\"$BRANCH\",\"base\":\"main\"}"
+
