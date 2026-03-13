@@ -2,46 +2,55 @@ name: Sync Upstream
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 13 * * *"
+    - cron: "0 14 * * *"
 
 jobs:
   sync:
-    permissions: write-all
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
         with:
+          ref: main
+          token: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
+          persist-credentials: true
           fetch-depth: 0
+          fetch-tags: false
 
-      - name: Check for upstream changes
+      - name: Check upstream commits
         id: check
         run: |
           git remote add upstream https://github.com/j-hc/revanced-magisk-module
-          git fetch upstream main
-          COMMITS=$(git log HEAD..upstream/main --oneline -- . ':!config.toml' ':!README.md')
-          if [ -z "$COMMITS" ]; then
-            echo "HAS_CHANGES=false" >> $GITHUB_OUTPUT
-          else
-            echo "HAS_CHANGES=true" >> $GITHUB_OUTPUT
+          git fetch --no-tags upstream refs/heads/main:refs/remotes/upstream/main
+          git fetch --no-tags origin refs/heads/main:refs/remotes/origin/main
+
+          if git rev-list --count origin/main..upstream/main | grep -qx 0; then
+            echo "HAS_CHANGES=false" >> "$GITHUB_OUTPUT"
+            exit 0
           fi
 
-      - name: Create PR
+          echo "HAS_CHANGES=true" >> "$GITHUB_OUTPUT"
+
+      - name: Merge upstream into main
         if: steps.check.outputs.HAS_CHANGES == 'true'
-        env:
-          GH_TOKEN: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
         run: |
-          BRANCH="sync-upstream"
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git branch -D $BRANCH 2>/dev/null || true
-          git checkout -b $BRANCH
-          git merge upstream/main --no-commit --no-ff
-          git checkout HEAD -- config.toml README.md 2>/dev/null || true
-          git commit -m "Merge remote-tracking branch 'upstream/main'"
-          git push origin $BRANCH --force
-          gh pr list --head $BRANCH --state open --json number --jq length | grep -qx 0 && \
-            curl -s -X POST "https://api.github.com/repos/$GITHUB_REPOSITORY/pulls" \
-              -H "Authorization: Bearer $GH_TOKEN" \
-              -H "Accept: application/vnd.github+json" \
-              -d "{\"title\":\"Merge remote-tracking branch 'upstream/main'\",\"head\":\"$BRANCH\",\"base\":\"main\"}"
 
+          git checkout -B main origin/main
+
+          if ! git merge upstream/main --no-ff --no-commit > /dev/null 2>&1; then
+            CONFLICT_FILES=$(git diff --name-only --diff-filter=U)
+            if echo "$CONFLICT_FILES" | grep -Ev '^(README\.md|config\.toml)$' > /dev/null; then
+              echo "::error::Conflict detected. Resolve conflicts before merging"
+              exit 1
+            fi
+
+            git checkout --ours -- README.md config.toml 2>/dev/null || true
+            git add README.md config.toml 2>/dev/null || true
+          fi
+
+          git checkout HEAD -- README.md config.toml 2>/dev/null || true
+          git commit -m "Merge remote-tracking branch 'upstream/main'"
+          git push origin main
