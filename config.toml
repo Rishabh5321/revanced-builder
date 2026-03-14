@@ -29,6 +29,12 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 [Google-Photos]
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 
+[Google-Photos-Morphe]
+patches-source = "RookieEnough/De-ReVanced"
+cli-source = "MorpheApp/morphe-cli"
+rv-brand = "de-revanced"
+uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
+
 [Instagram]
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 
@@ -46,12 +52,6 @@ app-name = "twitter"
 rv-brand = "crimera"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 
-[WPS-Office]
-patches-source = "hoo-dles/morphe-patches"
-cli-source = "MorpheApp/morphe-cli"
-rv-brand = "hoo-dles"
-uptodown-dlurl = "https://wps-office.en.uptodown.com/android"
-
 [Reddit-Morphe]
 patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
@@ -68,3 +68,15 @@ uptodown-dlurl = "https://cricbuzz-cricket-scores-and-news.en.uptodown.com/andro
 cli-source = "MorpheApp/morphe-cli"
 patches-source = "RookieEnough/De-ReVanced"
 uptodown-dlurl = "https://cricbuzz-cricket-scores-and-news.en.uptodown.com/android"
+
+[WPS-Office]
+patches-source = "hoo-dles/morphe-patches"
+cli-source = "MorpheApp/morphe-cli"
+rv-brand = "hoo-dles"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/wps-software-pte-ltd/wps-office-pdf/"
+
+[Wallcraft]
+patches-source = "hoo-dles/morphe-patches"
+cli-source = "MorpheApp/morphe-cli"
+rv-brand = "hoo-dles"
+uptodown-dlurl = "https://wallpaperscraft.en.uptodown.com/android"
