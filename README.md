@@ -26,20 +26,26 @@
 ### [YouTube:](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
 <details>
-<summary id="YouTube">&ensp;<a href="../../releases/download/25/youtube-nvbangg-v20.44.38-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube-v20.44.38-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube">&ensp;<a href="../../releases/download/26/youtube-nvbangg-v20.44.38-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube-v20.44.38-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-11<br>
-Patches: nvbangg/patches-1.18.0.mpp
-[Changelog](https://github.com/nvbangg/nvbangg-patches/releases/tag/v1.18.0)
+Patch date: 2026-03-14<br>
+Patches: MorpheApp/patches-1.18.0.mpp
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.18.0)
 - Bypass URL redirects
+- Disable resuming Shorts on startup
+- Downloads
 - GmsCore support
+- Hide Shorts components
 - Hide ads
 - Open links externally
+- Override YouTube Music actions
 - Playback speed
 - Remove background playback restrictions
 - Sanitize sharing links
+- Shorts autoplay
 - SponsorBlock
+- Swipe controls
 - Video ads
 - Video quality
 </blockquote>
@@ -49,10 +55,10 @@ Patches: nvbangg/patches-1.18.0.mpp
 <blockquote>
 
 <details>
-<summary id="YouTube-Morphe">&ensp;<a href="../../releases/download/24/youtube-morphe-v20.44.38-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.44.38-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube-Morphe">&ensp;<a href="../../releases/download/26/youtube-morphe-v20.44.38-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.44.38-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-10<br>
+Patch date: 2026-03-14<br>
 Patches: MorpheApp/patches-1.18.0.mpp
 [Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.18.0)
 - Alternative thumbnails
@@ -194,17 +200,16 @@ Patches: ReVanced/patches-5.50.2.rvp
 ### [YouTube Music:](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 
 <details>
-<summary id="YouTube-Music">&ensp;<a href="../../releases/download/25/youtube-music-nvbangg-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music">&ensp;<a href="../../releases/download/26/youtube-music-nvbangg-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-11<br>
-Patches: nvbangg/patches-1.18.0.mpp
-[Changelog](https://github.com/nvbangg/nvbangg-patches/releases/tag/v1.18.0)
+Patch date: 2026-03-14<br>
+Patches: MorpheApp/patches-1.18.0.mpp
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.18.0)
 - Bypass certificate checks
 - Enable exclusive audio playback
 - GmsCore support
 - Hide 'Get Music Premium'
-- Hide buttons
 - Hide music video ads
 - Navigation bar
 - Permanent repeat
@@ -217,10 +222,10 @@ Patches: nvbangg/patches-1.18.0.mpp
 <blockquote>
 
 <details>
-<summary id="YouTube-Music-Morphe">&ensp;<a href="../../releases/download/24/youtube-music-morphe-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music_Morphe-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music-Morphe">&ensp;<a href="../../releases/download/26/youtube-music-morphe-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music_Morphe-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-10<br>
+Patch date: 2026-03-14<br>
 Patches: MorpheApp/patches-1.18.0.mpp
 [Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.18.0)
 - Bypass certificate checks
@@ -583,10 +588,10 @@ Patches: ReVanced/patches-5.50.2.rvp
 ### [Reddit:](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
 
 <details>
-<summary id="Reddit">&ensp;<a href="../../releases/download/24/reddit-morphe-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Reddit-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
+<summary id="Reddit">&ensp;<a href="../../releases/download/26/reddit-morphe-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Reddit-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-10<br>
+Patch date: 2026-03-14<br>
 Patches: MorpheApp/patches-1.18.0.mpp
 [Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.18.0)
 - Disable screenshot popup
@@ -623,11 +628,16 @@ Patches: ReVanced/patches-5.50.2.rvp
 ### [Gboard:](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
 
 <details>
-<summary id="Gboard">&ensp;<a href="../../releases/download/1/gboard-jkennethcarino-v16.7.4.861137547-release-arm64-v8a-arm64-v8a.apk"><img src="https://img.shields.io/badge/Gboard-v16.7.4.861137547.release.arm64.v8a-gray?labelColor=4285F4&logo=Google&logoColor=white"></a></summary>
+<summary id="Gboard">&ensp;<a href="../../releases/download/26/gboard-jkennethcarino-v16.9.1.873986071-release-arm64-v8a-arm64-v8a.apk"><img src="https://img.shields.io/badge/Gboard-v16.9.1.873986071.release.arm64.v8a-gray?labelColor=4285F4&logo=Google&logoColor=white"></a></summary>
 <blockquote>
 
-- 
-
+Patch date: 2026-03-14<br>
+Patches: jkennethcarino/patches-1.0.0.mpp
+[Changelog](https://github.com/jkennethcarino/adobo/releases/tag/v1.0.0)
+- Always-incognito mode
+- Enable OCR feature
+- Enable Undo feature
+- Enable clipboard in incognito
 </blockquote>
 </details>
 
