@@ -1,12 +1,14 @@
 Cricbuzz: 6.24.01  
 Cricbuzz-Morphe: 6.24.01  
 Google-Photos: 7.67.0.882706237  
+Google-Photos-Morphe: 7.67.0.882706237  
 Instagram: 420.0.0.55.74  
 Reddit: 2026.11.0  
 Reddit-Morphe: 2026.04.0  
 Telegram: 12.5.2  
 Twitter: 10.86.0-release.0  
 Twitter-Piko: 11.73.0-release.0  
+Wallcraft: 3.61.01  
 YouTube-Morphe: 20.44.38  
 YouTube-Music-Morphe: 8.44.54  
 YouTube-Music-ReVanced: 8.10.52  
