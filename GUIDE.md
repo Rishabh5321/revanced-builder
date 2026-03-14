@@ -36,6 +36,7 @@
 - Twitch: `twitch`
 - Reddit: `reddit`
 - Photomath: `photomath`
+- Gboard: `gboard`
 - Google Recorder: `google-recorder`
 - SoundCloud: `soundcloud`
 - Pandora: `pandora`

@@ -620,6 +620,18 @@ Patches: ReVanced/patches-5.50.2.rvp
 </details>
 
 ---
+### [Gboard:](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
+
+<details>
+<summary id="Gboard">&ensp;<a href="../../releases/download/1/gboard-jkennethcarino-v16.7.4.861137547-release-arm64-v8a-arm64-v8a.apk"><img src="https://img.shields.io/badge/Gboard-v16.7.4.861137547.release.arm64.v8a-gray?labelColor=4285F4&logo=Google&logoColor=white"></a></summary>
+<blockquote>
+
+- 
+
+</blockquote>
+</details>
+
+---
 ### [Google Recorder:](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder)
 
 <details>
@@ -752,6 +764,6 @@ Patches: ReVanced/patches-5.50.2.rvp
 ## 🙏 Credits
 - Patches used in this repository:
 
-[![nvbangg](https://img.shields.io/github/license/nvbangg/nvbangg-patches?label=nvbangg)](https://github.com/nvbangg/nvbangg-patches) [![ReVanced](https://img.shields.io/github/license/ReVanced/revanced-patches?label=ReVanced)](https://github.com/ReVanced/revanced-patches) [![MorpheApp](https://img.shields.io/github/license/MorpheApp/morphe-patches?label=MorpheApp)](https://github.com/MorpheApp/morphe-patches) [![hoo-dles](https://img.shields.io/github/license/hoo-dles/morphe-patches?label=hoo-dles)](https://github.com/hoo-dles/morphe-patches) [![Aunali321](https://img.shields.io/github/license/Aunali321/ReVancedExperiments?label=Aunali321)](https://github.com/Aunali321/ReVancedExperiments) [![crimera](https://img.shields.io/github/license/crimera/piko?label=crimera)](https://github.com/crimera/piko) 
+[![ReVanced](https://img.shields.io/github/license/ReVanced/revanced-patches?label=ReVanced)](https://github.com/ReVanced/revanced-patches) [![MorpheApp](https://img.shields.io/github/license/MorpheApp/morphe-patches?label=MorpheApp)](https://github.com/MorpheApp/morphe-patches) [![hoo-dles](https://img.shields.io/github/license/hoo-dles/morphe-patches?label=hoo-dles)](https://github.com/hoo-dles/morphe-patches) [![Aunali321](https://img.shields.io/github/license/Aunali321/ReVancedExperiments?label=Aunali321)](https://github.com/Aunali321/ReVancedExperiments) [![crimera](https://img.shields.io/github/license/crimera/piko?label=crimera)](https://github.com/crimera/piko) [![jkennethcarino](https://img.shields.io/github/license/jkennethcarino/adobo?label=jkennethcarino)](https://github.com/jkennethcarino/adobo) 
 
 - Template generated from [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)

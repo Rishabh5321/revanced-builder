@@ -3,10 +3,12 @@ remove-rv-integrations-checks = false
 # see https://github.com/nvbangg/Patches-APK-Builder/blob/main/CONFIG.md for more detailed explanations
 
 [YouTube]
-patches-source = "nvbangg/nvbangg-patches"
+patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "nvbangg"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+exclusive-patches = true
+included-patches = "'Bypass URL redirects' 'Disable resuming Shorts on startup' 'Downloads' 'Hide Shorts components' 'Hide ads' 'Open links externally' 'Override YouTube Music actions' 'Playback speed' 'Remove background playback restrictions' 'Sanitize sharing links' 'Shorts autoplay' 'SponsorBlock' 'Swipe controls' 'Video ads' 'Video quality'"
 
 [YouTube-ReVanced]
 app-name = "youtube"
@@ -20,11 +22,13 @@ rv-brand = "morphe"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
 [YouTube-Music]
-patches-source = "nvbangg/nvbangg-patches"
+patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "nvbangg"
 archive-dlurl = "https://archive.org/download/nvbangg-apks/com.google.android.apps.youtube.music/"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+exclusive-patches = true
+included-patches = "'Bypass certificate checks' 'Enable exclusive audio playback' 'Hide ''Get Music Premium''' 'Hide music video ads' 'Navigation bar' 'Permanent repeat' 'Remove background playback restrictions' 'Sanitize sharing links'"
 
 [YouTube-Music-Morphe]
 patches-source = "MorpheApp/morphe-patches"
@@ -105,6 +109,12 @@ uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
 [Photomath]
 uptodown-dlurl = "https://photomath.en.uptodown.com/android"
+
+[Gboard]
+patches-source = "jkennethcarino/adobo"
+cli-source = "MorpheApp/morphe-cli"
+rv-brand = "jkennethcarino"
+uptodown-dlurl = "https://gboard-go.en.uptodown.com/android"
 
 [Google-Recorder]
 uptodown-dlurl = "https://opnemer.en.uptodown.com/android"
