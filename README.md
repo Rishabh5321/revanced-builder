@@ -49,10 +49,10 @@ Patches: nvbangg/patches-1.18.0.mpp
 <blockquote>
 
 <details>
-<summary id="YouTube-Morphe">&ensp;<a href="../../releases/download/24/youtube-morphe-v20.44.38-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.44.38-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube-Morphe">&ensp;<a href="../../releases/download/501/youtube-morphe-v20.44.38-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.44.38-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-10<br>
+Patch date: 2026-03-14<br>
 Patches: MorpheApp/patches-1.18.0.mpp
 [Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.18.0)
 - Alternative thumbnails
@@ -122,10 +122,10 @@ Patches: MorpheApp/patches-1.18.0.mpp
 </details>
 
 <details>
-<summary id="YouTube-ReVanced">&ensp;<a href="../../releases/download/23/youtube-revanced-v20.14.43-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_ReVanced-v20.14.43-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube-ReVanced">&ensp;<a href="../../releases/download/501/youtube-revanced-v20.14.43-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_ReVanced-v20.14.43-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-10<br>
+Patch date: 2026-03-14<br>
 Patches: ReVanced/patches-5.50.2.rvp
 [Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.50.2)
 - Alternative thumbnails
@@ -185,6 +185,7 @@ Patches: ReVanced/patches-5.50.2.rvp
 - Video ads
 - Video quality
 - Wide search bar
+- Custom branding
 </blockquote>
 </details>
 
@@ -217,10 +218,10 @@ Patches: nvbangg/patches-1.18.0.mpp
 <blockquote>
 
 <details>
-<summary id="YouTube-Music-Morphe">&ensp;<a href="../../releases/download/24/youtube-music-morphe-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music_Morphe-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music-Morphe">&ensp;<a href="../../releases/download/501/youtube-music-morphe-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music_Morphe-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-10<br>
+Patch date: 2026-03-14<br>
 Patches: MorpheApp/patches-1.18.0.mpp
 [Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.18.0)
 - Bypass certificate checks
@@ -249,10 +250,10 @@ Patches: MorpheApp/patches-1.18.0.mpp
 </details>
 
 <details>
-<summary id="YouTube-Music-ReVanced">&ensp;<a href="../../releases/download/23/youtube-music-revanced-v8.10.52-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music_ReVanced-v8.10.52-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music-ReVanced">&ensp;<a href="../../releases/download/501/youtube-music-revanced-v8.10.52-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music_ReVanced-v8.10.52-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-10<br>
+Patch date: 2026-03-14<br>
 Patches: ReVanced/patches-5.50.2.rvp
 [Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.50.2)
 - Change miniplayer color
@@ -282,10 +283,10 @@ Patches: ReVanced/patches-5.50.2.rvp
 ### [Google Photos:](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
 
 <details>
-<summary id="Google-Photos">&ensp;<a href="../../releases/download/23/google-photos-revanced-v7.66.0.876414181-arm64-v8a.apk"><img src="https://img.shields.io/badge/Google_Photos-v7.66.0.876414181-gray?labelColor=FBBC04&logo=google-photos&logoColor=white"></a></summary>
+<summary id="Google-Photos">&ensp;<a href="../../releases/download/501/google-photos-revanced-v7.67.0.882706237-arm64-v8a.apk"><img src="https://img.shields.io/badge/Google_Photos-v7.67.0.882706237-gray?labelColor=FBBC04&logo=google-photos&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-10<br>
+Patch date: 2026-03-14<br>
 Patches: ReVanced/patches-5.50.2.rvp
 [Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.50.2)
 - GmsCore support
@@ -297,10 +298,10 @@ Patches: ReVanced/patches-5.50.2.rvp
 ### [Instagram:](https://play.google.com/store/apps/details?id=com.instagram.android)
 
 <details>
-<summary id="Instagram">&ensp;<a href="../../releases/download/23/instagram-revanced-v419.0.0.49.71-arm64-v8a.apk"><img src="https://img.shields.io/badge/Instagram-v419.0.0.49.71-gray?labelColor=E4405F&logo=Instagram&logoColor=white"></a></summary>
+<summary id="Instagram">&ensp;<a href="../../releases/download/501/instagram-revanced-v420.0.0.55.74-arm64-v8a.apk"><img src="https://img.shields.io/badge/Instagram-v420.0.0.55.74-gray?labelColor=E4405F&logo=Instagram&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-10<br>
+Patch date: 2026-03-14<br>
 Patches: ReVanced/patches-5.50.2.rvp
 [Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.50.2)
 - Disable analytics
@@ -353,10 +354,10 @@ Patches: ReVanced/patches-5.50.2.rvp
 ### [Telegram:](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 
 <details>
-<summary id="Telegram">&ensp;<a href="../../releases/download/14/telegram-aunali321-v12.4.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram-v12.4.2-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
+<summary id="Telegram">&ensp;<a href="../../releases/download/501/telegram-aunali321-v12.5.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram-v12.5.2-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-02-27<br>
+Patch date: 2026-03-14<br>
 Patches: Aunali321/patches-1.9.0.rvp
 [Changelog](https://github.com/Aunali321/ReVancedExperiments/releases/tag/v1.9.0)
 - Bypass Integrity
@@ -394,10 +395,10 @@ Patches: Aunali321/patches-1.9.0.rvp
 ### [X (Twitter):](https://play.google.com/store/apps/details?id=com.twitter.android)
 
 <details>
-<summary id="Twitter">&ensp;<a href="../../releases/download/23/twitter-revanced-v10.86.0-release.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Twitter-v10.86.0.release.0-gray?labelColor=0F1419&logo=X&logoColor=white"></a></summary>
+<summary id="Twitter">&ensp;<a href="../../releases/download/501/twitter-revanced-v10.86.0-release.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Twitter-v10.86.0.release.0-gray?labelColor=0F1419&logo=X&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-10<br>
+Patch date: 2026-03-14<br>
 Patches: ReVanced/patches-5.50.2.rvp
 [Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.50.2)
 - Dynamic color
@@ -412,10 +413,10 @@ Patches: ReVanced/patches-5.50.2.rvp
 <blockquote>
 
 <details>
-<summary id="Twitter-Piko">&ensp;<a href="../../releases/download/14/twitter-crimera-v11.68.0-release.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Twitter_Piko-v11.68.0.release.0-gray?labelColor=0F1419&logo=X&logoColor=white"></a></summary>
+<summary id="Twitter-Piko">&ensp;<a href="../../releases/download/501/twitter-crimera-v11.73.0-release.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Twitter_Piko-v11.73.0.release.0-gray?labelColor=0F1419&logo=X&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-02-27<br>
+Patch date: 2026-03-14<br>
 Patches: crimera/patches-2.0.0.rvp
 [Changelog](https://github.com/crimera/piko/releases/tag/v2.0.0)
 - Add ability to copy media link
@@ -427,7 +428,6 @@ Patches: crimera/patches-2.0.0.rvp
 - Custom emoji font
 - Custom font
 - Custom sharing domain
-- Custom translator
 - Customise post font size
 - Customize Inline action Bar items
 - Customize Navigation Bar items
@@ -442,12 +442,10 @@ Patches: crimera/patches-2.0.0.rvp
 - Delete from database
 - Disable auto timeline scroll on launch
 - Disable chirp font
-- Disunify xchat system
 - Download patch
 - Enable PiP mode automatically
 - Enable Undo Posts
 - Enable debug menu for posts
-- Enable force HD videos
 - Force enable translate
 - Handle custom twitter links
 - Hide Banner
@@ -468,8 +466,6 @@ Patches: crimera/patches-2.0.0.rvp
 - Hide timeline posts by category
 - Hook feature flag
 - Log server response
-- Native downloader
-- Native reader mode
 - No shortened URL
 - Pause search suggestions
 - Remove Ads
@@ -583,23 +579,14 @@ Patches: ReVanced/patches-5.50.2.rvp
 ### [Reddit:](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
 
 <details>
-<summary id="Reddit">&ensp;<a href="../../releases/download/24/reddit-morphe-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Reddit-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
+<summary id="Reddit">&ensp;<a href="../../releases/download/501/reddit-revanced-v2026.11.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Reddit-v2026.11.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-10<br>
-Patches: MorpheApp/patches-1.18.0.mpp
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.18.0)
-- Disable screenshot popup
-- Hide Trending Today shelf
+Patch date: 2026-03-14<br>
+Patches: ReVanced/patches-5.50.2.rvp
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.50.2)
 - Hide ads
-- Hide navigation buttons
-- Hide recommended communities shelf
-- Hide sidebar components
-- Open links directly
-- Remove subreddit dialog
-- Sanitize sharing links
-- Settings for Reddit
-- Spoof signature
+- Unlock Premium icons
 </blockquote>
 </details>
 
@@ -687,10 +674,10 @@ Patches: ReVanced/patches-5.50.2.rvp
 ### [Cricbuzz:](https://play.google.com/store/apps/details?id=com.cricbuzz.android)
 
 <details>
-<summary id="Cricbuzz">&ensp;<a href="../../releases/download/23/cricbuzz-revanced-v6.24.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cricbuzz-v6.24.01-gray?labelColor=009270&logo=Cricbuzz&logoColor=white"></a></summary>
+<summary id="Cricbuzz">&ensp;<a href="../../releases/download/501/cricbuzz-revanced-v6.24.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cricbuzz-v6.24.01-gray?labelColor=009270&logo=Cricbuzz&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-10<br>
+Patch date: 2026-03-14<br>
 Patches: ReVanced/patches-5.50.2.rvp
 [Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.50.2)
 - Hide ads
