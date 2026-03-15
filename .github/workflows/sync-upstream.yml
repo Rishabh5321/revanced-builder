@@ -2,7 +2,7 @@ name: Sync Upstream
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 14 * * *"
+    - cron: "0 12 * * *"
 
 jobs:
   sync:
@@ -52,5 +52,9 @@ jobs:
           fi
 
           git checkout HEAD -- README.md config.toml 2>/dev/null || true
-          git commit -m "Merge remote-tracking branch 'upstream/main'"
-          git push origin main
+
+      - name: Commit merge
+        if: steps.check.outputs.HAS_CHANGES == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Merge remote-tracking branch 'upstream/main'"

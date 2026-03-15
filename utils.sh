@@ -432,7 +432,7 @@ get_uptodown_resp() {
 	__UPTODOWN_RESP__=$(req "${1}/versions" -) || return 1
 	__UPTODOWN_RESP_PKG__=$(req "${1}/download" -) || return 1
 }
-get_uptodown_vers() { $HTMLQ --text ".version" <<<"$__UPTODOWN_RESP__" | grep '^[0-9]'; }
+get_uptodown_vers() { $HTMLQ --text ".version" <<<"$__UPTODOWN_RESP__"; }
 dl_uptodown() {
 	local uptodown_dlurl=$1 version=$2 output=$3 arch=$4 _dpi=$5
 	local apparch
@@ -527,13 +527,13 @@ patch_apk() {
 
 	if [ "$OS" = Android ]; then cmd+=" --custom-aapt2-binary='${AAPT2}'"; fi
 	pr "$cmd"
-	local patch_log="${TEMP_DIR}/patch_log.txt"
-	if eval "$cmd" 2>&1 | tee "$patch_log"; then
-		PATCH_OUTPUT=$(cat "$patch_log")
-		[ -f "$patched_apk" ] && return 0
-	fi
+	PATCH_OUTPUT=$(eval "$cmd" 2>&1)
+	local ret=$?
+	echo "$PATCH_OUTPUT"
+	if [ $ret -eq 0 ]; then [ -f "$patched_apk" ]; else
 	rm "$patched_apk" 2>/dev/null || :
 	return 1
+	fi
 }
 
 check_sig() {

@@ -23,7 +23,7 @@
 </details>
 
 ---
-### [YouTube:](https://play.google.com/store/apps/details?id=com.google.android.youtube)
+### [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
 <details>
 <summary id="YouTube">&ensp;<a href="../../releases/download/26/youtube-nvbangg-v20.44.38-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube-v20.44.38-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
@@ -197,7 +197,7 @@ Patches: ReVanced/patches-5.50.2.rvp
 </blockquote>
 
 ---
-### [YouTube Music:](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
+### [YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 
 <details>
 <summary id="YouTube-Music">&ensp;<a href="../../releases/download/26/youtube-music-nvbangg-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
@@ -284,7 +284,7 @@ Patches: ReVanced/patches-5.50.2.rvp
 </blockquote>
 
 ---
-### [Google Photos:](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
+### [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
 
 <details>
 <summary id="Google-Photos">&ensp;<a href="../../releases/download/23/google-photos-revanced-v7.66.0.876414181-arm64-v8a.apk"><img src="https://img.shields.io/badge/Google_Photos-v7.66.0.876414181-gray?labelColor=FBBC04&logo=google-photos&logoColor=white"></a></summary>
@@ -299,7 +299,7 @@ Patches: ReVanced/patches-5.50.2.rvp
 </details>
 
 ---
-### [Instagram:](https://play.google.com/store/apps/details?id=com.instagram.android)
+### [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)
 
 <details>
 <summary id="Instagram">&ensp;<a href="../../releases/download/23/instagram-revanced-v419.0.0.49.71-arm64-v8a.apk"><img src="https://img.shields.io/badge/Instagram-v419.0.0.49.71-gray?labelColor=E4405F&logo=Instagram&logoColor=white"></a></summary>
@@ -315,7 +315,7 @@ Patches: ReVanced/patches-5.50.2.rvp
 </details>
 
 ---
-### [Messenger:](https://play.google.com/store/apps/details?id=com.facebook.orca)
+### [Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca)
 
 <details>
 <summary id="Messenger">&ensp;<a href="../../releases/download/23/messenger-revanced-v551.0.0.48.62-arm64-v8a.apk"><img src="https://img.shields.io/badge/Messenger-v551.0.0.48.62-gray?labelColor=00B2FF&logo=messenger&logoColor=white"></a></summary>
@@ -333,7 +333,7 @@ Patches: ReVanced/patches-5.50.2.rvp
 </details>
 
 ---
-### [TikTok:](https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill)
+### [TikTok](https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill)
 
 <details>
 <summary id="TikTok">&ensp;<a href="../../releases/download/23/tiktok-revanced-v36.5.4-arm64-v8a.apk"><img src="https://img.shields.io/badge/TikTok-v36.5.4-gray?labelColor=252525&logo=TikTok&logoColor=white"></a></summary>
@@ -355,7 +355,7 @@ Patches: ReVanced/patches-5.50.2.rvp
 </details>
 
 ---
-### [Telegram:](https://play.google.com/store/apps/details?id=org.telegram.messenger)
+### [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 
 <details>
 <summary id="Telegram">&ensp;<a href="../../releases/download/14/telegram-aunali321-v12.4.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram-v12.4.2-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
@@ -396,7 +396,7 @@ Patches: Aunali321/patches-1.9.0.rvp
 </blockquote>
 
 ---
-### [X (Twitter):](https://play.google.com/store/apps/details?id=com.twitter.android)
+### [X (Twitter)](https://play.google.com/store/apps/details?id=com.twitter.android)
 
 <details>
 <summary id="Twitter">&ensp;<a href="../../releases/download/23/twitter-revanced-v10.86.0-release.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Twitter-v10.86.0.release.0-gray?labelColor=0F1419&logo=X&logoColor=white"></a></summary>
@@ -493,7 +493,7 @@ Patches: crimera/patches-2.0.0.rvp
 </blockquote>
 
 ---
-### [Prime Video:](https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient)
+### [Prime Video](https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient)
 
 <details>
 <summary id="Prime-Video">&ensp;<a href="../../releases/download/23/prime-video-revanced-v3.0.412.2947-arm64-v8a.apk"><img src="https://img.shields.io/badge/Prime_Video-v3.0.412.2947-gray?labelColor=00A8E1&logo=Prime-Video&logoColor=white"></a></summary>
@@ -508,7 +508,7 @@ Patches: ReVanced/patches-5.50.2.rvp
 </details>
 
 ---
-### [Disney+:](https://play.google.com/store/apps/details?id=com.disney.disneyplus)
+### [Disney+](https://play.google.com/store/apps/details?id=com.disney.disneyplus)
 
 <details>
 <summary id="Disney">&ensp;<a href="../../releases/download/23/disney-revanced-v4.20.2+rc1-2025.12.09-arm64-v8a.apk"><img src="https://img.shields.io/badge/Disney+-v4.20.2+rc1.2025.12.09-gray?labelColor=113CCF&logo=Disney%2B&logoColor=white"></a></summary>
@@ -537,7 +537,7 @@ Patches: hoo-dles/patches-1.10.1.mpp
 </details>
 
 ---
-### [Duolingo:](https://play.google.com/store/apps/details?id=com.duolingo)
+### [Duolingo](https://play.google.com/store/apps/details?id=com.duolingo)
 
 <details>
 <summary id="Duolingo">&ensp;<a href="../../releases/download/25/duolingo-hoo-dles-v6.66.5-arm64-v8a.apk"><img src="https://img.shields.io/badge/Duolingo-v6.66.5-gray?labelColor=4DC730&logo=Duolingo&logoColor=white"></a></summary>
@@ -552,7 +552,7 @@ Patches: hoo-dles/patches-1.13.0.mpp
 </details>
 
 ---
-### [Cake:](https://play.google.com/store/apps/details?id=me.mycake)
+### [Cake](https://play.google.com/store/apps/details?id=me.mycake)
 
 <details>
 <summary id="Cake">&ensp;<a href="../../releases/download/25/cake-hoo-dles-v6.4.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cake-v6.4.0-gray?labelColor=FF6B35&logo=cake&logoColor=white"></a></summary>
@@ -566,7 +566,7 @@ Patches: hoo-dles/patches-1.13.0.mpp
 </details>
 
 ---
-### [Twitch:](https://play.google.com/store/apps/details?id=tv.twitch.android.app)
+### [Twitch](https://play.google.com/store/apps/details?id=tv.twitch.android.app)
 
 <details>
 <summary id="Twitch">&ensp;<a href="../../releases/download/23/twitch-revanced-v16.9.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Twitch-v16.9.1-gray?labelColor=9146FF&logo=Twitch&logoColor=white"></a></summary>
@@ -585,7 +585,7 @@ Patches: ReVanced/patches-5.50.2.rvp
 </details>
 
 ---
-### [Reddit:](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
+### [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
 
 <details>
 <summary id="Reddit">&ensp;<a href="../../releases/download/26/reddit-morphe-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Reddit-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
@@ -609,7 +609,7 @@ Patches: MorpheApp/patches-1.18.0.mpp
 </details>
 
 ---
-### [Photomath:](https://play.google.com/store/apps/details?id=com.microblink.photomath)
+### [Photomath](https://play.google.com/store/apps/details?id=com.microblink.photomath)
 
 <details>
 <summary id="Photomath">&ensp;<a href="../../releases/download/23/photomath-revanced-v8.47.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Photomath-v8.47.0-gray?labelColor=DA2323&logo=Photomath&logoColor=white"></a></summary>
@@ -625,7 +625,7 @@ Patches: ReVanced/patches-5.50.2.rvp
 </details>
 
 ---
-### [Gboard:](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
+### [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
 
 <details>
 <summary id="Gboard">&ensp;<a href="../../releases/download/26/gboard-jkennethcarino-v16.9.1.873986071-release-arm64-v8a-arm64-v8a.apk"><img src="https://img.shields.io/badge/Gboard-v16.9.1.873986071.release.arm64.v8a-gray?labelColor=4285F4&logo=Google&logoColor=white"></a></summary>
@@ -642,7 +642,7 @@ Patches: jkennethcarino/patches-1.0.0.mpp
 </details>
 
 ---
-### [Google Recorder:](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder)
+### [Google Recorder](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder)
 
 <details>
 <summary id="Google-Recorder">&ensp;<a href="../../releases/download/23/google-recorder-revanced-v4.2.20260118.867906508-arm64-v8a.apk"><img src="https://img.shields.io/badge/Google_Recorder-v4.2.20260118.867906508-gray?labelColor=F44336&logo=recorder&logoColor=white"></a></summary>
@@ -656,7 +656,7 @@ Patches: ReVanced/patches-5.50.2.rvp
 </details>
 
 ---
-### [SoundCloud:](https://play.google.com/store/apps/details?id=com.soundcloud.android)
+### [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android)
 
 <details>
 <summary id="SoundCloud">&ensp;<a href="../../releases/download/23/soundcloud-revanced-v2025.05.27-release-arm64-v8a.apk"><img src="https://img.shields.io/badge/SoundCloud-v2025.05.27.release-gray?labelColor=FF5500&logo=SoundCloud&logoColor=white"></a></summary>
@@ -672,7 +672,7 @@ Patches: ReVanced/patches-5.50.2.rvp
 </details>
 
 ---
-### [Pandora:](https://play.google.com/store/apps/details?id=com.pandora.android)
+### [Pandora](https://play.google.com/store/apps/details?id=com.pandora.android)
 
 <details>
 <summary id="Pandora">&ensp;<a href="../../releases/download/25/pandora-hoo-dles-v2601.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Pandora-v2601.1-gray?labelColor=3668FF&logo=Pandora&logoColor=white"></a></summary>
@@ -687,7 +687,7 @@ Patches: hoo-dles/patches-1.13.0.mpp
 </details>
 
 ---
-### [Tumblr:](https://play.google.com/store/apps/details?id=com.tumblr)
+### [Tumblr](https://play.google.com/store/apps/details?id=com.tumblr)
 
 <details>
 <summary id="Tumblr">&ensp;<a href="../../releases/download/23/tumblr-revanced-v43.5.0.110-arm64-v8a.apk"><img src="https://img.shields.io/badge/Tumblr-v43.5.0.110-gray?labelColor=36465D&logo=Tumblr&logoColor=white"></a></summary>
@@ -706,7 +706,7 @@ Patches: ReVanced/patches-5.50.2.rvp
 </details>
 
 ---
-### [Cricbuzz:](https://play.google.com/store/apps/details?id=com.cricbuzz.android)
+### [Cricbuzz](https://play.google.com/store/apps/details?id=com.cricbuzz.android)
 
 <details>
 <summary id="Cricbuzz">&ensp;<a href="../../releases/download/23/cricbuzz-revanced-v6.24.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cricbuzz-v6.24.01-gray?labelColor=009270&logo=Cricbuzz&logoColor=white"></a></summary>
@@ -720,7 +720,7 @@ Patches: ReVanced/patches-5.50.2.rvp
 </details>
 
 ---
-### [MyFitnessPal:](https://play.google.com/store/apps/details?id=com.myfitnesspal.android)
+### [MyFitnessPal](https://play.google.com/store/apps/details?id=com.myfitnesspal.android)
 
 <details>
 <summary id="MyFitnessPal">&ensp;<a href="../../releases/download/25/myfitnesspal-hoo-dles-v25.50.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/MyFitnessPal-v25.50.0-gray?labelColor=0066EE&logo=MyFitnessPal&logoColor=white"></a></summary>
@@ -734,7 +734,7 @@ Patches: hoo-dles/patches-1.13.0.mpp
 </details>
 
 ---
-### [Strava:](https://play.google.com/store/apps/details?id=com.strava)
+### [Strava](https://play.google.com/store/apps/details?id=com.strava)
 
 <details>
 <summary id="Strava">&ensp;<a href="../../releases/download/23/strava-revanced-v454.13-arm64-v8a.apk"><img src="https://img.shields.io/badge/Strava-v454.13-gray?labelColor=FC4C02&logo=Strava&logoColor=white"></a></summary>
@@ -756,7 +756,7 @@ Patches: ReVanced/patches-5.50.2.rvp
 </details>
 
 ---
-### [Crunchyroll:](https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid)
+### [Crunchyroll](https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid)
 
 <details>
 <summary id="Crunchyroll">&ensp;<a href="../../releases/download/23/crunchyroll-revanced-v3.103.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Crunchyroll-v3.103.1-gray?labelColor=F47521&logo=Crunchyroll&logoColor=white"></a></summary>
