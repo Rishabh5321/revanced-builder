@@ -49,12 +49,12 @@ Patches: nvbangg/patches-1.18.0.mpp
 <blockquote>
 
 <details>
-<summary id="YouTube-Morphe">&ensp;<a href="../../releases/download/503/youtube-morphe-v20.44.38-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.44.38-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube-Morphe">&ensp;<a href="../../releases/download/504/youtube-morphe-v20.44.38-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.44.38-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-15<br>
-Patches: MorpheApp/patches-1.18.0.mpp
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.18.0)
+Patch date: 2026-03-16<br>
+Patches: MorpheApp/patches-1.19.0.mpp
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.19.0)
 - Alternative thumbnails
 - Ambient mode
 - Bypass URL redirects
@@ -69,11 +69,11 @@ Patches: MorpheApp/patches-1.18.0.mpp
 - Custom player overlay opacity
 - Disable DRC audio
 - Disable QUIC protocol
+- Disable Shorts resuming on startup
 - Disable double tap actions
 - Disable haptic feedback
 - Disable layout updates
 - Disable player popup panels
-- Disable resuming Shorts on startup
 - Disable rolling number animations
 - Disable sign in to TV popup
 - Disable video codecs
@@ -218,12 +218,12 @@ Patches: nvbangg/patches-1.18.0.mpp
 <blockquote>
 
 <details>
-<summary id="YouTube-Music-Morphe">&ensp;<a href="../../releases/download/503/youtube-music-morphe-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music_Morphe-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music-Morphe">&ensp;<a href="../../releases/download/504/youtube-music-morphe-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music_Morphe-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-15<br>
-Patches: MorpheApp/patches-1.18.0.mpp
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.18.0)
+Patch date: 2026-03-16<br>
+Patches: MorpheApp/patches-1.19.0.mpp
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.19.0)
 - Bypass certificate checks
 - Change header
 - Change miniplayer color
