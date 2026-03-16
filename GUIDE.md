@@ -45,3 +45,4 @@
 - MyFitnessPal: `myfitnesspal`
 - Strava: `strava`
 - Crunchyroll: `crunchyroll`
+- Wallcraft: `wallcraft`

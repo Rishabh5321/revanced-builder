@@ -20,8 +20,14 @@ jobs:
 
       - name: Check upstream commits
         id: check
+        env:
+          GH_TOKEN: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
         run: |
-          git remote add upstream https://github.com/j-hc/revanced-magisk-module
+          UPSTREAM_REPO=$(gh api repos/${{ github.repository }} --jq '.parent.full_name // .template_repository.full_name' 2>/dev/null || echo "")
+          if [ "$UPSTREAM_REPO" = "null" ] || [ -z "$UPSTREAM_REPO" ]; then
+            UPSTREAM_REPO="j-hc/revanced-magisk-module"
+          fi
+          git remote add upstream "https://github.com/$UPSTREAM_REPO"
           git fetch --no-tags upstream refs/heads/main:refs/remotes/upstream/main
           git fetch --no-tags origin refs/heads/main:refs/remotes/origin/main
 
@@ -43,7 +49,7 @@ jobs:
           if ! git merge upstream/main --no-ff --no-commit > /dev/null 2>&1; then
             CONFLICT_FILES=$(git diff --name-only --diff-filter=U)
             if echo "$CONFLICT_FILES" | grep -Ev '^(README\.md|config\.toml)$' > /dev/null; then
-              echo "::error::Conflict detected. Resolve conflicts before merging"
+              echo "::error::Unresolved conflicts detected from upstream"
               exit 1
             fi
 

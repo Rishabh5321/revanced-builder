@@ -770,6 +770,17 @@ Patches: ReVanced/patches-5.50.2.rvp
 </details>
 
 ---
+### [Wallcraft](https://play.google.com/store/apps/details?id=com.wallpaperscraft.wallpaper)
+
+<details>
+<summary id="Wallcraft">&ensp;<a href="../../releases/download/0/wallcraft-v1.0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Wallcraft-v1.0.0-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
+<blockquote>
+
+- 
+</blockquote>
+</details>
+
+---
 
 ## 🙏 Credits
 - Patches used in this repository:
