@@ -58,9 +58,5 @@ jobs:
           fi
 
           git checkout HEAD -- README.md config.toml 2>/dev/null || true
-
-      - name: Commit merge
-        if: steps.check.outputs.HAS_CHANGES == 'true'
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Merge remote-tracking branch 'upstream/main'"
+          git commit -m "Merge remote-tracking branch 'upstream/main'"
+          git push origin main

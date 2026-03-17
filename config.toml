@@ -8,7 +8,7 @@ cli-source = "MorpheApp/morphe-cli"
 rv-brand = "nvbangg"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 exclusive-patches = true
-included-patches = "'Bypass URL redirects' 'Disable resuming Shorts on startup' 'Downloads' 'Hide Shorts components' 'Hide ads' 'Open links externally' 'Override YouTube Music actions' 'Playback speed' 'Remove background playback restrictions' 'Sanitize sharing links' 'Shorts autoplay' 'SponsorBlock' 'Swipe controls' 'Video ads' 'Video quality'"
+included-patches = "'Bypass URL redirects' 'Disable Shorts resuming on startup' 'Downloads' 'Hide Shorts components' 'Hide ads' 'Open links externally' 'Override YouTube Music actions' 'Playback speed' 'Remove background playback restrictions' 'Sanitize sharing links' 'Shorts autoplay' 'SponsorBlock' 'Swipe controls' 'Video ads' 'Video quality'"
 
 [YouTube-Morphe]
 patches-source = "MorpheApp/morphe-patches"

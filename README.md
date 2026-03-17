@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > Automated APK builds and README updates for Morphe, ReVanced & many other patches after each release      
-> ⬇️ Easily install and update apps with [**Obtainium**](https://github.com/ImranR98/Obtainium/releases): [See Guide](GUIDE.md)
+> ⬇️ Easily install and update apps with [Obtainium](https://github.com/ImranR98/Obtainium/releases): [See Guide](GUIDE.md)
 
 <div align="center">
 
