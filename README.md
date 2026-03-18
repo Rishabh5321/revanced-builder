@@ -127,12 +127,12 @@ Patches: MorpheApp/patches-1.19.0.mpp
 </details>
 
 <details>
-<summary id="YouTube-ReVanced">&ensp;<a href="../../releases/download/505/youtube-revanced-v20.40.45-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_ReVanced-v20.40.45-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube-ReVanced">&ensp;<a href="../../releases/download/506/youtube-revanced-v20.40.45-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_ReVanced-v20.40.45-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-17<br>
-Patches: ReVanced/patches-6.0.1.rvp
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.0.1)
+Patch date: 2026-03-18<br>
+Patches: ReVanced/patches-6.1.0.rvp
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.1.0)
 - Add more double tap to seek length options
 - Alternative thumbnails
 - Announcements
@@ -256,12 +256,12 @@ Patches: MorpheApp/patches-1.19.0.mpp
 </details>
 
 <details>
-<summary id="YouTube-Music-ReVanced">&ensp;<a href="../../releases/download/505/youtube-music-revanced-v8.40.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music_ReVanced-v8.40.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music-ReVanced">&ensp;<a href="../../releases/download/506/youtube-music-revanced-v8.40.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music_ReVanced-v8.40.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-17<br>
-Patches: ReVanced/patches-6.0.1.rvp
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.0.1)
+Patch date: 2026-03-18<br>
+Patches: ReVanced/patches-6.1.0.rvp
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.1.0)
 - Change miniplayer color
 - Check watch history domain name resolution
 - Enable debugging
@@ -289,12 +289,12 @@ Patches: ReVanced/patches-6.0.1.rvp
 ### [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
 
 <details>
-<summary id="Google-Photos">&ensp;<a href="../../releases/download/505/google-photos-revanced-v7.67.0.882706237-arm64-v8a.apk"><img src="https://img.shields.io/badge/Google_Photos-v7.67.0.882706237-gray?labelColor=FBBC04&logo=google-photos&logoColor=white"></a></summary>
+<summary id="Google-Photos">&ensp;<a href="../../releases/download/506/google-photos-revanced-v7.68.0.884121604-arm64-v8a.apk"><img src="https://img.shields.io/badge/Google_Photos-v7.68.0.884121604-gray?labelColor=FBBC04&logo=google-photos&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-17<br>
-Patches: ReVanced/patches-6.0.1.rvp
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.0.1)
+Patch date: 2026-03-18<br>
+Patches: ReVanced/patches-6.1.0.rvp
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.1.0)
 - GmsCore support
 - Spoof features
 </blockquote>
@@ -401,12 +401,12 @@ Patches: Aunali321/patches-1.9.0.rvp
 ### [X (Twitter)](https://play.google.com/store/apps/details?id=com.twitter.android)
 
 <details>
-<summary id="Twitter">&ensp;<a href="../../releases/download/505/twitter-revanced-v10.86.0-release.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Twitter-v10.86.0.release.0-gray?labelColor=0F1419&logo=X&logoColor=white"></a></summary>
+<summary id="Twitter">&ensp;<a href="../../releases/download/506/twitter-revanced-v10.86.0-release.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Twitter-v10.86.0.release.0-gray?labelColor=0F1419&logo=X&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-17<br>
-Patches: ReVanced/patches-6.0.1.rvp
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.0.1)
+Patch date: 2026-03-18<br>
+Patches: ReVanced/patches-6.1.0.rvp
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.1.0)
 - Dynamic color
 - Hide ads
 - Hide recommended users
@@ -590,12 +590,12 @@ Patches: ReVanced/patches-6.0.1.rvp
 ### [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
 
 <details>
-<summary id="Reddit">&ensp;<a href="../../releases/download/505/reddit-revanced-v2026.11.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Reddit-v2026.11.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
+<summary id="Reddit">&ensp;<a href="../../releases/download/506/reddit-revanced-v2026.11.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Reddit-v2026.11.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-17<br>
-Patches: ReVanced/patches-6.0.1.rvp
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.0.1)
+Patch date: 2026-03-18<br>
+Patches: ReVanced/patches-6.1.0.rvp
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.1.0)
 - Unlock Premium icons
 </blockquote>
 </details>
@@ -701,12 +701,12 @@ Patches: ReVanced/patches-6.0.1.rvp
 ### [Cricbuzz](https://play.google.com/store/apps/details?id=com.cricbuzz.android)
 
 <details>
-<summary id="Cricbuzz">&ensp;<a href="../../releases/download/505/cricbuzz-revanced-v6.24.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cricbuzz-v6.24.01-gray?labelColor=009270&logo=Cricbuzz&logoColor=white"></a></summary>
+<summary id="Cricbuzz">&ensp;<a href="../../releases/download/506/cricbuzz-revanced-v6.24.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cricbuzz-v6.24.01-gray?labelColor=009270&logo=Cricbuzz&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-17<br>
-Patches: ReVanced/patches-6.0.1.rvp
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.0.1)
+Patch date: 2026-03-18<br>
+Patches: ReVanced/patches-6.1.0.rvp
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.1.0)
 - Hide ads
 </blockquote>
 </details>
@@ -764,12 +764,12 @@ Patches: ReVanced/patches-6.0.1.rvp
 ### [Wallcraft](https://play.google.com/store/apps/details?id=com.wallpaperscraft.wallpaper)
 
 <details>
-<summary id="Wallcraft">&ensp;<a href="../../releases/download/505/wallcraft-hoo-dles-v3.61.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
+<summary id="Wallcraft">&ensp;<a href="../../releases/download/506/wallcraft-hoo-dles-v3.61.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-17<br>
-Patches: hoo-dles/patches-1.13.0.mpp
-[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.13.0)
+Patch date: 2026-03-18<br>
+Patches: hoo-dles/patches-1.14.0.mpp
+[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.14.0)
 - Enable Premium
 </blockquote>
 </details>
