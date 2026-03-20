@@ -54,12 +54,12 @@ Patches: MorpheApp/patches-1.19.0.mpp
 <blockquote>
 
 <details>
-<summary id="YouTube-Morphe">&ensp;<a href="../../releases/download/507/youtube-morphe-v20.44.38-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.44.38-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube-Morphe">&ensp;<a href="../../releases/download/508/youtube-morphe-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-19<br>
-Patches: MorpheApp/patches-1.19.0.mpp
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.19.0)
+Patch date: 2026-03-20<br>
+Patches: MorpheApp/patches-1.20.0.mpp
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.20.0)
 - Alternative thumbnails
 - Ambient mode
 - Bypass URL redirects
@@ -123,6 +123,7 @@ Patches: MorpheApp/patches-1.19.0.mpp
 - Theme
 - Video ads
 - Video quality
+- Reload video
 </blockquote>
 </details>
 
@@ -224,12 +225,12 @@ Patches: MorpheApp/patches-1.19.0.mpp
 <blockquote>
 
 <details>
-<summary id="YouTube-Music-Morphe">&ensp;<a href="../../releases/download/507/youtube-music-morphe-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music_Morphe-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music-Morphe">&ensp;<a href="../../releases/download/508/youtube-music-morphe-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music_Morphe-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-19<br>
-Patches: MorpheApp/patches-1.19.0.mpp
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.19.0)
+Patch date: 2026-03-20<br>
+Patches: MorpheApp/patches-1.20.0.mpp
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.20.0)
 - Bypass certificate checks
 - Change header
 - Change miniplayer color
@@ -247,6 +248,7 @@ Patches: MorpheApp/patches-1.19.0.mpp
 - Hide buttons
 - Hide category bar
 - Hide music video ads
+- Miniplayer previous and next buttons
 - Navigation bar
 - Permanent repeat
 - Remove background playback restrictions
