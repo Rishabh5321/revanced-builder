@@ -27,12 +27,11 @@
 ### [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
 <details>
-<summary id="YouTube">&ensp;<a href="../../releases/download/30/youtube-nvbangg-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube">&ensp;<a href="../../releases/download/31/youtube-nvbangg-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-20<br>
+[Release 2026-03-20](../../releases/tag/31)<br>
 Patches: MorpheApp/patches-1.20.0.mpp
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.20.0)
 - Bypass URL redirects
 - Disable Shorts resuming on startup
 - Downloads
@@ -56,12 +55,11 @@ Patches: MorpheApp/patches-1.20.0.mpp
 <blockquote>
 
 <details>
-<summary id="YouTube-Morphe">&ensp;<a href="../../releases/download/30/youtube-morphe-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube-Morphe">&ensp;<a href="../../releases/download/31/youtube-morphe-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-20<br>
+[Release 2026-03-20](../../releases/tag/31)<br>
 Patches: MorpheApp/patches-1.20.0.mpp
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.20.0)
 - Alternative thumbnails
 - Ambient mode
 - Bypass URL redirects
@@ -130,12 +128,11 @@ Patches: MorpheApp/patches-1.20.0.mpp
 </details>
 
 <details>
-<summary id="YouTube-ReVanced">&ensp;<a href="../../releases/download/29/youtube-revanced-v20.40.45-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_ReVanced-v20.40.45-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube-ReVanced">&ensp;<a href="../../releases/download/31/youtube-revanced-v20.40.45-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_ReVanced-v20.40.45-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-18<br>
+[Release 2026-03-20](../../releases/tag/31)<br>
 Patches: ReVanced/patches-6.1.0.rvp
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.1.0)
 - Add more double tap to seek length options
 - Alternative thumbnails
 - Announcements
@@ -205,12 +202,11 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 
 <details>
-<summary id="YouTube-Music">&ensp;<a href="../../releases/download/30/youtube-music-nvbangg-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music">&ensp;<a href="../../releases/download/31/youtube-music-nvbangg-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-20<br>
+[Release 2026-03-20](../../releases/tag/31)<br>
 Patches: MorpheApp/patches-1.20.0.mpp
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.20.0)
 - Bypass certificate checks
 - Enable exclusive audio playback
 - GmsCore support
@@ -227,12 +223,11 @@ Patches: MorpheApp/patches-1.20.0.mpp
 <blockquote>
 
 <details>
-<summary id="YouTube-Music-Morphe">&ensp;<a href="../../releases/download/30/youtube-music-morphe-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music_Morphe-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music-Morphe">&ensp;<a href="../../releases/download/31/youtube-music-morphe-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music_Morphe-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-20<br>
+[Release 2026-03-20](../../releases/tag/31)<br>
 Patches: MorpheApp/patches-1.20.0.mpp
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.20.0)
 - Bypass certificate checks
 - Change header
 - Change miniplayer color
@@ -260,12 +255,11 @@ Patches: MorpheApp/patches-1.20.0.mpp
 </details>
 
 <details>
-<summary id="YouTube-Music-ReVanced">&ensp;<a href="../../releases/download/29/youtube-music-revanced-v8.40.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music_ReVanced-v8.40.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music-ReVanced">&ensp;<a href="../../releases/download/31/youtube-music-revanced-v8.40.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music_ReVanced-v8.40.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-18<br>
+[Release 2026-03-20](../../releases/tag/31)<br>
 Patches: ReVanced/patches-6.1.0.rvp
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.1.0)
 - Change miniplayer color
 - Check watch history domain name resolution
 - Enable debugging
@@ -293,12 +287,11 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
 
 <details>
-<summary id="Google-Photos">&ensp;<a href="../../releases/download/29/google-photos-revanced-v7.68.0.884121604-arm64-v8a.apk"><img src="https://img.shields.io/badge/Google_Photos-v7.68.0.884121604-gray?labelColor=FBBC04&logo=google-photos&logoColor=white"></a></summary>
+<summary id="Google-Photos">&ensp;<a href="../../releases/download/31/google-photos-revanced-v7.68.0.884121604-arm64-v8a.apk"><img src="https://img.shields.io/badge/Google_Photos-v7.68.0.884121604-gray?labelColor=FBBC04&logo=google-photos&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-18<br>
+[Release 2026-03-20](../../releases/tag/31)<br>
 Patches: ReVanced/patches-6.1.0.rvp
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.1.0)
 - GmsCore support
 - Spoof features
 </blockquote>
@@ -308,15 +301,13 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)
 
 <details>
-<summary id="Instagram">&ensp;<a href="../../releases/download/27/instagram-revanced-v420.0.0.55.74-arm64-v8a.apk"><img src="https://img.shields.io/badge/Instagram-v420.0.0.55.74-gray?labelColor=E4405F&logo=Instagram&logoColor=white"></a></summary>
+<summary id="Instagram">&ensp;<a href="../../releases/download/31/instagram-revanced-v422.0.0.15.64-arm64-v8a.apk"><img src="https://img.shields.io/badge/Instagram-v422.0.0.15.64-gray?labelColor=E4405F&logo=Instagram&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-16<br>
-Patches: ReVanced/patches-6.0.1.rvp
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.0.1)
+[Release 2026-03-20](../../releases/tag/31)<br>
+Patches: ReVanced/patches-6.1.0.rvp
 - Disable analytics
 - Hide ads
-- Remove build expired popup
 - Sanitize sharing links
 </blockquote>
 </details>
@@ -325,12 +316,11 @@ Patches: ReVanced/patches-6.0.1.rvp
 ### [Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca)
 
 <details>
-<summary id="Messenger">&ensp;<a href="../../releases/download/29/messenger-revanced-v552.0.0.44.65-arm64-v8a.apk"><img src="https://img.shields.io/badge/Messenger-v552.0.0.44.65-gray?labelColor=00B2FF&logo=messenger&logoColor=white"></a></summary>
+<summary id="Messenger">&ensp;<a href="../../releases/download/31/messenger-revanced-v552.0.0.44.65-arm64-v8a.apk"><img src="https://img.shields.io/badge/Messenger-v552.0.0.44.65-gray?labelColor=00B2FF&logo=messenger&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-18<br>
+[Release 2026-03-20](../../releases/tag/31)<br>
 Patches: ReVanced/patches-6.1.0.rvp
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.1.0)
 - Hide Facebook button
 - Hide inbox ads
 - Hide inbox subtabs
@@ -364,12 +354,11 @@ Patches: ReVanced/patches-5.50.2.rvp
 ### [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 
 <details>
-<summary id="Telegram">&ensp;<a href="../../releases/download/14/telegram-aunali321-v12.4.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram-v12.4.2-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
+<summary id="Telegram">&ensp;<a href="../../releases/download/31/telegram-aunali321-v12.5.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram-v12.5.2-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-02-27<br>
-Patches: Aunali321/patches-1.9.0.rvp
-[Changelog](https://github.com/Aunali321/ReVancedExperiments/releases/tag/v1.9.0)
+[Release 2026-03-20](../../releases/tag/31)<br>
+Patches: Aunali321/patches-2.0.0-dev.1.rvp
 - Bypass Integrity
 - Disable Auto Update
 - Download Speed Boost
@@ -384,12 +373,11 @@ Patches: Aunali321/patches-1.9.0.rvp
 <blockquote>
 
 <details>
-<summary id="Telegram-Web">&ensp;<a href="../../releases/download/14/telegram-web-aunali321-v12.4.3-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram_Web-v12.4.3-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
+<summary id="Telegram-Web">&ensp;<a href="../../releases/download/31/telegram-web-aunali321-v12.5.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram_Web-v12.5.2-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-02-27<br>
-Patches: Aunali321/patches-1.9.0.rvp
-[Changelog](https://github.com/Aunali321/ReVancedExperiments/releases/tag/v1.9.0)
+[Release 2026-03-20](../../releases/tag/31)<br>
+Patches: Aunali321/patches-2.0.0-dev.1.rvp
 - Bypass Integrity
 - Disable Auto Update
 - Download Speed Boost
@@ -405,17 +393,15 @@ Patches: Aunali321/patches-1.9.0.rvp
 ### [X (Twitter)](https://play.google.com/store/apps/details?id=com.twitter.android)
 
 <details>
-<summary id="Twitter">&ensp;<a href="../../releases/download/29/twitter-revanced-v10.86.0-release.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Twitter-v10.86.0.release.0-gray?labelColor=0F1419&logo=X&logoColor=white"></a></summary>
+<summary id="Twitter">&ensp;<a href="../../releases/download/31/twitter-revanced-v10.86.0-release.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Twitter-v10.86.0.release.0-gray?labelColor=0F1419&logo=X&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-18<br>
+[Release 2026-03-20](../../releases/tag/31)<br>
 Patches: ReVanced/patches-6.1.0.rvp
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.1.0)
 - Dynamic color
 - Hide ads
 - Hide recommended users
 - Sanitize sharing links
-- Unlock downloads
 </blockquote>
 </details>
 
@@ -502,12 +488,11 @@ Patches: crimera/patches-2.0.0.rvp
 ### [Prime Video](https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient)
 
 <details>
-<summary id="Prime-Video">&ensp;<a href="../../releases/download/29/prime-video-revanced-v3.0.412.2947-arm64-v8a.apk"><img src="https://img.shields.io/badge/Prime_Video-v3.0.412.2947-gray?labelColor=00A8E1&logo=Prime-Video&logoColor=white"></a></summary>
+<summary id="Prime-Video">&ensp;<a href="../../releases/download/31/prime-video-revanced-v3.0.412.2947-arm64-v8a.apk"><img src="https://img.shields.io/badge/Prime_Video-v3.0.412.2947-gray?labelColor=00A8E1&logo=Prime-Video&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-18<br>
+[Release 2026-03-20](../../releases/tag/31)<br>
 Patches: ReVanced/patches-6.1.0.rvp
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.1.0)
 - Playback speed
 - Skip ads
 </blockquote>
@@ -517,12 +502,11 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Disney+](https://play.google.com/store/apps/details?id=com.disney.disneyplus)
 
 <details>
-<summary id="Disney">&ensp;<a href="../../releases/download/29/disney-revanced-v4.20.2+rc1-2025.12.09-arm64-v8a.apk"><img src="https://img.shields.io/badge/Disney+-v4.20.2+rc1.2025.12.09-gray?labelColor=113CCF&logo=Disney%2B&logoColor=white"></a></summary>
+<summary id="Disney">&ensp;<a href="../../releases/download/31/disney-revanced-v4.20.2+rc1-2025.12.09-arm64-v8a.apk"><img src="https://img.shields.io/badge/Disney+-v4.20.2+rc1.2025.12.09-gray?labelColor=113CCF&logo=Disney%2B&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-18<br>
+[Release 2026-03-20](../../releases/tag/31)<br>
 Patches: ReVanced/patches-6.1.0.rvp
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.1.0)
 - Skip ads
 </blockquote>
 </details>
@@ -531,12 +515,11 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [WPS Office](https://play.google.com/store/apps/details?id=cn.wps.moffice_eng)
 
 <details>
-<summary id="WPS-Office">&ensp;<a href="../../releases/download/29/wps-office-hoo-dles-v18.12.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/WPS_Office-v18.12.1-gray?labelColor=C03426&logo=wpsoffice&logoColor=white"></a></summary>
+<summary id="WPS-Office">&ensp;<a href="../../releases/download/31/wps-office-hoo-dles-v18.12.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/WPS_Office-v18.12.1-gray?labelColor=C03426&logo=wpsoffice&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-18<br>
+[Release 2026-03-20](../../releases/tag/31)<br>
 Patches: hoo-dles/patches-1.14.0.mpp
-[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.14.0)
 - Disable anti-tamper
 - Enable Pro
 </blockquote>
@@ -546,12 +529,11 @@ Patches: hoo-dles/patches-1.14.0.mpp
 ### [Duolingo](https://play.google.com/store/apps/details?id=com.duolingo)
 
 <details>
-<summary id="Duolingo">&ensp;<a href="../../releases/download/29/duolingo-hoo-dles-v6.66.5-arm64-v8a.apk"><img src="https://img.shields.io/badge/Duolingo-v6.66.5-gray?labelColor=4DC730&logo=Duolingo&logoColor=white"></a></summary>
+<summary id="Duolingo">&ensp;<a href="../../releases/download/31/duolingo-hoo-dles-v6.66.5-arm64-v8a.apk"><img src="https://img.shields.io/badge/Duolingo-v6.66.5-gray?labelColor=4DC730&logo=Duolingo&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-18<br>
+[Release 2026-03-20](../../releases/tag/31)<br>
 Patches: hoo-dles/patches-1.14.0.mpp
-[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.14.0)
 - Disable Login Integrity
 - Enable Premium
 </blockquote>
@@ -561,12 +543,11 @@ Patches: hoo-dles/patches-1.14.0.mpp
 ### [Cake](https://play.google.com/store/apps/details?id=me.mycake)
 
 <details>
-<summary id="Cake">&ensp;<a href="../../releases/download/29/cake-hoo-dles-v6.4.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cake-v6.4.0-gray?labelColor=FF6B35&logo=cake&logoColor=white"></a></summary>
+<summary id="Cake">&ensp;<a href="../../releases/download/31/cake-hoo-dles-v6.4.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cake-v6.4.0-gray?labelColor=FF6B35&logo=cake&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-18<br>
+[Release 2026-03-20](../../releases/tag/31)<br>
 Patches: hoo-dles/patches-1.14.0.mpp
-[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.14.0)
 - Enable Plus
 </blockquote>
 </details>
@@ -575,12 +556,11 @@ Patches: hoo-dles/patches-1.14.0.mpp
 ### [Twitch](https://play.google.com/store/apps/details?id=tv.twitch.android.app)
 
 <details>
-<summary id="Twitch">&ensp;<a href="../../releases/download/29/twitch-revanced-v16.9.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Twitch-v16.9.1-gray?labelColor=9146FF&logo=Twitch&logoColor=white"></a></summary>
+<summary id="Twitch">&ensp;<a href="../../releases/download/31/twitch-revanced-v16.9.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Twitch-v16.9.1-gray?labelColor=9146FF&logo=Twitch&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-18<br>
+[Release 2026-03-20](../../releases/tag/31)<br>
 Patches: ReVanced/patches-6.1.0.rvp
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.1.0)
 - Auto claim channel points
 - Block audio ads
 - Block embedded ads
@@ -594,12 +574,11 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
 
 <details>
-<summary id="Reddit">&ensp;<a href="../../releases/download/30/reddit-morphe-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Reddit-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
+<summary id="Reddit">&ensp;<a href="../../releases/download/31/reddit-morphe-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Reddit-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-20<br>
+[Release 2026-03-20](../../releases/tag/31)<br>
 Patches: MorpheApp/patches-1.20.0.mpp
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.20.0)
 - Disable modern home
 - Disable screenshot popup
 - Hide Trending Today shelf
@@ -619,12 +598,11 @@ Patches: MorpheApp/patches-1.20.0.mpp
 ### [Photomath](https://play.google.com/store/apps/details?id=com.microblink.photomath)
 
 <details>
-<summary id="Photomath">&ensp;<a href="../../releases/download/29/photomath-revanced-v8.47.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Photomath-v8.47.0-gray?labelColor=DA2323&logo=Photomath&logoColor=white"></a></summary>
+<summary id="Photomath">&ensp;<a href="../../releases/download/31/photomath-revanced-v8.47.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Photomath-v8.47.1-gray?labelColor=DA2323&logo=Photomath&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-18<br>
+[Release 2026-03-20](../../releases/tag/31)<br>
 Patches: ReVanced/patches-6.1.0.rvp
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.1.0)
 - Hide update popup
 - Spoof device ID
 - Unlock plus
@@ -635,12 +613,11 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
 
 <details>
-<summary id="Gboard">&ensp;<a href="../../releases/download/26/gboard-jkennethcarino-v16.9.1.873986071-release-arm64-v8a-arm64-v8a.apk"><img src="https://img.shields.io/badge/Gboard-v16.9.1.873986071.release.arm64.v8a-gray?labelColor=4285F4&logo=Google&logoColor=white"></a></summary>
+<summary id="Gboard">&ensp;<a href="../../releases/download/31/gboard-jkennethcarino-v16.9.1.873986071-release-arm64-v8a-arm64-v8a.apk"><img src="https://img.shields.io/badge/Gboard-v16.9.1.873986071.release.arm64.v8a-gray?labelColor=4285F4&logo=Google&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-14<br>
+[Release 2026-03-20](../../releases/tag/31)<br>
 Patches: jkennethcarino/patches-1.0.0.mpp
-[Changelog](https://github.com/jkennethcarino/adobo/releases/tag/v1.0.0)
 - Always-incognito mode
 - Enable OCR feature
 - Enable Undo feature
@@ -652,12 +629,11 @@ Patches: jkennethcarino/patches-1.0.0.mpp
 ### [Google Recorder](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder)
 
 <details>
-<summary id="Google-Recorder">&ensp;<a href="../../releases/download/29/google-recorder-revanced-v4.2.20260118.867906508-arm64-v8a.apk"><img src="https://img.shields.io/badge/Google_Recorder-v4.2.20260118.867906508-gray?labelColor=F44336&logo=recorder&logoColor=white"></a></summary>
+<summary id="Google-Recorder">&ensp;<a href="../../releases/download/31/google-recorder-revanced-v4.2.20260118.867906508-arm64-v8a.apk"><img src="https://img.shields.io/badge/Google_Recorder-v4.2.20260118.867906508-gray?labelColor=F44336&logo=recorder&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-18<br>
+[Release 2026-03-20](../../releases/tag/31)<br>
 Patches: ReVanced/patches-6.1.0.rvp
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.1.0)
 - Remove device restrictions
 </blockquote>
 </details>
@@ -666,12 +642,11 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android)
 
 <details>
-<summary id="SoundCloud">&ensp;<a href="../../releases/download/29/soundcloud-revanced-v2025.05.27-release-arm64-v8a.apk"><img src="https://img.shields.io/badge/SoundCloud-v2025.05.27.release-gray?labelColor=FF5500&logo=SoundCloud&logoColor=white"></a></summary>
+<summary id="SoundCloud">&ensp;<a href="../../releases/download/31/soundcloud-revanced-v2025.05.27-release-arm64-v8a.apk"><img src="https://img.shields.io/badge/SoundCloud-v2025.05.27.release-gray?labelColor=FF5500&logo=SoundCloud&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-18<br>
+[Release 2026-03-20](../../releases/tag/31)<br>
 Patches: ReVanced/patches-6.1.0.rvp
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.1.0)
 - Disable telemetry
 - Enable offline sync
 - Hide ads
@@ -682,12 +657,11 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Pandora](https://play.google.com/store/apps/details?id=com.pandora.android)
 
 <details>
-<summary id="Pandora">&ensp;<a href="../../releases/download/29/pandora-hoo-dles-v2601.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Pandora-v2601.1-gray?labelColor=3668FF&logo=Pandora&logoColor=white"></a></summary>
+<summary id="Pandora">&ensp;<a href="../../releases/download/31/pandora-hoo-dles-v2601.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Pandora-v2601.1-gray?labelColor=3668FF&logo=Pandora&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-18<br>
+[Release 2026-03-20](../../releases/tag/31)<br>
 Patches: hoo-dles/patches-1.14.0.mpp
-[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.14.0)
 - Disable ads
 - Unlimited skips
 </blockquote>
@@ -697,12 +671,11 @@ Patches: hoo-dles/patches-1.14.0.mpp
 ### [Tumblr](https://play.google.com/store/apps/details?id=com.tumblr)
 
 <details>
-<summary id="Tumblr">&ensp;<a href="../../releases/download/29/tumblr-revanced-v43.7.0.109-arm64-v8a.apk"><img src="https://img.shields.io/badge/Tumblr-v43.7.0.109-gray?labelColor=36465D&logo=Tumblr&logoColor=white"></a></summary>
+<summary id="Tumblr">&ensp;<a href="../../releases/download/31/tumblr-revanced-v43.7.0.109-arm64-v8a.apk"><img src="https://img.shields.io/badge/Tumblr-v43.7.0.109-gray?labelColor=36465D&logo=Tumblr&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-18<br>
+[Release 2026-03-20](../../releases/tag/31)<br>
 Patches: ReVanced/patches-6.1.0.rvp
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.1.0)
 - Disable Ad-Free Banner
 - Disable Tumblr TV
 - Disable blog notification reminder
@@ -716,12 +689,11 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Cricbuzz](https://play.google.com/store/apps/details?id=com.cricbuzz.android)
 
 <details>
-<summary id="Cricbuzz">&ensp;<a href="../../releases/download/29/cricbuzz-revanced-v6.24.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cricbuzz-v6.24.01-gray?labelColor=009270&logo=Cricbuzz&logoColor=white"></a></summary>
+<summary id="Cricbuzz">&ensp;<a href="../../releases/download/31/cricbuzz-revanced-v6.24.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cricbuzz-v6.24.01-gray?labelColor=009270&logo=Cricbuzz&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-18<br>
+[Release 2026-03-20](../../releases/tag/31)<br>
 Patches: ReVanced/patches-6.1.0.rvp
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.1.0)
 - Hide ads
 </blockquote>
 </details>
@@ -730,12 +702,11 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [MyFitnessPal](https://play.google.com/store/apps/details?id=com.myfitnesspal.android)
 
 <details>
-<summary id="MyFitnessPal">&ensp;<a href="../../releases/download/29/myfitnesspal-hoo-dles-v25.50.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/MyFitnessPal-v25.50.0-gray?labelColor=0066EE&logo=MyFitnessPal&logoColor=white"></a></summary>
+<summary id="MyFitnessPal">&ensp;<a href="../../releases/download/31/myfitnesspal-hoo-dles-v25.50.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/MyFitnessPal-v25.50.0-gray?labelColor=0066EE&logo=MyFitnessPal&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-18<br>
+[Release 2026-03-20](../../releases/tag/31)<br>
 Patches: hoo-dles/patches-1.14.0.mpp
-[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.14.0)
 - Enable Premium+
 </blockquote>
 </details>
@@ -744,12 +715,11 @@ Patches: hoo-dles/patches-1.14.0.mpp
 ### [Strava](https://play.google.com/store/apps/details?id=com.strava)
 
 <details>
-<summary id="Strava">&ensp;<a href="../../releases/download/29/strava-revanced-v455.11-arm64-v8a.apk"><img src="https://img.shields.io/badge/Strava-v455.11-gray?labelColor=FC4C02&logo=Strava&logoColor=white"></a></summary>
+<summary id="Strava">&ensp;<a href="../../releases/download/31/strava-revanced-v455.11-arm64-v8a.apk"><img src="https://img.shields.io/badge/Strava-v455.11-gray?labelColor=FC4C02&logo=Strava&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-18<br>
+[Release 2026-03-20](../../releases/tag/31)<br>
 Patches: ReVanced/patches-6.1.0.rvp
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.1.0)
 - Add 'Give Kudos' button to 'Group Activity'
 - Add media download
 - Block Snowplow tracking
@@ -765,12 +735,11 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Crunchyroll](https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid)
 
 <details>
-<summary id="Crunchyroll">&ensp;<a href="../../releases/download/29/crunchyroll-revanced-v3.104.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Crunchyroll-v3.104.0-gray?labelColor=F47521&logo=Crunchyroll&logoColor=white"></a></summary>
+<summary id="Crunchyroll">&ensp;<a href="../../releases/download/31/crunchyroll-revanced-v3.104.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Crunchyroll-v3.104.0-gray?labelColor=F47521&logo=Crunchyroll&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-18<br>
+[Release 2026-03-20](../../releases/tag/31)<br>
 Patches: ReVanced/patches-6.1.0.rvp
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.1.0)
 - Hide ads
 </blockquote>
 </details>
@@ -779,12 +748,11 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Wallcraft](https://play.google.com/store/apps/details?id=com.wallpaperscraft.wallpaper)
 
 <details>
-<summary id="Wallcraft">&ensp;<a href="../../releases/download/29/wallcraft-hoo-dles-v3.61.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
+<summary id="Wallcraft">&ensp;<a href="../../releases/download/31/wallcraft-hoo-dles-v3.61.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-18<br>
+[Release 2026-03-20](../../releases/tag/31)<br>
 Patches: hoo-dles/patches-1.14.0.mpp
-[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.14.0)
 - Enable Premium
 </blockquote>
 </details>
