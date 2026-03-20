@@ -1,12 +1,13 @@
-# Patches APK Builder
+# ReVanced Morphe Builder
 
 > [!NOTE]
-> Automated APK builds and README updates for Morphe, ReVanced & many other patches after each release      
-> ⬇️ Easily install and update apps with [Obtainium](https://github.com/ImranR98/Obtainium/releases): [See Guide](GUIDE.md)
+> Automated builds and app info updates for ReVanced, Morphe & many other patches. Updated daily.   
+> ⬇️ Easily install and update apps (APK) with [Obtainium](https://github.com/ImranR98/Obtainium/releases): [See Guide](GUIDE.md)    
+> 📦 Root modules (.zip) are available in each app's release link
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/nvbangg/Patches-APK-Builder?label=Star%20this%20repo%20if%20useful%20⭐&logo=github)](https://github.com/nvbangg/Patches-APK-Builder) &ensp; [![Donate](https://img.shields.io/badge/Support%20this%20project-pink?style=social&logo=github-sponsors)](https://nvbangg.github.io/#donate)
+[![Stars](https://img.shields.io/github/stars/nvbangg/revanced-morphe-builder?label=Star%20this%20repo%20if%20useful%20⭐&logo=github)](https://github.com/nvbangg/revanced-morphe-builder) &ensp; [![Donate](https://img.shields.io/badge/Support%20this%20project-pink?style=social&logo=github-sponsors)](https://nvbangg.github.io/#donate)
 <br>👉 Other Tools: [nvbangg-tools](https://github.com/nvbangg/nvbangg-tools)
 </div> 
 

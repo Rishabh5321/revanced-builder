@@ -1,6 +1,7 @@
+enable-module-update = true # set this to false if you do not want to receive updates for the module
 parallel-jobs = 1
 remove-rv-integrations-checks = false
-# see https://github.com/nvbangg/Patches-APK-Builder/blob/main/CONFIG.md for more detailed explanations
+# see https://github.com/nvbangg/revanced-morphe-builder/blob/main/CONFIG.md for more detailed explanations
 
 [YouTube]
 patches-source = "MorpheApp/morphe-patches"
@@ -57,11 +58,13 @@ uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 
 [Telegram]
 patches-source = "Aunali321/ReVancedExperiments"
+patches-version = "dev"
 rv-brand = "aunali321"
 uptodown-dlurl = "https://telegram-google-play-version.en.uptodown.com/android"
 
 [Telegram-Web]
 patches-source = "Aunali321/ReVancedExperiments"
+patches-version = "dev"
 rv-brand = "aunali321"
 uptodown-dlurl = "https://telegram.en.uptodown.com/android"
 

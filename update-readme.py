@@ -1,6 +1,7 @@
 import re
 import sys
 import json
+import datetime
 
 if len(sys.argv) < 2:
     sys.exit(0)
@@ -23,23 +24,31 @@ for app, info in build_data.items():
     if not match:
         continue
 
-    arch_pat = r'(-(?:arm64-v8a|arm-v7a|all)\.(?:apk|zip))'
+    arch_pattern = r'(-(?:arm64-v8a|arm-v7a|all))'
     old_summary = match.group(0)
     new_summary = re.sub(
-        rf'(href="[^"]*?/download/)[^"]*?{arch_pat}',
-        rf'\g<1>{tag}/{app_name}-{rv_brand}-v{link_version}\g<2>',
+        rf'(href="[^"]*?/download/)[^"]*?{arch_pattern}\.apk',
+        rf'\g<1>{tag}/{app_name}-{rv_brand}-v{link_version}\g<2>.apk',
         old_summary
+    )
+    new_summary = re.sub(
+        rf'(href="[^"]*?/download/)[^"]*?{arch_pattern}\.zip',
+        rf'\g<1>{tag}/{app_name}-{rv_brand}-module-v{link_version}\g<2>.zip',
+        new_summary
     )
     new_summary = re.sub(r'(src="[^"]*?-v)\d[^"]*?(-gray\?)', rf'\g<1>{badge_version}\g<2>', new_summary)
     if new_summary != old_summary:
         readme = readme.replace(old_summary, new_summary)
 
     match = re.search(summary_pattern, readme, re.IGNORECASE | re.DOTALL)
+    if not match:
+        continue
     blockquote_match = re.search(r'<blockquote>\s*\n(.*?)\n</blockquote>', readme[match.end():], re.DOTALL)
     if not blockquote_match:
         continue
 
-    new_content = f"\n\nPatch date: {info['patch_date']}<br>\nPatches: {info['patches']}\n[Changelog]({info['changelog']})"
+    current_date = datetime.datetime.now().strftime("%Y-%m-%d")
+    new_content = f"\n\n[Release {current_date}](../../releases/tag/{tag})<br>\nPatches: {info.get('patches', '')}"
     if info.get("applied_patches"):
         for patch in info["applied_patches"]:
             if patch.strip():

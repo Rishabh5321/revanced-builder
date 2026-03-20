@@ -690,25 +690,16 @@ build_rv() {
 		if [ "$build_mode" = apk ]; then
 			local apk_output="${BUILD_DIR}/${app_name_l}-${rv_brand_f}-v${version_f}-${arch_f}.apk"
 			mv -f "$patched_apk" "$apk_output"
-			log "${table}: ${version}"
 			pr "Built ${table} (non-root): '${apk_output}'"
 			# Write build info to build.json
-			local patches_file="${patches_jar##*/}"
-			local patches_src="${args[patches_src]}"
-			local patches_ver="${patches_file#patches-}" && patches_ver="${patches_ver%.*}"
-			local applied_json
-			applied_json=$(echo "$PATCH_OUTPUT" | grep -oP 'INFO: "\K[^"]+(?=" succeeded)' | jq -R -s -c 'split("\n") | map(select(length > 0))')
-			local entry
-			entry=$(jq -n \
-				--arg an "$app_name_l" \
-				--arg rb "$rv_brand_f" \
-				--arg vr "$version_f" \
-				--arg pd "$(date +'%Y-%m-%d')" \
-				--arg pt "${patches_src%%/*}/${patches_file}" \
-				--arg cl "https://github.com/${patches_src}/releases/tag/v${patches_ver}" \
-				--argjson ap "$applied_json" \
-				'{app_name: $an, rv_brand: $rb, version: $vr, patch_date: $pd, patches: $pt, changelog: $cl, applied_patches: $ap}')
-				jq --arg key "${table% *}" --argjson val "$entry" '. + {($key): $val}' "$BUILD_JSON_FILE" > "${BUILD_JSON_FILE}.tmp" && mv "${BUILD_JSON_FILE}.tmp" "$BUILD_JSON_FILE"
+			jq --arg key "${table% *}" \
+				--arg app_name "$app_name_l" \
+				--arg rv_brand "$rv_brand_f" \
+				--arg version "$version_f" \
+				--arg patches "${args[patches_src]%%/*}/${patches_jar##*/}" \
+				--argjson applied "$(echo "$PATCH_OUTPUT" | grep -oP 'INFO: "\K[^"]+(?=" succeeded)' | jq -R -s -c 'split("\n") | map(select(length > 0))')" \
+				'if has($key) then . else .[$key] = {app_name: $app_name, rv_brand: $rv_brand, version: $version, patches: $patches, applied_patches: $applied} end' \
+				"$BUILD_JSON_FILE" > "${BUILD_JSON_FILE}.tmp" && mv "${BUILD_JSON_FILE}.tmp" "$BUILD_JSON_FILE"
 			continue
 		fi
 		local base_template
@@ -736,6 +727,7 @@ build_rv() {
 		popd >/dev/null || :
 		pr "Built ${table} (root): '${BUILD_DIR}/${module_output}'"
 	done
+	log "${table}: ${version}"
 }
 
 list_args() { tr -d '\t\r' <<<"$1" | tr -s ' ' | sed 's/" "/"\n"/g' | sed 's/\([^"]\)"\([^"]\)/\1'\''\2/g' | grep -v '^$' || :; }

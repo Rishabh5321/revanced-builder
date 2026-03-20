@@ -60,15 +60,17 @@ jobs:
           echo "${DELIM}" >> "$GITHUB_OUTPUT"
           cp -f build.md build.tmp
 
-      - name: Update README with new versions
+      - name: Update README
+        id: prepare
         run: |
           python update-readme.py ${{ steps.next_ver_code.outputs.NEXT_VER_CODE }}
+          echo "DATE=$(date +%Y-%m-%d)" >> $GITHUB_OUTPUT
 
-      - name: Commit updated README
+      - name: Commit README
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           file_pattern: README.md
-          commit_message: Automated README update for Release No.${{ steps.next_ver_code.outputs.NEXT_VER_CODE }}
+          commit_message: Update README for Release ${{ steps.prepare.outputs.DATE }}
 
       - name: Upload modules to release
         uses: svenstaro/upload-release-action@v2
@@ -76,7 +78,7 @@ jobs:
           body: ${{ steps.get_output.outputs.BUILD_LOG }}
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           file: ./build/*
-          release_name: Release No.${{ steps.next_ver_code.outputs.NEXT_VER_CODE }}
+          release_name: Release ${{ steps.prepare.outputs.DATE }}
           tag: ${{ steps.next_ver_code.outputs.NEXT_VER_CODE }}
           file_glob: true
           overwrite: true

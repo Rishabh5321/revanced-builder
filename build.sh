@@ -13,13 +13,6 @@ if [ "${1-}" = "clean" ]; then
 	exit 0
 fi
 
-trap "abort" INT
-
-if [ "${1-}" = "clean" ]; then
-	rm -r "$TEMP_DIR" "$BUILD_DIR" build.md
-	exit 0
-fi
-
 jq --version >/dev/null || abort "\`jq\` is not installed. install it with 'apt install jq' or equivalent"
 java --version >/dev/null || abort "\`openjdk 17\` is not installed. install it with 'apt install openjdk-17-jre' or equivalent"
 zip --version >/dev/null || abort "\`zip\` is not installed. install it with 'apt install zip' or equivalent"
@@ -108,7 +101,7 @@ for table_name in $(toml_get_table_names); do
 		if ! isoneof "${app_args[build_mode]}" both apk module; then
 			abort "ERROR: build-mode '${app_args[build_mode]}' is not a valid option for '${table_name}': only 'both', 'apk' or 'module' is allowed"
 		fi
-	} || app_args[build_mode]=apk
+	} || app_args[build_mode]=both
 
 	for dl_from in "direct" "uptodown" "apkmirror" "archive"; do
 		if app_args[${dl_from}_dlurl]=$(toml_get "$t" ${dl_from}-dlurl); then

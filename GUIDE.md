@@ -6,7 +6,7 @@
 
 ![image1](images/image1.jpg)
 
-### In step 2, Enter `https://github.com/nvbangg/Patches-APK-Builder`
+### In step 2, Enter `https://github.com/nvbangg/revanced-morphe-builder`
 
 - MicroG-RE: `https://github.com/MorpheApp/MicroG-RE`
 - MicroG: `https://github.com/ReVanced/GmsCore`
