@@ -765,12 +765,12 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Wallcraft](https://play.google.com/store/apps/details?id=com.wallpaperscraft.wallpaper)
 
 <details>
-<summary id="Wallcraft">&ensp;<a href="../../releases/download/507/wallcraft-hoo-dles-v3.61.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
+<summary id="Wallcraft">&ensp;<a href="../../releases/download/509/wallcraft-hoo-dles-v3.61.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-03-19<br>
-Patches: hoo-dles/patches-1.14.0.mpp
-[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.14.0)
+Patch date: 2026-03-21<br>
+Patches: hoo-dles/patches-1.14.1.mpp
+[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.14.1)
 - Enable Premium
 </blockquote>
 </details>
