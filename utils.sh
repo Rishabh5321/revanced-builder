@@ -522,13 +522,18 @@ patch_apk() {
 	if [ "${cli_name::8}" = revanced ]; then cmd+=" -b"; fi
 
 	if [ "$OS" = Android ]; then cmd+=" --custom-aapt2-binary='${AAPT2}'"; fi
+	
+	local patch_tmp_dir="$TEMP_DIR/rvtmp_$RANDOM"
+	mkdir -p "$patch_tmp_dir"
+	cmd="_JAVA_OPTIONS='-Djava.io.tmpdir=$patch_tmp_dir' $cmd"
 	pr "$cmd"
 	PATCH_OUTPUT=$(eval "$cmd" 2>&1)
 	local ret=$?
+	rm -rf "$patch_tmp_dir"
 	echo "$PATCH_OUTPUT"
 	if [ $ret -eq 0 ]; then [ -f "$patched_apk" ]; else
-	rm "$patched_apk" 2>/dev/null || :
-	return 1
+		rm "$patched_apk" 2>/dev/null || :
+		return 1
 	fi
 }
 
