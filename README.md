@@ -27,10 +27,10 @@
 ### [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
 <details>
-<summary id="YouTube">&ensp;<a href="../../releases/download/31/youtube-nvbangg-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube">&ensp;<a href="../../releases/download/32/youtube-nvbangg-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-20](../../releases/tag/31)<br>
+[Release 2026-03-21](../../releases/tag/32)<br>
 Patches: MorpheApp/patches-1.20.0.mpp
 - Bypass URL redirects
 - Disable Shorts resuming on startup
@@ -55,10 +55,10 @@ Patches: MorpheApp/patches-1.20.0.mpp
 <blockquote>
 
 <details>
-<summary id="YouTube-Morphe">&ensp;<a href="../../releases/download/31/youtube-morphe-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube-Morphe">&ensp;<a href="../../releases/download/32/youtube-morphe-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-20](../../releases/tag/31)<br>
+[Release 2026-03-21](../../releases/tag/32)<br>
 Patches: MorpheApp/patches-1.20.0.mpp
 - Alternative thumbnails
 - Ambient mode
@@ -202,10 +202,10 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 
 <details>
-<summary id="YouTube-Music">&ensp;<a href="../../releases/download/31/youtube-music-nvbangg-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music">&ensp;<a href="../../releases/download/32/youtube-music-nvbangg-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-20](../../releases/tag/31)<br>
+[Release 2026-03-21](../../releases/tag/32)<br>
 Patches: MorpheApp/patches-1.20.0.mpp
 - Bypass certificate checks
 - Enable exclusive audio playback
@@ -223,10 +223,10 @@ Patches: MorpheApp/patches-1.20.0.mpp
 <blockquote>
 
 <details>
-<summary id="YouTube-Music-Morphe">&ensp;<a href="../../releases/download/31/youtube-music-morphe-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music_Morphe-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music-Morphe">&ensp;<a href="../../releases/download/32/youtube-music-morphe-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music_Morphe-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-20](../../releases/tag/31)<br>
+[Release 2026-03-21](../../releases/tag/32)<br>
 Patches: MorpheApp/patches-1.20.0.mpp
 - Bypass certificate checks
 - Change header
@@ -515,11 +515,11 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [WPS Office](https://play.google.com/store/apps/details?id=cn.wps.moffice_eng)
 
 <details>
-<summary id="WPS-Office">&ensp;<a href="../../releases/download/31/wps-office-hoo-dles-v18.12.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/WPS_Office-v18.12.1-gray?labelColor=C03426&logo=wpsoffice&logoColor=white"></a></summary>
+<summary id="WPS-Office">&ensp;<a href="../../releases/download/32/wps-office-hoo-dles-v18.12.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/WPS_Office-v18.12.1-gray?labelColor=C03426&logo=wpsoffice&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-20](../../releases/tag/31)<br>
-Patches: hoo-dles/patches-1.14.0.mpp
+[Release 2026-03-21](../../releases/tag/32)<br>
+Patches: hoo-dles/patches-1.14.1.mpp
 - Disable anti-tamper
 - Enable Pro
 </blockquote>
@@ -529,11 +529,11 @@ Patches: hoo-dles/patches-1.14.0.mpp
 ### [Duolingo](https://play.google.com/store/apps/details?id=com.duolingo)
 
 <details>
-<summary id="Duolingo">&ensp;<a href="../../releases/download/31/duolingo-hoo-dles-v6.66.5-arm64-v8a.apk"><img src="https://img.shields.io/badge/Duolingo-v6.66.5-gray?labelColor=4DC730&logo=Duolingo&logoColor=white"></a></summary>
+<summary id="Duolingo">&ensp;<a href="../../releases/download/32/duolingo-hoo-dles-v6.66.5-arm64-v8a.apk"><img src="https://img.shields.io/badge/Duolingo-v6.66.5-gray?labelColor=4DC730&logo=Duolingo&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-20](../../releases/tag/31)<br>
-Patches: hoo-dles/patches-1.14.0.mpp
+[Release 2026-03-21](../../releases/tag/32)<br>
+Patches: hoo-dles/patches-1.14.1.mpp
 - Disable Login Integrity
 - Enable Premium
 </blockquote>
@@ -543,11 +543,11 @@ Patches: hoo-dles/patches-1.14.0.mpp
 ### [Cake](https://play.google.com/store/apps/details?id=me.mycake)
 
 <details>
-<summary id="Cake">&ensp;<a href="../../releases/download/31/cake-hoo-dles-v6.4.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cake-v6.4.0-gray?labelColor=FF6B35&logo=cake&logoColor=white"></a></summary>
+<summary id="Cake">&ensp;<a href="../../releases/download/32/cake-hoo-dles-v6.4.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cake-v6.4.0-gray?labelColor=FF6B35&logo=cake&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-20](../../releases/tag/31)<br>
-Patches: hoo-dles/patches-1.14.0.mpp
+[Release 2026-03-21](../../releases/tag/32)<br>
+Patches: hoo-dles/patches-1.14.1.mpp
 - Enable Plus
 </blockquote>
 </details>
@@ -574,10 +574,10 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
 
 <details>
-<summary id="Reddit">&ensp;<a href="../../releases/download/31/reddit-morphe-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Reddit-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
+<summary id="Reddit">&ensp;<a href="../../releases/download/32/reddit-morphe-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Reddit-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-20](../../releases/tag/31)<br>
+[Release 2026-03-21](../../releases/tag/32)<br>
 Patches: MorpheApp/patches-1.20.0.mpp
 - Disable modern home
 - Disable screenshot popup
@@ -657,11 +657,11 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Pandora](https://play.google.com/store/apps/details?id=com.pandora.android)
 
 <details>
-<summary id="Pandora">&ensp;<a href="../../releases/download/31/pandora-hoo-dles-v2601.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Pandora-v2601.1-gray?labelColor=3668FF&logo=Pandora&logoColor=white"></a></summary>
+<summary id="Pandora">&ensp;<a href="../../releases/download/32/pandora-hoo-dles-v2601.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Pandora-v2601.1-gray?labelColor=3668FF&logo=Pandora&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-20](../../releases/tag/31)<br>
-Patches: hoo-dles/patches-1.14.0.mpp
+[Release 2026-03-21](../../releases/tag/32)<br>
+Patches: hoo-dles/patches-1.14.1.mpp
 - Disable ads
 - Unlimited skips
 </blockquote>
@@ -702,11 +702,11 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [MyFitnessPal](https://play.google.com/store/apps/details?id=com.myfitnesspal.android)
 
 <details>
-<summary id="MyFitnessPal">&ensp;<a href="../../releases/download/31/myfitnesspal-hoo-dles-v25.50.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/MyFitnessPal-v25.50.0-gray?labelColor=0066EE&logo=MyFitnessPal&logoColor=white"></a></summary>
+<summary id="MyFitnessPal">&ensp;<a href="../../releases/download/32/myfitnesspal-hoo-dles-v25.50.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/MyFitnessPal-v25.50.0-gray?labelColor=0066EE&logo=MyFitnessPal&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-20](../../releases/tag/31)<br>
-Patches: hoo-dles/patches-1.14.0.mpp
+[Release 2026-03-21](../../releases/tag/32)<br>
+Patches: hoo-dles/patches-1.14.1.mpp
 - Enable Premium+
 </blockquote>
 </details>
@@ -748,11 +748,11 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Wallcraft](https://play.google.com/store/apps/details?id=com.wallpaperscraft.wallpaper)
 
 <details>
-<summary id="Wallcraft">&ensp;<a href="../../releases/download/31/wallcraft-hoo-dles-v3.61.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
+<summary id="Wallcraft">&ensp;<a href="../../releases/download/32/wallcraft-hoo-dles-v3.61.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-20](../../releases/tag/31)<br>
-Patches: hoo-dles/patches-1.14.0.mpp
+[Release 2026-03-21](../../releases/tag/32)<br>
+Patches: hoo-dles/patches-1.14.1.mpp
 - Enable Premium
 </blockquote>
 </details>
