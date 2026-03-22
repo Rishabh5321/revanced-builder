@@ -697,7 +697,7 @@ build_rv() {
 			mv -f "$patched_apk" "$apk_output"
 			pr "Built ${table} (non-root): '${apk_output}'"
 			# Write build info to build.json
-			jq --arg key "${table% *}" \
+			jq --arg key "$table" \
 				--arg app_name "$app_name_l" \
 				--arg rv_brand "$rv_brand_f" \
 				--arg version "$version_f" \

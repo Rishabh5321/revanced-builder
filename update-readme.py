@@ -19,12 +19,14 @@ for app, info in build_data.items():
 
     badge_version = version.replace("-", ".").replace(" ", "")
     link_version = re.sub(r"\.+", ".", re.sub(r"[^a-zA-Z0-9@+\-_.]", ".", version.replace(" ", "")))
-    summary_pattern = rf'<summary id="{app}"[^>]*>.*?</summary>'
+    base_app = app.split()[0]
+    arch_match = re.search(r'\((.*?)\)', app)
+    arch_pattern = rf'(-{arch_match.group(1)})' if arch_match else r'(-(?:arm64-v8a|arm-v7a|x86_64|x86|all))'
+    summary_pattern = rf'<summary id="{base_app}"[^>]*>.*?</summary>'
     match = re.search(summary_pattern, readme, re.IGNORECASE | re.DOTALL)
     if not match:
         continue
 
-    arch_pattern = r'(-(?:arm64-v8a|arm-v7a|all))'
     old_summary = match.group(0)
     new_summary = re.sub(
         rf'(href="[^"]*?/download/)[^"]*?{arch_pattern}\.apk',
