@@ -4,7 +4,7 @@
 
 ## How to add the app to Obtainium
 
-![image1](images/image1.jpg)
+<img src="images/image1.jpg" height="450">
 
 ### In step 2, Enter `https://github.com/nvbangg/revanced-morphe-builder`
 

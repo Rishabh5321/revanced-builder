@@ -67,7 +67,7 @@ jobs:
           echo "DATE=$(date +%Y-%m-%d)" >> $GITHUB_OUTPUT
 
       - name: Commit README
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           file_pattern: README.md
           commit_message: Update README for Release ${{ steps.prepare.outputs.DATE }}

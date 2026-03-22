@@ -26,7 +26,6 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "nvbangg"
-archive-dlurl = "https://archive.org/download/nvbangg-apks/com.google.android.apps.youtube.music/"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 exclusive-patches = true
 included-patches = "'Bypass certificate checks' 'Enable exclusive audio playback' 'Hide ''Get Music Premium''' 'Hide music video ads' 'Navigation bar' 'Permanent repeat' 'Remove background playback restrictions' 'Sanitize sharing links'"
@@ -36,7 +35,6 @@ patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
 app-name = "youtube-music"
 rv-brand = "morphe"
-archive-dlurl = "https://archive.org/download/nvbangg-apks/com.google.android.apps.youtube.music/"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
 [YouTube-Music-ReVanced]
@@ -73,6 +71,7 @@ uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 
 [Twitter-Piko]
 patches-source = "crimera/piko"
+cli-source = "MorpheApp/morphe-cli"
 app-name = "twitter"
 rv-brand = "crimera"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
