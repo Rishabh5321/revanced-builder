@@ -27,11 +27,11 @@
 ### [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
 <details>
-<summary id="YouTube">&ensp;<a href="../../releases/download/32/youtube-nvbangg-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube">&ensp;<a href="../../releases/download/33/youtube-nvbangg-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-21](../../releases/tag/32)<br>
-Patches: MorpheApp/patches-1.20.0.mpp
+[Release 2026-03-23](../../releases/tag/33)<br>
+Patches: MorpheApp/patches-1.21.1.mpp
 - Bypass URL redirects
 - Disable Shorts resuming on startup
 - Downloads
@@ -55,11 +55,11 @@ Patches: MorpheApp/patches-1.20.0.mpp
 <blockquote>
 
 <details>
-<summary id="YouTube-Morphe">&ensp;<a href="../../releases/download/32/youtube-morphe-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube-Morphe">&ensp;<a href="../../releases/download/33/youtube-morphe-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-21](../../releases/tag/32)<br>
-Patches: MorpheApp/patches-1.20.0.mpp
+[Release 2026-03-23](../../releases/tag/33)<br>
+Patches: MorpheApp/patches-1.21.1.mpp
 - Alternative thumbnails
 - Ambient mode
 - Bypass URL redirects
@@ -202,11 +202,11 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 
 <details>
-<summary id="YouTube-Music">&ensp;<a href="../../releases/download/32/youtube-music-nvbangg-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music">&ensp;<a href="../../releases/download/33/youtube-music-nvbangg-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-21](../../releases/tag/32)<br>
-Patches: MorpheApp/patches-1.20.0.mpp
+[Release 2026-03-23](../../releases/tag/33)<br>
+Patches: MorpheApp/patches-1.21.1.mpp
 - Bypass certificate checks
 - Enable exclusive audio playback
 - GmsCore support
@@ -223,11 +223,11 @@ Patches: MorpheApp/patches-1.20.0.mpp
 <blockquote>
 
 <details>
-<summary id="YouTube-Music-Morphe">&ensp;<a href="../../releases/download/32/youtube-music-morphe-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music_Morphe-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music-Morphe">&ensp;<a href="../../releases/download/33/youtube-music-morphe-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music_Morphe-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-21](../../releases/tag/32)<br>
-Patches: MorpheApp/patches-1.20.0.mpp
+[Release 2026-03-23](../../releases/tag/33)<br>
+Patches: MorpheApp/patches-1.21.1.mpp
 - Bypass certificate checks
 - Change header
 - Change miniplayer color
@@ -354,10 +354,10 @@ Patches: ReVanced/patches-5.50.2.rvp
 ### [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 
 <details>
-<summary id="Telegram">&ensp;<a href="../../releases/download/31/telegram-aunali321-v12.5.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram-v12.5.2-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
+<summary id="Telegram">&ensp;<a href="../../releases/download/33/telegram-aunali321-v12.5.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram-v12.5.2-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-20](../../releases/tag/31)<br>
+[Release 2026-03-23](../../releases/tag/33)<br>
 Patches: Aunali321/patches-2.0.0-dev.1.rvp
 - Bypass Integrity
 - Disable Auto Update
@@ -373,10 +373,10 @@ Patches: Aunali321/patches-2.0.0-dev.1.rvp
 <blockquote>
 
 <details>
-<summary id="Telegram-Web">&ensp;<a href="../../releases/download/31/telegram-web-aunali321-v12.5.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram_Web-v12.5.2-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
+<summary id="Telegram-Web">&ensp;<a href="../../releases/download/33/telegram-web-aunali321-v12.5.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram_Web-v12.5.2-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-20](../../releases/tag/31)<br>
+[Release 2026-03-23](../../releases/tag/33)<br>
 Patches: Aunali321/patches-2.0.0-dev.1.rvp
 - Bypass Integrity
 - Disable Auto Update
@@ -574,11 +574,11 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
 
 <details>
-<summary id="Reddit">&ensp;<a href="../../releases/download/32/reddit-morphe-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Reddit-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
+<summary id="Reddit">&ensp;<a href="../../releases/download/33/reddit-morphe-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Reddit-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-21](../../releases/tag/32)<br>
-Patches: MorpheApp/patches-1.20.0.mpp
+[Release 2026-03-23](../../releases/tag/33)<br>
+Patches: MorpheApp/patches-1.21.1.mpp
 - Disable modern home
 - Disable screenshot popup
 - Hide Trending Today shelf
