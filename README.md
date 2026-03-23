@@ -354,11 +354,11 @@ Patches: ReVanced/patches-5.50.2.rvp
 ### [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 
 <details>
-<summary id="Telegram">&ensp;<a href="../../releases/download/31/telegram-aunali321-v12.5.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram-v12.5.2-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
+<summary id="Telegram">&ensp;<a href="../../releases/download/511/telegram-aunali321-v12.5.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram-v12.5.2-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-20](../../releases/tag/31)<br>
-Patches: Aunali321/patches-2.0.0-dev.1.rvp
+[Release 2026-03-23](../../releases/tag/511)<br>
+Patches: Aunali321/patches-2.0.0.rvp
 - Bypass Integrity
 - Disable Auto Update
 - Download Speed Boost
