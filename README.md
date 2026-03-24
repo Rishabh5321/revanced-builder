@@ -738,11 +738,11 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Wallcraft](https://play.google.com/store/apps/details?id=com.wallpaperscraft.wallpaper)
 
 <details>
-<summary id="Wallcraft">&ensp;<a href="../../releases/download/510/wallcraft-hoo-dles-v3.61.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
+<summary id="Wallcraft">&ensp;<a href="../../releases/download/512/wallcraft-hoo-dles-v3.61.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-23](../../releases/tag/510)<br>
-Patches: hoo-dles/patches-1.14.1.mpp
+[Release 2026-03-24](../../releases/tag/512)<br>
+Patches: hoo-dles/patches-1.15.0.mpp
 - Enable Premium
 </blockquote>
 </details>
