@@ -354,10 +354,10 @@ Patches: ReVanced/patches-5.50.2.rvp
 ### [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 
 <details>
-<summary id="Telegram">&ensp;<a href="../../releases/download/33/telegram-aunali321-v12.5.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram-v12.5.2-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
+<summary id="Telegram">&ensp;<a href="../../releases/download/34/telegram-aunali321-v12.5.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram-v12.5.2-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-23](../../releases/tag/33)<br>
+[Release 2026-03-24](../../releases/tag/34)<br>
 Patches: Aunali321/patches-2.0.0-dev.1.rvp
 - Bypass Integrity
 - Disable Auto Update
@@ -373,10 +373,10 @@ Patches: Aunali321/patches-2.0.0-dev.1.rvp
 <blockquote>
 
 <details>
-<summary id="Telegram-Web">&ensp;<a href="../../releases/download/33/telegram-web-aunali321-v12.5.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram_Web-v12.5.2-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
+<summary id="Telegram-Web">&ensp;<a href="../../releases/download/34/telegram-web-aunali321-v12.5.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram_Web-v12.5.2-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-23](../../releases/tag/33)<br>
+[Release 2026-03-24](../../releases/tag/34)<br>
 Patches: Aunali321/patches-2.0.0-dev.1.rvp
 - Bypass Integrity
 - Disable Auto Update
@@ -515,11 +515,11 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [WPS Office](https://play.google.com/store/apps/details?id=cn.wps.moffice_eng)
 
 <details>
-<summary id="WPS-Office">&ensp;<a href="../../releases/download/32/wps-office-hoo-dles-v18.12.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/WPS_Office-v18.12.1-gray?labelColor=C03426&logo=wpsoffice&logoColor=white"></a></summary>
+<summary id="WPS-Office">&ensp;<a href="../../releases/download/34/wps-office-hoo-dles-v18.12.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/WPS_Office-v18.12.1-gray?labelColor=C03426&logo=wpsoffice&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-21](../../releases/tag/32)<br>
-Patches: hoo-dles/patches-1.14.1.mpp
+[Release 2026-03-24](../../releases/tag/34)<br>
+Patches: hoo-dles/patches-1.15.0.mpp
 - Disable anti-tamper
 - Enable Pro
 </blockquote>
@@ -529,11 +529,11 @@ Patches: hoo-dles/patches-1.14.1.mpp
 ### [Duolingo](https://play.google.com/store/apps/details?id=com.duolingo)
 
 <details>
-<summary id="Duolingo">&ensp;<a href="../../releases/download/32/duolingo-hoo-dles-v6.66.5-arm64-v8a.apk"><img src="https://img.shields.io/badge/Duolingo-v6.66.5-gray?labelColor=4DC730&logo=Duolingo&logoColor=white"></a></summary>
+<summary id="Duolingo">&ensp;<a href="../../releases/download/34/duolingo-hoo-dles-v6.66.5-arm64-v8a.apk"><img src="https://img.shields.io/badge/Duolingo-v6.66.5-gray?labelColor=4DC730&logo=Duolingo&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-21](../../releases/tag/32)<br>
-Patches: hoo-dles/patches-1.14.1.mpp
+[Release 2026-03-24](../../releases/tag/34)<br>
+Patches: hoo-dles/patches-1.15.0.mpp
 - Disable Login Integrity
 - Enable Premium
 </blockquote>
@@ -543,11 +543,11 @@ Patches: hoo-dles/patches-1.14.1.mpp
 ### [Cake](https://play.google.com/store/apps/details?id=me.mycake)
 
 <details>
-<summary id="Cake">&ensp;<a href="../../releases/download/32/cake-hoo-dles-v6.4.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cake-v6.4.0-gray?labelColor=FF6B35&logo=cake&logoColor=white"></a></summary>
+<summary id="Cake">&ensp;<a href="../../releases/download/34/cake-hoo-dles-v6.4.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cake-v6.4.0-gray?labelColor=FF6B35&logo=cake&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-21](../../releases/tag/32)<br>
-Patches: hoo-dles/patches-1.14.1.mpp
+[Release 2026-03-24](../../releases/tag/34)<br>
+Patches: hoo-dles/patches-1.15.0.mpp
 - Enable Plus
 </blockquote>
 </details>
@@ -657,11 +657,11 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Pandora](https://play.google.com/store/apps/details?id=com.pandora.android)
 
 <details>
-<summary id="Pandora">&ensp;<a href="../../releases/download/32/pandora-hoo-dles-v2601.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Pandora-v2601.1-gray?labelColor=3668FF&logo=Pandora&logoColor=white"></a></summary>
+<summary id="Pandora">&ensp;<a href="../../releases/download/34/pandora-hoo-dles-v2602.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Pandora-v2602.1-gray?labelColor=3668FF&logo=Pandora&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-21](../../releases/tag/32)<br>
-Patches: hoo-dles/patches-1.14.1.mpp
+[Release 2026-03-24](../../releases/tag/34)<br>
+Patches: hoo-dles/patches-1.15.0.mpp
 - Disable ads
 - Unlimited skips
 </blockquote>
@@ -702,11 +702,11 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [MyFitnessPal](https://play.google.com/store/apps/details?id=com.myfitnesspal.android)
 
 <details>
-<summary id="MyFitnessPal">&ensp;<a href="../../releases/download/32/myfitnesspal-hoo-dles-v25.50.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/MyFitnessPal-v25.50.0-gray?labelColor=0066EE&logo=MyFitnessPal&logoColor=white"></a></summary>
+<summary id="MyFitnessPal">&ensp;<a href="../../releases/download/34/myfitnesspal-hoo-dles-v25.50.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/MyFitnessPal-v25.50.0-gray?labelColor=0066EE&logo=MyFitnessPal&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-21](../../releases/tag/32)<br>
-Patches: hoo-dles/patches-1.14.1.mpp
+[Release 2026-03-24](../../releases/tag/34)<br>
+Patches: hoo-dles/patches-1.15.0.mpp
 - Enable Premium+
 </blockquote>
 </details>
@@ -748,11 +748,11 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Wallcraft](https://play.google.com/store/apps/details?id=com.wallpaperscraft.wallpaper)
 
 <details>
-<summary id="Wallcraft">&ensp;<a href="../../releases/download/32/wallcraft-hoo-dles-v3.61.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
+<summary id="Wallcraft">&ensp;<a href="../../releases/download/34/wallcraft-hoo-dles-v3.61.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-21](../../releases/tag/32)<br>
-Patches: hoo-dles/patches-1.14.1.mpp
+[Release 2026-03-24](../../releases/tag/34)<br>
+Patches: hoo-dles/patches-1.15.0.mpp
 - Enable Premium
 </blockquote>
 </details>
