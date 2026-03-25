@@ -27,10 +27,10 @@
 ### [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
 <details>
-<summary id="YouTube">&ensp;<a href="../../releases/download/33/youtube-nvbangg-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube">&ensp;<a href="../../releases/download/35/youtube-nvbangg-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-23](../../releases/tag/33)<br>
+[Release 2026-03-25](../../releases/tag/35)<br>
 Patches: MorpheApp/patches-1.21.1.mpp
 - Bypass URL redirects
 - Disable Shorts resuming on startup
@@ -55,10 +55,10 @@ Patches: MorpheApp/patches-1.21.1.mpp
 <blockquote>
 
 <details>
-<summary id="YouTube-Morphe">&ensp;<a href="../../releases/download/33/youtube-morphe-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube-Morphe">&ensp;<a href="../../releases/download/35/youtube-morphe-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-23](../../releases/tag/33)<br>
+[Release 2026-03-25](../../releases/tag/35)<br>
 Patches: MorpheApp/patches-1.21.1.mpp
 - Alternative thumbnails
 - Ambient mode
@@ -202,20 +202,34 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 
 <details>
-<summary id="YouTube-Music">&ensp;<a href="../../releases/download/33/youtube-music-nvbangg-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music">&ensp;<a href="../../releases/download/35/youtube-music-morphe-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-23](../../releases/tag/33)<br>
+[Release 2026-03-25](../../releases/tag/35)<br>
 Patches: MorpheApp/patches-1.21.1.mpp
 - Bypass certificate checks
+- Change header
+- Change miniplayer color
+- Change start page
+- Check watch history domain name resolution
+- Custom branding
+- Disable DRC audio
+- Disable QUIC protocol
+- Enable debugging
 - Enable exclusive audio playback
+- Enable forced miniplayer
+- Force original audio
 - GmsCore support
 - Hide 'Get Music Premium'
+- Hide buttons
+- Hide category bar
 - Hide music video ads
+- Miniplayer previous and next buttons
 - Navigation bar
 - Permanent repeat
 - Remove background playback restrictions
 - Sanitize sharing links
+- Theme
 </blockquote>
 </details>
 
@@ -322,11 +336,11 @@ Patches: ReVanced/patches-5.50.2.rvp
 ### [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 
 <details>
-<summary id="Telegram">&ensp;<a href="../../releases/download/34/telegram-aunali321-v12.5.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram-v12.5.2-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
+<summary id="Telegram">&ensp;<a href="../../releases/download/35/telegram-aunali321-v12.5.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram-v12.5.2-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-24](../../releases/tag/34)<br>
-Patches: Aunali321/patches-2.0.0-dev.1.rvp
+[Release 2026-03-25](../../releases/tag/35)<br>
+Patches: Aunali321/patches-2.0.0.rvp
 - Bypass Integrity
 - Disable Auto Update
 - Download Speed Boost
@@ -341,11 +355,11 @@ Patches: Aunali321/patches-2.0.0-dev.1.rvp
 <blockquote>
 
 <details>
-<summary id="Telegram-Web">&ensp;<a href="../../releases/download/34/telegram-web-aunali321-v12.5.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram_Web-v12.5.2-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
+<summary id="Telegram-Web">&ensp;<a href="../../releases/download/35/telegram-web-aunali321-v12.5.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram_Web-v12.5.2-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-24](../../releases/tag/34)<br>
-Patches: Aunali321/patches-2.0.0-dev.1.rvp
+[Release 2026-03-25](../../releases/tag/35)<br>
+Patches: Aunali321/patches-2.0.0.rvp
 - Bypass Integrity
 - Disable Auto Update
 - Download Speed Boost
@@ -377,12 +391,11 @@ Patches: ReVanced/patches-6.1.0.rvp
 <blockquote>
 
 <details>
-<summary id="Twitter-Piko">&ensp;<a href="../../releases/download/14/twitter-crimera-v11.68.0-release.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Twitter_Piko-v11.68.0.release.0-gray?labelColor=0F1419&logo=X&logoColor=white"></a></summary>
+<summary id="Twitter-Piko">&ensp;<a href="../../releases/download/35/twitter-crimera-v11.75.1-release.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Twitter_Piko-v11.75.1.release.0-gray?labelColor=0F1419&logo=X&logoColor=white"></a></summary>
 <blockquote>
 
-Patch date: 2026-02-27<br>
-Patches: crimera/patches-2.0.0.rvp
-[Changelog](https://github.com/crimera/piko/releases/tag/v2.0.0)
+[Release 2026-03-25](../../releases/tag/35)<br>
+Patches: crimera/patches-3.0.0.mpp
 - Add ability to copy media link
 - Change app icon
 - Change version code
@@ -407,7 +420,6 @@ Patches: crimera/patches-2.0.0.rvp
 - Delete from database
 - Disable auto timeline scroll on launch
 - Disable chirp font
-- Disunify xchat system
 - Download patch
 - Enable PiP mode automatically
 - Enable Undo Posts
@@ -432,6 +444,7 @@ Patches: crimera/patches-2.0.0.rvp
 - Hide promote button
 - Hide timeline posts by category
 - Hook feature flag
+- Legacy share links
 - Log server response
 - Native downloader
 - Native reader mode
@@ -443,6 +456,7 @@ Patches: crimera/patches-2.0.0.rvp
 - Remove view count
 - Round off numbers
 - Selectable Text
+- Share Tweet as Image
 - Show changelogs
 - Show poll results
 - Show post source label
@@ -542,10 +556,10 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
 
 <details>
-<summary id="Reddit">&ensp;<a href="../../releases/download/33/reddit-morphe-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Reddit-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
+<summary id="Reddit">&ensp;<a href="../../releases/download/35/reddit-morphe-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Reddit-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-03-23](../../releases/tag/33)<br>
+[Release 2026-03-25](../../releases/tag/35)<br>
 Patches: MorpheApp/patches-1.21.1.mpp
 - Disable modern home
 - Disable screenshot popup
