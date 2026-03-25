@@ -269,7 +269,20 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
 
 <details>
-<summary id="Google-Photos">&ensp;<a href="../../releases/download/31/google-photos-revanced-v7.68.0.884121604-arm64-v8a.apk"><img src="https://img.shields.io/badge/Google_Photos-v7.68.0.884121604-gray?labelColor=FBBC04&logo=google-photos&logoColor=white"></a></summary>
+<summary id="Google-Photos">&ensp;<a href="../../releases/download/0/google-photos-rookieenough-v0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Google_Photos-v0.0-gray?labelColor=FBBC04&logo=google-photos&logoColor=white"></a></summary>
+<blockquote>
+
+[Release 2026-03-25](../../releases/tag/35)<br>
+Patches: RookieEnough/De-ReVanced
+- Init
+</blockquote>
+</details>
+
+**Alternatives:**
+<blockquote>
+
+<details>
+<summary id="Google-Photos-ReVanced">&ensp;<a href="../../releases/download/31/google-photos-revanced-v7.68.0.884121604-arm64-v8a.apk"><img src="https://img.shields.io/badge/Google_Photos_ReVanced-v7.68.0.884121604-gray?labelColor=FBBC04&logo=google-photos&logoColor=white"></a></summary>
 <blockquote>
 
 [Release 2026-03-20](../../releases/tag/31)<br>
@@ -278,6 +291,8 @@ Patches: ReVanced/patches-6.1.0.rvp
 - Spoof features
 </blockquote>
 </details>
+
+</blockquote>
 
 ---
 ### [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)
@@ -298,7 +313,20 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca)
 
 <details>
-<summary id="Messenger">&ensp;<a href="../../releases/download/31/messenger-revanced-v552.0.0.44.65-arm64-v8a.apk"><img src="https://img.shields.io/badge/Messenger-v552.0.0.44.65-gray?labelColor=00B2FF&logo=messenger&logoColor=white"></a></summary>
+<summary id="Messenger">&ensp;<a href="../../releases/download/0/messenger-rookieenough-v0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Messenger-v0.0-gray?labelColor=00B2FF&logo=messenger&logoColor=white"></a></summary>
+<blockquote>
+
+[Release 2026-03-25](../../releases/tag/35)<br>
+Patches: RookieEnough/De-ReVanced
+- Init
+</blockquote>
+</details>
+
+**Alternatives:**
+<blockquote>
+
+<details>
+<summary id="Messenger-ReVanced">&ensp;<a href="../../releases/download/31/messenger-revanced-v552.0.0.44.65-arm64-v8a.apk"><img src="https://img.shields.io/badge/Messenger_ReVanced-v552.0.0.44.65-gray?labelColor=00B2FF&logo=messenger&logoColor=white"></a></summary>
 <blockquote>
 
 [Release 2026-03-20](../../releases/tag/31)<br>
@@ -309,6 +337,8 @@ Patches: ReVanced/patches-6.1.0.rvp
 - Remove Meta AI
 </blockquote>
 </details>
+
+</blockquote>
 
 ---
 ### [TikTok](https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill)
@@ -484,7 +514,20 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Disney+](https://play.google.com/store/apps/details?id=com.disney.disneyplus)
 
 <details>
-<summary id="Disney">&ensp;<a href="../../releases/download/31/disney-revanced-v4.20.2+rc1-2025.12.09-arm64-v8a.apk"><img src="https://img.shields.io/badge/Disney+-v4.20.2+rc1.2025.12.09-gray?labelColor=113CCF&logo=Disney%2B&logoColor=white"></a></summary>
+<summary id="Disney">&ensp;<a href="../../releases/download/0/disney-rookieenough-v0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Disney+-v0.0-gray?labelColor=113CCF&logo=Disney%2B&logoColor=white"></a></summary>
+<blockquote>
+
+[Release 2026-03-25](../../releases/tag/35)<br>
+Patches: RookieEnough/De-ReVanced
+- Init
+</blockquote>
+</details>
+
+**Alternatives:**
+<blockquote>
+
+<details>
+<summary id="Disney-ReVanced">&ensp;<a href="../../releases/download/31/disney-revanced-v4.20.2+rc1-2025.12.09-arm64-v8a.apk"><img src="https://img.shields.io/badge/Disney+_ReVanced-v4.20.2+rc1.2025.12.09-gray?labelColor=113CCF&logo=Disney%2B&logoColor=white"></a></summary>
 <blockquote>
 
 [Release 2026-03-20](../../releases/tag/31)<br>
@@ -492,6 +535,8 @@ Patches: ReVanced/patches-6.1.0.rvp
 - Skip ads
 </blockquote>
 </details>
+
+</blockquote>
 
 ---
 ### [WPS Office](https://play.google.com/store/apps/details?id=cn.wps.moffice_eng)
@@ -580,7 +625,20 @@ Patches: MorpheApp/patches-1.21.1.mpp
 ### [Photomath](https://play.google.com/store/apps/details?id=com.microblink.photomath)
 
 <details>
-<summary id="Photomath">&ensp;<a href="../../releases/download/31/photomath-revanced-v8.47.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Photomath-v8.47.1-gray?labelColor=DA2323&logo=Photomath&logoColor=white"></a></summary>
+<summary id="Photomath">&ensp;<a href="../../releases/download/0/photomath-rookieenough-v0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Photomath-v0.0-gray?labelColor=DA2323&logo=Photomath&logoColor=white"></a></summary>
+<blockquote>
+
+[Release 2026-03-25](../../releases/tag/35)<br>
+Patches: RookieEnough/De-ReVanced
+- Init
+</blockquote>
+</details>
+
+**Alternatives:**
+<blockquote>
+
+<details>
+<summary id="Photomath-ReVanced">&ensp;<a href="../../releases/download/31/photomath-revanced-v8.47.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Photomath_ReVanced-v8.47.1-gray?labelColor=DA2323&logo=Photomath&logoColor=white"></a></summary>
 <blockquote>
 
 [Release 2026-03-20](../../releases/tag/31)<br>
@@ -590,6 +648,8 @@ Patches: ReVanced/patches-6.1.0.rvp
 - Unlock plus
 </blockquote>
 </details>
+
+</blockquote>
 
 ---
 ### [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
@@ -624,7 +684,20 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android)
 
 <details>
-<summary id="SoundCloud">&ensp;<a href="../../releases/download/31/soundcloud-revanced-v2025.05.27-release-arm64-v8a.apk"><img src="https://img.shields.io/badge/SoundCloud-v2025.05.27.release-gray?labelColor=FF5500&logo=SoundCloud&logoColor=white"></a></summary>
+<summary id="SoundCloud">&ensp;<a href="../../releases/download/0/soundcloud-rookieenough-v0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/SoundCloud-v0.0-gray?labelColor=FF5500&logo=SoundCloud&logoColor=white"></a></summary>
+<blockquote>
+
+[Release 2026-03-25](../../releases/tag/35)<br>
+Patches: RookieEnough/De-ReVanced
+- Init
+</blockquote>
+</details>
+
+**Alternatives:**
+<blockquote>
+
+<details>
+<summary id="SoundCloud-ReVanced">&ensp;<a href="../../releases/download/31/soundcloud-revanced-v2025.05.27-release-arm64-v8a.apk"><img src="https://img.shields.io/badge/SoundCloud_ReVanced-v2025.05.27.release-gray?labelColor=FF5500&logo=SoundCloud&logoColor=white"></a></summary>
 <blockquote>
 
 [Release 2026-03-20](../../releases/tag/31)<br>
@@ -634,6 +707,8 @@ Patches: ReVanced/patches-6.1.0.rvp
 - Hide ads
 </blockquote>
 </details>
+
+</blockquote>
 
 ---
 ### [Pandora](https://play.google.com/store/apps/details?id=com.pandora.android)
@@ -653,7 +728,20 @@ Patches: hoo-dles/patches-1.15.0.mpp
 ### [Tumblr](https://play.google.com/store/apps/details?id=com.tumblr)
 
 <details>
-<summary id="Tumblr">&ensp;<a href="../../releases/download/31/tumblr-revanced-v43.7.0.109-arm64-v8a.apk"><img src="https://img.shields.io/badge/Tumblr-v43.7.0.109-gray?labelColor=36465D&logo=Tumblr&logoColor=white"></a></summary>
+<summary id="Tumblr">&ensp;<a href="../../releases/download/0/tumblr-rookieenough-v0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Tumblr-v0.0-gray?labelColor=36465D&logo=Tumblr&logoColor=white"></a></summary>
+<blockquote>
+
+[Release 2026-03-25](../../releases/tag/35)<br>
+Patches: RookieEnough/De-ReVanced
+- Init
+</blockquote>
+</details>
+
+**Alternatives:**
+<blockquote>
+
+<details>
+<summary id="Tumblr-ReVanced">&ensp;<a href="../../releases/download/31/tumblr-revanced-v43.7.0.109-arm64-v8a.apk"><img src="https://img.shields.io/badge/Tumblr_ReVanced-v43.7.0.109-gray?labelColor=36465D&logo=Tumblr&logoColor=white"></a></summary>
 <blockquote>
 
 [Release 2026-03-20](../../releases/tag/31)<br>
@@ -667,11 +755,26 @@ Patches: ReVanced/patches-6.1.0.rvp
 </blockquote>
 </details>
 
+</blockquote>
+
 ---
 ### [Cricbuzz](https://play.google.com/store/apps/details?id=com.cricbuzz.android)
 
 <details>
-<summary id="Cricbuzz">&ensp;<a href="../../releases/download/31/cricbuzz-revanced-v6.24.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cricbuzz-v6.24.01-gray?labelColor=009270&logo=Cricbuzz&logoColor=white"></a></summary>
+<summary id="Cricbuzz">&ensp;<a href="../../releases/download/0/cricbuzz-rookieenough-v0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cricbuzz-v0.0-gray?labelColor=009270&logo=Cricbuzz&logoColor=white"></a></summary>
+<blockquote>
+
+[Release 2026-03-25](../../releases/tag/35)<br>
+Patches: RookieEnough/De-ReVanced
+- Init
+</blockquote>
+</details>
+
+**Alternatives:**
+<blockquote>
+
+<details>
+<summary id="Cricbuzz-ReVanced">&ensp;<a href="../../releases/download/31/cricbuzz-revanced-v6.24.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cricbuzz_ReVanced-v6.24.01-gray?labelColor=009270&logo=Cricbuzz&logoColor=white"></a></summary>
 <blockquote>
 
 [Release 2026-03-20](../../releases/tag/31)<br>
@@ -679,6 +782,8 @@ Patches: ReVanced/patches-6.1.0.rvp
 - Hide ads
 </blockquote>
 </details>
+
+</blockquote>
 
 ---
 ### [MyFitnessPal](https://play.google.com/store/apps/details?id=com.myfitnesspal.android)
@@ -697,7 +802,20 @@ Patches: hoo-dles/patches-1.15.0.mpp
 ### [Strava](https://play.google.com/store/apps/details?id=com.strava)
 
 <details>
-<summary id="Strava">&ensp;<a href="../../releases/download/31/strava-revanced-v455.11-arm64-v8a.apk"><img src="https://img.shields.io/badge/Strava-v455.11-gray?labelColor=FC4C02&logo=Strava&logoColor=white"></a></summary>
+<summary id="Strava">&ensp;<a href="../../releases/download/0/strava-rookieenough-v0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Strava-v0.0-gray?labelColor=FC4C02&logo=Strava&logoColor=white"></a></summary>
+<blockquote>
+
+[Release 2026-03-25](../../releases/tag/35)<br>
+Patches: RookieEnough/De-ReVanced
+- Init
+</blockquote>
+</details>
+
+**Alternatives:**
+<blockquote>
+
+<details>
+<summary id="Strava-ReVanced">&ensp;<a href="../../releases/download/31/strava-revanced-v455.11-arm64-v8a.apk"><img src="https://img.shields.io/badge/Strava_ReVanced-v455.11-gray?labelColor=FC4C02&logo=Strava&logoColor=white"></a></summary>
 <blockquote>
 
 [Release 2026-03-20](../../releases/tag/31)<br>
@@ -712,6 +830,8 @@ Patches: ReVanced/patches-6.1.0.rvp
 - Unlock subscription features
 </blockquote>
 </details>
+
+</blockquote>
 
 ---
 ### [Crunchyroll](https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid)
@@ -741,9 +861,163 @@ Patches: hoo-dles/patches-1.15.0.mpp
 
 ---
 
+### [ibis Paint X](https://play.google.com/store/apps/details?id=jp.ne.ibis.ibispaintx.app)
+
+<details>
+<summary id="ibis-Paint-X">&ensp;<a href="../../releases/download/35/ibis-paint-x-hoo-dles-v0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/ibis_Paint_X-v0.0-gray?labelColor=E64A8B&logo=ibispaintx&logoColor=white"></a></summary>
+<blockquote>
+
+[Release 2026-03-25](../../releases/tag/35)<br>
+Patches: hoo-dles/morphe-patches
+- Init
+</blockquote>
+</details>
+
+---
+
+### [RAR](https://play.google.com/store/apps/details?id=com.rarlab.rar)
+
+<details>
+<summary id="RAR">&ensp;<a href="../../releases/download/35/rar-rookieenough-v0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/RAR-v0.0-gray?labelColor=FF6B00&logo=rar&logoColor=white"></a></summary>
+<blockquote>
+
+[Release 2026-03-25](../../releases/tag/35)<br>
+Patches: RookieEnough/De-ReVanced
+- Init
+</blockquote>
+</details>
+
+---
+
+### [Sofascore](https://play.google.com/store/apps/details?id=com.sofascore.results)
+
+<details>
+<summary id="Sofascore">&ensp;<a href="../../releases/download/35/sofascore-hoo-dles-v0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Sofascore-v0.0-gray?labelColor=1A4BFF&logo=sofascore&logoColor=white"></a></summary>
+<blockquote>
+
+[Release 2026-03-25](../../releases/tag/35)<br>
+Patches: hoo-dles/morphe-patches
+- Init
+</blockquote>
+</details>
+
+---
+
+### [FotMob](https://play.google.com/store/apps/details?id=com.mobilefootie.wc2010)
+
+<details>
+<summary id="FotMob">&ensp;<a href="../../releases/download/35/fotmob-hoo-dles-v0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/FotMob-v0.0-gray?labelColor=26A65B&logo=botmob&logoColor=white"></a></summary>
+<blockquote>
+
+[Release 2026-03-25](../../releases/tag/35)<br>
+Patches: hoo-dles/morphe-patches
+- Init
+</blockquote>
+</details>
+
+---
+
+### [Windy](https://play.google.com/store/apps/details?id=com.windyty.android)
+
+<details>
+<summary id="Windy">&ensp;<a href="../../releases/download/35/windy-hoo-dles-v0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Windy-v0.0-gray?labelColor=C62828&logo=windy&logoColor=white"></a></summary>
+<blockquote>
+
+[Release 2026-03-25](../../releases/tag/35)<br>
+Patches: hoo-dles/morphe-patches
+- Init
+</blockquote>
+</details>
+
+---
+
+### [Proton VPN](https://play.google.com/store/apps/details?id=ch.protonvpn.android)
+
+<details>
+<summary id="Proton-VPN">&ensp;<a href="../../releases/download/35/proton-vpn-hoo-dles-v0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Proton_VPN-v0.0-gray?labelColor=6D4AFF&logo=protonvpn&logoColor=white"></a></summary>
+<blockquote>
+
+[Release 2026-03-25](../../releases/tag/35)<br>
+Patches: hoo-dles/morphe-patches
+- Init
+</blockquote>
+</details>
+
+---
+
+### [Proton Mail](https://play.google.com/store/apps/details?id=ch.protonmail.android)
+
+<details>
+<summary id="Proton-Mail">&ensp;<a href="../../releases/download/35/proton-mail-rookieenough-v0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Proton_Mail-v0.0-gray?labelColor=6A4DFF&logo=protonmail&logoColor=white"></a></summary>
+<blockquote>
+
+[Release 2026-03-25](../../releases/tag/35)<br>
+Patches: RookieEnough/De-ReVanced
+- Init
+</blockquote>
+</details>
+
+---
+
+### [Pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android)
+
+<details>
+<summary id="Pixiv">&ensp;<a href="../../releases/download/35/pixiv-rookieenough-v0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Pixiv-v0.0-gray?labelColor=0096FA&logo=pixiv&logoColor=white"></a></summary>
+<blockquote>
+
+[Release 2026-03-25](../../releases/tag/35)<br>
+Patches: RookieEnough/De-ReVanced
+- Init
+</blockquote>
+</details>
+
+---
+
+### [Inshorts](https://play.google.com/store/apps/details?id=com.nis.app)
+
+<details>
+<summary id="Inshorts">&ensp;<a href="../../releases/download/35/inshorts-rookieenough-v0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Inshorts-v0.0-gray?labelColor=2F7CF6&logo=inshorts&logoColor=white"></a></summary>
+<blockquote>
+
+[Release 2026-03-25](../../releases/tag/35)<br>
+Patches: RookieEnough/De-ReVanced
+- Init
+</blockquote>
+</details>
+
+---
+
+### [Mimo](https://play.google.com/store/apps/details?id=com.getmimo)
+
+<details>
+<summary id="Mimo">&ensp;<a href="../../releases/download/35/mimo-hoo-dles-v0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Mimo-v0.0-gray?labelColor=5A67D8&logo=mimo&logoColor=white"></a></summary>
+<blockquote>
+
+[Release 2026-03-25](../../releases/tag/35)<br>
+Patches: hoo-dles/morphe-patches
+- Init
+</blockquote>
+</details>
+
+---
+
+### [Solid Explorer](https://play.google.com/store/apps/details?id=pl.solidexplorer2)
+
+<details>
+<summary id="Solid-Explorer">&ensp;<a href="../../releases/download/35/solid-explorer-hoo-dles-v0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Solid_Explorer-v0.0-gray?labelColor=1976D2&logo=solidexplorer&logoColor=white"></a></summary>
+<blockquote>
+
+[Release 2026-03-25](../../releases/tag/35)<br>
+Patches: hoo-dles/morphe-patches
+- Init
+</blockquote>
+</details>
+
+---
+
 ## 🙏 Credits
 - Patches used in this repository:
 
-[![ReVanced](https://img.shields.io/github/license/ReVanced/revanced-patches?label=ReVanced)](https://github.com/ReVanced/revanced-patches) [![MorpheApp](https://img.shields.io/github/license/MorpheApp/morphe-patches?label=MorpheApp)](https://github.com/MorpheApp/morphe-patches) [![hoo-dles](https://img.shields.io/github/license/hoo-dles/morphe-patches?label=hoo-dles)](https://github.com/hoo-dles/morphe-patches) [![Aunali321](https://img.shields.io/github/license/Aunali321/ReVancedExperiments?label=Aunali321)](https://github.com/Aunali321/ReVancedExperiments) [![crimera](https://img.shields.io/github/license/crimera/piko?label=crimera)](https://github.com/crimera/piko) [![jkennethcarino](https://img.shields.io/github/license/jkennethcarino/adobo?label=jkennethcarino)](https://github.com/jkennethcarino/adobo) 
+[![ReVanced](https://img.shields.io/github/license/ReVanced/revanced-patches?label=ReVanced)](https://github.com/ReVanced/revanced-patches) [![MorpheApp](https://img.shields.io/github/license/MorpheApp/morphe-patches?label=MorpheApp)](https://github.com/MorpheApp/morphe-patches) [![hoo-dles](https://img.shields.io/github/license/hoo-dles/morphe-patches?label=hoo-dles)](https://github.com/hoo-dles/morphe-patches) [![RookieEnough](https://img.shields.io/github/license/RookieEnough/De-ReVanced?label=RookieEnough)](https://github.com/RookieEnough/De-ReVanced) [![Aunali321](https://img.shields.io/github/license/Aunali321/ReVancedExperiments?label=Aunali321)](https://github.com/Aunali321/ReVancedExperiments) [![crimera](https://img.shields.io/github/license/crimera/piko?label=crimera)](https://github.com/crimera/piko) [![jkennethcarino](https://img.shields.io/github/license/jkennethcarino/adobo?label=jkennethcarino)](https://github.com/jkennethcarino/adobo) 
 
 - Template generated from [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
