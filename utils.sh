@@ -184,7 +184,7 @@ config_update() {
 			if [ "$PATCHES_VER" = "dev" ]; then
 				last_patches=$(gh_req "$rv_rel" - | jq -e -r '.[0]')
 			elif [ "$PATCHES_VER" = "latest" ]; then
-				last_patches=$(gh_req "$rv_rel/latest" -)
+				if ! last_patches=$(gh_req "$rv_rel/latest" -); then continue; fi
 			else
 				last_patches=$(gh_req "$rv_rel/tags/${ver}" -)
 			fi

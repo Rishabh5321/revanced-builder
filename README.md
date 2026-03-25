@@ -223,38 +223,6 @@ Patches: MorpheApp/patches-1.21.1.mpp
 <blockquote>
 
 <details>
-<summary id="YouTube-Music-Morphe">&ensp;<a href="../../releases/download/33/youtube-music-morphe-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music_Morphe-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
-<blockquote>
-
-[Release 2026-03-23](../../releases/tag/33)<br>
-Patches: MorpheApp/patches-1.21.1.mpp
-- Bypass certificate checks
-- Change header
-- Change miniplayer color
-- Change start page
-- Check watch history domain name resolution
-- Custom branding
-- Disable DRC audio
-- Disable QUIC protocol
-- Enable debugging
-- Enable exclusive audio playback
-- Enable forced miniplayer
-- Force original audio
-- GmsCore support
-- Hide 'Get Music Premium'
-- Hide buttons
-- Hide category bar
-- Hide music video ads
-- Miniplayer previous and next buttons
-- Navigation bar
-- Permanent repeat
-- Remove background playback restrictions
-- Sanitize sharing links
-- Theme
-</blockquote>
-</details>
-
-<details>
 <summary id="YouTube-Music-ReVanced">&ensp;<a href="../../releases/download/31/youtube-music-revanced-v8.40.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music_ReVanced-v8.40.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 <blockquote>
 

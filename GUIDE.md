@@ -16,8 +16,7 @@
 - YouTube: `youtube-nvbangg`
 - YouTube Morphe: `youtube-morphe`
 - YouTube ReVanced: `youtube-revanced`
-- YouTube Music: `youtube-music-nvbangg`
-- YouTube Music Morphe: `youtube-music-morphe`
+- YouTube Music: `youtube-music-morphe`
 - YouTube Music ReVanced: `youtube-music-revanced`
 - Google Photos: `google-photos`
 

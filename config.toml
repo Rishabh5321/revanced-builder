@@ -25,20 +25,11 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 [YouTube-Music]
 patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
-rv-brand = "nvbangg"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-exclusive-patches = true
-included-patches = "'Bypass certificate checks' 'Enable exclusive audio playback' 'Hide ''Get Music Premium''' 'Hide music video ads' 'Navigation bar' 'Permanent repeat' 'Remove background playback restrictions' 'Sanitize sharing links'"
-
-[YouTube-Music-Morphe]
-patches-source = "MorpheApp/morphe-patches"
-cli-source = "MorpheApp/morphe-cli"
 app-name = "youtube-music"
 rv-brand = "morphe"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
 [YouTube-Music-ReVanced]
-excluded-patches = "'Custom branding'"
 app-name = "youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
@@ -56,13 +47,11 @@ uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 
 [Telegram]
 patches-source = "Aunali321/ReVancedExperiments"
-patches-version = "dev"
 rv-brand = "aunali321"
 uptodown-dlurl = "https://telegram-google-play-version.en.uptodown.com/android"
 
 [Telegram-Web]
 patches-source = "Aunali321/ReVancedExperiments"
-patches-version = "dev"
 rv-brand = "aunali321"
 uptodown-dlurl = "https://telegram.en.uptodown.com/android"
 
