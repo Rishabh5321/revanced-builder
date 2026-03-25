@@ -58,5 +58,5 @@ jobs:
           fi
 
           git checkout HEAD -- README.md config.toml 2>/dev/null || true
-          git commit -m "Merge remote-tracking branch 'upstream/main'"
+          git commit --author="${{ github.repository_owner }} <${{ github.repository_owner_id }}+${{ github.repository_owner }}@users.noreply.github.com>" -m "Merge remote-tracking branch 'upstream/main'"
           git push origin main
