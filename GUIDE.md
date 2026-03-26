@@ -18,30 +18,49 @@
 - YouTube ReVanced: `youtube-revanced`
 - YouTube Music: `youtube-music-morphe`
 - YouTube Music ReVanced: `youtube-music-revanced`
-- Google Photos: `google-photos`
+- Google Photos: `google-photos-rookieenough`
+- Google Photos ReVanced: `google-photos-revanced`
 
 - Instagram: `instagram`
-- Messenger: `messenger`
+- Messenger: `messenger-rookieenough`
+- Messenger ReVanced: `messenger-revanced`
 - TikTok: `tiktok`
 - Telegram: `telegram-aunali321`
 - Telegram Web: `telegram-web-aunali321`
 - X (Twitter): `twitter-revanced`
 - X (Twitter) Piko: `twitter-crimera`
 - Prime Video: `prime-video`
-- Disney+: `disney`
+- Disney+: `disney-rookieenough`
+- Disney+ ReVanced: `disney-revanced`
 - WPS-Office: `wps-office`
 - Duolingo: `duolingo`
 - Cake: `cake`
 - Twitch: `twitch`
 - Reddit: `reddit`
-- Photomath: `photomath`
+- Photomath: `photomath-rookieenough`
+- Photomath ReVanced: `photomath-revanced`
 - Gboard: `gboard`
 - Google Recorder: `google-recorder`
-- SoundCloud: `soundcloud`
+- SoundCloud: `soundcloud-rookieenough`
+- SoundCloud ReVanced: `soundcloud-revanced`
 - Pandora: `pandora`
-- Tumblr: `tumblr`
-- Cricbuzz: `cricbuzz`
+- Tumblr: `tumblr-rookieenough`
+- Tumblr ReVanced: `tumblr-revanced`
+- Cricbuzz: `cricbuzz-rookieenough`
+- Cricbuzz ReVanced: `cricbuzz-revanced`
 - MyFitnessPal: `myfitnesspal`
-- Strava: `strava`
+- Strava: `strava-rookieenough`
+- Strava ReVanced: `strava-revanced`
 - Crunchyroll: `crunchyroll`
 - Wallcraft: `wallcraft`
+- ibis Paint X: `ibis-paint-x`
+- RAR: `rar`
+- Sofascore: `sofascore`
+- FotMob: `fotmob`
+- Windy: `windy`
+- Proton VPN: `proton-vpn`
+- Proton Mail: `proton-mail`
+- Pixiv: `pixiv`
+- Inshorts: `inshorts`
+- Mimo: `mimo`
+- Solid Explorer: `solid-explorer`
