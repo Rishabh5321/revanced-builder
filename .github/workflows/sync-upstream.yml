@@ -1,0 +1,62 @@
+name: Sync Upstream
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 15 * * *"
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+          token: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
+          persist-credentials: true
+          fetch-depth: 0
+          fetch-tags: false
+
+      - name: Check upstream commits
+        id: check
+        env:
+          GH_TOKEN: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          UPSTREAM_REPO=$(gh api repos/${{ github.repository }} --jq '.parent.full_name // .template_repository.full_name' 2>/dev/null || echo "")
+          if [ "$UPSTREAM_REPO" = "null" ] || [ -z "$UPSTREAM_REPO" ]; then
+            UPSTREAM_REPO="j-hc/revanced-magisk-module"
+          fi
+          git remote add upstream "https://github.com/$UPSTREAM_REPO"
+          git fetch --no-tags upstream refs/heads/main:refs/remotes/upstream/main
+          git fetch --no-tags origin refs/heads/main:refs/remotes/origin/main
+
+          if git rev-list --count origin/main..upstream/main | grep -qx 0; then
+            echo "HAS_CHANGES=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          echo "HAS_CHANGES=true" >> "$GITHUB_OUTPUT"
+
+      - name: Merge upstream into main
+        if: steps.check.outputs.HAS_CHANGES == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git checkout -B main origin/main
+
+          if ! git merge upstream/main --no-ff --no-commit > /dev/null 2>&1; then
+            CONFLICT_FILES=$(git diff --name-only --diff-filter=U)
+            if echo "$CONFLICT_FILES" | grep -Ev '^(README\.md|config\.toml|GUIDE\.md)$' > /dev/null; then
+              echo "::error::Unresolved conflicts detected from upstream"
+              exit 1
+            fi
+
+            git checkout --ours -- README.md config.toml GUIDE.md 2>/dev/null || true
+            git add README.md config.toml GUIDE.md 2>/dev/null || true
+          fi
+
+          git checkout HEAD -- README.md config.toml GUIDE.md 2>/dev/null || true
+          git commit --author="${{ github.repository_owner }} <${{ github.repository_owner_id }}+${{ github.repository_owner }}@users.noreply.github.com>" -m "Merge remote-tracking branch 'upstream/main'"
+          git push origin main

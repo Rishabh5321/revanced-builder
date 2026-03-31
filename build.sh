@@ -4,6 +4,7 @@ set -euo pipefail
 shopt -s nullglob
 
 source utils.sh
+echo '{}' > "$BUILD_JSON_FILE"
 
 trap "abort" INT
 
@@ -85,7 +86,13 @@ for table_name in $(toml_get_table_names); do
 	read -r cli_jar patches_jar <<<"$PREBUILTS"
 	app_args[cli]=$cli_jar
 	app_args[ptjar]=$patches_jar
-	app_args[rv_brand]=$(toml_get "$t" rv-brand) || app_args[rv_brand]=$DEF_RV_BRAND
+	patches_file=${patches_jar##*/}
+	patches_ver=${patches_file#*-}
+	patches_ver=${patches_ver%.*}
+	app_args[patches_src]=$patches_src
+	app_args[patches_ref]="${patches_src%%/*}/${patches_file}"
+	app_args[changelog_url]="https://github.com/${patches_src}/releases/tag/v${patches_ver#v}"
+	app_args[rv_brand]=$(toml_get "$t" rv-brand) || app_args[rv_brand]="${patches_src%%/*}"
 
 	app_args[excluded_patches]=$(toml_get "$t" excluded-patches) || app_args[excluded_patches]=""
 	if [ -n "${app_args[excluded_patches]}" ] && [[ ${app_args[excluded_patches]} != *'"'* ]]; then abort "patch names inside excluded-patches must be quoted"; fi
@@ -100,7 +107,7 @@ for table_name in $(toml_get_table_names); do
 		if ! isoneof "${app_args[build_mode]}" both apk module; then
 			abort "ERROR: build-mode '${app_args[build_mode]}' is not a valid option for '${table_name}': only 'both', 'apk' or 'module' is allowed"
 		fi
-	} || app_args[build_mode]=apk
+	} || app_args[build_mode]=both
 
 	for dl_from in "${DL_SRCS[@]}"; do
 		if app_args[${dl_from}_dlurl]=$(toml_get "$t" "${dl_from}-dlurl"); then
@@ -113,7 +120,7 @@ for table_name in $(toml_get_table_names); do
 		fi
 	done
 	if [ -z "${app_args[dl_from]-}" ]; then abort "ERROR: no 'dlurl' option was set for '$table_name'. (${DL_SRCS[*]})"; fi
-	app_args[arch]=$(toml_get "$t" arch) || app_args[arch]="all"
+	app_args[arch]=$(toml_get "$t" arch) || app_args[arch]="both"
 	if ! isoneof "${app_args[arch]}" "both" "all" "arm64-v8a" "arm-v7a" "x86_64" "x86"; then
 		abort "wrong arch '${app_args[arch]}' for '$table_name'"
 	fi
@@ -154,9 +161,7 @@ wait
 rm -rf temp/tmp.*
 if [ -z "$(ls -A1 "${BUILD_DIR}")" ]; then abort "All builds failed."; fi
 
-log "\nInstall [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs"
-log "Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music modules from Play Store"
-log "\n[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)\n"
+log "\n"
 log "$(cat "$TEMP_DIR"/*/changelog.md)"
 
 SKIPPED=$(cat "$TEMP_DIR"/skipped 2>/dev/null || :)
