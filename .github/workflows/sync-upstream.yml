@@ -25,7 +25,7 @@ jobs:
         run: |
           UPSTREAM_REPO=$(gh api repos/${{ github.repository }} --jq '.parent.full_name // .template_repository.full_name' 2>/dev/null || echo "")
           if [ "$UPSTREAM_REPO" = "null" ] || [ -z "$UPSTREAM_REPO" ]; then
-            UPSTREAM_REPO="j-hc/revanced-magisk-module"
+            UPSTREAM_REPO="nvbangg/revanced-morphe-builder"
           fi
           git remote add upstream "https://github.com/$UPSTREAM_REPO"
           git fetch --no-tags upstream refs/heads/main:refs/remotes/upstream/main
