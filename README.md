@@ -386,14 +386,14 @@ Patches: anddea/patches-4.0.0.mpp
 ### [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
 
 <details>
-<summary id="Google-Photos-DeReVanced">&ensp;<a href="../../releases/download/36/google-photos-rookieenough-v7.68.0.884121604-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v7.68.0.884121604-gray?labelColor=FBBC04&logo=google-photos&logoColor=white"></a></summary>
+<summary id="Google-Photos-DeReVanced">&ensp;<a href="../../releases/download/38/google-photos-rookieenough-v7.69.0.890655694-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v7.69.0.890655694-gray?labelColor=FBBC04&logo=google-photos&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/36/google-photos-rookieenough-v7.68.0.884121604-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/36/google-photos-rookieenough-v7.68.0.884121604-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/36/google-photos-rookieenough-v7.68.0.884121604-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/38/google-photos-rookieenough-v7.69.0.890655694-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/38/google-photos-rookieenough-module-v7.69.0.890655694-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/38/google-photos-rookieenough-module-v7.69.0.890655694-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/36)<br>
-Patches: RookieEnough/patches-1.0.1.mpp
+[Release 2026-03-31](../../releases/tag/38)<br>
+Patches: [RookieEnough/patches-1.0.1.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.1)
 - GmsCore support
 - Spoof features
 </blockquote>
@@ -416,14 +416,14 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)
 
 <details>
-<summary id="Instagram-Piko">&ensp;<a href="../../releases/download/31/instagram-crimera-v422.0.0.15.64-arm64-v8a.apk"><img src="https://img.shields.io/badge/Piko-v0.0-gray?labelColor=E4405F&logo=Instagram&logoColor=white"></a></summary>
+<summary id="Instagram-Piko">&ensp;<a href="../../releases/download/38/instagram-crimera-v424.0.0.0.46-arm64-v8a.apk"><img src="https://img.shields.io/badge/Piko-v424.0.0.0.46-gray?labelColor=E4405F&logo=Instagram&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/31/instagram-crimera-v422.0.0.15.64-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/31/instagram-crimera-v422.0.0.15.64-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/31/instagram-crimera-v422.0.0.15.64-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/38/instagram-crimera-v424.0.0.0.46-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/38/instagram-crimera-module-v424.0.0.0.46-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/38/instagram-crimera-module-v424.0.0.0.46-arm-v7a.zip)
 <blockquote>
 
-Patches: crimera/piko
-
+[Release 2026-03-31](../../releases/tag/38)<br>
+Patches: [crimera/patches-3.1.0.mpp](https://github.com/crimera/piko/releases/tag/v3.1.0)
 </blockquote>
 </details>
 
@@ -544,14 +544,14 @@ Patches: Aunali321/patches-2.0.0.rvp
 ### [X (Twitter)](https://play.google.com/store/apps/details?id=com.twitter.android)
 
 <details>
-<summary id="Twitter-Piko">&ensp;<a href="../../releases/download/35/twitter-crimera-v11.75.1-release.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Piko-v11.75.1.release.0-gray?labelColor=0F1419&logo=X&logoColor=white"></a></summary>
+<summary id="Twitter-Piko">&ensp;<a href="../../releases/download/38/twitter-crimera-v11.77.0-release.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Piko-v11.77.0.release.0-gray?labelColor=0F1419&logo=X&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/35/twitter-crimera-v11.75.1-release.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/35/twitter-crimera-v11.75.1-release.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/35/twitter-crimera-v11.75.1-release.0-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/38/twitter-crimera-v11.77.0-release.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/38/twitter-crimera-module-v11.77.0-release.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/38/twitter-crimera-module-v11.77.0-release.0-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/35)<br>
-Patches: crimera/patches-3.0.0.mpp
+[Release 2026-03-31](../../releases/tag/38)<br>
+Patches: [crimera/patches-3.1.0.mpp](https://github.com/crimera/piko/releases/tag/v3.1.0)
 - Add ability to copy media link
 - Change app icon
 - Change version code
@@ -653,14 +653,14 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Disney+](https://play.google.com/store/apps/details?id=com.disney.disneyplus)
 
 <details>
-<summary id="Disney-DeReVanced">&ensp;<a href="../../releases/download/36/disney-rookieenough-v26.3.0+rc4-2026.03.12-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v26.3.0+rc4.2026.03.12-gray?labelColor=113CCF&logo=Disney%2B&logoColor=white"></a></summary>
+<summary id="Disney-DeReVanced">&ensp;<a href="../../releases/download/38/disney-rookieenough-v26.4.0+rc4-2026.03.25-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v26.4.0+rc4.2026.03.25-gray?labelColor=113CCF&logo=Disney%2B&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/36/disney-rookieenough-v26.3.0+rc4-2026.03.12-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/36/disney-rookieenough-v26.3.0+rc4-2026.03.12-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/36/disney-rookieenough-v26.3.0+rc4-2026.03.12-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/38/disney-rookieenough-v26.4.0+rc4-2026.03.25-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/38/disney-rookieenough-module-v26.4.0+rc4-2026.03.25-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/38/disney-rookieenough-module-v26.4.0+rc4-2026.03.25-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/36)<br>
-Patches: RookieEnough/patches-1.0.1.mpp
+[Release 2026-03-31](../../releases/tag/38)<br>
+Patches: [RookieEnough/patches-1.0.1.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.1)
 - Skip ads
 </blockquote>
 </details>
@@ -803,14 +803,14 @@ Patches: anddea/patches-4.0.0.mpp
 ### [Photomath](https://play.google.com/store/apps/details?id=com.microblink.photomath)
 
 <details>
-<summary id="Photomath-DeReVanced">&ensp;<a href="../../releases/download/36/photomath-rookieenough-v8.47.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v8.47.1-gray?labelColor=DA2323&logo=google&logoColor=white"></a></summary>
+<summary id="Photomath-DeReVanced">&ensp;<a href="../../releases/download/38/photomath-rookieenough-v8.47.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v8.47.1-gray?labelColor=DA2323&logo=google&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/36/photomath-rookieenough-v8.47.1-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/36/photomath-rookieenough-v8.47.1-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/36/photomath-rookieenough-v8.47.1-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/38/photomath-rookieenough-v8.47.1-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/38/photomath-rookieenough-module-v8.47.1-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/38/photomath-rookieenough-module-v8.47.1-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/36)<br>
-Patches: RookieEnough/patches-1.0.1.mpp
+[Release 2026-03-31](../../releases/tag/38)<br>
+Patches: [RookieEnough/patches-1.0.1.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.1)
 - Hide update popup
 - Spoof device ID
 - Unlock plus
@@ -835,14 +835,14 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
 
 <details>
-<summary id="Gboard">&ensp;<a href="../../releases/download/31/gboard-jkennethcarino-v16.9.1.873986071-release-arm64-v8a-arm64-v8a.apk"><img src="https://img.shields.io/badge/Gboard-v16.9.1.873986071.release.arm64.v8a-gray?labelColor=4285F4&logo=Google&logoColor=white"></a></summary>
+<summary id="Gboard">&ensp;<a href="../../releases/download/38/gboard-jkennethcarino-v17.0.12.880768217-release-arm64-v8a-arm64-v8a.apk"><img src="https://img.shields.io/badge/Gboard-v17.0.12.880768217.release.arm64.v8a-gray?labelColor=4285F4&logo=Google&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/31/gboard-jkennethcarino-v16.9.1.873986071-release-arm64-v8a-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/31/gboard-jkennethcarino-v16.9.1.873986071-release-arm64-v8a-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/31/gboard-jkennethcarino-v16.9.1.873986071-release-arm64-v8a-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/31/gboard-jkennethcarino-v16.9.1.873986071-release-arm64-v8a-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/38/gboard-jkennethcarino-module-v17.0.12.880768217-release-arm64-v8a-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/31/gboard-jkennethcarino-v16.9.1.873986071-release-arm64-v8a-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-03-20](../../releases/tag/31)<br>
-Patches: jkennethcarino/patches-1.0.0.mpp
+[Release 2026-03-31](../../releases/tag/38)<br>
+Patches: [jkennethcarino/patches-1.0.0.mpp](https://github.com/jkennethcarino/adobo/releases/tag/v1.0.0)
 - Always-incognito mode
 - Enable OCR feature
 - Enable Undo feature
@@ -883,14 +883,14 @@ Patches: hoo-dles/patches-1.16.0.mpp
 **Other builds:**
 
 <details>
-<summary id="SoundCloud-DeReVanced">&ensp;<a href="../../releases/download/36/soundcloud-rookieenough-v2025.05.27-release-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v2025.05.27.release-gray?labelColor=FF5500&logo=SoundCloud&logoColor=white"></a></summary>
+<summary id="SoundCloud-DeReVanced">&ensp;<a href="../../releases/download/38/soundcloud-rookieenough-v2025.05.27-release-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v2025.05.27.release-gray?labelColor=FF5500&logo=SoundCloud&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/36/soundcloud-rookieenough-v2025.05.27-release-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/36/soundcloud-rookieenough-v2025.05.27-release-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/36/soundcloud-rookieenough-v2025.05.27-release-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/38/soundcloud-rookieenough-v2025.05.27-release-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/38/soundcloud-rookieenough-module-v2025.05.27-release-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/38/soundcloud-rookieenough-module-v2025.05.27-release-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/36)<br>
-Patches: RookieEnough/patches-1.0.1.mpp
+[Release 2026-03-31](../../releases/tag/38)<br>
+Patches: [RookieEnough/patches-1.0.1.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.1)
 - Disable telemetry
 - Enable offline sync
 - Hide ads
@@ -930,14 +930,14 @@ Patches: hoo-dles/patches-1.15.0.mpp
 ### [Tumblr](https://play.google.com/store/apps/details?id=com.tumblr)
 
 <details>
-<summary id="Tumblr-DeReVanced">&ensp;<a href="../../releases/download/36/tumblr-rookieenough-v43.8.0.107-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v43.8.0.107-gray?labelColor=36465D&logo=Tumblr&logoColor=white"></a></summary>
+<summary id="Tumblr-DeReVanced">&ensp;<a href="../../releases/download/38/tumblr-rookieenough-v43.9.0.109-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v43.9.0.109-gray?labelColor=36465D&logo=Tumblr&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/36/tumblr-rookieenough-v43.8.0.107-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/36/tumblr-rookieenough-v43.8.0.107-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/36/tumblr-rookieenough-v43.8.0.107-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/38/tumblr-rookieenough-v43.9.0.109-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/38/tumblr-rookieenough-module-v43.9.0.109-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/38/tumblr-rookieenough-module-v43.9.0.109-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/36)<br>
-Patches: RookieEnough/patches-1.0.1.mpp
+[Release 2026-03-31](../../releases/tag/38)<br>
+Patches: [RookieEnough/patches-1.0.1.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.1)
 - Disable Ad-Free Banner
 - Disable Tumblr TV
 - Disable blog notification reminder
@@ -968,14 +968,14 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Cricbuzz](https://play.google.com/store/apps/details?id=com.cricbuzz.android)
 
 <details>
-<summary id="Cricbuzz-DeReVanced">&ensp;<a href="../../releases/download/36/cricbuzz-rookieenough-v6.24.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v6.24.01-gray?labelColor=009270&logo=Cricbuzz&logoColor=white"></a></summary>
+<summary id="Cricbuzz-DeReVanced">&ensp;<a href="../../releases/download/38/cricbuzz-rookieenough-v6.24.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v6.24.01-gray?labelColor=009270&logo=Cricbuzz&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/36/cricbuzz-rookieenough-v6.24.01-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/36/cricbuzz-rookieenough-v6.24.01-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/36/cricbuzz-rookieenough-v6.24.01-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/38/cricbuzz-rookieenough-v6.24.01-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/38/cricbuzz-rookieenough-module-v6.24.01-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/38/cricbuzz-rookieenough-module-v6.24.01-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/36)<br>
-Patches: RookieEnough/patches-1.0.1.mpp
+[Release 2026-03-31](../../releases/tag/38)<br>
+Patches: [RookieEnough/patches-1.0.1.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.1)
 - Hide ads
 </blockquote>
 </details>
@@ -1012,14 +1012,14 @@ Patches: hoo-dles/patches-1.16.0.mpp
 ### [Strava](https://play.google.com/store/apps/details?id=com.strava)
 
 <details>
-<summary id="Strava-DeReVanced">&ensp;<a href="../../releases/download/36/strava-rookieenough-v455.11-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v455.11-gray?labelColor=FC4C02&logo=Strava&logoColor=white"></a></summary>
+<summary id="Strava-DeReVanced">&ensp;<a href="../../releases/download/38/strava-rookieenough-v455.11-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v455.11-gray?labelColor=FC4C02&logo=Strava&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/36/strava-rookieenough-v455.11-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/36/strava-rookieenough-v455.11-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/36/strava-rookieenough-v455.11-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/38/strava-rookieenough-v455.11-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/38/strava-rookieenough-module-v455.11-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/38/strava-rookieenough-module-v455.11-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/36)<br>
-Patches: RookieEnough/patches-1.0.1.mpp
+[Release 2026-03-31](../../releases/tag/38)<br>
+Patches: [RookieEnough/patches-1.0.1.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.1)
 - Add 'Give Kudos' button to 'Group Activity'
 - Add media download
 - Block Snowplow tracking
@@ -1067,14 +1067,16 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [KakaoTalk](https://play.google.com/store/apps/details?id=com.kakao.talk)
 
 <details>
-<summary id="KakaoTalk">&ensp;<a href="../../releases/download/37/kakaotalk-amplerevanced-v26.2.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/KakaoTalk-v26.2.2-gray?labelColor=FEE500&logo=kakaotalk&logoColor=000000"></a></summary>
+<summary id="KakaoTalk">&ensp;<a href="../../releases/download/38/kakaotalk-amplerevanced-v26.2.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/KakaoTalk-v26.2.2-gray?labelColor=FEE500&logo=kakaotalk&logoColor=000000"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/37/kakaotalk-amplerevanced-v26.2.2-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/37/kakaotalk-amplerevanced-v26.2.2-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/37/kakaotalk-amplerevanced-v26.2.2-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/38/kakaotalk-amplerevanced-v26.2.2-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/38/kakaotalk-amplerevanced-module-v26.2.2-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/38/kakaotalk-amplerevanced-module-v26.2.2-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-03-30](../../releases/tag/37)<br>
-Patches: AmpleReVanced/patches-1.0.0-dev.5.mpp
+[Release 2026-03-31](../../releases/tag/38)<br>
+Patches: [AmpleReVanced/patches-1.0.0-dev.8.mpp](https://github.com/AmpleReVanced/revanced-patches/releases/tag/v1.0.0-dev.8)
+- Add settings resources
+- Add settings tab
 - Allow Hide on Any Chat
 - Allow reply to feed
 - Always Show Kick Button
@@ -1095,12 +1097,14 @@ Patches: AmpleReVanced/patches-1.0.0-dev.5.mpp
 - Disable chat room list ad
 - Disable verifying signature
 - Enable recording pause/resume feature
+- Enable send big text
 - Force enable debug mode
 - Force enable emoticon plus feature
 - Ghost Mode
 - Hook Package Manager
 - Override feature flag
 - Play YouTube player in chat room
+- Register settings activity
 - Remove BizBoard ads
 - Remove More tab ad
 - Remove OpenLink chat room list ad
@@ -1152,14 +1156,14 @@ Patches: hoo-dles/patches-1.16.0.mpp
 ### [RAR](https://play.google.com/store/apps/details?id=com.rarlab.rar)
 
 <details>
-<summary id="RAR">&ensp;<a href="../../releases/download/36/rar-rookieenough-v7.20.build131-arm64-v8a.apk"><img src="https://img.shields.io/badge/RAR-v7.20.build131-gray?labelColor=FF6B00&logo=rar&logoColor=white"></a></summary>
+<summary id="RAR">&ensp;<a href="../../releases/download/38/rar-rookieenough-v7.20.build131-arm64-v8a.apk"><img src="https://img.shields.io/badge/RAR-v7.20.build131-gray?labelColor=FF6B00&logo=rar&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/36/rar-rookieenough-v7.20.build131-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/36/rar-rookieenough-v7.20.build131-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/36/rar-rookieenough-v7.20.build131-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/38/rar-rookieenough-v7.20.build131-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/38/rar-rookieenough-module-v7.20.build131-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/38/rar-rookieenough-module-v7.20.build131-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/36)<br>
-Patches: RookieEnough/patches-1.0.1.mpp
+[Release 2026-03-31](../../releases/tag/38)<br>
+Patches: [RookieEnough/patches-1.0.1.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.1)
 - Hide purchase reminder
 </blockquote>
 </details>
@@ -1222,14 +1226,14 @@ Patches: hoo-dles/patches-1.16.0.mpp
 ### [Proton Mail](https://play.google.com/store/apps/details?id=ch.protonmail.android)
 
 <details>
-<summary id="Proton-Mail">&ensp;<a href="../../releases/download/36/proton-mail-rookieenough-v4.15.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Proton_Mail-v4.15.0-gray?labelColor=6A4DFF&logo=protonmail&logoColor=white"></a></summary>
+<summary id="Proton-Mail">&ensp;<a href="../../releases/download/38/proton-mail-rookieenough-v4.15.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Proton_Mail-v4.15.0-gray?labelColor=6A4DFF&logo=protonmail&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/36/proton-mail-rookieenough-v4.15.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/36/proton-mail-rookieenough-v4.15.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/36/proton-mail-rookieenough-v4.15.0-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/38/proton-mail-rookieenough-v4.15.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/38/proton-mail-rookieenough-module-v4.15.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/38/proton-mail-rookieenough-module-v4.15.0-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/36)<br>
-Patches: RookieEnough/patches-1.0.1.mpp
+[Release 2026-03-31](../../releases/tag/38)<br>
+Patches: [RookieEnough/patches-1.0.1.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.1)
 - Remove 'Sent from' signature
 - Remove free accounts limit
 </blockquote>
@@ -1240,14 +1244,14 @@ Patches: RookieEnough/patches-1.0.1.mpp
 ### [Pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android)
 
 <details>
-<summary id="Pixiv">&ensp;<a href="../../releases/download/36/pixiv-rookieenough-v6.141.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Pixiv-v6.141.1-gray?labelColor=0096FA&logo=pixiv&logoColor=white"></a></summary>
+<summary id="Pixiv">&ensp;<a href="../../releases/download/38/pixiv-rookieenough-v6.141.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Pixiv-v6.141.1-gray?labelColor=0096FA&logo=pixiv&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/36/pixiv-rookieenough-v6.141.1-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/36/pixiv-rookieenough-v6.141.1-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/36/pixiv-rookieenough-v6.141.1-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/38/pixiv-rookieenough-v6.141.1-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/38/pixiv-rookieenough-module-v6.141.1-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/38/pixiv-rookieenough-module-v6.141.1-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/36)<br>
-Patches: RookieEnough/patches-1.0.1.mpp
+[Release 2026-03-31](../../releases/tag/38)<br>
+Patches: [RookieEnough/patches-1.0.1.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.1)
 - Hide ads
 </blockquote>
 </details>
@@ -1257,14 +1261,14 @@ Patches: RookieEnough/patches-1.0.1.mpp
 ### [Inshorts](https://play.google.com/store/apps/details?id=com.nis.app)
 
 <details>
-<summary id="Inshorts">&ensp;<a href="../../releases/download/36/inshorts-rookieenough-v6.12.7-arm64-v8a.apk"><img src="https://img.shields.io/badge/Inshorts-v6.12.7-gray?labelColor=2F7CF6&logo=inshorts&logoColor=white"></a></summary>
+<summary id="Inshorts">&ensp;<a href="../../releases/download/38/inshorts-rookieenough-v6.12.8-arm64-v8a.apk"><img src="https://img.shields.io/badge/Inshorts-v6.12.8-gray?labelColor=2F7CF6&logo=inshorts&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/36/inshorts-rookieenough-v6.12.7-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/36/inshorts-rookieenough-v6.12.7-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/36/inshorts-rookieenough-v6.12.7-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/36/inshorts-rookieenough-v6.12.7-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/38/inshorts-rookieenough-module-v6.12.8-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/36/inshorts-rookieenough-v6.12.7-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/36)<br>
-Patches: RookieEnough/patches-1.0.1.mpp
+[Release 2026-03-31](../../releases/tag/38)<br>
+Patches: [RookieEnough/patches-1.0.1.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.1)
 - Hide ads
 </blockquote>
 </details>
@@ -1274,14 +1278,16 @@ Patches: RookieEnough/patches-1.0.1.mpp
 ### [Letterboxd](https://play.google.com/store/apps/details?id=com.letterboxd.letterboxd)
 
 <details>
-<summary id="Letterboxd">&ensp;<a href="../../releases/download/36/letterboxd-rookieenough-v0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Letterboxd-v0.0-gray?labelColor=14181D&logo=Letterboxd&logoColor=white"></a></summary>
+<summary id="Letterboxd">&ensp;<a href="../../releases/download/38/letterboxd-rookieenough-v3.5.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Letterboxd-v3.5.0-gray?labelColor=14181D&logo=Letterboxd&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/36/letterboxd-rookieenough-v0.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/36/letterboxd-rookieenough-v0.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/36/letterboxd-rookieenough-v0.0-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/38/letterboxd-rookieenough-v3.5.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/38/letterboxd-rookieenough-module-v3.5.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/38/letterboxd-rookieenough-module-v3.5.0-arm-v7a.zip)
 <blockquote>
 
-Patches: RookieEnough/patches-1.0.1.mpp
-
+[Release 2026-03-31](../../releases/tag/38)<br>
+Patches: [RookieEnough/patches-1.0.1.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.1)
+- Hide ads
+- Unlock app icons
 </blockquote>
 </details>
 
