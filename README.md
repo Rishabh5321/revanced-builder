@@ -53,14 +53,14 @@ Patches: MorpheApp/patches-1.22.0.mpp
 **Other builds:**
 
 <details>
-<summary id="YouTube-Morphe">&ensp;<a href="../../releases/download/37/youtube-morpheapp-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube-Morphe">&ensp;<a href="../../releases/download/514/youtube-morphe-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/37/youtube-morpheapp-v20.45.36-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/37/youtube-morpheapp-module-v20.45.36-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/37/youtube-morpheapp-module-v20.45.36-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/514/youtube-morphe-v20.45.36-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/514/youtube-morphe-module-v20.45.36-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/514/youtube-morphe-module-v20.45.36-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-03-30](../../releases/tag/37)<br>
-Patches: MorpheApp/patches-1.22.0.mpp
+[Release 2026-04-01](../../releases/tag/514)<br>
+Patches: [MorpheApp/patches-1.22.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.22.0)
 - Alternative thumbnails
 - Ambient mode
 - Bypass URL redirects
@@ -274,14 +274,14 @@ Patches: anddea/patches-4.0.0.mpp
 ### [YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 
 <details>
-<summary id="YouTube-Music-Morphe">&ensp;<a href="../../releases/download/37/youtube-music-morpheapp-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music-Morphe">&ensp;<a href="../../releases/download/514/youtube-music-morphe-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/37/youtube-music-morpheapp-v8.44.54-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/37/youtube-music-morpheapp-module-v8.44.54-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/37/youtube-music-morpheapp-module-v8.44.54-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/514/youtube-music-morphe-v8.44.54-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/514/youtube-music-morphe-module-v8.44.54-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/514/youtube-music-morphe-module-v8.44.54-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-03-30](../../releases/tag/37)<br>
-Patches: MorpheApp/patches-1.22.0.mpp
+[Release 2026-04-01](../../releases/tag/514)<br>
+Patches: [MorpheApp/patches-1.22.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.22.0)
 - Bypass certificate checks
 - Change header
 - Change miniplayer color
@@ -502,14 +502,14 @@ Patches: ReVanced/patches-5.50.2.rvp
 ### [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 
 <details>
-<summary id="Telegram">&ensp;<a href="../../releases/download/35/telegram-aunali321-v12.5.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram-v12.5.2-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
+<summary id="Telegram">&ensp;<a href="../../releases/download/514/telegram-aunali321-v12.5.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram-v12.5.2-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/35/telegram-aunali321-v12.5.2-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/35/telegram-aunali321-module-v12.5.2-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/35/telegram-aunali321-module-v12.5.2-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/514/telegram-aunali321-v12.5.2-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/514/telegram-aunali321-module-v12.5.2-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/514/telegram-aunali321-module-v12.5.2-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-03-25](../../releases/tag/35)<br>
-Patches: Aunali321/patches-2.0.0.rvp
+[Release 2026-04-01](../../releases/tag/514)<br>
+Patches: [Aunali321/patches-2.0.0.rvp](https://github.com/Aunali321/ReVancedExperiments/releases/tag/v2.0.0)
 - Bypass Integrity
 - Disable Auto Update
 - Download Speed Boost
@@ -544,79 +544,14 @@ Patches: Aunali321/patches-2.0.0.rvp
 ### [X (Twitter)](https://play.google.com/store/apps/details?id=com.twitter.android)
 
 <details>
-<summary id="Twitter-Piko">&ensp;<a href="../../releases/download/38/twitter-crimera-v11.77.0-release.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Piko-v11.77.0.release.0-gray?labelColor=0F1419&logo=X&logoColor=white"></a></summary>
+<summary id="Twitter-Piko">&ensp;<a href="../../releases/download/514/twitter-crimera-v11.77.0-release.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Piko-v11.77.0.release.0-gray?labelColor=0F1419&logo=X&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/38/twitter-crimera-v11.77.0-release.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/38/twitter-crimera-module-v11.77.0-release.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/38/twitter-crimera-module-v11.77.0-release.0-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/514/twitter-crimera-v11.77.0-release.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/514/twitter-crimera-module-v11.77.0-release.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/514/twitter-crimera-module-v11.77.0-release.0-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-03-31](../../releases/tag/38)<br>
+[Release 2026-04-01](../../releases/tag/514)<br>
 Patches: [crimera/patches-3.1.0.mpp](https://github.com/crimera/piko/releases/tag/v3.1.0)
-- Add ability to copy media link
-- Change app icon
-- Change version code
-- Clear tracking params
-- Control video auto scroll
-- Custom download folder
-- Custom emoji font
-- Custom font
-- Custom sharing domain
-- Custom translator
-- Customise post font size
-- Customize Inline action Bar items
-- Customize Navigation Bar items
-- Customize default reply sorting
-- Customize explore tabs
-- Customize notification tabs
-- Customize profile tabs
-- Customize search suggestions
-- Customize search tab items
-- Customize side bar items
-- Customize timeline top bar
-- Delete from database
-- Disable auto timeline scroll on launch
-- Disable chirp font
-- Download patch
-- Enable PiP mode automatically
-- Enable Undo Posts
-- Enable debug menu for posts
-- Enable force HD videos
-- Force enable translate
-- Handle custom twitter links
-- Hide Banner
-- Hide Community Notes
-- Hide FAB
-- Hide FAB Menu Buttons
-- Hide Live Threads
-- Hide Recommended Users
-- Hide badges from navigation bar icons
-- Hide bookmark icon in timeline
-- Hide community badges
-- Hide followed by context
-- Hide hidden replies
-- Hide immersive player
-- Hide nudge button
-- Hide post metrics
-- Hide promote button
-- Hide timeline posts by category
-- Hook feature flag
-- Legacy share links
-- Log server response
-- Native downloader
-- Native reader mode
-- No shortened URL
-- Pause search suggestions
-- Remove Ads
-- Remove premium upsell
-- Remove search suggestions
-- Remove view count
-- Round off numbers
-- Selectable Text
-- Share Tweet as Image
-- Show changelogs
-- Show poll results
-- Show post source label
-- Show sensitive media
 </blockquote>
 </details>
 
@@ -749,14 +684,14 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
 
 <details>
-<summary id="Reddit-Morphe">&ensp;<a href="../../releases/download/37/reddit-morpheapp-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
+<summary id="Reddit-Morphe">&ensp;<a href="../../releases/download/514/reddit-morphe-morphe-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/37/reddit-morpheapp-v2026.04.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/37/reddit-morpheapp-module-v2026.04.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/37/reddit-morpheapp-module-v2026.04.0-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/514/reddit-morphe-morphe-v2026.04.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/514/reddit-morphe-morphe-module-v2026.04.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/514/reddit-morphe-morphe-module-v2026.04.0-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-03-30](../../releases/tag/37)<br>
-Patches: MorpheApp/patches-1.22.0.mpp
+[Release 2026-04-01](../../releases/tag/514)<br>
+Patches: [MorpheApp/patches-1.22.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.22.0)
 - Disable modern home
 - Disable screenshot popup
 - Hide Trending Today shelf
@@ -1125,14 +1060,14 @@ Patches: [AmpleReVanced/patches-1.0.0-dev.8.mpp](https://github.com/AmpleReVance
 ### [Wallcraft](https://play.google.com/store/apps/details?id=com.wallpaperscraft.wallpaper)
 
 <details>
-<summary id="Wallcraft">&ensp;<a href="../../releases/download/37/wallcraft-hoo-dles-v3.61.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
+<summary id="Wallcraft">&ensp;<a href="../../releases/download/514/wallcraft-hoo-dles-v3.61.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/37/wallcraft-hoo-dles-v3.61.01-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/37/wallcraft-hoo-dles-module-v3.61.01-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/37/wallcraft-hoo-dles-module-v3.61.01-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/514/wallcraft-hoo-dles-v3.61.01-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/514/wallcraft-hoo-dles-module-v3.61.01-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/514/wallcraft-hoo-dles-module-v3.61.01-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-03-30](../../releases/tag/37)<br>
-Patches: hoo-dles/patches-1.16.0.mpp
+[Release 2026-04-01](../../releases/tag/514)<br>
+Patches: [hoo-dles/patches-1.17.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.17.0)
 - Enable Premium
 </blockquote>
 </details>
