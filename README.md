@@ -7,9 +7,20 @@
 
 <div align="center">
 
-[![Releases](https://img.shields.io/github/downloads/nvbangg/revanced-morphe-builder/total?style=social&label=Releases%20%E2%80%A2%20Downloads&logo=github)](https://github.com/nvbangg/revanced-morphe-builder/releases) &ensp; [![Stars](https://img.shields.io/github/stars/nvbangg/revanced-morphe-builder?label=Star%20this%20repo%20if%20useful%20⭐&logo=github)](https://github.com/nvbangg/revanced-morphe-builder) &ensp; [![Donate](https://img.shields.io/badge/Support%20this%20project-pink?style=social&logo=github-sponsors)](https://nvbangg.github.io/#donate) <br>
-[![Other Tools](https://img.shields.io/badge/%F0%9F%91%89%20Other%20Tools-nvbangg--tools-blue)](https://github.com/nvbangg/nvbangg-tools)
+[![Releases](https://img.shields.io/github/downloads/nvbangg/revanced-morphe-builder/total?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNNSAyMGgxNHYtMkg1djJ6TTE5IDloLTRWM0g5djZINWw3IDcgNy03eiIvPjwvc3ZnPg==&label=Downloads)](https://github.com/nvbangg/revanced-morphe-builder/releases) &ensp; [![Stars](https://img.shields.io/github/stars/nvbangg/revanced-morphe-builder?label=Star%20this%20repo%20if%20useful%20⭐&logo=github)](https://github.com/nvbangg/revanced-morphe-builder) &ensp; [![Donate](https://img.shields.io/badge/Support-pink?style=social&logo=github-sponsors)](https://nvbangg.github.io/#donate) &ensp; [![Other Tools](https://img.shields.io/badge/%F0%9F%91%89%20Other%20Tools-nvbangg--tools-blue)](https://github.com/nvbangg/nvbangg-tools)
 </div> 
+
+<details>
+<summary>🩹 Patches & CLI used in this repository</summary>
+
+- **Patches:** 
+
+[![ReVanced](https://img.shields.io/github/license/ReVanced/revanced-patches?label=ReVanced)](https://github.com/ReVanced/revanced-patches) [![MorpheApp](https://img.shields.io/github/license/MorpheApp/morphe-patches?label=MorpheApp)](https://github.com/MorpheApp/morphe-patches) [![hoo-dles](https://img.shields.io/github/license/hoo-dles/morphe-patches?label=hoo-dles)](https://github.com/hoo-dles/morphe-patches) [![RookieEnough](https://img.shields.io/github/license/RookieEnough/De-ReVanced?label=RookieEnough)](https://github.com/RookieEnough/De-ReVanced) [![anddea](https://img.shields.io/github/license/anddea/revanced-patches?label=anddea)](https://github.com/anddea/revanced-patches) [![brosssh](https://img.shields.io/github/license/brosssh/morphe-patches?label=brosssh)](https://github.com/brosssh/morphe-patches) [![Aunali321](https://img.shields.io/github/license/Aunali321/ReVancedExperiments?label=Aunali321)](https://github.com/Aunali321/ReVancedExperiments) [![crimera](https://img.shields.io/github/license/crimera/piko?label=crimera)](https://github.com/crimera/piko) [![jkennethcarino](https://img.shields.io/github/license/jkennethcarino/adobo?label=jkennethcarino)](https://github.com/jkennethcarino/adobo) [![AmpleReVanced](https://img.shields.io/github/license/AmpleReVanced/revanced-patches?label=AmpleReVanced)](https://github.com/AmpleReVanced/revanced-patches) 
+
+- **CLI:** 
+ 
+[![ReVanced CLI](https://img.shields.io/github/license/revanced/revanced-cli?label=ReVanced%20CLI)](https://github.com/revanced/revanced-cli) [![Morphe CLI](https://img.shields.io/github/license/MorpheApp/morphe-cli?label=Morphe%20CLI)](https://github.com/MorpheApp/morphe-cli)
+</details>
 
 ---
 ### MicroG
@@ -1399,12 +1410,6 @@ Patches: brosssh/patches-2.1.0.mpp
 </details>
 
 ---
-
-## 🙏 Credits
-
-- Patches used in this repository:
-
-[![ReVanced](https://img.shields.io/github/license/ReVanced/revanced-patches?label=ReVanced)](https://github.com/ReVanced/revanced-patches) [![MorpheApp](https://img.shields.io/github/license/MorpheApp/morphe-patches?label=MorpheApp)](https://github.com/MorpheApp/morphe-patches) [![hoo-dles](https://img.shields.io/github/license/hoo-dles/morphe-patches?label=hoo-dles)](https://github.com/hoo-dles/morphe-patches) [![RookieEnough](https://img.shields.io/github/license/RookieEnough/De-ReVanced?label=RookieEnough)](https://github.com/RookieEnough/De-ReVanced) [![anddea](https://img.shields.io/github/license/anddea/revanced-patches?label=anddea)](https://github.com/anddea/revanced-patches) [![brosssh](https://img.shields.io/github/license/brosssh/morphe-patches?label=brosssh)](https://github.com/brosssh/morphe-patches) [![Aunali321](https://img.shields.io/github/license/Aunali321/ReVancedExperiments?label=Aunali321)](https://github.com/Aunali321/ReVancedExperiments) [![crimera](https://img.shields.io/github/license/crimera/piko?label=crimera)](https://github.com/crimera/piko) [![jkennethcarino](https://img.shields.io/github/license/jkennethcarino/adobo?label=jkennethcarino)](https://github.com/jkennethcarino/adobo) [![AmpleReVanced](https://img.shields.io/github/license/AmpleReVanced/revanced-patches?label=AmpleReVanced)](https://github.com/AmpleReVanced/revanced-patches) 
 
 ## ⭐ Star History
 
