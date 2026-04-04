@@ -774,14 +774,14 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [WPS Office](https://play.google.com/store/apps/details?id=cn.wps.moffice_eng)
 
 <details>
-<summary id="WPS-Office">&emsp;<a href="../../releases/download/40/wps-office-hoo-dles-v18.12.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/WPS_Office-v18.12.1-gray?labelColor=C03426&logo=wpsoffice&logoColor=white"></a></summary>
+<summary id="WPS-Office">&emsp;<a href="../../releases/download/41/wps-office-hoo-dles-v18.12.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/WPS_Office-v18.12.1-gray?labelColor=C03426&logo=wpsoffice&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/40/wps-office-hoo-dles-v18.12.1-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/wps-office-hoo-dles-module-v18.12.1-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/wps-office-hoo-dles-module-v18.12.1-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/41/wps-office-hoo-dles-v18.12.1-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/41/wps-office-hoo-dles-module-v18.12.1-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/41/wps-office-hoo-dles-module-v18.12.1-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-02](../../releases/tag/40)<br>
-Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.18.0)
+[Release 2026-04-04](../../releases/tag/41)<br>
+Patches: [hoo-dles/patches-1.19.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.19.0)
 - Disable anti-tamper
 - Enable Pro
 </blockquote>
@@ -791,14 +791,14 @@ Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Duolingo](https://play.google.com/store/apps/details?id=com.duolingo)
 
 <details>
-<summary id="Duolingo">&emsp;<a href="../../releases/download/40/duolingo-hoo-dles-v6.66.5-arm64-v8a.apk"><img src="https://img.shields.io/badge/Duolingo-v6.66.5-gray?labelColor=4DC730&logo=Duolingo&logoColor=white"></a></summary>
+<summary id="Duolingo">&emsp;<a href="../../releases/download/41/duolingo-hoo-dles-v6.66.5-arm64-v8a.apk"><img src="https://img.shields.io/badge/Duolingo-v6.66.5-gray?labelColor=4DC730&logo=Duolingo&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/40/duolingo-hoo-dles-v6.66.5-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/duolingo-hoo-dles-module-v6.66.5-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/duolingo-hoo-dles-module-v6.66.5-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/41/duolingo-hoo-dles-v6.66.5-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/41/duolingo-hoo-dles-module-v6.66.5-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/41/duolingo-hoo-dles-module-v6.66.5-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-02](../../releases/tag/40)<br>
-Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.18.0)
+[Release 2026-04-04](../../releases/tag/41)<br>
+Patches: [hoo-dles/patches-1.19.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.19.0)
 - Disable Login Integrity
 - Enable Premium
 </blockquote>
@@ -808,14 +808,14 @@ Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Cake](https://play.google.com/store/apps/details?id=me.mycake)
 
 <details>
-<summary id="Cake">&emsp;<a href="../../releases/download/40/cake-hoo-dles-v6.4.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cake-v6.4.0-gray?labelColor=FF6B35&logo=cake&logoColor=white"></a></summary>
+<summary id="Cake">&emsp;<a href="../../releases/download/41/cake-hoo-dles-v6.4.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cake-v6.4.0-gray?labelColor=FF6B35&logo=cake&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/40/cake-hoo-dles-v6.4.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/cake-hoo-dles-module-v6.4.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/cake-hoo-dles-module-v6.4.0-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/41/cake-hoo-dles-v6.4.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/41/cake-hoo-dles-module-v6.4.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/41/cake-hoo-dles-module-v6.4.0-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-02](../../releases/tag/40)<br>
-Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.18.0)
+[Release 2026-04-04](../../releases/tag/41)<br>
+Patches: [hoo-dles/patches-1.19.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.19.0)
 - Enable Plus
 </blockquote>
 </details>
@@ -960,14 +960,14 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android)
 
 <details>
-<summary id="SoundCloud-HooDles">&emsp;<a href="../../releases/download/40/soundcloud-hoo-dles-v2026.03.20-release-arm64-v8a.apk"><img src="https://img.shields.io/badge/HooDles-v2026.03.20.release-gray?labelColor=FF5500&logo=SoundCloud&logoColor=white"></a></summary>
+<summary id="SoundCloud-HooDles">&emsp;<a href="../../releases/download/41/soundcloud-hoo-dles-v2026.03.20-release-arm64-v8a.apk"><img src="https://img.shields.io/badge/HooDles-v2026.03.20.release-gray?labelColor=FF5500&logo=SoundCloud&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/40/soundcloud-hoo-dles-v2026.03.20-release-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/soundcloud-hoo-dles-module-v2026.03.20-release-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/soundcloud-hoo-dles-module-v2026.03.20-release-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/41/soundcloud-hoo-dles-v2026.03.20-release-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/41/soundcloud-hoo-dles-module-v2026.03.20-release-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/41/soundcloud-hoo-dles-module-v2026.03.20-release-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-02](../../releases/tag/40)<br>
-Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.18.0)
+[Release 2026-04-04](../../releases/tag/41)<br>
+Patches: [hoo-dles/patches-1.19.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.19.0)
 - Disable telemetry
 - Enable SoundCloud Go+
 </blockquote>
@@ -1006,14 +1006,14 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Pandora](https://play.google.com/store/apps/details?id=com.pandora.android)
 
 <details>
-<summary id="Pandora">&emsp;<a href="../../releases/download/40/pandora-hoo-dles-v2602.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Pandora-v2602.1-gray?labelColor=3668FF&logo=Pandora&logoColor=white"></a></summary>
+<summary id="Pandora">&emsp;<a href="../../releases/download/41/pandora-hoo-dles-v2602.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Pandora-v2602.1-gray?labelColor=3668FF&logo=Pandora&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/40/pandora-hoo-dles-v2602.1-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/pandora-hoo-dles-module-v2602.1-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/pandora-hoo-dles-module-v2602.1-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/41/pandora-hoo-dles-v2602.1-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/41/pandora-hoo-dles-module-v2602.1-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/41/pandora-hoo-dles-module-v2602.1-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-02](../../releases/tag/40)<br>
-Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.18.0)
+[Release 2026-04-04](../../releases/tag/41)<br>
+Patches: [hoo-dles/patches-1.19.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.19.0)
 - Disable ads
 - Unlimited skips
 </blockquote>
@@ -1089,14 +1089,14 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [MyFitnessPal](https://play.google.com/store/apps/details?id=com.myfitnesspal.android)
 
 <details>
-<summary id="MyFitnessPal">&emsp;<a href="../../releases/download/40/myfitnesspal-hoo-dles-v25.50.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/MyFitnessPal-v25.50.0-gray?labelColor=0066EE&logo=MyFitnessPal&logoColor=white"></a></summary>
+<summary id="MyFitnessPal">&emsp;<a href="../../releases/download/41/myfitnesspal-hoo-dles-v25.50.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/MyFitnessPal-v25.50.0-gray?labelColor=0066EE&logo=MyFitnessPal&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/40/myfitnesspal-hoo-dles-v25.50.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/myfitnesspal-hoo-dles-module-v25.50.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/myfitnesspal-hoo-dles-module-v25.50.0-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/41/myfitnesspal-hoo-dles-v25.50.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/41/myfitnesspal-hoo-dles-module-v25.50.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/41/myfitnesspal-hoo-dles-module-v25.50.0-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-02](../../releases/tag/40)<br>
-Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.18.0)
+[Release 2026-04-04](../../releases/tag/41)<br>
+Patches: [hoo-dles/patches-1.19.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.19.0)
 - Enable Premium+
 </blockquote>
 </details>
@@ -1219,14 +1219,14 @@ Patches: [AmpleReVanced/patches-1.0.0-dev.10.mpp](https://github.com/AmpleReVanc
 ### [Wallcraft](https://play.google.com/store/apps/details?id=com.wallpaperscraft.wallpaper)
 
 <details>
-<summary id="Wallcraft">&emsp;<a href="../../releases/download/40/wallcraft-hoo-dles-v3.61.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
+<summary id="Wallcraft">&emsp;<a href="../../releases/download/41/wallcraft-hoo-dles-v3.61.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/40/wallcraft-hoo-dles-v3.61.01-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/wallcraft-hoo-dles-module-v3.61.01-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/wallcraft-hoo-dles-module-v3.61.01-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/41/wallcraft-hoo-dles-v3.61.01-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/41/wallcraft-hoo-dles-module-v3.61.01-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/41/wallcraft-hoo-dles-module-v3.61.01-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-02](../../releases/tag/40)<br>
-Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.18.0)
+[Release 2026-04-04](../../releases/tag/41)<br>
+Patches: [hoo-dles/patches-1.19.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.19.0)
 - Enable Premium
 </blockquote>
 </details>
@@ -1236,11 +1236,11 @@ Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [ibis Paint X](https://play.google.com/store/apps/details?id=jp.ne.ibis.ibispaintx.app)
 
 <details>
-<summary id="ibis-Paint-X">&emsp;<a href="../../releases/download/40/ibis-paint-x-hoo-dles-v13.1.19-arm64-v8a.apk"><img src="https://img.shields.io/badge/ibis_Paint_X-v13.1.19-gray?labelColor=E64A8B&logo=ibispaintx&logoColor=white"></a></summary>
+<summary id="ibis-Paint-X">&emsp;<a href="../../releases/download/41/ibis-paint-x-hoo-dles-v13.1.19-arm64-v8a.apk"><img src="https://img.shields.io/badge/ibis_Paint_X-v13.1.19-gray?labelColor=E64A8B&logo=ibispaintx&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-04-02](../../releases/tag/40)<br>
-Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.18.0)
+[Release 2026-04-04](../../releases/tag/41)<br>
+Patches: [hoo-dles/patches-1.19.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.19.0)
 - Enable Prime membership
 </blockquote>
 </details>
@@ -1267,14 +1267,14 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [Sofascore](https://play.google.com/store/apps/details?id=com.sofascore.results)
 
 <details>
-<summary id="Sofascore">&emsp;<a href="../../releases/download/40/sofascore-hoo-dles-v25.12.17-arm64-v8a.apk"><img src="https://img.shields.io/badge/Sofascore-v25.12.17-gray?labelColor=1A4BFF&logo=sofascore&logoColor=white"></a></summary>
+<summary id="Sofascore">&emsp;<a href="../../releases/download/41/sofascore-hoo-dles-v25.12.17-arm64-v8a.apk"><img src="https://img.shields.io/badge/Sofascore-v25.12.17-gray?labelColor=1A4BFF&logo=sofascore&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/40/sofascore-hoo-dles-v25.12.17-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/sofascore-hoo-dles-module-v25.12.17-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/sofascore-hoo-dles-module-v25.12.17-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/41/sofascore-hoo-dles-v25.12.17-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/41/sofascore-hoo-dles-module-v25.12.17-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/41/sofascore-hoo-dles-module-v25.12.17-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-02](../../releases/tag/40)<br>
-Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.18.0)
+[Release 2026-04-04](../../releases/tag/41)<br>
+Patches: [hoo-dles/patches-1.19.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.19.0)
 - Disable ads
 </blockquote>
 </details>
@@ -1284,14 +1284,14 @@ Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Windy](https://play.google.com/store/apps/details?id=com.windyty.android)
 
 <details>
-<summary id="Windy">&emsp;<a href="../../releases/download/40/windy-hoo-dles-v49.0.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Windy-v49.0.1-gray?labelColor=C62828&logo=windy&logoColor=white"></a></summary>
+<summary id="Windy">&emsp;<a href="../../releases/download/41/windy-hoo-dles-v49.0.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Windy-v49.0.1-gray?labelColor=C62828&logo=windy&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/40/windy-hoo-dles-v49.0.1-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/windy-hoo-dles-module-v49.0.1-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/windy-hoo-dles-module-v49.0.1-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/41/windy-hoo-dles-v49.0.1-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/41/windy-hoo-dles-module-v49.0.1-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/41/windy-hoo-dles-module-v49.0.1-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-02](../../releases/tag/40)<br>
-Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.18.0)
+[Release 2026-04-04](../../releases/tag/41)<br>
+Patches: [hoo-dles/patches-1.19.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.19.0)
 - Enable Premium
 </blockquote>
 </details>
@@ -1301,14 +1301,14 @@ Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Proton VPN](https://play.google.com/store/apps/details?id=ch.protonvpn.android)
 
 <details>
-<summary id="Proton-VPN">&emsp;<a href="../../releases/download/40/proton-vpn-hoo-dles-v5.16.83.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Proton_VPN-v5.16.83.0-gray?labelColor=6D4AFF&logo=protonvpn&logoColor=white"></a></summary>
+<summary id="Proton-VPN">&emsp;<a href="../../releases/download/41/proton-vpn-hoo-dles-v5.16.83.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Proton_VPN-v5.16.83.0-gray?labelColor=6D4AFF&logo=protonvpn&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/40/proton-vpn-hoo-dles-v5.16.83.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/proton-vpn-hoo-dles-module-v5.16.83.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/proton-vpn-hoo-dles-module-v5.16.83.0-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/41/proton-vpn-hoo-dles-v5.16.83.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/41/proton-vpn-hoo-dles-module-v5.16.83.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/41/proton-vpn-hoo-dles-module-v5.16.83.0-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-02](../../releases/tag/40)<br>
-Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.18.0)
+[Release 2026-04-04](../../releases/tag/41)<br>
+Patches: [hoo-dles/patches-1.19.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.19.0)
 - Remove delay
 - Unlock custom DNS
 - Unlock split tunneling
@@ -1391,14 +1391,14 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [Mimo](https://play.google.com/store/apps/details?id=com.getmimo)
 
 <details>
-<summary id="Mimo">&emsp;<a href="../../releases/download/40/mimo-hoo-dles-v9.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Mimo-v9.0-gray?labelColor=5A67D8&logo=mimo&logoColor=white"></a></summary>
+<summary id="Mimo">&emsp;<a href="../../releases/download/41/mimo-hoo-dles-v9.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Mimo-v9.0-gray?labelColor=5A67D8&logo=mimo&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/40/mimo-hoo-dles-v9.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/mimo-hoo-dles-module-v9.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/mimo-hoo-dles-module-v9.0-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/41/mimo-hoo-dles-v9.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/41/mimo-hoo-dles-module-v9.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/41/mimo-hoo-dles-module-v9.0-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-02](../../releases/tag/40)<br>
-Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.18.0)
+[Release 2026-04-04](../../releases/tag/41)<br>
+Patches: [hoo-dles/patches-1.19.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.19.0)
 - Enable Pro
 - Spoof package signature
 </blockquote>
@@ -1409,14 +1409,14 @@ Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Solid Explorer](https://play.google.com/store/apps/details?id=pl.solidexplorer2)
 
 <details>
-<summary id="Solid-Explorer">&emsp;<a href="../../releases/download/40/solid-explorer-hoo-dles-v3.4.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Solid_Explorer-v3.4.1-gray?labelColor=1976D2&logo=solidexplorer&logoColor=white"></a></summary>
+<summary id="Solid-Explorer">&emsp;<a href="../../releases/download/41/solid-explorer-hoo-dles-v3.4.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Solid_Explorer-v3.4.1-gray?labelColor=1976D2&logo=solidexplorer&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/40/solid-explorer-hoo-dles-v3.4.1-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/solid-explorer-hoo-dles-module-v3.4.1-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/solid-explorer-hoo-dles-module-v3.4.1-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/41/solid-explorer-hoo-dles-v3.4.1-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/41/solid-explorer-hoo-dles-module-v3.4.1-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/41/solid-explorer-hoo-dles-module-v3.4.1-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-02](../../releases/tag/40)<br>
-Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.18.0)
+[Release 2026-04-04](../../releases/tag/41)<br>
+Patches: [hoo-dles/patches-1.19.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.19.0)
 - Enable Pro
 - MicroG integration
 </blockquote>
@@ -1427,14 +1427,14 @@ Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [FotMob](https://play.google.com/store/apps/details?id=com.mobilefootie.wc2010)
 
 <details>
-<summary id="FotMob">&emsp;<a href="../../releases/download/40/fotmob-hoo-dles-v226.16092.20260302-arm64-v8a.apk"><img src="https://img.shields.io/badge/FotMob-v226.16092.20260302-gray?labelColor=26A65B&logo=botmob&logoColor=white"></a></summary>
+<summary id="FotMob">&emsp;<a href="../../releases/download/41/fotmob-hoo-dles-v226.16092.20260302-arm64-v8a.apk"><img src="https://img.shields.io/badge/FotMob-v226.16092.20260302-gray?labelColor=26A65B&logo=botmob&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/40/fotmob-hoo-dles-v226.16092.20260302-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/fotmob-hoo-dles-module-v226.16092.20260302-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/fotmob-hoo-dles-module-v226.16092.20260302-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/41/fotmob-hoo-dles-v226.16092.20260302-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/41/fotmob-hoo-dles-module-v226.16092.20260302-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/41/fotmob-hoo-dles-module-v226.16092.20260302-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-02](../../releases/tag/40)<br>
-Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.18.0)
+[Release 2026-04-04](../../releases/tag/41)<br>
+Patches: [hoo-dles/patches-1.19.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.19.0)
 - Enable FotMob+
 </blockquote>
 </details>
@@ -1444,14 +1444,14 @@ Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Meme Generator](https://play.google.com/store/apps/details?id=net.zombodroid.MemeGenerator)
 
 <details>
-<summary id="Meme-Generator">&emsp;<a href="../../releases/download/40/meme-generator-hoo-dles-v4.6671-arm64-v8a.apk"><img src="https://img.shields.io/badge/Meme_Generator-v4.6671-gray?labelColor=D21F3C&logo=meme-generator&logoColor=white"></a></summary>
+<summary id="Meme-Generator">&emsp;<a href="../../releases/download/41/meme-generator-hoo-dles-v4.6671-arm64-v8a.apk"><img src="https://img.shields.io/badge/Meme_Generator-v4.6671-gray?labelColor=D21F3C&logo=meme-generator&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/40/meme-generator-hoo-dles-v4.6671-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/meme-generator-hoo-dles-module-v4.6671-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/meme-generator-hoo-dles-module-v4.6671-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/41/meme-generator-hoo-dles-v4.6671-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/41/meme-generator-hoo-dles-module-v4.6671-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/41/meme-generator-hoo-dles-module-v4.6671-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-02](../../releases/tag/40)<br>
-Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.18.0)
+[Release 2026-04-04](../../releases/tag/41)<br>
+Patches: [hoo-dles/patches-1.19.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.19.0)
 - Enable Pro
 </blockquote>
 </details>
