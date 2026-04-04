@@ -2,14 +2,107 @@
 
 > [!NOTE]
 > Automated builds and app info updates for ReVanced, Morphe & many other patches (updated daily).     
-> ⭐ First build per app is recommended (arm64-v8a.apk). Expand to view other variants and patch details.      
-> ⬇️ Easily install and update apps (APK) with [Obtainium](https://github.com/ImranR98/Obtainium/releases): [See Guide](GUIDE.md)     
+> ⭐ First build per app is recommended (arm64-v8a.apk). Expand to view other variants and patch details.          
 
 <div align="center">
 
-[![Releases](https://img.shields.io/github/downloads/nvbangg/revanced-morphe-builder/total?style=social&label=Releases%20%E2%80%A2%20Downloads&logo=github)](https://github.com/nvbangg/revanced-morphe-builder/releases) &ensp; [![Stars](https://img.shields.io/github/stars/nvbangg/revanced-morphe-builder?label=Star%20this%20repo%20if%20useful%20⭐&logo=github)](https://github.com/nvbangg/revanced-morphe-builder) &ensp; [![Donate](https://img.shields.io/badge/Support%20this%20project-pink?style=social&logo=github-sponsors)](https://nvbangg.github.io/#donate) <br>
-[![Other Tools](https://img.shields.io/badge/%F0%9F%91%89%20Other%20Tools-nvbangg--tools-blue)](https://github.com/nvbangg/nvbangg-tools)
+[![Releases](https://img.shields.io/github/downloads/nvbangg/revanced-morphe-builder/total?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNNSAyMGgxNHYtMkg1djJ6TTE5IDloLTRWM0g5djZINWw3IDcgNy03eiIvPjwvc3ZnPg==&label=Downloads)](https://github.com/nvbangg/revanced-morphe-builder/releases)　[![Stars](https://img.shields.io/github/stars/nvbangg/revanced-morphe-builder?label=Star%20this%20repo%20if%20useful%20⭐&logo=github)](https://github.com/nvbangg/revanced-morphe-builder)　[![Donate](https://img.shields.io/badge/Support-pink?style=social&logo=github-sponsors)](https://nvbangg.github.io/#donate)　[![Other Tools](https://img.shields.io/badge/%F0%9F%91%89%20Other%20Tools-nvbangg--tools-blue)](https://github.com/nvbangg/nvbangg-tools)
 </div> 
+
+<details>
+<summary><b>⬇️ Easily install and update apps (APK) with <a href="https://github.com/ImranR98/Obtainium/releases">Obtainium</a></b></summary>
+
+- First, you need to download and install [Obtainium](https://github.com/ImranR98/Obtainium/releases)
+- How to add the app to Obtainium
+
+<img height="450" alt="image" src="https://github.com/user-attachments/assets/5a4b0c89-2a1e-41fb-a679-9104e9c9f294" />
+
+- In step 2, Enter `https://github.com/nvbangg/revanced-morphe-builder`
+
+  - MicroG-RE: `https://github.com/MorpheApp/MicroG-RE`
+  - MicroG: `https://github.com/ReVanced/GmsCore`
+
+- In step 3, enter the expression below for the app you want (except MicroG/MicroG-RE):
+
+  - YouTube: `youtube-nvbangg`
+  - YouTube Morphe: `youtube-morpheapp`
+  - YouTube ReVanced: `youtube-revanced`
+  - YouTube Anddea: `youtube-anddea`
+  - YouTube Music Morphe: `youtube-music-morpheapp`
+  - YouTube Music ReVanced: `youtube-music-revanced`
+  - YouTube Music Anddea: `youtube-music-anddea`
+  - Google Photos DeReVanced: `google-photos-rookieenough`
+  - Google Photos ReVanced: `google-photos-revanced`
+
+  <details>
+  <summary>Other apps:</summary>
+
+  - Instagram Piko: `instagram-piko`
+  - Instagram ReVanced: `instagram-revanced`
+  - Messenger DeReVanced: `messenger-rookieenough`
+  - Messenger ReVanced: `messenger-revanced`
+  - TikTok: `tiktok`
+  - Telegram: `telegram-aunali321`
+  - Telegram Web: `telegram-web-aunali321`
+  - X (Twitter) Piko: `twitter-crimera`
+  - X (Twitter) ReVanced: `twitter-revanced`
+  - Prime Video: `prime-video`
+  - Disney+ DeReVanced: `disney-rookieenough`
+  - Disney+ ReVanced: `disney-revanced`
+  - WPS-Office: `wps-office`
+  - Duolingo: `duolingo`
+  - Cake: `cake`
+  - Twitch: `twitch`
+  - Reddit Morphe: `reddit-morpheapp`
+  - Reddit Anddea: `reddit-anddea`
+  - Photomath DeReVanced: `photomath-rookieenough`
+  - Photomath ReVanced: `photomath-revanced`
+  - Gboard: `gboard`
+  - Google Recorder: `google-recorder`
+  - SoundCloud HooDles: `soundcloud-hoo-dles`
+  - SoundCloud DeReVanced: `soundcloud-rookieenough`
+  - SoundCloud ReVanced: `soundcloud-revanced`
+  - Pandora: `pandora`
+  - Tumblr DeReVanced: `tumblr-rookieenough`
+  - Tumblr ReVanced: `tumblr-revanced`
+  - Cricbuzz DeReVanced: `cricbuzz-rookieenough`
+  - Cricbuzz ReVanced: `cricbuzz-revanced`
+  - MyFitnessPal: `myfitnesspal`
+  - Strava DeReVanced: `strava-rookieenough`
+  - Strava ReVanced: `strava-revanced`
+  - Crunchyroll: `crunchyroll`
+  - KakaoTalk: `kakaotalk`
+  - Wallcraft: `wallcraft`
+  - ibis Paint X: `ibis-paint-x`
+  - RAR: `rar`
+  - Sofascore: `sofascore`
+  - Windy: `windy`
+  - Proton VPN: `proton-vpn`
+  - Proton Mail: `proton-mail`
+  - Pixiv: `pixiv`
+  - Inshorts: `inshorts`
+  - Letterboxd: `letterboxd`
+  - Mimo: `mimo`
+  - Solid Explorer: `solid-explorer`
+  - FotMob: `fotmob`
+  - Meme Generator: `meme-generator`
+  - Komoot: `komoot`
+  - Mapy: `mapy`
+  </details>
+
+</details>
+
+<details>
+<summary><b>💊 Patches & CLI used in this repository</b></summary>
+
+- **Patches:** 
+
+[![ReVanced](https://img.shields.io/github/license/ReVanced/revanced-patches?label=ReVanced)](https://github.com/ReVanced/revanced-patches) [![MorpheApp](https://img.shields.io/github/license/MorpheApp/morphe-patches?label=MorpheApp)](https://github.com/MorpheApp/morphe-patches) [![hoo-dles](https://img.shields.io/github/license/hoo-dles/morphe-patches?label=hoo-dles)](https://github.com/hoo-dles/morphe-patches) [![RookieEnough](https://img.shields.io/github/license/RookieEnough/De-ReVanced?label=RookieEnough)](https://github.com/RookieEnough/De-ReVanced) [![anddea](https://img.shields.io/github/license/anddea/revanced-patches?label=anddea)](https://github.com/anddea/revanced-patches) [![brosssh](https://img.shields.io/github/license/brosssh/morphe-patches?label=brosssh)](https://github.com/brosssh/morphe-patches) [![Aunali321](https://img.shields.io/github/license/Aunali321/ReVancedExperiments?label=Aunali321)](https://github.com/Aunali321/ReVancedExperiments) [![crimera](https://img.shields.io/github/license/crimera/piko?label=crimera)](https://github.com/crimera/piko) [![jkennethcarino](https://img.shields.io/github/license/jkennethcarino/adobo?label=jkennethcarino)](https://github.com/jkennethcarino/adobo) [![AmpleReVanced](https://img.shields.io/github/license/AmpleReVanced/revanced-patches?label=AmpleReVanced)](https://github.com/AmpleReVanced/revanced-patches) 
+
+- **CLI:** 
+ 
+[![ReVanced CLI](https://img.shields.io/github/license/revanced/revanced-cli?label=ReVanced%20CLI)](https://github.com/revanced/revanced-cli) [![Morphe CLI](https://img.shields.io/github/license/MorpheApp/morphe-cli?label=Morphe%20CLI)](https://github.com/MorpheApp/morphe-cli)
+</details>
 
 ---
 ### MicroG
@@ -17,13 +110,13 @@
 > [!IMPORTANT]
 > You need to install **MicroG-RE** (recommended) or **MicroG**, then sign in to your **Google account** to use **YouTube**, **YouTube Music**, and **Google Photos**.
 
-[![MicroG-RE](https://img.shields.io/github/v/release/MorpheApp/MicroG-RE?label=MicroG-RE)](https://github.com/MorpheApp/MicroG-RE/releases) &ensp; [![MicroG](https://img.shields.io/github/v/release/ReVanced/GmsCore?label=MicroG)](https://github.com/ReVanced/GmsCore/releases)
+[![MicroG-RE](https://img.shields.io/github/v/release/MorpheApp/MicroG-RE?label=MicroG-RE)](https://github.com/MorpheApp/MicroG-RE/releases)　[![MicroG](https://img.shields.io/github/v/release/ReVanced/GmsCore?label=MicroG)](https://github.com/ReVanced/GmsCore/releases)
 
 ---
 ### [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
 <details>
-<summary id="YouTube">&ensp;<a href="../../releases/download/37/youtube-nvbangg-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube">&emsp;<a href="../../releases/download/37/youtube-nvbangg-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 
 Other variants:     
 [arm-v7a.apk](../../releases/download/37/youtube-nvbangg-v20.45.36-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/37/youtube-nvbangg-module-v20.45.36-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/37/youtube-nvbangg-module-v20.45.36-arm-v7a.zip)
@@ -53,7 +146,7 @@ Patches: MorpheApp/patches-1.22.0.mpp
 **Other builds:**
 
 <details>
-<summary id="YouTube-Morphe">&ensp;<a href="../../releases/download/37/youtube-morpheapp-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube-Morphe">&emsp;<a href="../../releases/download/37/youtube-morpheapp-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/37/youtube-morpheapp-v20.45.36-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/37/youtube-morpheapp-module-v20.45.36-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/37/youtube-morpheapp-module-v20.45.36-arm-v7a.zip)
@@ -129,7 +222,7 @@ Patches: MorpheApp/patches-1.22.0.mpp
 </details>
 
 <details>
-<summary id="YouTube-ReVanced">&ensp;<a href="../../releases/download/31/youtube-revanced-v20.40.45-arm64-v8a.apk"><img src="https://img.shields.io/badge/ReVanced-v20.40.45-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube-ReVanced">&emsp;<a href="../../releases/download/31/youtube-revanced-v20.40.45-arm64-v8a.apk"><img src="https://img.shields.io/badge/ReVanced-v20.40.45-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 <blockquote>
 
 [Release 2026-03-20](../../releases/tag/31)<br>
@@ -198,7 +291,7 @@ Patches: ReVanced/patches-6.1.0.rvp
 </details>
 
 <details>
-<summary id="YouTube-Anddea">&ensp;<a href="../../releases/download/37/youtube-anddea-v20.05.46-arm64-v8a.apk"><img src="https://img.shields.io/badge/Anddea-v20.05.46-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube-Anddea">&emsp;<a href="../../releases/download/37/youtube-anddea-v20.05.46-arm64-v8a.apk"><img src="https://img.shields.io/badge/Anddea-v20.05.46-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/37/youtube-anddea-v20.05.46-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/37/youtube-anddea-module-v20.05.46-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/37/youtube-anddea-module-v20.05.46-arm-v7a.zip)
@@ -274,7 +367,7 @@ Patches: anddea/patches-4.0.0.mpp
 ### [YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 
 <details>
-<summary id="YouTube-Music-Morphe">&ensp;<a href="../../releases/download/37/youtube-music-morpheapp-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music-Morphe">&emsp;<a href="../../releases/download/37/youtube-music-morpheapp-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/37/youtube-music-morpheapp-v8.44.54-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/37/youtube-music-morpheapp-module-v8.44.54-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/37/youtube-music-morpheapp-module-v8.44.54-arm-v7a.zip)
@@ -311,7 +404,7 @@ Patches: MorpheApp/patches-1.22.0.mpp
 **Other builds:**
 
 <details>
-<summary id="YouTube-Music-ReVanced">&ensp;<a href="../../releases/download/31/youtube-music-revanced-v8.40.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/ReVanced-v8.40.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music-ReVanced">&emsp;<a href="../../releases/download/31/youtube-music-revanced-v8.40.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/ReVanced-v8.40.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 <blockquote>
 
 [Release 2026-03-20](../../releases/tag/31)<br>
@@ -338,7 +431,7 @@ Patches: ReVanced/patches-6.1.0.rvp
 </details>
 
 <details>
-<summary id="YouTube-Music-Anddea">&ensp;<a href="../../releases/download/37/youtube-music-anddea-v8.30.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/Anddea-v8.30.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music-Anddea">&emsp;<a href="../../releases/download/37/youtube-music-anddea-v8.30.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/Anddea-v8.30.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/37/youtube-music-anddea-v8.30.54-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/37/youtube-music-anddea-module-v8.30.54-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/37/youtube-music-anddea-module-v8.30.54-arm-v7a.zip)
@@ -386,7 +479,7 @@ Patches: anddea/patches-4.0.0.mpp
 ### [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
 
 <details>
-<summary id="Google-Photos-DeReVanced">&ensp;<a href="../../releases/download/40/google-photos-rookieenough-v7.70.0.891410338-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v7.70.0.891410338-gray?labelColor=FBBC04&logo=google-photos&logoColor=white"></a></summary>
+<summary id="Google-Photos-DeReVanced">&emsp;<a href="../../releases/download/40/google-photos-rookieenough-v7.70.0.891410338-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v7.70.0.891410338-gray?labelColor=FBBC04&logo=google-photos&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/40/google-photos-rookieenough-v7.70.0.891410338-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/google-photos-rookieenough-module-v7.70.0.891410338-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/google-photos-rookieenough-module-v7.70.0.891410338-arm-v7a.zip)
@@ -402,7 +495,7 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 **Other builds:**
 
 <details>
-<summary id="Google-Photos-ReVanced">&ensp;<a href="../../releases/download/31/google-photos-revanced-v7.68.0.884121604-arm64-v8a.apk"><img src="https://img.shields.io/badge/ReVanced-v7.68.0.884121604-gray?labelColor=FBBC04&logo=google-photos&logoColor=white"></a></summary>
+<summary id="Google-Photos-ReVanced">&emsp;<a href="../../releases/download/31/google-photos-revanced-v7.68.0.884121604-arm64-v8a.apk"><img src="https://img.shields.io/badge/ReVanced-v7.68.0.884121604-gray?labelColor=FBBC04&logo=google-photos&logoColor=white"></a></summary>
 <blockquote>
 
 [Release 2026-03-20](../../releases/tag/31)<br>
@@ -416,7 +509,7 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)
 
 <details>
-<summary id="Instagram-Piko">&ensp;<a href="../../releases/download/38/instagram-crimera-v424.0.0.0.46-arm64-v8a.apk"><img src="https://img.shields.io/badge/Piko-v424.0.0.0.46-gray?labelColor=E4405F&logo=Instagram&logoColor=white"></a></summary>
+<summary id="Instagram-Piko">&emsp;<a href="../../releases/download/38/instagram-crimera-v424.0.0.0.46-arm64-v8a.apk"><img src="https://img.shields.io/badge/Piko-v424.0.0.0.46-gray?labelColor=E4405F&logo=Instagram&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/38/instagram-crimera-v424.0.0.0.46-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/38/instagram-crimera-module-v424.0.0.0.46-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/38/instagram-crimera-module-v424.0.0.0.46-arm-v7a.zip)
@@ -430,7 +523,7 @@ Patches: [crimera/patches-3.1.0.mpp](https://github.com/crimera/piko/releases/ta
 **Other builds:**
 
 <details>
-<summary id="Instagram-ReVanced">&ensp;<a href="../../releases/download/31/instagram-revanced-v422.0.0.15.64-arm64-v8a.apk"><img src="https://img.shields.io/badge/ReVanced-v422.0.0.15.64-gray?labelColor=E4405F&logo=Instagram&logoColor=white"></a></summary>
+<summary id="Instagram-ReVanced">&emsp;<a href="../../releases/download/31/instagram-revanced-v422.0.0.15.64-arm64-v8a.apk"><img src="https://img.shields.io/badge/ReVanced-v422.0.0.15.64-gray?labelColor=E4405F&logo=Instagram&logoColor=white"></a></summary>
 <blockquote>
 
 [Release 2026-03-20](../../releases/tag/31)<br>
@@ -445,7 +538,7 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca)
 
 <details>
-<summary id="Messenger-DeReVanced">&ensp;<a href="../../releases/download/36/messenger-rookieenough-v552.0.0.44.65-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v552.0.0.44.65-gray?labelColor=00B2FF&logo=messenger&logoColor=white"></a></summary>
+<summary id="Messenger-DeReVanced">&emsp;<a href="../../releases/download/36/messenger-rookieenough-v552.0.0.44.65-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v552.0.0.44.65-gray?labelColor=00B2FF&logo=messenger&logoColor=white"></a></summary>
 
 Other variants:      
 [arm64-v8a.zip](../../releases/download/36/messenger-rookieenough-module-v552.0.0.44.65-arm64-v8a.zip)
@@ -464,7 +557,7 @@ Patches: RookieEnough/patches-1.0.1.mpp
 **Other builds:**
 
 <details>
-<summary id="Messenger-ReVanced">&ensp;<a href="../../releases/download/31/messenger-revanced-v552.0.0.44.65-arm64-v8a.apk"><img src="https://img.shields.io/badge/ReVanced-v552.0.0.44.65-gray?labelColor=00B2FF&logo=messenger&logoColor=white"></a></summary>
+<summary id="Messenger-ReVanced">&emsp;<a href="../../releases/download/31/messenger-revanced-v552.0.0.44.65-arm64-v8a.apk"><img src="https://img.shields.io/badge/ReVanced-v552.0.0.44.65-gray?labelColor=00B2FF&logo=messenger&logoColor=white"></a></summary>
 <blockquote>
 
 [Release 2026-03-20](../../releases/tag/31)<br>
@@ -480,7 +573,7 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [TikTok](https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill)
 
 <details>
-<summary id="TikTok">&ensp;<a href="../../releases/download/23/tiktok-revanced-v36.5.4-arm64-v8a.apk"><img src="https://img.shields.io/badge/TikTok-v36.5.4-gray?labelColor=252525&logo=TikTok&logoColor=white"></a></summary>
+<summary id="TikTok">&emsp;<a href="../../releases/download/23/tiktok-revanced-v36.5.4-arm64-v8a.apk"><img src="https://img.shields.io/badge/TikTok-v36.5.4-gray?labelColor=252525&logo=TikTok&logoColor=white"></a></summary>
 <blockquote>
 
 Patch date: 2026-03-10<br>
@@ -502,7 +595,7 @@ Patches: ReVanced/patches-5.50.2.rvp
 ### [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 
 <details>
-<summary id="Telegram">&ensp;<a href="../../releases/download/35/telegram-aunali321-v12.5.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram-v12.5.2-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
+<summary id="Telegram">&emsp;<a href="../../releases/download/35/telegram-aunali321-v12.5.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram-v12.5.2-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/35/telegram-aunali321-v12.5.2-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/35/telegram-aunali321-module-v12.5.2-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/35/telegram-aunali321-module-v12.5.2-arm-v7a.zip)
@@ -523,7 +616,7 @@ Patches: Aunali321/patches-2.0.0.rvp
 [**Web version:**](https://telegram.org/android)
 
 <details>
-<summary id="Telegram-Web">&ensp;<a href="../../releases/download/35/telegram-web-aunali321-v12.5.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram_Web-v12.5.2-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
+<summary id="Telegram-Web">&emsp;<a href="../../releases/download/35/telegram-web-aunali321-v12.5.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram_Web-v12.5.2-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/35/telegram-web-aunali321-v12.5.2-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/35/telegram-web-aunali321-module-v12.5.2-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/35/telegram-web-aunali321-module-v12.5.2-arm-v7a.zip)
@@ -544,7 +637,7 @@ Patches: Aunali321/patches-2.0.0.rvp
 ### [X (Twitter)](https://play.google.com/store/apps/details?id=com.twitter.android)
 
 <details>
-<summary id="Twitter-Piko">&ensp;<a href="../../releases/download/38/twitter-crimera-v11.77.0-release.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Piko-v11.77.0.release.0-gray?labelColor=0F1419&logo=X&logoColor=white"></a></summary>
+<summary id="Twitter-Piko">&emsp;<a href="../../releases/download/38/twitter-crimera-v11.77.0-release.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Piko-v11.77.0.release.0-gray?labelColor=0F1419&logo=X&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/38/twitter-crimera-v11.77.0-release.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/38/twitter-crimera-module-v11.77.0-release.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/38/twitter-crimera-module-v11.77.0-release.0-arm-v7a.zip)
@@ -623,7 +716,7 @@ Patches: [crimera/patches-3.1.0.mpp](https://github.com/crimera/piko/releases/ta
 **Other builds:**
 
 <details>
-<summary id="Twitter-ReVanced">&ensp;<a href="../../releases/download/31/twitter-revanced-v10.86.0-release.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/ReVanced-v10.86.0.release.0-gray?labelColor=0F1419&logo=X&logoColor=white"></a></summary>
+<summary id="Twitter-ReVanced">&emsp;<a href="../../releases/download/31/twitter-revanced-v10.86.0-release.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/ReVanced-v10.86.0.release.0-gray?labelColor=0F1419&logo=X&logoColor=white"></a></summary>
 <blockquote>
 
 [Release 2026-03-20](../../releases/tag/31)<br>
@@ -639,7 +732,7 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Prime Video](https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient)
 
 <details>
-<summary id="Prime-Video">&ensp;<a href="../../releases/download/31/prime-video-revanced-v3.0.412.2947-arm64-v8a.apk"><img src="https://img.shields.io/badge/Prime_Video-v3.0.412.2947-gray?labelColor=00A8E1&logo=Prime-Video&logoColor=white"></a></summary>
+<summary id="Prime-Video">&emsp;<a href="../../releases/download/31/prime-video-revanced-v3.0.412.2947-arm64-v8a.apk"><img src="https://img.shields.io/badge/Prime_Video-v3.0.412.2947-gray?labelColor=00A8E1&logo=Prime-Video&logoColor=white"></a></summary>
 <blockquote>
 
 [Release 2026-03-20](../../releases/tag/31)<br>
@@ -653,7 +746,7 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Disney+](https://play.google.com/store/apps/details?id=com.disney.disneyplus)
 
 <details>
-<summary id="Disney-DeReVanced">&ensp;<a href="../../releases/download/40/disney-rookieenough-v26.4.1+rc1-2026.03.30-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v26.4.1+rc1.2026.03.30-gray?labelColor=113CCF&logo=Disney%2B&logoColor=white"></a></summary>
+<summary id="Disney-DeReVanced">&emsp;<a href="../../releases/download/40/disney-rookieenough-v26.4.1+rc1-2026.03.30-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v26.4.1+rc1.2026.03.30-gray?labelColor=113CCF&logo=Disney%2B&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/40/disney-rookieenough-v26.4.1+rc1-2026.03.30-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/disney-rookieenough-module-v26.4.1+rc1-2026.03.30-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/disney-rookieenough-module-v26.4.1+rc1-2026.03.30-arm-v7a.zip)
@@ -668,7 +761,7 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 **Other builds:**
 
 <details>
-<summary id="Disney-ReVanced">&ensp;<a href="../../releases/download/31/disney-revanced-v4.20.2+rc1-2025.12.09-arm64-v8a.apk"><img src="https://img.shields.io/badge/ReVanced-v4.20.2+rc1.2025.12.09-gray?labelColor=113CCF&logo=Disney%2B&logoColor=white"></a></summary>
+<summary id="Disney-ReVanced">&emsp;<a href="../../releases/download/31/disney-revanced-v4.20.2+rc1-2025.12.09-arm64-v8a.apk"><img src="https://img.shields.io/badge/ReVanced-v4.20.2+rc1.2025.12.09-gray?labelColor=113CCF&logo=Disney%2B&logoColor=white"></a></summary>
 <blockquote>
 
 [Release 2026-03-20](../../releases/tag/31)<br>
@@ -681,7 +774,7 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [WPS Office](https://play.google.com/store/apps/details?id=cn.wps.moffice_eng)
 
 <details>
-<summary id="WPS-Office">&ensp;<a href="../../releases/download/40/wps-office-hoo-dles-v18.12.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/WPS_Office-v18.12.1-gray?labelColor=C03426&logo=wpsoffice&logoColor=white"></a></summary>
+<summary id="WPS-Office">&emsp;<a href="../../releases/download/40/wps-office-hoo-dles-v18.12.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/WPS_Office-v18.12.1-gray?labelColor=C03426&logo=wpsoffice&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/40/wps-office-hoo-dles-v18.12.1-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/wps-office-hoo-dles-module-v18.12.1-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/wps-office-hoo-dles-module-v18.12.1-arm-v7a.zip)
@@ -698,7 +791,7 @@ Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Duolingo](https://play.google.com/store/apps/details?id=com.duolingo)
 
 <details>
-<summary id="Duolingo">&ensp;<a href="../../releases/download/40/duolingo-hoo-dles-v6.66.5-arm64-v8a.apk"><img src="https://img.shields.io/badge/Duolingo-v6.66.5-gray?labelColor=4DC730&logo=Duolingo&logoColor=white"></a></summary>
+<summary id="Duolingo">&emsp;<a href="../../releases/download/40/duolingo-hoo-dles-v6.66.5-arm64-v8a.apk"><img src="https://img.shields.io/badge/Duolingo-v6.66.5-gray?labelColor=4DC730&logo=Duolingo&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/40/duolingo-hoo-dles-v6.66.5-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/duolingo-hoo-dles-module-v6.66.5-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/duolingo-hoo-dles-module-v6.66.5-arm-v7a.zip)
@@ -715,7 +808,7 @@ Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Cake](https://play.google.com/store/apps/details?id=me.mycake)
 
 <details>
-<summary id="Cake">&ensp;<a href="../../releases/download/40/cake-hoo-dles-v6.4.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cake-v6.4.0-gray?labelColor=FF6B35&logo=cake&logoColor=white"></a></summary>
+<summary id="Cake">&emsp;<a href="../../releases/download/40/cake-hoo-dles-v6.4.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cake-v6.4.0-gray?labelColor=FF6B35&logo=cake&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/40/cake-hoo-dles-v6.4.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/cake-hoo-dles-module-v6.4.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/cake-hoo-dles-module-v6.4.0-arm-v7a.zip)
@@ -731,7 +824,7 @@ Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Twitch](https://play.google.com/store/apps/details?id=tv.twitch.android.app)
 
 <details>
-<summary id="Twitch">&ensp;<a href="../../releases/download/31/twitch-revanced-v16.9.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Twitch-v16.9.1-gray?labelColor=9146FF&logo=Twitch&logoColor=white"></a></summary>
+<summary id="Twitch">&emsp;<a href="../../releases/download/31/twitch-revanced-v16.9.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Twitch-v16.9.1-gray?labelColor=9146FF&logo=Twitch&logoColor=white"></a></summary>
 <blockquote>
 
 [Release 2026-03-20](../../releases/tag/31)<br>
@@ -749,7 +842,7 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
 
 <details>
-<summary id="Reddit-Morphe">&ensp;<a href="../../releases/download/37/reddit-morpheapp-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
+<summary id="Reddit-Morphe">&emsp;<a href="../../releases/download/37/reddit-morpheapp-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/37/reddit-morpheapp-v2026.04.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/37/reddit-morpheapp-module-v2026.04.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/37/reddit-morpheapp-module-v2026.04.0-arm-v7a.zip)
@@ -775,7 +868,7 @@ Patches: MorpheApp/patches-1.22.0.mpp
 **Other builds:**
 
 <details>
-<summary id="Reddit-Anddea">&ensp;<a href="../../releases/download/37/reddit-anddea-v2025.12.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Anddea-v2025.12.1-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
+<summary id="Reddit-Anddea">&emsp;<a href="../../releases/download/37/reddit-anddea-v2025.12.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Anddea-v2025.12.1-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/37/reddit-anddea-v2025.12.1-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/37/reddit-anddea-module-v2025.12.1-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/37/reddit-anddea-module-v2025.12.1-arm-v7a.zip)
@@ -803,7 +896,7 @@ Patches: anddea/patches-4.0.0.mpp
 ### [Photomath](https://play.google.com/store/apps/details?id=com.microblink.photomath)
 
 <details>
-<summary id="Photomath-DeReVanced">&ensp;<a href="../../releases/download/40/photomath-rookieenough-v8.47.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v8.47.1-gray?labelColor=DA2323&logo=google&logoColor=white"></a></summary>
+<summary id="Photomath-DeReVanced">&emsp;<a href="../../releases/download/40/photomath-rookieenough-v8.47.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v8.47.1-gray?labelColor=DA2323&logo=google&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/40/photomath-rookieenough-v8.47.1-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/photomath-rookieenough-module-v8.47.1-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/photomath-rookieenough-module-v8.47.1-arm-v7a.zip)
@@ -820,7 +913,7 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 **Other builds:**
 
 <details>
-<summary id="Photomath-ReVanced">&ensp;<a href="../../releases/download/31/photomath-revanced-v8.47.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/ReVanced-v8.47.1-gray?labelColor=DA2323&logo=google&logoColor=white"></a></summary>
+<summary id="Photomath-ReVanced">&emsp;<a href="../../releases/download/31/photomath-revanced-v8.47.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/ReVanced-v8.47.1-gray?labelColor=DA2323&logo=google&logoColor=white"></a></summary>
 <blockquote>
 
 [Release 2026-03-20](../../releases/tag/31)<br>
@@ -835,7 +928,7 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
 
 <details>
-<summary id="Gboard">&ensp;<a href="../../releases/download/38/gboard-jkennethcarino-v17.0.12.880768217-release-arm64-v8a-arm64-v8a.apk"><img src="https://img.shields.io/badge/Gboard-v17.0.12.880768217.release.arm64.v8a-gray?labelColor=4285F4&logo=Google&logoColor=white"></a></summary>
+<summary id="Gboard">&emsp;<a href="../../releases/download/38/gboard-jkennethcarino-v17.0.12.880768217-release-arm64-v8a-arm64-v8a.apk"><img src="https://img.shields.io/badge/Gboard-v17.0.12.880768217.release.arm64.v8a-gray?labelColor=4285F4&logo=Google&logoColor=white"></a></summary>
 
 Other variants:      
 [arm64-v8a.zip](../../releases/download/38/gboard-jkennethcarino-module-v17.0.12.880768217-release-arm64-v8a-arm64-v8a.zip)
@@ -854,7 +947,7 @@ Patches: [jkennethcarino/patches-1.0.0.mpp](https://github.com/jkennethcarino/ad
 ### [Google Recorder](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder)
 
 <details>
-<summary id="Google-Recorder">&ensp;<a href="../../releases/download/31/google-recorder-revanced-v4.2.20260118.867906508-arm64-v8a.apk"><img src="https://img.shields.io/badge/Google_Recorder-v4.2.20260118.867906508-gray?labelColor=F44336&logo=google&logoColor=white"></a></summary>
+<summary id="Google-Recorder">&emsp;<a href="../../releases/download/31/google-recorder-revanced-v4.2.20260118.867906508-arm64-v8a.apk"><img src="https://img.shields.io/badge/Google_Recorder-v4.2.20260118.867906508-gray?labelColor=F44336&logo=google&logoColor=white"></a></summary>
 <blockquote>
 
 [Release 2026-03-20](../../releases/tag/31)<br>
@@ -867,7 +960,7 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android)
 
 <details>
-<summary id="SoundCloud-HooDles">&ensp;<a href="../../releases/download/40/soundcloud-hoo-dles-v2026.03.20-release-arm64-v8a.apk"><img src="https://img.shields.io/badge/HooDles-v2026.03.20.release-gray?labelColor=FF5500&logo=SoundCloud&logoColor=white"></a></summary>
+<summary id="SoundCloud-HooDles">&emsp;<a href="../../releases/download/40/soundcloud-hoo-dles-v2026.03.20-release-arm64-v8a.apk"><img src="https://img.shields.io/badge/HooDles-v2026.03.20.release-gray?labelColor=FF5500&logo=SoundCloud&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/40/soundcloud-hoo-dles-v2026.03.20-release-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/soundcloud-hoo-dles-module-v2026.03.20-release-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/soundcloud-hoo-dles-module-v2026.03.20-release-arm-v7a.zip)
@@ -883,7 +976,7 @@ Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patche
 **Other builds:**
 
 <details>
-<summary id="SoundCloud-DeReVanced">&ensp;<a href="../../releases/download/40/soundcloud-rookieenough-v2025.05.27-release-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v2025.05.27.release-gray?labelColor=FF5500&logo=SoundCloud&logoColor=white"></a></summary>
+<summary id="SoundCloud-DeReVanced">&emsp;<a href="../../releases/download/40/soundcloud-rookieenough-v2025.05.27-release-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v2025.05.27.release-gray?labelColor=FF5500&logo=SoundCloud&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/40/soundcloud-rookieenough-v2025.05.27-release-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/soundcloud-rookieenough-module-v2025.05.27-release-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/soundcloud-rookieenough-module-v2025.05.27-release-arm-v7a.zip)
@@ -898,7 +991,7 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 </details>
 
 <details>
-<summary id="SoundCloud-ReVanced">&ensp;<a href="../../releases/download/31/soundcloud-revanced-v2025.05.27-release-arm64-v8a.apk"><img src="https://img.shields.io/badge/ReVanced-v2025.05.27.release-gray?labelColor=FF5500&logo=SoundCloud&logoColor=white"></a></summary>
+<summary id="SoundCloud-ReVanced">&emsp;<a href="../../releases/download/31/soundcloud-revanced-v2025.05.27-release-arm64-v8a.apk"><img src="https://img.shields.io/badge/ReVanced-v2025.05.27.release-gray?labelColor=FF5500&logo=SoundCloud&logoColor=white"></a></summary>
 <blockquote>
 
 [Release 2026-03-20](../../releases/tag/31)<br>
@@ -913,7 +1006,7 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Pandora](https://play.google.com/store/apps/details?id=com.pandora.android)
 
 <details>
-<summary id="Pandora">&ensp;<a href="../../releases/download/40/pandora-hoo-dles-v2602.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Pandora-v2602.1-gray?labelColor=3668FF&logo=Pandora&logoColor=white"></a></summary>
+<summary id="Pandora">&emsp;<a href="../../releases/download/40/pandora-hoo-dles-v2602.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Pandora-v2602.1-gray?labelColor=3668FF&logo=Pandora&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/40/pandora-hoo-dles-v2602.1-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/pandora-hoo-dles-module-v2602.1-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/pandora-hoo-dles-module-v2602.1-arm-v7a.zip)
@@ -930,7 +1023,7 @@ Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Tumblr](https://play.google.com/store/apps/details?id=com.tumblr)
 
 <details>
-<summary id="Tumblr-DeReVanced">&ensp;<a href="../../releases/download/40/tumblr-rookieenough-v43.9.0.109-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v43.9.0.109-gray?labelColor=36465D&logo=Tumblr&logoColor=white"></a></summary>
+<summary id="Tumblr-DeReVanced">&emsp;<a href="../../releases/download/40/tumblr-rookieenough-v43.9.0.109-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v43.9.0.109-gray?labelColor=36465D&logo=Tumblr&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/40/tumblr-rookieenough-v43.9.0.109-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/tumblr-rookieenough-module-v43.9.0.109-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/tumblr-rookieenough-module-v43.9.0.109-arm-v7a.zip)
@@ -950,7 +1043,7 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 **Other builds:**
 
 <details>
-<summary id="Tumblr-ReVanced">&ensp;<a href="../../releases/download/31/tumblr-revanced-v43.7.0.109-arm64-v8a.apk"><img src="https://img.shields.io/badge/ReVanced-v43.7.0.109-gray?labelColor=36465D&logo=Tumblr&logoColor=white"></a></summary>
+<summary id="Tumblr-ReVanced">&emsp;<a href="../../releases/download/31/tumblr-revanced-v43.7.0.109-arm64-v8a.apk"><img src="https://img.shields.io/badge/ReVanced-v43.7.0.109-gray?labelColor=36465D&logo=Tumblr&logoColor=white"></a></summary>
 <blockquote>
 
 [Release 2026-03-20](../../releases/tag/31)<br>
@@ -968,7 +1061,7 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Cricbuzz](https://play.google.com/store/apps/details?id=com.cricbuzz.android)
 
 <details>
-<summary id="Cricbuzz-DeReVanced">&ensp;<a href="../../releases/download/40/cricbuzz-rookieenough-v6.24.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v6.24.01-gray?labelColor=009270&logo=Cricbuzz&logoColor=white"></a></summary>
+<summary id="Cricbuzz-DeReVanced">&emsp;<a href="../../releases/download/40/cricbuzz-rookieenough-v6.24.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v6.24.01-gray?labelColor=009270&logo=Cricbuzz&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/40/cricbuzz-rookieenough-v6.24.01-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/cricbuzz-rookieenough-module-v6.24.01-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/cricbuzz-rookieenough-module-v6.24.01-arm-v7a.zip)
@@ -983,7 +1076,7 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 **Other builds:**
 
 <details>
-<summary id="Cricbuzz-ReVanced">&ensp;<a href="../../releases/download/31/cricbuzz-revanced-v6.24.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/ReVanced-v6.24.01-gray?labelColor=009270&logo=Cricbuzz&logoColor=white"></a></summary>
+<summary id="Cricbuzz-ReVanced">&emsp;<a href="../../releases/download/31/cricbuzz-revanced-v6.24.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/ReVanced-v6.24.01-gray?labelColor=009270&logo=Cricbuzz&logoColor=white"></a></summary>
 <blockquote>
 
 [Release 2026-03-20](../../releases/tag/31)<br>
@@ -996,7 +1089,7 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [MyFitnessPal](https://play.google.com/store/apps/details?id=com.myfitnesspal.android)
 
 <details>
-<summary id="MyFitnessPal">&ensp;<a href="../../releases/download/40/myfitnesspal-hoo-dles-v25.50.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/MyFitnessPal-v25.50.0-gray?labelColor=0066EE&logo=MyFitnessPal&logoColor=white"></a></summary>
+<summary id="MyFitnessPal">&emsp;<a href="../../releases/download/40/myfitnesspal-hoo-dles-v25.50.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/MyFitnessPal-v25.50.0-gray?labelColor=0066EE&logo=MyFitnessPal&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/40/myfitnesspal-hoo-dles-v25.50.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/myfitnesspal-hoo-dles-module-v25.50.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/myfitnesspal-hoo-dles-module-v25.50.0-arm-v7a.zip)
@@ -1012,7 +1105,7 @@ Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Strava](https://play.google.com/store/apps/details?id=com.strava)
 
 <details>
-<summary id="Strava-DeReVanced">&ensp;<a href="../../releases/download/40/strava-rookieenough-v457.13-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v457.13-gray?labelColor=FC4C02&logo=Strava&logoColor=white"></a></summary>
+<summary id="Strava-DeReVanced">&emsp;<a href="../../releases/download/40/strava-rookieenough-v457.13-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v457.13-gray?labelColor=FC4C02&logo=Strava&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/40/strava-rookieenough-v457.13-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/strava-rookieenough-module-v457.13-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/strava-rookieenough-module-v457.13-arm-v7a.zip)
@@ -1034,7 +1127,7 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 **Other builds:**
 
 <details>
-<summary id="Strava-ReVanced">&ensp;<a href="../../releases/download/31/strava-revanced-v455.11-arm64-v8a.apk"><img src="https://img.shields.io/badge/ReVanced-v455.11-gray?labelColor=FC4C02&logo=Strava&logoColor=white"></a></summary>
+<summary id="Strava-ReVanced">&emsp;<a href="../../releases/download/31/strava-revanced-v455.11-arm64-v8a.apk"><img src="https://img.shields.io/badge/ReVanced-v455.11-gray?labelColor=FC4C02&logo=Strava&logoColor=white"></a></summary>
 <blockquote>
 
 [Release 2026-03-20](../../releases/tag/31)<br>
@@ -1054,7 +1147,7 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Crunchyroll](https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid)
 
 <details>
-<summary id="Crunchyroll">&ensp;<a href="../../releases/download/31/crunchyroll-revanced-v3.104.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Crunchyroll-v3.104.0-gray?labelColor=F47521&logo=Crunchyroll&logoColor=white"></a></summary>
+<summary id="Crunchyroll">&emsp;<a href="../../releases/download/31/crunchyroll-revanced-v3.104.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Crunchyroll-v3.104.0-gray?labelColor=F47521&logo=Crunchyroll&logoColor=white"></a></summary>
 <blockquote>
 
 [Release 2026-03-20](../../releases/tag/31)<br>
@@ -1067,7 +1160,7 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [KakaoTalk](https://play.google.com/store/apps/details?id=com.kakao.talk)
 
 <details>
-<summary id="KakaoTalk">&ensp;<a href="../../releases/download/40/kakaotalk-amplerevanced-v26.2.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/KakaoTalk-v26.2.2-gray?labelColor=FEE500&logo=kakaotalk&logoColor=000000"></a></summary>
+<summary id="KakaoTalk">&emsp;<a href="../../releases/download/40/kakaotalk-amplerevanced-v26.2.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/KakaoTalk-v26.2.2-gray?labelColor=FEE500&logo=kakaotalk&logoColor=000000"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/40/kakaotalk-amplerevanced-v26.2.2-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/kakaotalk-amplerevanced-module-v26.2.2-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/kakaotalk-amplerevanced-module-v26.2.2-arm-v7a.zip)
@@ -1126,7 +1219,7 @@ Patches: [AmpleReVanced/patches-1.0.0-dev.10.mpp](https://github.com/AmpleReVanc
 ### [Wallcraft](https://play.google.com/store/apps/details?id=com.wallpaperscraft.wallpaper)
 
 <details>
-<summary id="Wallcraft">&ensp;<a href="../../releases/download/40/wallcraft-hoo-dles-v3.61.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
+<summary id="Wallcraft">&emsp;<a href="../../releases/download/40/wallcraft-hoo-dles-v3.61.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/40/wallcraft-hoo-dles-v3.61.01-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/wallcraft-hoo-dles-module-v3.61.01-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/wallcraft-hoo-dles-module-v3.61.01-arm-v7a.zip)
@@ -1143,7 +1236,7 @@ Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [ibis Paint X](https://play.google.com/store/apps/details?id=jp.ne.ibis.ibispaintx.app)
 
 <details>
-<summary id="ibis-Paint-X">&ensp;<a href="../../releases/download/40/ibis-paint-x-hoo-dles-v13.1.19-arm64-v8a.apk"><img src="https://img.shields.io/badge/ibis_Paint_X-v13.1.19-gray?labelColor=E64A8B&logo=ibispaintx&logoColor=white"></a></summary>
+<summary id="ibis-Paint-X">&emsp;<a href="../../releases/download/40/ibis-paint-x-hoo-dles-v13.1.19-arm64-v8a.apk"><img src="https://img.shields.io/badge/ibis_Paint_X-v13.1.19-gray?labelColor=E64A8B&logo=ibispaintx&logoColor=white"></a></summary>
 <blockquote>
 
 [Release 2026-04-02](../../releases/tag/40)<br>
@@ -1157,7 +1250,7 @@ Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [RAR](https://play.google.com/store/apps/details?id=com.rarlab.rar)
 
 <details>
-<summary id="RAR">&ensp;<a href="../../releases/download/40/rar-rookieenough-v7.20.build131-arm64-v8a.apk"><img src="https://img.shields.io/badge/RAR-v7.20.build131-gray?labelColor=FF6B00&logo=rar&logoColor=white"></a></summary>
+<summary id="RAR">&emsp;<a href="../../releases/download/40/rar-rookieenough-v7.20.build131-arm64-v8a.apk"><img src="https://img.shields.io/badge/RAR-v7.20.build131-gray?labelColor=FF6B00&logo=rar&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/40/rar-rookieenough-v7.20.build131-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/rar-rookieenough-module-v7.20.build131-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/rar-rookieenough-module-v7.20.build131-arm-v7a.zip)
@@ -1174,7 +1267,7 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [Sofascore](https://play.google.com/store/apps/details?id=com.sofascore.results)
 
 <details>
-<summary id="Sofascore">&ensp;<a href="../../releases/download/40/sofascore-hoo-dles-v25.12.17-arm64-v8a.apk"><img src="https://img.shields.io/badge/Sofascore-v25.12.17-gray?labelColor=1A4BFF&logo=sofascore&logoColor=white"></a></summary>
+<summary id="Sofascore">&emsp;<a href="../../releases/download/40/sofascore-hoo-dles-v25.12.17-arm64-v8a.apk"><img src="https://img.shields.io/badge/Sofascore-v25.12.17-gray?labelColor=1A4BFF&logo=sofascore&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/40/sofascore-hoo-dles-v25.12.17-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/sofascore-hoo-dles-module-v25.12.17-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/sofascore-hoo-dles-module-v25.12.17-arm-v7a.zip)
@@ -1191,7 +1284,7 @@ Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Windy](https://play.google.com/store/apps/details?id=com.windyty.android)
 
 <details>
-<summary id="Windy">&ensp;<a href="../../releases/download/40/windy-hoo-dles-v49.0.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Windy-v49.0.1-gray?labelColor=C62828&logo=windy&logoColor=white"></a></summary>
+<summary id="Windy">&emsp;<a href="../../releases/download/40/windy-hoo-dles-v49.0.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Windy-v49.0.1-gray?labelColor=C62828&logo=windy&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/40/windy-hoo-dles-v49.0.1-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/windy-hoo-dles-module-v49.0.1-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/windy-hoo-dles-module-v49.0.1-arm-v7a.zip)
@@ -1208,7 +1301,7 @@ Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Proton VPN](https://play.google.com/store/apps/details?id=ch.protonvpn.android)
 
 <details>
-<summary id="Proton-VPN">&ensp;<a href="../../releases/download/40/proton-vpn-hoo-dles-v5.16.83.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Proton_VPN-v5.16.83.0-gray?labelColor=6D4AFF&logo=protonvpn&logoColor=white"></a></summary>
+<summary id="Proton-VPN">&emsp;<a href="../../releases/download/40/proton-vpn-hoo-dles-v5.16.83.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Proton_VPN-v5.16.83.0-gray?labelColor=6D4AFF&logo=protonvpn&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/40/proton-vpn-hoo-dles-v5.16.83.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/proton-vpn-hoo-dles-module-v5.16.83.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/proton-vpn-hoo-dles-module-v5.16.83.0-arm-v7a.zip)
@@ -1227,7 +1320,7 @@ Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Proton Mail](https://play.google.com/store/apps/details?id=ch.protonmail.android)
 
 <details>
-<summary id="Proton-Mail">&ensp;<a href="../../releases/download/40/proton-mail-rookieenough-v4.15.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Proton_Mail-v4.15.0-gray?labelColor=6A4DFF&logo=protonmail&logoColor=white"></a></summary>
+<summary id="Proton-Mail">&emsp;<a href="../../releases/download/40/proton-mail-rookieenough-v4.15.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Proton_Mail-v4.15.0-gray?labelColor=6A4DFF&logo=protonmail&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/40/proton-mail-rookieenough-v4.15.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/proton-mail-rookieenough-module-v4.15.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/proton-mail-rookieenough-module-v4.15.0-arm-v7a.zip)
@@ -1245,7 +1338,7 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [Pixiv](https://play.google.com/store/apps/details?id=jp.pxv.android)
 
 <details>
-<summary id="Pixiv">&ensp;<a href="../../releases/download/40/pixiv-rookieenough-v6.141.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Pixiv-v6.141.1-gray?labelColor=0096FA&logo=pixiv&logoColor=white"></a></summary>
+<summary id="Pixiv">&emsp;<a href="../../releases/download/40/pixiv-rookieenough-v6.141.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Pixiv-v6.141.1-gray?labelColor=0096FA&logo=pixiv&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/40/pixiv-rookieenough-v6.141.1-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/pixiv-rookieenough-module-v6.141.1-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/pixiv-rookieenough-module-v6.141.1-arm-v7a.zip)
@@ -1262,7 +1355,7 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [Inshorts](https://play.google.com/store/apps/details?id=com.nis.app)
 
 <details>
-<summary id="Inshorts">&ensp;<a href="../../releases/download/40/inshorts-rookieenough-v6.12.8-arm64-v8a.apk"><img src="https://img.shields.io/badge/Inshorts-v6.12.8-gray?labelColor=2F7CF6&logo=inshorts&logoColor=white"></a></summary>
+<summary id="Inshorts">&emsp;<a href="../../releases/download/40/inshorts-rookieenough-v6.12.8-arm64-v8a.apk"><img src="https://img.shields.io/badge/Inshorts-v6.12.8-gray?labelColor=2F7CF6&logo=inshorts&logoColor=white"></a></summary>
 
 Other variants:      
 [arm64-v8a.zip](../../releases/download/40/inshorts-rookieenough-module-v6.12.8-arm64-v8a.zip)
@@ -1279,7 +1372,7 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [Letterboxd](https://play.google.com/store/apps/details?id=com.letterboxd.letterboxd)
 
 <details>
-<summary id="Letterboxd">&ensp;<a href="../../releases/download/40/letterboxd-rookieenough-v3.5.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Letterboxd-v3.5.0-gray?labelColor=14181D&logo=Letterboxd&logoColor=white"></a></summary>
+<summary id="Letterboxd">&emsp;<a href="../../releases/download/40/letterboxd-rookieenough-v3.5.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Letterboxd-v3.5.0-gray?labelColor=14181D&logo=Letterboxd&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/40/letterboxd-rookieenough-v3.5.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/letterboxd-rookieenough-module-v3.5.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/letterboxd-rookieenough-module-v3.5.0-arm-v7a.zip)
@@ -1298,7 +1391,7 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [Mimo](https://play.google.com/store/apps/details?id=com.getmimo)
 
 <details>
-<summary id="Mimo">&ensp;<a href="../../releases/download/40/mimo-hoo-dles-v9.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Mimo-v9.0-gray?labelColor=5A67D8&logo=mimo&logoColor=white"></a></summary>
+<summary id="Mimo">&emsp;<a href="../../releases/download/40/mimo-hoo-dles-v9.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Mimo-v9.0-gray?labelColor=5A67D8&logo=mimo&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/40/mimo-hoo-dles-v9.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/mimo-hoo-dles-module-v9.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/mimo-hoo-dles-module-v9.0-arm-v7a.zip)
@@ -1316,7 +1409,7 @@ Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Solid Explorer](https://play.google.com/store/apps/details?id=pl.solidexplorer2)
 
 <details>
-<summary id="Solid-Explorer">&ensp;<a href="../../releases/download/40/solid-explorer-hoo-dles-v3.4.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Solid_Explorer-v3.4.1-gray?labelColor=1976D2&logo=solidexplorer&logoColor=white"></a></summary>
+<summary id="Solid-Explorer">&emsp;<a href="../../releases/download/40/solid-explorer-hoo-dles-v3.4.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Solid_Explorer-v3.4.1-gray?labelColor=1976D2&logo=solidexplorer&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/40/solid-explorer-hoo-dles-v3.4.1-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/solid-explorer-hoo-dles-module-v3.4.1-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/solid-explorer-hoo-dles-module-v3.4.1-arm-v7a.zip)
@@ -1334,7 +1427,7 @@ Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [FotMob](https://play.google.com/store/apps/details?id=com.mobilefootie.wc2010)
 
 <details>
-<summary id="FotMob">&ensp;<a href="../../releases/download/40/fotmob-hoo-dles-v226.16092.20260302-arm64-v8a.apk"><img src="https://img.shields.io/badge/FotMob-v226.16092.20260302-gray?labelColor=26A65B&logo=botmob&logoColor=white"></a></summary>
+<summary id="FotMob">&emsp;<a href="../../releases/download/40/fotmob-hoo-dles-v226.16092.20260302-arm64-v8a.apk"><img src="https://img.shields.io/badge/FotMob-v226.16092.20260302-gray?labelColor=26A65B&logo=botmob&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/40/fotmob-hoo-dles-v226.16092.20260302-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/fotmob-hoo-dles-module-v226.16092.20260302-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/fotmob-hoo-dles-module-v226.16092.20260302-arm-v7a.zip)
@@ -1351,7 +1444,7 @@ Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Meme Generator](https://play.google.com/store/apps/details?id=net.zombodroid.MemeGenerator)
 
 <details>
-<summary id="Meme-Generator">&ensp;<a href="../../releases/download/40/meme-generator-hoo-dles-v4.6671-arm64-v8a.apk"><img src="https://img.shields.io/badge/Meme_Generator-v4.6671-gray?labelColor=D21F3C&logo=meme-generator&logoColor=white"></a></summary>
+<summary id="Meme-Generator">&emsp;<a href="../../releases/download/40/meme-generator-hoo-dles-v4.6671-arm64-v8a.apk"><img src="https://img.shields.io/badge/Meme_Generator-v4.6671-gray?labelColor=D21F3C&logo=meme-generator&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/40/meme-generator-hoo-dles-v4.6671-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/40/meme-generator-hoo-dles-module-v4.6671-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/40/meme-generator-hoo-dles-module-v4.6671-arm-v7a.zip)
@@ -1368,7 +1461,7 @@ Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Komoot](https://play.google.com/store/apps/details?id=de.komoot.android)
 
 <details>
-<summary id="Komoot">&ensp;<a href="../../releases/download/37/komoot-brosssh-v2025.38.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Komoot-v2025.38.2-gray?labelColor=6AA127&logo=komoot&logoColor=white"></a></summary>
+<summary id="Komoot">&emsp;<a href="../../releases/download/37/komoot-brosssh-v2025.38.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Komoot-v2025.38.2-gray?labelColor=6AA127&logo=komoot&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/37/komoot-brosssh-v2025.38.2-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/37/komoot-brosssh-module-v2025.38.2-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/37/komoot-brosssh-module-v2025.38.2-arm-v7a.zip)
@@ -1385,7 +1478,7 @@ Patches: brosssh/patches-2.1.0.mpp
 ### [Mapy](https://play.google.com/store/apps/details?id=cz.seznam.mapy)
 
 <details>
-<summary id="Mapy">&ensp;<a href="../../releases/download/37/mapy-brosssh-v9.70.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Mapy-v9.70.1-gray?labelColor=3FB819&logo=mapy&logoColor=white"></a></summary>
+<summary id="Mapy">&emsp;<a href="../../releases/download/37/mapy-brosssh-v9.70.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Mapy-v9.70.1-gray?labelColor=3FB819&logo=mapy&logoColor=white"></a></summary>
 
 Other variants:      
 [arm-v7a.apk](../../releases/download/37/mapy-brosssh-v9.70.1-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/37/mapy-brosssh-module-v9.70.1-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/37/mapy-brosssh-module-v9.70.1-arm-v7a.zip)
@@ -1400,12 +1493,12 @@ Patches: brosssh/patches-2.1.0.mpp
 
 ---
 
-## 🙏 Credits
-
-- Patches used in this repository:
-
-[![ReVanced](https://img.shields.io/github/license/ReVanced/revanced-patches?label=ReVanced)](https://github.com/ReVanced/revanced-patches) [![MorpheApp](https://img.shields.io/github/license/MorpheApp/morphe-patches?label=MorpheApp)](https://github.com/MorpheApp/morphe-patches) [![hoo-dles](https://img.shields.io/github/license/hoo-dles/morphe-patches?label=hoo-dles)](https://github.com/hoo-dles/morphe-patches) [![RookieEnough](https://img.shields.io/github/license/RookieEnough/De-ReVanced?label=RookieEnough)](https://github.com/RookieEnough/De-ReVanced) [![anddea](https://img.shields.io/github/license/anddea/revanced-patches?label=anddea)](https://github.com/anddea/revanced-patches) [![brosssh](https://img.shields.io/github/license/brosssh/morphe-patches?label=brosssh)](https://github.com/brosssh/morphe-patches) [![Aunali321](https://img.shields.io/github/license/Aunali321/ReVancedExperiments?label=Aunali321)](https://github.com/Aunali321/ReVancedExperiments) [![crimera](https://img.shields.io/github/license/crimera/piko?label=crimera)](https://github.com/crimera/piko) [![jkennethcarino](https://img.shields.io/github/license/jkennethcarino/adobo?label=jkennethcarino)](https://github.com/jkennethcarino/adobo) [![AmpleReVanced](https://img.shields.io/github/license/AmpleReVanced/revanced-patches?label=AmpleReVanced)](https://github.com/AmpleReVanced/revanced-patches) 
-
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/image?repos=nvbangg/revanced-morphe-builder&type=date&legend=top-left)](https://www.star-history.com/?repos=nvbangg%2Frevanced-morphe-builder&type=date&legend=top-left)
+<a href="https://www.star-history.com/?repos=nvbangg%2Frevanced-morphe-builder&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=nvbangg/revanced-morphe-builder&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=nvbangg/revanced-morphe-builder&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=nvbangg/revanced-morphe-builder&type=date&legend=top-left" />
+ </picture>
+</a>

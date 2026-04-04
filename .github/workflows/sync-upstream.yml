@@ -48,15 +48,15 @@ jobs:
 
           if ! git merge upstream/main --no-ff --no-commit > /dev/null 2>&1; then
             CONFLICT_FILES=$(git diff --name-only --diff-filter=U)
-            if echo "$CONFLICT_FILES" | grep -Ev '^(README\.md|config\.toml|GUIDE\.md)$' > /dev/null; then
+            if echo "$CONFLICT_FILES" | grep -Ev '^(README\.md|config\.toml)$' > /dev/null; then
               echo "::error::Unresolved conflicts detected from upstream"
               exit 1
             fi
 
-            git checkout --ours -- README.md config.toml GUIDE.md 2>/dev/null || true
-            git add README.md config.toml GUIDE.md 2>/dev/null || true
+            git checkout --ours -- README.md config.toml 2>/dev/null || true
+            git add README.md config.toml 2>/dev/null || true
           fi
 
-          git checkout HEAD -- README.md config.toml GUIDE.md 2>/dev/null || true
+          git checkout HEAD -- README.md config.toml 2>/dev/null || true
           git commit --author="${{ github.repository_owner }} <${{ github.repository_owner_id }}+${{ github.repository_owner }}@users.noreply.github.com>" -m "Merge remote-tracking branch 'upstream/main'"
           git push origin main
