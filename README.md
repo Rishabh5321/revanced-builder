@@ -1060,14 +1060,14 @@ Patches: [AmpleReVanced/patches-1.0.0-dev.8.mpp](https://github.com/AmpleReVance
 ### [Wallcraft](https://play.google.com/store/apps/details?id=com.wallpaperscraft.wallpaper)
 
 <details>
-<summary id="Wallcraft">&ensp;<a href="../../releases/download/515/wallcraft-hoo-dles-v3.61.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
+<summary id="Wallcraft">&ensp;<a href="../../releases/download/516/wallcraft-hoo-dles-v3.61.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/515/wallcraft-hoo-dles-v3.61.01-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/515/wallcraft-hoo-dles-module-v3.61.01-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/515/wallcraft-hoo-dles-module-v3.61.01-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/516/wallcraft-hoo-dles-v3.61.01-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/516/wallcraft-hoo-dles-module-v3.61.01-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/516/wallcraft-hoo-dles-module-v3.61.01-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-02](../../releases/tag/515)<br>
-Patches: [hoo-dles/patches-1.18.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.18.0)
+[Release 2026-04-04](../../releases/tag/516)<br>
+Patches: [hoo-dles/patches-1.19.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.19.0)
 - Enable Premium
 </blockquote>
 </details>
