@@ -1,8 +1,8 @@
 # [nvbangg/revanced-morphe-builder](https://github.com/nvbangg/revanced-morphe-builder)
 
 > [!NOTE]
-> Automated builds and app info updates for ReVanced, Morphe & many other patches (updated daily).     
-> ⭐ First build per app is recommended (arm64-v8a.apk). Expand to view other variants and patch details.          
+> Automated builds with patch details and download links updated in README for ReVanced, Morphe & many other patches. Builds both modules and APKs. Updated daily.     
+> ⭐ First build per app is recommended (arm64-v8a.apk). Expand to view other variants and patch details.    
 
 <div align="center">
 
@@ -10,10 +10,35 @@
 </div> 
 
 <details>
+<summary><b>✨ Features</b></summary>
+
+- Automated builds with patch details and download links updated in README 
+- Releases are immutable (assets and tags cannot be modified once published)
+- Builds both modules and APKs. Updated daily.
+- Optimizes APKs and modules for size
+- 📦 Modules  
+    - recompile invalidated odex for faster usage
+    - receive updates from Magisk app
+    - do not break safetynet or trigger root detections
+    - handle installation of the correct version of the stock app and all that
+    - support Magisk and KernelSU
+- Based on trusted code from [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) with transparent changes ([see diff](https://github.com/j-hc/revanced-magisk-module/compare/main...nvbangg:revanced-morphe-builder:main))
+
+- **🧩 Patches used in this repository:** 
+
+[![ReVanced](https://img.shields.io/github/license/ReVanced/revanced-patches?label=ReVanced)](https://github.com/ReVanced/revanced-patches) [![MorpheApp](https://img.shields.io/github/license/MorpheApp/morphe-patches?label=MorpheApp)](https://github.com/MorpheApp/morphe-patches) [![hoo-dles](https://img.shields.io/github/license/hoo-dles/morphe-patches?label=hoo-dles)](https://github.com/hoo-dles/morphe-patches) [![RookieEnough](https://img.shields.io/github/license/RookieEnough/De-ReVanced?label=RookieEnough)](https://github.com/RookieEnough/De-ReVanced) [![anddea](https://img.shields.io/github/license/anddea/revanced-patches?label=anddea)](https://github.com/anddea/revanced-patches) [![Aunali321](https://img.shields.io/github/license/Aunali321/ReVancedExperiments?label=Aunali321)](https://github.com/Aunali321/ReVancedExperiments) [![crimera](https://img.shields.io/github/license/crimera/piko?label=crimera)](https://github.com/crimera/piko) [![jkennethcarino](https://img.shields.io/github/license/jkennethcarino/adobo?label=jkennethcarino)](https://github.com/jkennethcarino/adobo) [![AmpleReVanced](https://img.shields.io/github/license/AmpleReVanced/revanced-patches?label=AmpleReVanced)](https://github.com/AmpleReVanced/revanced-patches) 
+
+- **💻 CLI used in this repository:** 
+ 
+[![ReVanced CLI](https://img.shields.io/github/license/revanced/revanced-cli?label=ReVanced%20CLI)](https://github.com/revanced/revanced-cli) [![Morphe CLI](https://img.shields.io/github/license/MorpheApp/morphe-cli?label=Morphe%20CLI)](https://github.com/MorpheApp/morphe-cli)
+
+</details>
+
+<details>
 <summary><b>⬇️ Easily install and update apps (APK) with <a href="https://github.com/ImranR98/Obtainium/releases">Obtainium</a></b></summary>
 
-- First, you need to download and install [Obtainium](https://github.com/ImranR98/Obtainium/releases)
-- How to add the app to Obtainium
+- Download and install [Obtainium](https://github.com/ImranR98/Obtainium/releases)
+- Add apps from this repository:
 
 <img height="450" alt="image" src="https://github.com/user-attachments/assets/5a4b0c89-2a1e-41fb-a679-9104e9c9f294" />
 
@@ -75,18 +100,39 @@
   - Windy: `windy`
   - Proton VPN: `proton-vpn`
 
+  </details>
 </details>
 
 <details>
-<summary><b>💊 Patches & CLI used in this repository</b></summary>
+<summary><b>📖 Guide</b></summary>
 
-- **Patches:** 
+- **📦 Modules**
+    - (Optional) Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store.
+    - If you are having trouble with the classic mount method of the modules
+        - **"Reflash needed"** error after reboots
+        - **"Suspicious mount detected"** warnings from root detector apps
 
-[![ReVanced](https://img.shields.io/github/license/ReVanced/revanced-patches?label=ReVanced)](https://github.com/ReVanced/revanced-patches) [![MorpheApp](https://img.shields.io/github/license/MorpheApp/morphe-patches?label=MorpheApp)](https://github.com/MorpheApp/morphe-patches) [![hoo-dles](https://img.shields.io/github/license/hoo-dles/morphe-patches?label=hoo-dles)](https://github.com/hoo-dles/morphe-patches) [![RookieEnough](https://img.shields.io/github/license/RookieEnough/De-ReVanced?label=RookieEnough)](https://github.com/RookieEnough/De-ReVanced) [![anddea](https://img.shields.io/github/license/anddea/revanced-patches?label=anddea)](https://github.com/anddea/revanced-patches) [![Aunali321](https://img.shields.io/github/license/Aunali321/ReVancedExperiments?label=Aunali321)](https://github.com/Aunali321/ReVancedExperiments) [![crimera](https://img.shields.io/github/license/crimera/piko?label=crimera)](https://github.com/crimera/piko) [![jkennethcarino](https://img.shields.io/github/license/jkennethcarino/adobo?label=jkennethcarino)](https://github.com/jkennethcarino/adobo) [![AmpleReVanced](https://img.shields.io/github/license/AmpleReVanced/revanced-patches?label=AmpleReVanced)](https://github.com/AmpleReVanced/revanced-patches) 
+        You can consider using [rvmm-zygisk-mount](https://github.com/j-hc/rvmm-zygisk-mount)
 
-- **CLI:** 
- 
-[![ReVanced CLI](https://img.shields.io/github/license/revanced/revanced-cli?label=ReVanced%20CLI)](https://github.com/revanced/revanced-cli) [![Morphe CLI](https://img.shields.io/github/license/MorpheApp/morphe-cli?label=Morphe%20CLI)](https://github.com/MorpheApp/morphe-cli)
+- **⚙️ To include/exclude patches or patch other apps:**
+    - Star the repo :eyes:
+    - Fork this repo or use it as a [template](https://github.com/nvbangg/revanced-morphe-builder/generate)
+    - Customize [`config.toml`](./config.toml) (see [`CONFIG.md`](./CONFIG.md) for more detailed explanations)
+    - Run the build [workflow](../../actions/workflows/build.yml)
+    - Grab your modules and APKs from [releases](../../releases) or download from the README
+
+- **🛠️ Building Locally**
+    - On Termux
+    ```console
+    bash <(curl -sSf https://raw.githubusercontent.com/nvbangg/revanced-morphe-builder/main/build-termux.sh)
+    ```
+
+    - On Linux
+    ```console
+    $ git clone https://github.com/nvbangg/revanced-morphe-builder --depth 1
+    $ cd revanced-morphe-builder
+    $ ./build.sh
+    ```
 </details>
 
 ---
