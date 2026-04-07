@@ -60,17 +60,20 @@ jobs:
           echo "${DELIM}" >> "$GITHUB_OUTPUT"
           cp -f build.md build.tmp
 
-      - name: Update README
+      - name: Update and Commit README
         id: prepare
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python update-readme.py ${{ steps.next_ver_code.outputs.NEXT_VER_CODE }}
-          echo "DATE=$(date +%Y-%m-%d)" >> $GITHUB_OUTPUT
+          echo "DATE=$(date +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
 
-      - name: Commit README
-        uses: stefanzweifel/git-auto-commit-action@v7
-        with:
-          file_pattern: README.md
-          commit_message: Update README for Release ${{ steps.prepare.outputs.DATE }}
+          gh api "repos/$GITHUB_REPOSITORY/contents/README.md" \
+            --method PUT \
+            --field message="Update README for Release $(date +%Y-%m-%d)" \
+            --field content="$(base64 -w0 README.md)" \
+            --field sha="$(git rev-parse HEAD:README.md)" \
+            --field branch="${GITHUB_REF_NAME}"
 
       - name: Upload modules to release
         uses: svenstaro/upload-release-action@v2
