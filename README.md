@@ -53,13 +53,13 @@ Patches: MorpheApp/patches-1.22.0.mpp
 **Other builds:**
 
 <details>
-<summary id="YouTube-Morphe">&ensp;<a href="../../releases/download/514/youtube-morphe-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube-Morphe">&ensp;<a href="../../releases/download/520/youtube-morphe-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/514/youtube-morphe-v20.45.36-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/514/youtube-morphe-module-v20.45.36-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/514/youtube-morphe-module-v20.45.36-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/514/youtube-morphe-v20.45.36-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/520/youtube-morphe-module-v20.45.36-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/514/youtube-morphe-module-v20.45.36-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-01](../../releases/tag/514)<br>
+[Release 2026-04-08](../../releases/tag/520)<br>
 Patches: [MorpheApp/patches-1.22.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.22.0)
 - Alternative thumbnails
 - Ambient mode
@@ -274,13 +274,13 @@ Patches: anddea/patches-4.0.0.mpp
 ### [YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 
 <details>
-<summary id="YouTube-Music-Morphe">&ensp;<a href="../../releases/download/514/youtube-music-morphe-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music-Morphe">&ensp;<a href="../../releases/download/520/youtube-music-morphe-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/514/youtube-music-morphe-v8.44.54-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/514/youtube-music-morphe-module-v8.44.54-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/514/youtube-music-morphe-module-v8.44.54-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/520/youtube-music-morphe-v8.44.54-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/520/youtube-music-morphe-module-v8.44.54-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/520/youtube-music-morphe-module-v8.44.54-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-01](../../releases/tag/514)<br>
+[Release 2026-04-08](../../releases/tag/520)<br>
 Patches: [MorpheApp/patches-1.22.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.22.0)
 - Bypass certificate checks
 - Change header
@@ -502,13 +502,13 @@ Patches: ReVanced/patches-5.50.2.rvp
 ### [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 
 <details>
-<summary id="Telegram">&ensp;<a href="../../releases/download/514/telegram-aunali321-v12.5.2-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram-v12.5.2-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
+<summary id="Telegram">&ensp;<a href="../../releases/download/520/telegram-aunali321-v12.6.3-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram-v12.6.3-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/514/telegram-aunali321-v12.5.2-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/514/telegram-aunali321-module-v12.5.2-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/514/telegram-aunali321-module-v12.5.2-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/520/telegram-aunali321-v12.6.3-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/520/telegram-aunali321-module-v12.6.3-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/520/telegram-aunali321-module-v12.6.3-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-01](../../releases/tag/514)<br>
+[Release 2026-04-08](../../releases/tag/520)<br>
 Patches: [Aunali321/patches-2.0.0.rvp](https://github.com/Aunali321/ReVancedExperiments/releases/tag/v2.0.0)
 - Bypass Integrity
 - Disable Auto Update
@@ -544,13 +544,13 @@ Patches: Aunali321/patches-2.0.0.rvp
 ### [X (Twitter)](https://play.google.com/store/apps/details?id=com.twitter.android)
 
 <details>
-<summary id="Twitter-Piko">&ensp;<a href="../../releases/download/514/twitter-crimera-v11.77.0-release.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Piko-v11.77.0.release.0-gray?labelColor=0F1419&logo=X&logoColor=white"></a></summary>
+<summary id="Twitter-Piko">&ensp;<a href="../../releases/download/520/twitter-crimera-v11.79.0-release.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Piko-v11.79.0.release.0-gray?labelColor=0F1419&logo=X&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/514/twitter-crimera-v11.77.0-release.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/514/twitter-crimera-module-v11.77.0-release.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/514/twitter-crimera-module-v11.77.0-release.0-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/520/twitter-crimera-v11.79.0-release.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/520/twitter-crimera-module-v11.79.0-release.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/520/twitter-crimera-module-v11.79.0-release.0-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-01](../../releases/tag/514)<br>
+[Release 2026-04-08](../../releases/tag/520)<br>
 Patches: [crimera/patches-3.1.0.mpp](https://github.com/crimera/piko/releases/tag/v3.1.0)
 </blockquote>
 </details>
@@ -684,13 +684,13 @@ Patches: ReVanced/patches-6.1.0.rvp
 ### [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
 
 <details>
-<summary id="Reddit-Morphe">&ensp;<a href="../../releases/download/514/reddit-morphe-morphe-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
+<summary id="Reddit-Morphe">&ensp;<a href="../../releases/download/520/reddit-morphe-morphe-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/514/reddit-morphe-morphe-v2026.04.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/514/reddit-morphe-morphe-module-v2026.04.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/514/reddit-morphe-morphe-module-v2026.04.0-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/520/reddit-morphe-morphe-v2026.04.0-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/520/reddit-morphe-morphe-module-v2026.04.0-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/520/reddit-morphe-morphe-module-v2026.04.0-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-01](../../releases/tag/514)<br>
+[Release 2026-04-08](../../releases/tag/520)<br>
 Patches: [MorpheApp/patches-1.22.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.22.0)
 - Disable modern home
 - Disable screenshot popup
@@ -1060,13 +1060,13 @@ Patches: [AmpleReVanced/patches-1.0.0-dev.8.mpp](https://github.com/AmpleReVance
 ### [Wallcraft](https://play.google.com/store/apps/details?id=com.wallpaperscraft.wallpaper)
 
 <details>
-<summary id="Wallcraft">&ensp;<a href="../../releases/download/519/wallcraft-hoo-dles-v3.61.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
+<summary id="Wallcraft">&ensp;<a href="../../releases/download/520/wallcraft-hoo-dles-v3.61.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
 
 Other variants:      
-[arm-v7a.apk](../../releases/download/519/wallcraft-hoo-dles-v3.61.01-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/519/wallcraft-hoo-dles-module-v3.61.01-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/519/wallcraft-hoo-dles-module-v3.61.01-arm-v7a.zip)
+[arm-v7a.apk](../../releases/download/520/wallcraft-hoo-dles-v3.61.01-arm-v7a.apk) • [arm64-v8a.zip](../../releases/download/520/wallcraft-hoo-dles-module-v3.61.01-arm64-v8a.zip) • [arm-v7a.zip](../../releases/download/520/wallcraft-hoo-dles-module-v3.61.01-arm-v7a.zip)
 <blockquote>
 
-[Release 2026-04-08](../../releases/tag/519)<br>
+[Release 2026-04-08](../../releases/tag/520)<br>
 Patches: [hoo-dles/patches-1.22.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.22.0)
 - Enable Premium
 </blockquote>
