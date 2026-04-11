@@ -12,51 +12,33 @@ jobs:
     steps:
       - uses: actions/checkout@v6
         with:
-          ref: main
-          token: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
-          persist-credentials: true
           fetch-depth: 0
           fetch-tags: false
 
-      - name: Check upstream commits
+      - name: Check upstream
         id: check
-        env:
-          GH_TOKEN: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
         run: |
-          UPSTREAM_REPO=$(gh api repos/${{ github.repository }} --jq '.parent.full_name // .template_repository.full_name' 2>/dev/null || echo "")
-          if [ "$UPSTREAM_REPO" = "null" ] || [ -z "$UPSTREAM_REPO" ]; then
-            UPSTREAM_REPO="nvbangg/revanced-morphe-builder"
-          fi
-          git remote add upstream "https://github.com/$UPSTREAM_REPO"
+          git remote add upstream https://github.com/j-hc/revanced-magisk-module
           git fetch --no-tags upstream refs/heads/main:refs/remotes/upstream/main
           git fetch --no-tags origin refs/heads/main:refs/remotes/origin/main
 
-          if git rev-list --count origin/main..upstream/main | grep -qx 0; then
-            echo "HAS_CHANGES=false" >> "$GITHUB_OUTPUT"
+          if [ "$(git rev-list --count origin/main..upstream/main)" -eq 0 ]; then
+            echo "::notice title=Sync Upstream::No upstream changes"
             exit 0
           fi
 
           echo "HAS_CHANGES=true" >> "$GITHUB_OUTPUT"
 
-      - name: Merge upstream into main
+      - name: Sync upstream
         if: steps.check.outputs.HAS_CHANGES == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          git checkout -B main origin/main
-
-          if ! git merge upstream/main --no-ff --no-commit > /dev/null 2>&1; then
-            CONFLICT_FILES=$(git diff --name-only --diff-filter=U)
-            if echo "$CONFLICT_FILES" | grep -Ev '^(README\.md|config\.toml)$' > /dev/null; then
-              echo "::error::Unresolved conflicts detected from upstream"
-              exit 1
-            fi
-
-            git checkout --ours -- README.md config.toml 2>/dev/null || true
-            git add README.md config.toml 2>/dev/null || true
+        
+          if ! git merge upstream/main --no-ff --no-commit; then
+            echo "::error title=Sync Upstream Failed::Unresolved conflicts detected from upstream"
+            exit 1
           fi
 
-          git checkout HEAD -- README.md config.toml 2>/dev/null || true
-          git commit --author="${{ github.repository_owner }} <${{ github.repository_owner_id }}+${{ github.repository_owner }}@users.noreply.github.com>" -m "Merge remote-tracking branch 'upstream/main'"
-          git push origin main
+          git commit -m "Merge remote-tracking branch 'upstream/main'"
+          git push
