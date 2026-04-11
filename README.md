@@ -527,12 +527,12 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)
 
 <details>
-<summary id="Instagram-Piko">&emsp;<a href="../../releases/download/46/instagram-crimera-v423.0.0.47.66-arm64-v8a.apk"><img src="https://img.shields.io/badge/Piko-v423.0.0.47.66-gray?labelColor=E4405F&logo=Instagram&logoColor=white"></a></summary>
+<summary id="Instagram-Piko">&emsp;<a href="../../releases/download/47/instagram-crimera-v423.0.0.47.66-arm64-v8a.apk"><img src="https://img.shields.io/badge/Piko-v423.0.0.47.66-gray?labelColor=E4405F&logo=Instagram&logoColor=white"></a></summary>
    
-[Module (.zip)](../../releases/download/46/instagram-crimera-module-v423.0.0.47.66-arm64-v8a.zip)
+[Module (.zip)](../../releases/download/47/instagram-crimera-module-v423.0.0.47.66-arm64-v8a.zip)
 <blockquote>
 
-[Release 2026-04-10](../../releases/tag/46)<br>
+[Release 2026-04-11](../../releases/tag/47)<br>
 Patches: [crimera/patches-3.2.0-dev.5.mpp](https://github.com/crimera/piko/releases/tag/v3.2.0-dev.5)
 - Add settings
 - Change version code
@@ -662,12 +662,12 @@ Patches: [Aunali321/patches-2.0.0.rvp](https://github.com/Aunali321/ReVancedExpe
 ### [X (Twitter)](https://play.google.com/store/apps/details?id=com.twitter.android)
 
 <details>
-<summary id="X-Piko">&emsp;<a href="../../releases/download/46/x-crimera-v11.80.0-release.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Piko-v11.80.0.release.0-gray?labelColor=0F1419&logo=X&logoColor=white"></a></summary>
+<summary id="X-Piko">&emsp;<a href="../../releases/download/47/x-crimera-v11.81.0-release.0-all.apk"><img src="https://img.shields.io/badge/Piko-v11.81.0.release.0-gray?labelColor=0F1419&logo=X&logoColor=white"></a></summary>
 
-[Module (.zip)](../../releases/download/46/x-crimera-module-v11.80.0-release.0-arm64-v8a.zip)
+[Module (.zip)](../../releases/download/47/x-crimera-module-v11.81.0-release.0-all.zip)
 <blockquote>
 
-[Release 2026-04-10](../../releases/tag/46)<br>
+[Release 2026-04-11](../../releases/tag/47)<br>
 Patches: [crimera/patches-3.2.0-dev.5.mpp](https://github.com/crimera/piko/releases/tag/v3.2.0-dev.5)
 - Add ability to copy media link
 - Change app icon
