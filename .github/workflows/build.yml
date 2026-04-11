@@ -59,7 +59,7 @@ jobs:
           cat build.md >> "$GITHUB_OUTPUT"
           echo "${DELIM}" >> "$GITHUB_OUTPUT"
           cp -f build.md build.tmp
-
+      
       - name: Update and Commit README
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
