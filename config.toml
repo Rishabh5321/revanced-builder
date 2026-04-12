@@ -63,9 +63,19 @@ cli-source = "ReVanced/revanced-cli"
 app-name = "instagram"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 
+[Threads] 
+patches-source = "RookieEnough/De-ReVanced"
+direct-dlurl = "https://github.com/nvbangg/apks/releases/download/com.instagram.barcelona/com.instagram.barcelona-382.0.0.51.85-arm64-v8a.apk"
+uptodown-dlurl = "https://threads.en.uptodown.com/android"
+
 [Messenger]
 patches-source = "RookieEnough/De-ReVanced"
 uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
+
+[Viber]
+patches-source = "RookieEnough/De-ReVanced"
+direct-dlurl = "https://github.com/nvbangg/apks/releases/download/com.viber.voip/com.viber.voip-26.1.2.0-all.apk"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/viber-media-s-a-r-l/viber/"
 
 [TikTok]
 patches-source = "RookieEnough/De-ReVanced"
@@ -91,31 +101,46 @@ cli-source = "ReVanced/revanced-cli"
 app-name = "x"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 
+[Amazon-Shopping]
+patches-source = "RookieEnough/De-ReVanced"
+uptodown-dlurl = "https://amazon-shopping.en.uptodown.com/android"
+
 [Prime-Video]
 patches-source = "hoo-dles/morphe-patches"
 uptodown-dlurl = "https://amazon-video.en.uptodown.com/android"
 
-[Disney]
+[Disney-Plus]
 patches-source = "RookieEnough/De-ReVanced"
 uptodown-dlurl = "https://disney-disneyplus.en.uptodown.com/android"
+
+[Duolingo]
+patches-source = "hoo-dles/morphe-patches"
+uptodown-dlurl = "https://duolingo.en.uptodown.com/android"
 
 [WPS-Office]
 patches-source = "hoo-dles/morphe-patches"
 uptodown-dlurl = "https://wps-office.en.uptodown.com/android"
 version = "18.12.1"
 
-[Duolingo]
+[SoundCloud-HooDles]
 patches-source = "hoo-dles/morphe-patches"
-uptodown-dlurl = "https://duolingo.en.uptodown.com/android"
+app-name = "soundcloud"
+uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
 
-[Cake]
-patches-source = "hoo-dles/morphe-patches"
-uptodown-dlurl = "https://me-mycake.en.uptodown.com/android"
+[SoundCloud-DeReVanced]
+patches-source = "RookieEnough/De-ReVanced"
+app-name = "soundcloud"
+uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
 
 [Twitch]
 patches-source = "ReVanced/revanced-patches"
 cli-source = "ReVanced/revanced-cli"  
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
+
+[Pandora]
+patches-source = "hoo-dles/morphe-patches"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/pandora/pandora-music-podcasts/"
+archive-dlurl = "https://archive.org/download/nvbangg-apks/com.pandora.android/"
 
 [Reddit-Morphe]
 app-name = "reddit"
@@ -127,10 +152,6 @@ patches-source = "anddea/revanced-patches"
 app-name = "reddit"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
-
-[Amazon-Shopping]
-patches-source = "RookieEnough/De-ReVanced"
-uptodown-dlurl = "https://amazon-shopping.en.uptodown.com/android"
 
 [Google-News] 
 patches-source = "RookieEnough/De-ReVanced"
@@ -148,28 +169,23 @@ uptodown-dlurl = "https://opnemer.en.uptodown.com/android"
 patches-source = "RookieEnough/De-ReVanced"
 uptodown-dlurl = "https://photomath.en.uptodown.com/android"
 
-[SoundCloud-HooDles]
-patches-source = "hoo-dles/morphe-patches"
-app-name = "soundcloud"
-uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
+[KakaoTalk]
+patches-source = "AmpleReVanced/revanced-patches"
+patches-version = "dev"
+uptodown-dlurl = "https://kakaotalk.en.uptodown.com/android"
 
-[SoundCloud-DeReVanced]
-patches-source = "RookieEnough/De-ReVanced"
-app-name = "soundcloud"
-uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
-
-[Pandora]
-patches-source = "hoo-dles/morphe-patches"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/pandora/pandora-music-podcasts/"
-archive-dlurl = "https://archive.org/download/nvbangg-apks/com.pandora.android/"
-
-[Tumblr]
-patches-source = "RookieEnough/De-ReVanced"
-uptodown-dlurl = "https://tumblr.en.uptodown.com/android"
+[Crunchyroll]
+patches-source = "ReVanced/revanced-patches"
+cli-source = "ReVanced/revanced-cli"  
+uptodown-dlurl = "https://crunchyroll.en.uptodown.com/android"
 
 [Cricbuzz]
 patches-source = "RookieEnough/De-ReVanced"
 uptodown-dlurl = "https://cricbuzz-cricket-scores-and-news.en.uptodown.com/android"
+
+[Tumblr]
+patches-source = "RookieEnough/De-ReVanced"
+uptodown-dlurl = "https://tumblr.en.uptodown.com/android"
 
 [MyFitnessPal]
 patches-source = "hoo-dles/morphe-patches"
@@ -178,19 +194,6 @@ uptodown-dlurl = "https://calorie-counter-myfitnesspal.en.uptodown.com/android"
 [Strava]
 patches-source = "RookieEnough/De-ReVanced"
 uptodown-dlurl = "https://strava.en.uptodown.com/android"
-
-[Crunchyroll]
-patches-source = "ReVanced/revanced-patches"
-cli-source = "ReVanced/revanced-cli"  
-uptodown-dlurl = "https://crunchyroll.en.uptodown.com/android"
-
-[KakaoTalk]
-patches-source = "AmpleReVanced/revanced-patches"
-uptodown-dlurl = "https://kakaotalk.en.uptodown.com/android"
-
-[Wallcraft]
-patches-source = "hoo-dles/morphe-patches"
-uptodown-dlurl = "https://wallpaperscraft.en.uptodown.com/android"
 
 [ibis-Paint-X]
 patches-source = "hoo-dles/morphe-patches"
@@ -201,22 +204,45 @@ build-mode = "apk"
 patches-source = "RookieEnough/De-ReVanced"
 uptodown-dlurl = "https://rar-for-android.en.uptodown.com/android"
 
-[Busuu]
+[Wallcraft]
 patches-source = "hoo-dles/morphe-patches"
-uptodown-dlurl = "https://busuu.en.uptodown.com/android"
+uptodown-dlurl = "https://wallpaperscraft.en.uptodown.com/android"
 
-[Peacock-TV]
-patches-source = "RookieEnough/De-ReVanced"
-uptodown-dlurl = "https://peacock-tv.en.uptodown.com/android"
+[Nova-Launcher]
+patches-source = "hoo-dles/morphe-patches"
+direct-dlurl = "https://github.com/nvbangg/apks/releases/download/com.teslacoilsw.launcher/com.teslacoilsw.launcher-81042.8.5.1-all.apk"
+uptodown-dlurl = "https://nova-launcher.en.uptodown.com/android"
+
+[Smart-Launcher-6]
+patches-source = "hoo-dles/morphe-patches"
+uptodown-dlurl = "https://smart-launcher.en.uptodown.com/android"
+version = "6.6 build 002 patch 1"
+
+[Proton-VPN]
+patches-source = "hoo-dles/morphe-patches"
+uptodown-dlurl = "https://protonvpn.en.uptodown.com/android"
 
 [Sofascore]
 patches-source = "hoo-dles/morphe-patches"
 uptodown-dlurl = "https://sofascore.en.uptodown.com/android"
 
+[Peacock-TV]
+patches-source = "RookieEnough/De-ReVanced"
+uptodown-dlurl = "https://peacock-tv.en.uptodown.com/android"
+
 [Windy]
 patches-source = "hoo-dles/morphe-patches"
 uptodown-dlurl = "https://windy-wind-waves-and-hurricanes-forecast.en.uptodown.com/android"
 
-[Proton-VPN]
+[Cake]
 patches-source = "hoo-dles/morphe-patches"
-uptodown-dlurl = "https://protonvpn.en.uptodown.com/android"
+uptodown-dlurl = "https://me-mycake.en.uptodown.com/android"
+
+[Merriam-Webster-Dictionary]
+patches-source = "hoo-dles/morphe-patches"
+uptodown-dlurl = "https://merriam-webster-dictionary.en.uptodown.com/android"
+version = "5.5.0" 
+
+[Busuu]
+patches-source = "hoo-dles/morphe-patches"
+uptodown-dlurl = "https://busuu.en.uptodown.com/android"

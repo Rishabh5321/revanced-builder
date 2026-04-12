@@ -1,8 +1,9 @@
 # [nvbangg/revanced-morphe-builder](https://github.com/nvbangg/revanced-morphe-builder)
 
 > [!NOTE]
-> Automated builds with patch details and download links updated in README for ReVanced, Morphe & many other patches. Builds both modules and APKs. Updated daily.     
+> Automated builds using GitHub Actions, with patch details and download links updated in README for ReVanced, Morphe & many other patches. Builds both modules and APKs. Updated daily.     
 > ⭐ First build per app is recommended. Expand to view patch details.    
+> 🔒 All release files are immutable, meaning they cannot be modified once published — even by me.   
 
 <div align="center">
 
@@ -12,25 +13,26 @@
 <details>
 <summary><b>✨ Features</b></summary>
 
-- Automated builds with patch details and download links updated in README 
-- Releases are immutable (assets and tags cannot be modified once published)
-- Builds both modules and APKs. Updated daily.
-- Optimizes APKs and modules for size
-- 📦 Modules  
-    - recompile invalidated odex for faster usage
-    - receive updates from Magisk app
-    - do not break safetynet or trigger root detections
-    - handle installation of the correct version of the stock app and all that
-    - support Magisk and KernelSU
-- Based on trusted code from [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) with transparent changes ([see diff](https://github.com/j-hc/revanced-magisk-module/compare/main...nvbangg:revanced-morphe-builder:main))
-
 - **🧩 Patches used in this repository:** 
 
-[![ReVanced](https://img.shields.io/github/license/ReVanced/revanced-patches?label=ReVanced)](https://github.com/ReVanced/revanced-patches) [![MorpheApp](https://img.shields.io/github/license/MorpheApp/morphe-patches?label=MorpheApp)](https://github.com/MorpheApp/morphe-patches) [![hoo-dles](https://img.shields.io/github/license/hoo-dles/morphe-patches?label=hoo-dles)](https://github.com/hoo-dles/morphe-patches) [![RookieEnough](https://img.shields.io/github/license/RookieEnough/De-ReVanced?label=RookieEnough)](https://github.com/RookieEnough/De-ReVanced) [![anddea](https://img.shields.io/github/license/anddea/revanced-patches?label=anddea)](https://github.com/anddea/revanced-patches) [![Aunali321](https://img.shields.io/github/license/Aunali321/ReVancedExperiments?label=Aunali321)](https://github.com/Aunali321/ReVancedExperiments) [![crimera](https://img.shields.io/github/license/crimera/piko?label=crimera)](https://github.com/crimera/piko) [![jkennethcarino](https://img.shields.io/github/license/jkennethcarino/adobo?label=jkennethcarino)](https://github.com/jkennethcarino/adobo) [![AmpleReVanced](https://img.shields.io/github/license/AmpleReVanced/revanced-patches?label=AmpleReVanced)](https://github.com/AmpleReVanced/revanced-patches) 
+[![MorpheApp](https://img.shields.io/github/license/MorpheApp/morphe-patches?label=MorpheApp)](https://github.com/MorpheApp/morphe-patches) [![ReVanced](https://img.shields.io/github/license/ReVanced/revanced-patches?label=ReVanced)](https://github.com/ReVanced/revanced-patches) [![hoo-dles](https://img.shields.io/github/license/hoo-dles/morphe-patches?label=hoo-dles)](https://github.com/hoo-dles/morphe-patches) [![RookieEnough](https://img.shields.io/github/license/RookieEnough/De-ReVanced?label=RookieEnough)](https://github.com/RookieEnough/De-ReVanced) [![anddea](https://img.shields.io/github/license/anddea/revanced-patches?label=anddea)](https://github.com/anddea/revanced-patches) [![Aunali321](https://img.shields.io/github/license/Aunali321/ReVancedExperiments?label=Aunali321)](https://github.com/Aunali321/ReVancedExperiments) [![crimera](https://img.shields.io/github/license/crimera/piko?label=crimera)](https://github.com/crimera/piko) [![jkennethcarino](https://img.shields.io/github/license/jkennethcarino/adobo?label=jkennethcarino)](https://github.com/jkennethcarino/adobo) [![AmpleReVanced](https://img.shields.io/github/license/AmpleReVanced/revanced-patches?label=AmpleReVanced)](https://github.com/AmpleReVanced/revanced-patches) 
 
 - **💻 CLI used in this repository:** 
  
-[![ReVanced CLI](https://img.shields.io/github/license/revanced/revanced-cli?label=ReVanced%20CLI)](https://github.com/revanced/revanced-cli) [![Morphe CLI](https://img.shields.io/github/license/MorpheApp/morphe-cli?label=Morphe%20CLI)](https://github.com/MorpheApp/morphe-cli)
+[![Morphe CLI](https://img.shields.io/github/license/MorpheApp/morphe-cli?label=Morphe%20CLI)](https://github.com/MorpheApp/morphe-cli) [![ReVanced CLI](https://img.shields.io/github/license/revanced/revanced-cli?label=ReVanced%20CLI)](https://github.com/revanced/revanced-cli) 
+
+- ✅ Based on trusted code from [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) with transparent changes ([see diff](https://github.com/j-hc/revanced-magisk-module/compare/main...nvbangg:revanced-morphe-builder:main)), including main changes:
+  - Automatically updates patch details and download links in the README
+  - Automatically syncs with upstream
+  - Supports automatic architecture selection
+  - Fixes some issues with UI/config improvements
+- Optimizes APKs and modules for size
+- Modules  
+  - recompile invalidated odex for faster usage
+  - receive updates from Magisk app
+  - do not break safetynet or trigger root detections
+  - handle installation of the correct version of the stock app and all that
+  - support Magisk and KernelSU
 
 </details>
 
@@ -63,42 +65,47 @@
 
   - Instagram Piko: `instagram-piko`
   - Instagram ReVanced: `instagram-revanced`
+  - Threads: `threads`
   - Messenger: `messenger`
+  - Viber: `viber`
   - TikTok: `tiktok`
   - Telegram: `telegram-aunali321`
   - Telegram Web: `telegram-web-aunali321`
   - X (Twitter) Piko: `twitter-crimera`
   - X (Twitter) ReVanced: `twitter-revanced`
+  - Amazon Shopping: `amazon-shopping`
   - Prime Video: `prime-video`
-  - Disney+: `disney`
-  - WPS-Office: `wps-office`
+  - Disney+: `disney-plus`
   - Duolingo: `duolingo`
-  - Cake: `cake`
+  - WPS Office: `wps-office`
+  - SoundCloud HooDles: `soundcloud-hoo-dles`
+  - SoundCloud DeReVanced: `soundcloud-rookieenough`
   - Twitch: `twitch`
+  - Pandora: `pandora`
   - Reddit Morphe: `reddit-morpheapp`
   - Reddit Anddea: `reddit-anddea`
-  - Amazon Shopping: `amazon-shopping`
   - Google News: `google-news`
   - Gboard: `gboard`
   - Google Recorder: `google-recorder`
   - Photomath: `photomath`
-  - SoundCloud HooDles: `soundcloud-hoo-dles`
-  - SoundCloud DeReVanced: `soundcloud-rookieenough`
-  - Pandora: `pandora`
-  - Tumblr: `tumblr`
+  - KakaoTalk: `kakaotalk`
+  - Crunchyroll: `crunchyroll`
   - Cricbuzz: `cricbuzz`
+  - Tumblr: `tumblr`
   - MyFitnessPal: `myfitnesspal`
   - Strava: `strava`
-  - Crunchyroll: `crunchyroll`
-  - KakaoTalk: `kakaotalk`
-  - Wallcraft: `wallcraft`
   - ibis Paint X: `ibis-paint-x`
   - RAR: `rar`
-  - Busuu: `busuu`
-  - Peacock TV: `peacock-tv`
-  - Sofascore: `sofascore`
-  - Windy: `windy`
+  - Wallcraft: `wallcraft`
+  - Nova Launcher: `nova-launcher`
+  - Smart Launcher 6: `smart-launcher`
   - Proton VPN: `proton-vpn`
+  - Sofascore: `sofascore`
+  - Peacock TV: `peacock-tv`
+  - Windy: `windy`
+  - Cake: `cake`
+  - Merriam Webster Dictionary: `merriam-webster`
+  - Busuu: `busuu`
 
   </details>
 </details>
@@ -107,32 +114,50 @@
 <summary><b>📖 Guide</b></summary>
 
 - **📦 Modules**
-    - (Optional) Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store.
-    - If you are having trouble with the classic mount method of the modules
-        - **"Reflash needed"** error after reboots
-        - **"Suspicious mount detected"** warnings from root detector apps
+  - (Optional) Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store.
+  - If you are having trouble with the classic mount method of the modules
+    - **"Reflash needed"** error after reboots
+    - **"Suspicious mount detected"** warnings from root detector apps
 
-        You can consider using [rvmm-zygisk-mount](https://github.com/j-hc/rvmm-zygisk-mount)
+    You can consider using [rvmm-zygisk-mount](https://github.com/j-hc/rvmm-zygisk-mount)
 
 - **⚙️ To include/exclude patches or patch other apps:**
-    - Star the repo :eyes:
-    - Fork this repo or use it as a [template](https://github.com/nvbangg/revanced-morphe-builder/generate)
-    - Customize [`config.toml`](./config.toml) (see [`CONFIG.md`](./CONFIG.md) for more detailed explanations)
-    - Run the build [workflow](../../actions/workflows/build.yml)
-    - Grab your modules and APKs from [releases](../../releases) or download from the README
+  - Star the repo :eyes:
+  - Fork this repo or use it as a [template](https://github.com/nvbangg/revanced-morphe-builder/generate)
+  - Customize [`config.toml`](./config.toml) (see [`CONFIG.md`](./CONFIG.md) for more detailed explanations)
+  - Run the build [workflow](../../actions/workflows/build.yml)
+  - Grab your modules and APKs from [releases](../../releases) or download from the README
+
+- **🏷️ App template for automated README updates:**
+  - Fields automatically updated by the script:
+    - Download links: `/releases/download/.../...-<arch>.<ext>`
+    - Badge version: `-v<number>...-gray?`
+    - Patch details: inside `<blockquote>...</blockquote>`
+  - The script scans all `<details>` blocks with `id="App-Name"` in the README and updates them.
+
+```md
+<details>
+<summary id="App-Name">...</summary>
+...
+<blockquote>
+...
+</blockquote>
+</details>
+```
 
 - **🛠️ Building Locally**
-    - On Termux
-    ```console
-    bash <(curl -sSf https://raw.githubusercontent.com/nvbangg/revanced-morphe-builder/main/build-termux.sh)
-    ```
+  - On Termux
+  ```console
+  bash <(curl -sSf https://raw.githubusercontent.com/nvbangg/revanced-morphe-builder/main/build-termux.sh)
+  ```
 
-    - On Linux
-    ```console
-    $ git clone https://github.com/nvbangg/revanced-morphe-builder --depth 1
-    $ cd revanced-morphe-builder
-    $ ./build.sh
-    ```
+  - On Linux
+  ```console
+  $ git clone https://github.com/nvbangg/revanced-morphe-builder --depth 1
+  $ cd revanced-morphe-builder
+  $ ./build.sh
+  ```
+
 </details>
 
 ---
@@ -579,6 +604,19 @@ Patches: ReVanced/patches-6.1.0.rvp
 </details>
 
 ---
+### [Threads](https://play.google.com/store/apps/details?id=com.instagram.barcelona)
+
+<details>
+<summary id="Threads">&emsp;<a href="../../releases/download/0/threads-rookieenough-v0.0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Threads-v0.0.0-gray?labelColor=0F1419&logo=Threads&logoColor=white"></a></summary>
+ 
+[Module (.zip)](../../releases/download/0/threads-rookieenough-module-v0.0.0-arm64-v8a.zip)
+<blockquote>
+
+Patches: RookieEnough
+</blockquote>
+</details>
+
+---
 ### [Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca)
 
 <details>
@@ -594,6 +632,19 @@ Patches: RookieEnough/patches-1.0.1.mpp
 - Hide inbox ads
 - Hide inbox subtabs
 - Remove Meta AI
+</blockquote>
+</details>
+
+---
+### [Viber](https://play.google.com/store/apps/details?id=com.viber.voip)
+
+<details>
+<summary id="Viber">&emsp;<a href="../../releases/download/0/viber-rookieenough-v0.0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Viber-v0.0.0-gray?labelColor=665CAC&logo=Viber&logoColor=white"></a></summary>
+ 
+[Module (.zip)](../../releases/download/0/viber-rookieenough-module-v0.0.0-arm64-v8a.zip)
+<blockquote>
+
+Patches: RookieEnough
 </blockquote>
 </details>
 
@@ -754,6 +805,21 @@ Patches: ReVanced/patches-6.1.0.rvp
 </details>
 
 ---
+### [Amazon Shopping](https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping)
+
+<details>
+<summary id="Amazon-Shopping">&emsp;<a href="../../releases/download/43/amazon-shopping-rookieenough-v32.7.0.100-arm64-v8a.apk"><img src="https://img.shields.io/badge/Amazon_Shopping-v32.7.0.100-gray?labelColor=FF9900&logo=amazon&logoColor=000000"></a></summary>
+
+[Module (.zip)](../../releases/download/43/amazon-shopping-rookieenough-module-v32.7.0.100-arm64-v8a.zip)
+<blockquote>
+
+[Release 2026-04-07](../../releases/tag/43)<br>
+Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.3)
+- Always allow deep-linking
+</blockquote>
+</details>
+
+---
 ### [Prime Video](https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient)
 
 <details>
@@ -774,7 +840,7 @@ Patches: [hoo-dles/patches-1.22.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Disney+](https://play.google.com/store/apps/details?id=com.disney.disneyplus)
 
 <details>
-<summary id="Disney">&emsp;<a href="../../releases/download/43/disney-rookieenough-v26.4.2+rc1-2026.04.02-arm64-v8a.apk"><img src="https://img.shields.io/badge/Disney+-v26.4.2+rc1.2026.04.02-gray?labelColor=113CCF&logo=Disney%2B&logoColor=white"></a></summary>
+<summary id="Disney-Plus">&emsp;<a href="../../releases/download/43/disney-rookieenough-v26.4.2+rc1-2026.04.02-arm64-v8a.apk"><img src="https://img.shields.io/badge/Disney+-v26.4.2+rc1.2026.04.02-gray?labelColor=113CCF&logo=Disney%2B&logoColor=white"></a></summary>
 
 [Module (.zip)](../../releases/download/43/disney-rookieenough-module-v26.4.2+rc1-2026.04.02-arm64-v8a.zip)
 <blockquote>
@@ -782,22 +848,6 @@ Patches: [hoo-dles/patches-1.22.0.mpp](https://github.com/hoo-dles/morphe-patche
 [Release 2026-04-07](../../releases/tag/43)<br>
 Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.3)
 - Skip ads
-</blockquote>
-</details>
-
----
-### [WPS Office](https://play.google.com/store/apps/details?id=cn.wps.moffice_eng)
-
-<details>
-<summary id="WPS-Office">&emsp;<a href="../../releases/download/44/wps-office-hoo-dles-v18.12.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/WPS_Office-v18.12.1-gray?labelColor=C03426&logo=wpsoffice&logoColor=white"></a></summary>
-
-[Module (.zip)](../../releases/download/44/wps-office-hoo-dles-module-v18.12.1-arm64-v8a.zip)
-<blockquote>
-
-[Release 2026-04-08](../../releases/tag/44)<br>
-Patches: [hoo-dles/patches-1.22.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.22.0)
-- Disable anti-tamper
-- Enable Pro
 </blockquote>
 </details>
 
@@ -818,17 +868,50 @@ Patches: [hoo-dles/patches-1.22.0.mpp](https://github.com/hoo-dles/morphe-patche
 </details>
 
 ---
-### [Cake](https://play.google.com/store/apps/details?id=me.mycake)
+### [WPS Office](https://play.google.com/store/apps/details?id=cn.wps.moffice_eng)
 
 <details>
-<summary id="Cake">&emsp;<a href="../../releases/download/44/cake-hoo-dles-v6.4.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cake-v6.4.0-gray?labelColor=FF6B35&logo=cake&logoColor=white"></a></summary>
+<summary id="WPS-Office">&emsp;<a href="../../releases/download/44/wps-office-hoo-dles-v18.12.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/WPS_Office-v18.12.1-gray?labelColor=C03426&logo=wpsoffice&logoColor=white"></a></summary>
 
-[Module (.zip)](../../releases/download/44/cake-hoo-dles-module-v6.4.0-arm64-v8a.zip)
+[Module (.zip)](../../releases/download/44/wps-office-hoo-dles-module-v18.12.1-arm64-v8a.zip)
 <blockquote>
 
 [Release 2026-04-08](../../releases/tag/44)<br>
 Patches: [hoo-dles/patches-1.22.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.22.0)
-- Enable Plus
+- Disable anti-tamper
+- Enable Pro
+</blockquote>
+</details>
+
+---
+### [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android)
+
+<details>
+<summary id="SoundCloud-HooDles">&emsp;<a href="../../releases/download/44/soundcloud-hoo-dles-v2026.03.20-release-arm64-v8a.apk"><img src="https://img.shields.io/badge/HooDles-v2026.03.20.release-gray?labelColor=FF5500&logo=SoundCloud&logoColor=white"></a></summary>
+
+[Module (.zip)](../../releases/download/44/soundcloud-hoo-dles-module-v2026.03.20-release-arm64-v8a.zip)
+<blockquote>
+
+[Release 2026-04-08](../../releases/tag/44)<br>
+Patches: [hoo-dles/patches-1.22.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.22.0)
+- Disable telemetry
+- Enable SoundCloud Go+
+</blockquote>
+</details>
+
+**Other builds:**
+
+<details>
+<summary id="SoundCloud-DeReVanced">&emsp;<a href="../../releases/download/43/soundcloud-rookieenough-v2025.05.27-release-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v2025.05.27.release-gray?labelColor=FF5500&logo=SoundCloud&logoColor=white"></a></summary>
+
+[Module (.zip)](../../releases/download/43/soundcloud-rookieenough-module-v2025.05.27-release-arm64-v8a.zip)
+<blockquote>
+
+[Release 2026-04-07](../../releases/tag/43)<br>
+Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.3)
+- Disable telemetry
+- Enable offline sync
+- Hide ads
 </blockquote>
 </details>
 
@@ -847,6 +930,22 @@ Patches: ReVanced/patches-6.1.0.rvp
 - Block video ads
 - Show deleted messages
 - Settings
+</blockquote>
+</details>
+
+---
+### [Pandora](https://play.google.com/store/apps/details?id=com.pandora.android)
+
+<details>
+<summary id="Pandora">&emsp;<a href="../../releases/download/44/pandora-hoo-dles-v2602.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Pandora-v2602.1-gray?labelColor=3668FF&logo=Pandora&logoColor=white"></a></summary>
+
+[Module (.zip)](../../releases/download/44/pandora-hoo-dles-module-v2602.1-arm64-v8a.zip)
+<blockquote>
+
+[Release 2026-04-08](../../releases/tag/44)<br>
+Patches: [hoo-dles/patches-1.22.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.22.0)
+- Disable ads
+- Unlimited skips
 </blockquote>
 </details>
 
@@ -899,21 +998,6 @@ Patches: [anddea/patches-4.0.0.mpp](https://github.com/anddea/revanced-patches/r
 - Sanitize sharing links
 - Settings for Reddit
 - Translations for Reddit
-</blockquote>
-</details>
-
----
-### [Amazon Shopping](https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping)
-
-<details>
-<summary id="Amazon-Shopping">&emsp;<a href="../../releases/download/43/amazon-shopping-rookieenough-v32.7.0.100-arm64-v8a.apk"><img src="https://img.shields.io/badge/Amazon_Shopping-v32.7.0.100-gray?labelColor=FF9900&logo=amazon&logoColor=000000"></a></summary>
-
-[Module (.zip)](../../releases/download/43/amazon-shopping-rookieenough-module-v32.7.0.100-arm64-v8a.zip)
-<blockquote>
-
-[Release 2026-04-07](../../releases/tag/43)<br>
-Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.3)
-- Always allow deep-linking
 </blockquote>
 </details>
 
@@ -982,139 +1066,6 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 </details>
 
 ---
-### [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android)
-
-<details>
-<summary id="SoundCloud-HooDles">&emsp;<a href="../../releases/download/44/soundcloud-hoo-dles-v2026.03.20-release-arm64-v8a.apk"><img src="https://img.shields.io/badge/HooDles-v2026.03.20.release-gray?labelColor=FF5500&logo=SoundCloud&logoColor=white"></a></summary>
-
-[Module (.zip)](../../releases/download/44/soundcloud-hoo-dles-module-v2026.03.20-release-arm64-v8a.zip)
-<blockquote>
-
-[Release 2026-04-08](../../releases/tag/44)<br>
-Patches: [hoo-dles/patches-1.22.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.22.0)
-- Disable telemetry
-- Enable SoundCloud Go+
-</blockquote>
-</details>
-
-**Other builds:**
-
-<details>
-<summary id="SoundCloud-DeReVanced">&emsp;<a href="../../releases/download/43/soundcloud-rookieenough-v2025.05.27-release-arm64-v8a.apk"><img src="https://img.shields.io/badge/DeReVanced-v2025.05.27.release-gray?labelColor=FF5500&logo=SoundCloud&logoColor=white"></a></summary>
-
-[Module (.zip)](../../releases/download/43/soundcloud-rookieenough-module-v2025.05.27-release-arm64-v8a.zip)
-<blockquote>
-
-[Release 2026-04-07](../../releases/tag/43)<br>
-Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.3)
-- Disable telemetry
-- Enable offline sync
-- Hide ads
-</blockquote>
-</details>
-
----
-### [Pandora](https://play.google.com/store/apps/details?id=com.pandora.android)
-
-<details>
-<summary id="Pandora">&emsp;<a href="../../releases/download/44/pandora-hoo-dles-v2602.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Pandora-v2602.1-gray?labelColor=3668FF&logo=Pandora&logoColor=white"></a></summary>
-
-[Module (.zip)](../../releases/download/44/pandora-hoo-dles-module-v2602.1-arm64-v8a.zip)
-<blockquote>
-
-[Release 2026-04-08](../../releases/tag/44)<br>
-Patches: [hoo-dles/patches-1.22.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.22.0)
-- Disable ads
-- Unlimited skips
-</blockquote>
-</details>
-
----
-### [Tumblr](https://play.google.com/store/apps/details?id=com.tumblr)
-
-<details>
-<summary id="Tumblr">&emsp;<a href="../../releases/download/43/tumblr-rookieenough-v43.9.0.109-arm64-v8a.apk"><img src="https://img.shields.io/badge/Tumblr-v43.9.0.109-gray?labelColor=36465D&logo=Tumblr&logoColor=white"></a></summary>
-
-[Module (.zip)](../../releases/download/43/tumblr-rookieenough-module-v43.9.0.109-arm64-v8a.zip)
-<blockquote>
-
-[Release 2026-04-07](../../releases/tag/43)<br>
-Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.3)
-- Disable Ad-Free Banner
-- Disable Tumblr TV
-- Disable blog notification reminder
-- Disable dashboard ads
-- Disable gift message popup
-- Disable in-app update
-</blockquote>
-</details>
-
----
-### [Cricbuzz](https://play.google.com/store/apps/details?id=com.cricbuzz.android)
-
-<details>
-<summary id="Cricbuzz">&emsp;<a href="../../releases/download/43/cricbuzz-rookieenough-v6.24.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cricbuzz-v6.24.01-gray?labelColor=009270&logo=Cricbuzz&logoColor=white"></a></summary>
-
-[Module (.zip)](../../releases/download/43/cricbuzz-rookieenough-module-v6.24.01-arm64-v8a.zip)
-<blockquote>
-
-[Release 2026-04-07](../../releases/tag/43)<br>
-Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.3)
-- Hide ads
-</blockquote>
-</details>
-
----
-### [MyFitnessPal](https://play.google.com/store/apps/details?id=com.myfitnesspal.android)
-
-<details>
-<summary id="MyFitnessPal">&emsp;<a href="../../releases/download/44/myfitnesspal-hoo-dles-v25.50.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/MyFitnessPal-v25.50.0-gray?labelColor=0066EE&logo=MyFitnessPal&logoColor=white"></a></summary>
-
-[Module (.zip)](../../releases/download/44/myfitnesspal-hoo-dles-module-v25.50.0-arm64-v8a.zip)
-<blockquote>
-
-[Release 2026-04-08](../../releases/tag/44)<br>
-Patches: [hoo-dles/patches-1.22.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.22.0)
-- Enable Premium+
-</blockquote>
-</details>
-
----
-### [Strava](https://play.google.com/store/apps/details?id=com.strava)
-
-<details>
-<summary id="Strava">&emsp;<a href="../../releases/download/43/strava-rookieenough-v457.13-arm64-v8a.apk"><img src="https://img.shields.io/badge/Strava-v457.13-gray?labelColor=FC4C02&logo=Strava&logoColor=white"></a></summary>
-
-[Module (.zip)](../../releases/download/43/strava-rookieenough-module-v457.13-arm64-v8a.zip)
-<blockquote>
-
-[Release 2026-04-07](../../releases/tag/43)<br>
-Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.3)
-- Add 'Give Kudos' button to 'Group Activity'
-- Add media download
-- Block Snowplow tracking
-- Disable Quick Edit
-- Enable password login
-- Hide distractions
-- Overwrite media upload parameters
-- Unlock subscription features
-</blockquote>
-</details>
-
----
-### [Crunchyroll](https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid)
-
-<details>
-<summary id="Crunchyroll">&emsp;<a href="../../releases/download/31/crunchyroll-revanced-v3.104.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Crunchyroll-v3.104.0-gray?labelColor=F47521&logo=Crunchyroll&logoColor=white"></a></summary>
-<blockquote>
-
-[Release 2026-03-20](../../releases/tag/31)<br>
-Patches: ReVanced/patches-6.1.0.rvp
-- Hide ads
-</blockquote>
-</details>
-
----
 ### [KakaoTalk](https://play.google.com/store/apps/details?id=com.kakao.talk)
 
 <details>
@@ -1173,22 +1124,91 @@ Patches: [AmpleReVanced/patches-1.0.0-dev.10.mpp](https://github.com/AmpleReVanc
 </details>
 
 ---
-### [Wallcraft](https://play.google.com/store/apps/details?id=com.wallpaperscraft.wallpaper)
+### [Crunchyroll](https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid)
 
 <details>
-<summary id="Wallcraft">&emsp;<a href="../../releases/download/44/wallcraft-hoo-dles-v3.61.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
-
-[Module (.zip)](../../releases/download/44/wallcraft-hoo-dles-module-v3.61.01-arm64-v8a.zip)
+<summary id="Crunchyroll">&emsp;<a href="../../releases/download/31/crunchyroll-revanced-v3.104.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Crunchyroll-v3.104.0-gray?labelColor=F47521&logo=Crunchyroll&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-04-08](../../releases/tag/44)<br>
-Patches: [hoo-dles/patches-1.22.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.22.0)
-- Enable Premium
+[Release 2026-03-20](../../releases/tag/31)<br>
+Patches: ReVanced/patches-6.1.0.rvp
+- Hide ads
 </blockquote>
 </details>
 
 ---
+### [Cricbuzz](https://play.google.com/store/apps/details?id=com.cricbuzz.android)
 
+<details>
+<summary id="Cricbuzz">&emsp;<a href="../../releases/download/43/cricbuzz-rookieenough-v6.24.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cricbuzz-v6.24.01-gray?labelColor=009270&logo=Cricbuzz&logoColor=white"></a></summary>
+
+[Module (.zip)](../../releases/download/43/cricbuzz-rookieenough-module-v6.24.01-arm64-v8a.zip)
+<blockquote>
+
+[Release 2026-04-07](../../releases/tag/43)<br>
+Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.3)
+- Hide ads
+</blockquote>
+</details>
+
+---
+### [Tumblr](https://play.google.com/store/apps/details?id=com.tumblr)
+
+<details>
+<summary id="Tumblr">&emsp;<a href="../../releases/download/43/tumblr-rookieenough-v43.9.0.109-arm64-v8a.apk"><img src="https://img.shields.io/badge/Tumblr-v43.9.0.109-gray?labelColor=36465D&logo=Tumblr&logoColor=white"></a></summary>
+
+[Module (.zip)](../../releases/download/43/tumblr-rookieenough-module-v43.9.0.109-arm64-v8a.zip)
+<blockquote>
+
+[Release 2026-04-07](../../releases/tag/43)<br>
+Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.3)
+- Disable Ad-Free Banner
+- Disable Tumblr TV
+- Disable blog notification reminder
+- Disable dashboard ads
+- Disable gift message popup
+- Disable in-app update
+</blockquote>
+</details>
+
+---
+### [MyFitnessPal](https://play.google.com/store/apps/details?id=com.myfitnesspal.android)
+
+<details>
+<summary id="MyFitnessPal">&emsp;<a href="../../releases/download/44/myfitnesspal-hoo-dles-v25.50.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/MyFitnessPal-v25.50.0-gray?labelColor=0066EE&logo=MyFitnessPal&logoColor=white"></a></summary>
+
+[Module (.zip)](../../releases/download/44/myfitnesspal-hoo-dles-module-v25.50.0-arm64-v8a.zip)
+<blockquote>
+
+[Release 2026-04-08](../../releases/tag/44)<br>
+Patches: [hoo-dles/patches-1.22.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.22.0)
+- Enable Premium+
+</blockquote>
+</details>
+
+---
+### [Strava](https://play.google.com/store/apps/details?id=com.strava)
+
+<details>
+<summary id="Strava">&emsp;<a href="../../releases/download/43/strava-rookieenough-v457.13-arm64-v8a.apk"><img src="https://img.shields.io/badge/Strava-v457.13-gray?labelColor=FC4C02&logo=Strava&logoColor=white"></a></summary>
+
+[Module (.zip)](../../releases/download/43/strava-rookieenough-module-v457.13-arm64-v8a.zip)
+<blockquote>
+
+[Release 2026-04-07](../../releases/tag/43)<br>
+Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.3)
+- Add 'Give Kudos' button to 'Group Activity'
+- Add media download
+- Block Snowplow tracking
+- Disable Quick Edit
+- Enable password login
+- Hide distractions
+- Overwrite media upload parameters
+- Unlock subscription features
+</blockquote>
+</details>
+
+---
 ### [ibis Paint X](https://play.google.com/store/apps/details?id=jp.ne.ibis.ibispaintx.app)
 
 <details>
@@ -1202,7 +1222,6 @@ Patches: [hoo-dles/patches-1.22.0.mpp](https://github.com/hoo-dles/morphe-patche
 </details>
 
 ---
-
 ### [RAR](https://play.google.com/store/apps/details?id=com.rarlab.rar)
 
 <details>
@@ -1218,13 +1237,12 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 </details>
 
 ---
-
-### [Busuu](https://play.google.com/store/apps/details?id=com.busuu.android.enc)
+### [Wallcraft](https://play.google.com/store/apps/details?id=com.wallpaperscraft.wallpaper)
 
 <details>
-<summary id="Busuu">&emsp;<a href="../../releases/download/44/busuu-hoo-dles-v32.30.0.1575420.-arm64-v8a.apk"><img src="https://img.shields.io/badge/Busuu-v32.30.0(1575420)-gray?labelColor=116EEE&logo=busuu&logoColor=white"></a></summary>
+<summary id="Wallcraft">&emsp;<a href="../../releases/download/44/wallcraft-hoo-dles-v3.61.01-arm64-v8a.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
 
-[Module (.zip)](../../releases/download/44/busuu-hoo-dles-module-v32.30.0.1575420.-arm64-v8a.zip)
+[Module (.zip)](../../releases/download/44/wallcraft-hoo-dles-module-v3.61.01-arm64-v8a.zip)
 <blockquote>
 
 [Release 2026-04-08](../../releases/tag/44)<br>
@@ -1234,55 +1252,32 @@ Patches: [hoo-dles/patches-1.22.0.mpp](https://github.com/hoo-dles/morphe-patche
 </details>
 
 ---
-
-### [Peacock TV](https://play.google.com/store/apps/details?id=com.peacocktv.peacockandroid)
+### [Nova Launcher](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher)
 
 <details>
-<summary id="Peacock-TV">&emsp;<a href="../../releases/download/43/peacock-tv-rookieenough-v7.4.10-arm64-v8a.apk"><img src="https://img.shields.io/badge/Peacock_TV-v7.4.10-gray?labelColor=252525&logo=peacock&logoColor=white"></a></summary>
-
-[Module (.zip)](../../releases/download/43/peacock-tv-rookieenough-module-v7.4.10-arm64-v8a.zip)
+<summary id="Nova-Launcher">&emsp;<a href="../../releases/download/0/nova-launcher-hoo-dles-v0.0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Nova_Launcher-v0.0.0-gray?labelColor=FF3C30&logo=nova_launcher&logoColor=white"></a></summary>
+ 
+[Module (.zip)](../../releases/download/0/nova-launcher-hoo-dles-module-v0.0.0-arm64-v8a.zip)
 <blockquote>
 
-[Release 2026-04-07](../../releases/tag/43)<br>
-Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.3)
-- Hide ads
+Patches: hoo-dles
 </blockquote>
 </details>
 
 ---
-
-### [Sofascore](https://play.google.com/store/apps/details?id=com.sofascore.results)
+### [Smart Launcher 6](https://play.google.com/store/apps/details?id=ginlemon.flowerfree)
 
 <details>
-<summary id="Sofascore">&emsp;<a href="../../releases/download/44/sofascore-hoo-dles-v25.12.17-arm64-v8a.apk"><img src="https://img.shields.io/badge/Sofascore-v25.12.17-gray?labelColor=1A4BFF&logo=sofascore&logoColor=white"></a></summary>
+<summary id="Smart-Launcher-6">&emsp;<a href="../../releases/download/0/smart-launcher-6-hoo-dles-v0.0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Smart_Launcher_6-v0.0.0-gray?labelColor=0F1419&logo=smart_launcher&logoColor=white"></a></summary>
 
-[Module (.zip)](../../releases/download/44/sofascore-hoo-dles-module-v25.12.17-arm64-v8a.zip)
+[Module (.zip)](../../releases/download/0/smart-launcher-6-hoo-dles-module-v0.0.0-arm64-v8a.zip)
 <blockquote>
 
-[Release 2026-04-08](../../releases/tag/44)<br>
-Patches: [hoo-dles/patches-1.22.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.22.0)
-- Disable ads
+Patches: hoo-dles
 </blockquote>
 </details>
 
 ---
-
-### [Windy](https://play.google.com/store/apps/details?id=com.windyty.android)
-
-<details>
-<summary id="Windy">&emsp;<a href="../../releases/download/44/windy-hoo-dles-v49.0.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Windy-v49.0.1-gray?labelColor=C62828&logo=windy&logoColor=white"></a></summary>
-
-[Module (.zip)](../../releases/download/44/windy-hoo-dles-module-v49.0.1-arm64-v8a.zip)
-<blockquote>
-
-[Release 2026-04-08](../../releases/tag/44)<br>
-Patches: [hoo-dles/patches-1.22.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.22.0)
-- Enable Premium
-</blockquote>
-</details>
-
----
-
 ### [Proton VPN](https://play.google.com/store/apps/details?id=ch.protonvpn.android)
 
 <details>
@@ -1300,7 +1295,95 @@ Patches: [hoo-dles/patches-1.22.0.mpp](https://github.com/hoo-dles/morphe-patche
 </details>
 
 ---
+### [Sofascore](https://play.google.com/store/apps/details?id=com.sofascore.results)
 
+<details>
+<summary id="Sofascore">&emsp;<a href="../../releases/download/44/sofascore-hoo-dles-v25.12.17-arm64-v8a.apk"><img src="https://img.shields.io/badge/Sofascore-v25.12.17-gray?labelColor=1A4BFF&logo=sofascore&logoColor=white"></a></summary>
+
+[Module (.zip)](../../releases/download/44/sofascore-hoo-dles-module-v25.12.17-arm64-v8a.zip)
+<blockquote>
+
+[Release 2026-04-08](../../releases/tag/44)<br>
+Patches: [hoo-dles/patches-1.22.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.22.0)
+- Disable ads
+</blockquote>
+</details>
+
+---
+### [Peacock TV](https://play.google.com/store/apps/details?id=com.peacocktv.peacockandroid)
+
+<details>
+<summary id="Peacock-TV">&emsp;<a href="../../releases/download/43/peacock-tv-rookieenough-v7.4.10-arm64-v8a.apk"><img src="https://img.shields.io/badge/Peacock_TV-v7.4.10-gray?labelColor=252525&logo=peacock&logoColor=white"></a></summary>
+
+[Module (.zip)](../../releases/download/43/peacock-tv-rookieenough-module-v7.4.10-arm64-v8a.zip)
+<blockquote>
+
+[Release 2026-04-07](../../releases/tag/43)<br>
+Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.3)
+- Hide ads
+</blockquote>
+</details>
+
+---
+### [Windy](https://play.google.com/store/apps/details?id=com.windyty.android)
+
+<details>
+<summary id="Windy">&emsp;<a href="../../releases/download/44/windy-hoo-dles-v49.0.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Windy-v49.0.1-gray?labelColor=C62828&logo=windy&logoColor=white"></a></summary>
+
+[Module (.zip)](../../releases/download/44/windy-hoo-dles-module-v49.0.1-arm64-v8a.zip)
+<blockquote>
+
+[Release 2026-04-08](../../releases/tag/44)<br>
+Patches: [hoo-dles/patches-1.22.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.22.0)
+- Enable Premium
+</blockquote>
+</details>
+
+---
+### [Cake](https://play.google.com/store/apps/details?id=me.mycake)
+
+<details>
+<summary id="Cake">&emsp;<a href="../../releases/download/44/cake-hoo-dles-v6.4.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cake-v6.4.0-gray?labelColor=FF6B35&logo=cake&logoColor=white"></a></summary>
+
+[Module (.zip)](../../releases/download/44/cake-hoo-dles-module-v6.4.0-arm64-v8a.zip)
+<blockquote>
+
+[Release 2026-04-08](../../releases/tag/44)<br>
+Patches: [hoo-dles/patches-1.22.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.22.0)
+- Enable Plus
+</blockquote>
+</details>
+
+---
+### [Merriam Webster Dictionary](https://play.google.com/store/apps/details?id=com.merriamwebster)
+
+<details>
+<summary id="Merriam-Webster-Dictionary">&emsp;<a href="../../releases/download/0/merriam-webster-dictionary-hoo-dles-v0.0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Merriam_Webster_Dictionary-v0.0.0-gray?labelColor=B30000&logo=merriam_webster&logoColor=white"></a></summary>
+ 
+[Module (.zip)](../../releases/download/0/merriam-webster-dictionary-hoo-dles-module-v0.0.0-arm64-v8a.zip)
+<blockquote>
+
+Patches: hoo-dles
+</blockquote>
+</details>
+
+---
+### [Busuu](https://play.google.com/store/apps/details?id=com.busuu.android.enc)
+
+<details>
+<summary id="Busuu">&emsp;<a href="../../releases/download/44/busuu-hoo-dles-v32.30.0.1575420.-arm64-v8a.apk"><img src="https://img.shields.io/badge/Busuu-v32.30.0(1575420)-gray?labelColor=116EEE&logo=busuu&logoColor=white"></a></summary>
+
+[Module (.zip)](../../releases/download/44/busuu-hoo-dles-module-v32.30.0.1575420.-arm64-v8a.zip)
+<blockquote>
+
+[Release 2026-04-08](../../releases/tag/44)<br>
+Patches: [hoo-dles/patches-1.22.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.22.0)
+- Enable Premium
+</blockquote>
+</details>
+
+
+---
 ## ⭐ Star History
 
 <a href="https://www.star-history.com/?repos=nvbangg%2Frevanced-morphe-builder&type=date&legend=top-left">
