@@ -63,16 +63,15 @@
   <details>
   <summary>Other apps:</summary>
 
-  - Instagram Piko: `instagram-piko`
-  - Instagram ReVanced: `instagram-revanced`
+  - Facebook: `facebook`
+  - Instagram: `instagram`
   - Threads: `threads`
   - Messenger: `messenger`
   - Viber: `viber`
   - TikTok: `tiktok`
   - Telegram: `telegram-aunali321`
   - Telegram Web: `telegram-web-aunali321`
-  - X (Twitter) Piko: `twitter-crimera`
-  - X (Twitter) ReVanced: `twitter-revanced`
+  - X (Twitter): `x-crimera`
   - Amazon Shopping: `amazon-shopping`
   - Prime Video: `prime-video`
   - Disney+: `disney-plus`
@@ -549,10 +548,23 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 </details>
 
 ---
+### [Facebook](https://play.google.com/store/apps/details?id=com.facebook.katana)
+
+<details>
+<summary id="Facebook">&emsp;<a href="../../releases/download/0/facebook-rookieenough-v0.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Facebook-v0.0-gray?labelColor=1877F2&logo=Facebook&logoColor=white"></a></summary>
+ 
+[Module (.zip)](../../releases/download/0/facebook-rookieenough-module-v0.0-arm64-v8a.zip)
+<blockquote>
+
+Patches: RookieEnough
+</blockquote>
+</details>
+
+---
 ### [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android)
 
 <details>
-<summary id="Instagram-Piko">&emsp;<a href="../../releases/download/47/instagram-crimera-v423.0.0.47.66-arm64-v8a.apk"><img src="https://img.shields.io/badge/Piko-v423.0.0.47.66-gray?labelColor=E4405F&logo=Instagram&logoColor=white"></a></summary>
+<summary id="Instagram">&emsp;<a href="../../releases/download/47/instagram-crimera-v423.0.0.47.66-arm64-v8a.apk"><img src="https://img.shields.io/badge/Instagram-v423.0.0.47.66-gray?labelColor=E4405F&logo=Instagram&logoColor=white"></a></summary>
    
 [Module (.zip)](../../releases/download/47/instagram-crimera-module-v423.0.0.47.66-arm64-v8a.zip)
 <blockquote>
@@ -586,20 +598,6 @@ Patches: [crimera/patches-3.2.0-dev.5.mpp](https://github.com/crimera/piko/relea
 - View live anonymously
 - View stories anonymously
 - View story mentions
-</blockquote>
-</details>
-
-**Other builds:**
-
-<details>
-<summary id="Instagram-ReVanced">&emsp;<a href="../../releases/download/31/instagram-revanced-v422.0.0.15.64-arm64-v8a.apk"><img src="https://img.shields.io/badge/ReVanced-v422.0.0.15.64-gray?labelColor=E4405F&logo=Instagram&logoColor=white"></a></summary>
-<blockquote>
-
-[Release 2026-03-20](../../releases/tag/31)<br>
-Patches: ReVanced/patches-6.1.0.rvp
-- Disable analytics
-- Hide ads
-- Sanitize sharing links
 </blockquote>
 </details>
 
@@ -713,7 +711,7 @@ Patches: [Aunali321/patches-2.0.0.rvp](https://github.com/Aunali321/ReVancedExpe
 ### [X (Twitter)](https://play.google.com/store/apps/details?id=com.twitter.android)
 
 <details>
-<summary id="X-Piko">&emsp;<a href="../../releases/download/47/x-crimera-v11.81.0-release.0-all.apk"><img src="https://img.shields.io/badge/Piko-v11.81.0.release.0-gray?labelColor=0F1419&logo=X&logoColor=white"></a></summary>
+<summary id="X">&emsp;<a href="../../releases/download/47/x-crimera-v11.81.0-release.0-all.apk"><img src="https://img.shields.io/badge/Twitter-v11.81.0.release.0-gray?labelColor=0F1419&logo=X&logoColor=white"></a></summary>
 
 [Module (.zip)](../../releases/download/47/x-crimera-module-v11.81.0-release.0-all.zip)
 <blockquote>
@@ -786,21 +784,6 @@ Patches: [crimera/patches-3.2.0-dev.5.mpp](https://github.com/crimera/piko/relea
 - Show poll results
 - Show post source label
 - Show sensitive media
-</blockquote>
-</details>
-
-**Other builds:**
-
-<details>
-<summary id="X-ReVanced">&emsp;<a href="../../releases/download/31/twitter-revanced-v10.86.0-release.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/ReVanced-v10.86.0.release.0-gray?labelColor=0F1419&logo=X&logoColor=white"></a></summary>
-<blockquote>
-
-[Release 2026-03-20](../../releases/tag/31)<br>
-Patches: ReVanced/patches-6.1.0.rvp
-- Dynamic color
-- Hide ads
-- Hide recommended users
-- Sanitize sharing links
 </blockquote>
 </details>
 

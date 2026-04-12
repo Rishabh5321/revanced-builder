@@ -51,22 +51,22 @@ patches-source = "RookieEnough/De-ReVanced"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.photos"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 
-[Instagram-Piko]
+[Facebook]
+patches-source = "RookieEnough/De-ReVanced"
+direct-dlurl = "https://github.com/nvbangg/apks/releases/download/com.facebook.katana/com.facebook.katana-490.0.0.63.82-arm64-v8a.apk"
+uptodown-durl = "https://facebook.en.uptodown.com/android"
+arch = "arm64-v8a"
+
+[Instagram]
 patches-source = "crimera/piko"
 patches-version = "dev"
-app-name = "instagram"
-uptodown-dlurl = "https://instagram.en.uptodown.com/android"
-
-[Instagram-ReVanced]
-patches-source = "ReVanced/revanced-patches"
-cli-source = "ReVanced/revanced-cli"  
-app-name = "instagram"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 
 [Threads] 
 patches-source = "RookieEnough/De-ReVanced"
 direct-dlurl = "https://github.com/nvbangg/apks/releases/download/com.instagram.barcelona/com.instagram.barcelona-382.0.0.51.85-arm64-v8a.apk"
 uptodown-dlurl = "https://threads.en.uptodown.com/android"
+arch = "arm64-v8a"
 
 [Messenger]
 patches-source = "RookieEnough/De-ReVanced"
@@ -89,16 +89,9 @@ uptodown-dlurl = "https://telegram-google-play-version.en.uptodown.com/android"
 patches-source = "Aunali321/ReVancedExperiments"
 uptodown-dlurl = "https://telegram.en.uptodown.com/android"
 
-[X-Piko]
+[X]
 patches-source = "crimera/piko"
 patches-version = "dev"
-app-name = "x"
-uptodown-dlurl = "https://twitter.en.uptodown.com/android"
-
-[X-ReVanced]
-patches-source = "ReVanced/revanced-patches"
-cli-source = "ReVanced/revanced-cli"  
-app-name = "x"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 
 [Amazon-Shopping]
