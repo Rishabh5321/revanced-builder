@@ -81,10 +81,12 @@ uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 
 [Telegram]
 patches-source = "Aunali321/ReVancedExperiments"
+cli-source = "ReVanced/revanced-cli"  
 uptodown-dlurl = "https://telegram-google-play-version.en.uptodown.com/android"
 
 [Telegram-Web]
 patches-source = "Aunali321/ReVancedExperiments"
+cli-source = "ReVanced/revanced-cli"  
 uptodown-dlurl = "https://telegram.en.uptodown.com/android"
 
 [X]
