@@ -53,9 +53,8 @@ uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 
 [Facebook]
 patches-source = "RookieEnough/De-ReVanced"
-direct-dlurl = "https://github.com/nvbangg/apks/releases/download/com.facebook.katana/com.facebook.katana-490.0.0.63.82-arm64-v8a.apk"
+github-dlurl = "https://github.com/nvbangg/apks/releases/tag/com.facebook.katana"
 uptodown-durl = "https://facebook.en.uptodown.com/android"
-arch = "arm64-v8a"
 
 [Instagram]
 patches-source = "crimera/piko"
@@ -64,9 +63,8 @@ uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 
 [Threads] 
 patches-source = "RookieEnough/De-ReVanced"
-direct-dlurl = "https://github.com/nvbangg/apks/releases/download/com.instagram.barcelona/com.instagram.barcelona-382.0.0.51.85-arm64-v8a.apk"
+github-dlurl = "https://github.com/nvbangg/apks/releases/tag/com.instagram.barcelona"
 uptodown-dlurl = "https://threads.en.uptodown.com/android"
-arch = "arm64-v8a"
 
 [Messenger]
 patches-source = "RookieEnough/De-ReVanced"
@@ -74,7 +72,7 @@ uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
 
 [Viber]
 patches-source = "RookieEnough/De-ReVanced"
-direct-dlurl = "https://github.com/nvbangg/apks/releases/download/com.viber.voip/com.viber.voip-26.1.2.0-all.apk"
+github-dlurl = "https://github.com/nvbangg/apks/releases/tag/com.viber.voip"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/viber-media-s-a-r-l/viber/"
 
 [TikTok]
@@ -126,14 +124,14 @@ app-name = "soundcloud"
 uptodown-dlurl = "https://soundcloud.en.uptodown.com/android"
 
 [Twitch]
-patches-source = "ReVanced/revanced-patches"
-cli-source = "ReVanced/revanced-cli"  
+patches-source = "RookieEnough/De-ReVanced"
+github-dlurl = "https://github.com/nvbangg/apks/releases/tag/tv.twitch.android.app"
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 
 [Pandora]
 patches-source = "hoo-dles/morphe-patches"
+github-dlurl = "https://github.com/nvbangg/apks/releases/tag/com.pandora.android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/pandora/pandora-music-podcasts/"
-archive-dlurl = "https://archive.org/download/nvbangg-apks/com.pandora.android/"
 
 [Reddit-Morphe]
 app-name = "reddit"
@@ -203,7 +201,7 @@ uptodown-dlurl = "https://wallpaperscraft.en.uptodown.com/android"
 
 [Nova-Launcher]
 patches-source = "hoo-dles/morphe-patches"
-direct-dlurl = "https://github.com/nvbangg/apks/releases/download/com.teslacoilsw.launcher/com.teslacoilsw.launcher-81042.8.5.1-all.apk"
+github-dlurl = "https://github.com/nvbangg/apks/releases/tag/com.teslacoilsw.launcher"
 uptodown-dlurl = "https://nova-launcher.en.uptodown.com/android"
 
 [Smart-Launcher-6]

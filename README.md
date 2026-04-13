@@ -24,7 +24,7 @@
 - ✅ Based on trusted code from [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) with transparent changes ([see diff](https://github.com/j-hc/revanced-magisk-module/compare/main...nvbangg:revanced-morphe-builder:main)), including main changes:
   - Automatically updates patch details and download links in the README
   - Automatically syncs with upstream
-  - Supports automatic architecture selection
+  - Supports automatic architecture selection and GitHub Releases download source
   - Fixes some issues with UI/config improvements
 - Optimizes APKs and modules for size
 - Modules  
@@ -910,6 +910,8 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 
 <details>
 <summary id="Twitch">&emsp;<a href="../../releases/download/31/twitch-revanced-v16.9.1-arm64-v8a.apk"><img src="https://img.shields.io/badge/Twitch-v16.9.1-gray?labelColor=9146FF&logo=Twitch&logoColor=white"></a></summary>
+
+[Module (.zip)](../../releases/download/0/twitch-revanced-module-v16.9.1-arm64-v8a.zip)
 <blockquote>
 
 [Release 2026-03-20](../../releases/tag/31)<br>
