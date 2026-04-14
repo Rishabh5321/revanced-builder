@@ -58,7 +58,6 @@ uptodown-durl = "https://facebook.en.uptodown.com/android"
 
 [Instagram]
 patches-source = "crimera/piko"
-patches-version = "dev"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 
 [Threads] 
@@ -91,7 +90,6 @@ uptodown-dlurl = "https://telegram.en.uptodown.com/android"
 
 [X]
 patches-source = "crimera/piko"
-patches-version = "dev"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 
 [Amazon-Shopping]
