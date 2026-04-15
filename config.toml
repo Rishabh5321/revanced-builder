@@ -25,7 +25,7 @@ uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 
 [Telegram]
 patches-source = "Aunali321/ReVancedExperiments"
-rv-brand = "aunali321"
+cli-source = "ReVanced/revanced-cli"
 uptodown-dlurl = "https://telegram-google-play-version.en.uptodown.com/android"
 
 [Twitter-Piko]
