@@ -203,12 +203,12 @@ Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patc
 **Other builds:**
 
 <details>
-<summary id="YouTube-Morphe">&emsp;<a href="../../releases/download/46/youtube-morpheapp-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube-Morphe">&emsp;<a href="../../releases/download/523/youtube-morphe-v20.45.36-all.apk"><img src="https://img.shields.io/badge/Morphe-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
      
-[Module (.zip)](../../releases/download/46/youtube-morpheapp-module-v20.45.36-arm64-v8a.zip)
+[Module (.zip)](../../releases/download/523/youtube-morphe-module-v20.45.36-all.zip)
 <blockquote>
 
-[Release 2026-04-10](../../releases/tag/46)<br>
+[Release 2026-04-15](../../releases/tag/523)<br>
 Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.23.0)
 - Alternative thumbnails
 - Ambient mode
@@ -424,12 +424,12 @@ Patches: [anddea/patches-4.0.0.mpp](https://github.com/anddea/revanced-patches/r
 ### [YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 
 <details>
-<summary id="YouTube-Music-Morphe">&emsp;<a href="../../releases/download/46/youtube-music-morpheapp-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music-Morphe">&emsp;<a href="../../releases/download/523/youtube-music-morphe-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 
-[Module (.zip)](../../releases/download/46/youtube-music-morpheapp-module-v8.44.54-arm64-v8a.zip)
+[Module (.zip)](../../releases/download/523/youtube-music-morphe-module-v8.44.54-arm64-v8a.zip)
 <blockquote>
 
-[Release 2026-04-10](../../releases/tag/46)<br>
+[Release 2026-04-15](../../releases/tag/523)<br>
 Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.23.0)
 - Bypass certificate checks
 - Change header
@@ -678,12 +678,12 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 
 <details>
-<summary id="Telegram">&emsp;<a href="../../releases/download/43/telegram-aunali321-v12.6.3-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram-v12.6.3-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
+<summary id="Telegram">&emsp;<a href="../../releases/download/523/telegram-aunali321-v12.6.3-all.apk"><img src="https://img.shields.io/badge/Telegram-v12.6.3-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
 
-[Module (.zip)](../../releases/download/43/telegram-aunali321-module-v12.6.3-arm64-v8a.zip)
+[Module (.zip)](../../releases/download/523/telegram-aunali321-module-v12.6.3-all.zip)
 <blockquote>
 
-[Release 2026-04-07](../../releases/tag/43)<br>
+[Release 2026-04-15](../../releases/tag/523)<br>
 Patches: [Aunali321/patches-2.0.0.rvp](https://github.com/Aunali321/ReVancedExperiments/releases/tag/v2.0.0)
 - Bypass Integrity
 - Disable Auto Update
@@ -945,12 +945,12 @@ Patches: [hoo-dles/patches-1.23.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
 
 <details>
-<summary id="Reddit-Morphe">&emsp;<a href="../../releases/download/46/reddit-morpheapp-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
+<summary id="Reddit-Morphe">&emsp;<a href="../../releases/download/523/reddit-morphe-morphe-v2026.04.0-all.apk"><img src="https://img.shields.io/badge/Morphe-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
 
-[Module (.zip)](../../releases/download/46/reddit-morpheapp-module-v2026.04.0-arm64-v8a.zip)
+[Module (.zip)](../../releases/download/523/reddit-morphe-morphe-module-v2026.04.0-all.zip)
 <blockquote>
 
-[Release 2026-04-10](../../releases/tag/46)<br>
+[Release 2026-04-15](../../releases/tag/523)<br>
 Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.23.0)
 - Disable modern home
 - Disable screenshot popup
@@ -1232,12 +1232,12 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [Wallcraft](https://play.google.com/store/apps/details?id=com.wallpaperscraft.wallpaper)
 
 <details>
-<summary id="Wallcraft">&emsp;<a href="../../releases/download/48/wallcraft-hoo-dles-v3.61.01-all.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
+<summary id="Wallcraft">&emsp;<a href="../../releases/download/523/wallcraft-hoo-dles-v3.61.01-all.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
 
-[Module (.zip)](../../releases/download/48/wallcraft-hoo-dles-module-v3.61.01-all.zip)
+[Module (.zip)](../../releases/download/523/wallcraft-hoo-dles-module-v3.61.01-all.zip)
 <blockquote>
 
-[Release 2026-04-12](../../releases/tag/48)<br>
+[Release 2026-04-15](../../releases/tag/523)<br>
 Patches: [hoo-dles/patches-1.23.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.23.0)
 - Enable Premium
 </blockquote>
