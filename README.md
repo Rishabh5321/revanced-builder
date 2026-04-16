@@ -1232,13 +1232,13 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [Wallcraft](https://play.google.com/store/apps/details?id=com.wallpaperscraft.wallpaper)
 
 <details>
-<summary id="Wallcraft">&emsp;<a href="../../releases/download/523/wallcraft-hoo-dles-v3.61.01-all.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
+<summary id="Wallcraft">&emsp;<a href="../../releases/download/524/wallcraft-hoo-dles-v3.61.01-all.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
 
-[Module (.zip)](../../releases/download/523/wallcraft-hoo-dles-module-v3.61.01-all.zip)
+[Module (.zip)](../../releases/download/524/wallcraft-hoo-dles-module-v3.61.01-all.zip)
 <blockquote>
 
-[Release 2026-04-15](../../releases/tag/523)<br>
-Patches: [hoo-dles/patches-1.23.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.23.0)
+[Release 2026-04-16](../../releases/tag/524)<br>
+Patches: [hoo-dles/patches-1.24.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.24.0)
 - Enable Premium
 </blockquote>
 </details>
