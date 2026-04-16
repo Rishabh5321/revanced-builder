@@ -1,24 +1,11 @@
-Cricbuzz-Morphe (all): 6.24.01  
-Google-Photos-Morphe (all): 7.71.0.896539910  
-Reddit-Morphe (all): 2026.04.0  
-Telegram (all): 12.6.3  
-Twitter-Piko (all): 11.82.0-release.0  
 Wallcraft (all): 3.61.01  
-YouTube-Morphe (all): 20.45.36  
-YouTube-Music-Morphe (arm64-v8a): 8.44.54  
 
   
-Patches: Aunali321/patches-2.0.0.rvp  
-[Changelog](https://github.com/Aunali321/ReVancedExperiments/releases/tag/v2.0.0)
+Patches: hoo-dles/patches-1.24.0.mpp  
+[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.24.0)  
 
-Patches: crimera/patches-3.2.0.mpp  
-[Changelog](https://github.com/crimera/piko/releases/tag/v3.2.0)
-
-Patches: hoo-dles/patches-1.23.0.mpp  
-[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.23.0)
-
-Patches: MorpheApp/patches-1.23.0.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.23.0)
-
+Skipped:  
 Patches: RookieEnough/patches-1.0.3.mpp  
-[Changelog](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.3)  
+Patches: MorpheApp/patches-1.23.0.mpp  
+Patches: Aunali321/patches-2.0.0.rvp  
+Patches: crimera/patches-3.2.0.mpp    
