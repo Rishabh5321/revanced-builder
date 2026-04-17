@@ -627,12 +627,16 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [Pinterest](https://play.google.com/store/apps/details?id=com.pinterest)
 
 <details>
-<summary id="Pinterest">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/0/pinterest-binarymend-v0.0-all.apk"><img src="https://img.shields.io/badge/Pinterest-v0.0-gray?labelColor=E60023&logo=Pinterest&logoColor=white"></a></summary>
+<summary id="Pinterest">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/53/pinterest-binarymend-v14.11.0-all.apk"><img src="https://img.shields.io/badge/Pinterest-v14.11.0-gray?labelColor=E60023&logo=Pinterest&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/0/pinterest-binarymend-module-v0.0-all.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/53/pinterest-binarymend-module-v14.11.0-all.zip)
 <blockquote>
 
-Patches: [binarymend/morphe-patches](https://github.com/binarymend/morphe-patches)
+[Release 2026-04-17](https://github.com/nvbangg/morphe-builder/releases/tag/53)<br>
+Patches: [binarymend/patches-1.2.0.mpp](https://github.com/binarymend/morphe-patches/releases/tag/v1.2.0)
+- Disable Bugsnag Telemetry
+- Disable General Telemetry
+- Remove Promoted Pins
 </blockquote>
 </details>
 
@@ -749,12 +753,14 @@ Patches: [hoo-dles/patches-1.24.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [VN - AI Video Editor](https://play.google.com/store/apps/details?id=com.frontrow.vlog)
 
 <details>
-<summary id="VN-Video-Editor">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/0/vn-video-editor-paresh-maheshwari-v0.0-all.apk"><img src="https://img.shields.io/badge/VN_Video_Editor-v0.0-gray?labelColor=FFFFFF&logo=vn-editor&logoColor=white"></a></summary>
+<summary id="VN-Video-Editor">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/53/vn-video-editor-paresh-maheshwari-v2.12.0-all.apk"><img src="https://img.shields.io/badge/VN_Video_Editor-v2.12.0-gray?labelColor=FFFFFF&logo=vn-editor&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/0/vn-video-editor-paresh-maheshwari-module-v0.0-all.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/53/vn-video-editor-paresh-maheshwari-module-v2.12.0-all.zip)
 <blockquote>
 
-Patches: [Paresh-Maheshwari/paresh-patches](https://github.com/Paresh-Maheshwari/paresh-patches)
+[Release 2026-04-17](https://github.com/nvbangg/morphe-builder/releases/tag/53)<br>
+Patches: [Paresh-Maheshwari/patches-1.7.0.mpp](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.7.0)
+- VN Premium
 </blockquote>
 </details>
 
@@ -1025,12 +1031,14 @@ Patches: [hoo-dles/patches-1.24.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Document Scanner](https://play.google.com/store/apps/details?id=com.cv.docscanner) - PDF Creator
 
 <details>
-<summary id="Document-Scanner">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/0/document-scanner-paresh-maheshwari-v0.0-all.apk"><img src="https://img.shields.io/badge/Document_Scanner-v0.0-gray?labelColor=415259&logo=document&logoColor=white"></a></summary>
+<summary id="Document-Scanner">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/53/document-scanner-paresh-maheshwari-v6.8.18-all.apk"><img src="https://img.shields.io/badge/Document_Scanner-v6.8.18-gray?labelColor=415259&logo=document&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/0/document-scanner-paresh-maheshwari-module-v0.0-all.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/53/document-scanner-paresh-maheshwari-module-v6.8.18-all.zip)
 <blockquote>
 
-Patches: [Paresh-Maheshwari/paresh-patches](https://github.com/Paresh-Maheshwari/paresh-patches)
+[Release 2026-04-17](https://github.com/nvbangg/morphe-builder/releases/tag/53)<br>
+Patches: [Paresh-Maheshwari/patches-1.7.0.mpp](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.7.0)
+- Doc Scanner Premium
 </blockquote>
 </details>
 
@@ -1053,12 +1061,14 @@ Patches: [hoo-dles/patches-1.24.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Fing](https://play.google.com/store/apps/details?id=com.overlook.android.fing) - Network Tools
 
 <details>
-<summary id="Fing">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/0/fing-paresh-maheshwari-v0.0-all.apk"><img src="https://img.shields.io/badge/Fing-v0.0-gray?labelColor=007AFF&logo=Fing&logoColor=white"></a></summary>
+<summary id="Fing">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/53/fing-paresh-maheshwari-v12.11.9-all.apk"><img src="https://img.shields.io/badge/Fing-v12.11.9-gray?labelColor=007AFF&logo=Fing&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/0/fing-paresh-maheshwari-module-v0.0-all.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/53/fing-paresh-maheshwari-module-v12.11.9-all.zip)
 <blockquote>
 
-Patches: [Paresh-Maheshwari/paresh-patches](https://github.com/Paresh-Maheshwari/paresh-patches)
+[Release 2026-04-17](https://github.com/nvbangg/morphe-builder/releases/tag/53)<br>
+Patches: [Paresh-Maheshwari/patches-1.7.0.mpp](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.7.0)
+- Fing Premium
 </blockquote>
 </details>
 
