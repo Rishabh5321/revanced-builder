@@ -15,34 +15,7 @@ app-name = "youtube"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
-[YouTube-ReVanced]
-patches-source = "ReVanced/revanced-patches"
-cli-source = "ReVanced/revanced-cli"  
-app-name = "youtube"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-
-[YouTube-Anddea]
-patches-source = "anddea/revanced-patches"
-app-name = "youtube"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-
-[YouTube-Music-Morphe]
-app-name = "youtube-music"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-
-[YouTube-Music-ReVanced]
-patches-source = "ReVanced/revanced-patches"
-cli-source = "ReVanced/revanced-cli"  
-app-name = "youtube-music"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
-
-[YouTube-Music-Anddea]
-patches-source = "anddea/revanced-patches"
-app-name = "youtube-music"
+[YouTube-Music]
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
@@ -133,14 +106,7 @@ patches-source = "hoo-dles/morphe-patches"
 github-dlurl = "https://github.com/nvbangg/apks/releases/tag/com.pandora.android"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/pandora/pandora-music-podcasts/"
 
-[Reddit-Morphe]
-app-name = "reddit"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
-uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
-
-[Reddit-Anddea]
-patches-source = "anddea/revanced-patches"
-app-name = "reddit"
+[Reddit]
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
@@ -165,10 +131,8 @@ patches-source = "AmpleReVanced/revanced-patches"
 patches-version = "dev"
 uptodown-dlurl = "https://kakaotalk.en.uptodown.com/android"
 
-[Crunchyroll]
-patches-source = "ReVanced/revanced-patches"
-cli-source = "ReVanced/revanced-cli"  
-uptodown-dlurl = "https://crunchyroll.en.uptodown.com/android"
+# [Crunchyroll]
+# uptodown-dlurl = "https://crunchyroll.en.uptodown.com/android"
 
 [Cricbuzz]
 patches-source = "RookieEnough/De-ReVanced"
