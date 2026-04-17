@@ -77,6 +77,14 @@ uptodown-dlurl = "https://amazon-video.en.uptodown.com/android"
 patches-source = "RookieEnough/De-ReVanced"
 uptodown-dlurl = "https://disney-disneyplus.en.uptodown.com/android"
 
+[Reddit]
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
+
+[Truecaller]
+patches-source = "Paresh-Maheshwari/paresh-patches"
+github-dlurl = "https://github.com/nvbangg/apks/releases/tag/com.truecaller"
+
 [Pinterest]
 patches-source = "binarymend/morphe-patches"
 uptodown-dlurl = "https://pinterest.en.uptodown.com/android"
@@ -153,10 +161,6 @@ uptodown-dlurl = "https://calorie-counter-myfitnesspal.en.uptodown.com/android"
 [Cake]
 patches-source = "hoo-dles/morphe-patches"
 uptodown-dlurl = "https://me-mycake.en.uptodown.com/android"
-
-[Reddit]
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
-uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
 [Nova-Launcher]
 patches-source = "hoo-dles/morphe-patches"

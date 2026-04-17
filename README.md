@@ -1,13 +1,15 @@
 # [nvbangg/morphe-builder](https://github.com/nvbangg/morphe-builder)
+[nvbangg.github.io/morphe-builder](https://nvbangg.github.io/morphe-builder)
 
 > [!NOTE]
-> Automated builds using GitHub Actions, with patch details and download links updated in README for ReVanced, Morphe & many other patches. Builds both modules and APKs. Updated daily.     
-> ⭐ First build per app is recommended. Expand to view patch details.    
-> 🔒 All release files are immutable, meaning they cannot be modified once published — even by me.   
+> ⬇️ A page for quickly and easily downloading apps patched using Morphe or many other patches.    
+> 🤖 Uses GitHub Actions to daily check for new releases, build them, and automatically update patch details & download links. Builds both modules and APKs.    
+> ⭐ Expand to view patch details. Star and watch this repository to follow the latest updates.    
+> 🔒 All release files are immutable, meaning they cannot be modified once published — even by me.  
 
 <div align="center">
 
-[![CI](https://img.shields.io/github/actions/workflow/status/nvbangg/morphe-builder/ci.yml?label=CI&logo=githubactions&logoColor=white)](https://github.com/nvbangg/morphe-builder/actions/workflows/ci.yml)　[![Releases](https://img.shields.io/github/downloads/nvbangg/morphe-builder/total?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNNSAyMGgxNHYtMkg1djJ6TTE5IDloLTRWM0g5djZINWw3IDcgNy03eiIvPjwvc3ZnPg==&label=Downloads)](https://github.com/nvbangg/morphe-builder/releases)　[![Stars](https://img.shields.io/github/stars/nvbangg/morphe-builder?label=Star%20this%20repo%20if%20useful%20⭐&logo=github)](https://github.com/nvbangg/morphe-builder)　[![Donate](https://img.shields.io/badge/Support-pink?style=social&logo=github-sponsors)](https://nvbangg.github.io/#donate)　[![Other Tools](https://img.shields.io/badge/%F0%9F%91%89%20Other%20Tools-nvbangg--tools-blue)](https://github.com/nvbangg/nvbangg-tools)
+[![CI](https://img.shields.io/github/actions/workflow/status/nvbangg/morphe-builder/ci.yml?label=CI&logo=githubactions&logoColor=white)](https://github.com/nvbangg/morphe-builder/actions/workflows/ci.yml)　[![Releases](https://img.shields.io/github/downloads/nvbangg/morphe-builder/total?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNNSAyMGgxNHYtMkg1djJ6TTE5IDloLTRWM0g5djZINWw3IDcgNy03eiIvPjwvc3ZnPg==&label=Downloads)](https://github.com/nvbangg/morphe-builder/releases)　[![Stars](https://img.shields.io/github/stars/nvbangg/morphe-builder?label=Star%20this%20repo%20if%20useful%20⭐&logo=github)](https://github.com/nvbangg/morphe-builder)　[![Sponsor](https://img.shields.io/badge/Support-pink?style=social&logo=github-sponsors)](https://github.com/sponsors/nvbangg)　[![Other Tools](https://img.shields.io/badge/%F0%9F%91%89%20Other%20Tools-nvbangg--tools-blue)](https://github.com/nvbangg/nvbangg-tools)
 </div> 
 
 <details>
@@ -24,6 +26,7 @@
 - ✅ Based on trusted code from [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) with transparent changes ([see diff](https://github.com/j-hc/revanced-magisk-module/compare/main...nvbangg:morphe-builder:main)), including main changes:
   - Automatically updates patch details and download links in the README
   - Automatically syncs with upstream
+  - Supports deploying to GitHub Pages
   - Supports automatic architecture selection and GitHub Releases download source
   - Fixes some issues with UI/config improvements
 - Optimizes APKs and modules for size
@@ -71,6 +74,8 @@
   - Amazon Shopping: `amazon-shopping`
   - Prime Video: `prime-video`
   - Disney+: `disney-plus`
+  - Reddit: `reddit`
+  - Truecaller: `truecaller`
   - Pinterest: `pinterest`
   - WPS Office: `wps-office`
   - Duolingo: `duolingo`
@@ -89,7 +94,6 @@
   - Tumblr: `tumblr`
   - MyFitnessPal: `myfitnesspal`
   - Cake: `cake`
-  - Reddit: `reddit`
   - Nova Launcher: `nova-launcher`
   - Proton VPN: `proton-vpn`
   - Sofascore: `sofascore`
@@ -140,6 +144,12 @@
 </details>
 ```
 
+- **🚀 Deploy GitHub Pages:**
+  - To deploy GitHub Pages, open the repo Settings -> Pages -> Build and deployment.
+  - Set Source to GitHub Actions.
+  - Then run the workflow once at [`deploy-pages.yml`](https://github.com/nvbangg/morphe-builder/actions/workflows/deploy-pages.yml).
+  - After that, it will deploy automatically on every build.
+
 - **🛠️ Building Locally**
   - On Termux
   ```console
@@ -159,20 +169,18 @@
 ### MicroG
 
 > [!IMPORTANT]
-> You need to install **MicroG-RE** (recommended) or **MicroG**, then sign in to your **Google account** to use **YouTube**, **YouTube Music**, and **Google Photos**.
+> You need to install **MicroG-RE** (recommended) or **MicroG**, then sign in to your **Google account** for apps that require Google login, such as **YouTube**, **YouTube Music**, **Google Photos**, etc.
 
 [![MicroG-RE](https://img.shields.io/github/v/release/MorpheApp/MicroG-RE?label=MicroG-RE)](https://github.com/MorpheApp/MicroG-RE/releases)　[![MicroG](https://img.shields.io/github/v/release/ReVanced/GmsCore?label=MicroG)](https://github.com/ReVanced/GmsCore/releases)
 
 ---
 ### [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
-- A Morphe-based build with only essential patches, keeping YouTube close to the original while adding ad blocking, SponsorBlock, and other essential features.
-Great for beginners. 
-
 <details>
-<summary id="YouTube">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/46/youtube-nvbangg-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube">Recommended: <a href="https://github.com/nvbangg/morphe-builder/releases/download/46/youtube-nvbangg-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 
 [Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/46/youtube-nvbangg-module-v20.45.36-arm64-v8a.zip)
+- This is a Morphe-based build with only essential patches, keeping YouTube close to the original experience. Great for beginners. 
 <blockquote>
 
 [Release 2026-04-10](https://github.com/nvbangg/morphe-builder/releases/tag/46)<br>
@@ -199,9 +207,10 @@ Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patc
 **Other builds:**
 
 <details>
-<summary id="YouTube-Morphe">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/46/youtube-morpheapp-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/Morphe-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube-Morphe">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/46/youtube-morpheapp-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
      
 [Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/46/youtube-morpheapp-module-v20.45.36-arm64-v8a.zip)
+- This is YouTube Morphe with full patches applied
 <blockquote>
 
 [Release 2026-04-10](https://github.com/nvbangg/morphe-builder/releases/tag/46)<br>
@@ -624,6 +633,45 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 </details>
 
 ---
+### [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
+
+<details>
+<summary id="Reddit">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/46/reddit-morpheapp-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Reddit-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
+
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/46/reddit-morpheapp-module-v2026.04.0-arm64-v8a.zip)
+<blockquote>
+
+[Release 2026-04-10](https://github.com/nvbangg/morphe-builder/releases/tag/46)<br>
+Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.23.0)
+- Disable modern home
+- Disable screenshot popup
+- Hide Trending Today shelf
+- Hide ads
+- Hide navigation buttons
+- Hide recommended communities shelf
+- Hide sidebar components
+- Open links directly
+- Remove subreddit dialog
+- Sanitize sharing links
+- Show view count
+- Spoof signature
+</blockquote>
+</details>
+
+---
+### [Truecaller](https://play.google.com/store/apps/details?id=com.truecaller)
+
+<details>
+<summary id="Truecaller">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/0/truecaller-paresh-maheshwari-v0.0-all.apk"><img src="https://img.shields.io/badge/Truecaller-v0.0-gray?labelColor=0099FF&logo=truecaller&logoColor=white"></a></summary>
+
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/0/truecaller-paresh-maheshwari-module-v0.0-all.zip)
+<blockquote>
+
+Patches: Paresh-Maheshwari
+</blockquote>
+</details>
+
+---
 ### [Pinterest](https://play.google.com/store/apps/details?id=com.pinterest)
 
 <details>
@@ -753,7 +801,7 @@ Patches: [hoo-dles/patches-1.24.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [VN - AI Video Editor](https://play.google.com/store/apps/details?id=com.frontrow.vlog)
 
 <details>
-<summary id="VN-Video-Editor">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/53/vn-video-editor-paresh-maheshwari-v2.12.0-all.apk"><img src="https://img.shields.io/badge/VN_Video_Editor-v2.12.0-gray?labelColor=FFFFFF&logo=vn-editor&logoColor=white"></a></summary>
+<summary id="VN-Video-Editor">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/53/vn-video-editor-paresh-maheshwari-v2.12.0-all.apk"><img src="https://img.shields.io/badge/VN_Video_Editor-v2.12.0-gray?labelColor=FFFFFF&logo=vn-editor&logoColor=000000"></a></summary>
 
 [Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/53/vn-video-editor-paresh-maheshwari-module-v2.12.0-all.zip)
 <blockquote>
@@ -951,32 +999,6 @@ Patches: [hoo-dles/patches-1.24.0.mpp](https://github.com/hoo-dles/morphe-patche
 [Release 2026-04-16](https://github.com/nvbangg/morphe-builder/releases/tag/52)<br>
 Patches: [hoo-dles/patches-1.24.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.24.0)
 - Enable Plus
-</blockquote>
-</details>
-
----
-### [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
-
-<details>
-<summary id="Reddit">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/46/reddit-morpheapp-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Reddit-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
-
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/46/reddit-morpheapp-module-v2026.04.0-arm64-v8a.zip)
-<blockquote>
-
-[Release 2026-04-10](https://github.com/nvbangg/morphe-builder/releases/tag/46)<br>
-Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.23.0)
-- Disable modern home
-- Disable screenshot popup
-- Hide Trending Today shelf
-- Hide ads
-- Hide navigation buttons
-- Hide recommended communities shelf
-- Hide sidebar components
-- Open links directly
-- Remove subreddit dialog
-- Sanitize sharing links
-- Show view count
-- Spoof signature
 </blockquote>
 </details>
 
