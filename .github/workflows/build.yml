@@ -38,7 +38,7 @@ jobs:
       - name: Get next version code
         id: next_ver_code
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           TAG=$(gh release list -L 1 | awk -F '\t' '{print $3}')
           if [ -z "$TAG" ]; then TAG=0; fi
@@ -60,27 +60,6 @@ jobs:
           echo "${DELIM}" >> "$GITHUB_OUTPUT"
           cp -f build.md build.tmp
       
-      - name: Update and Commit README
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          python update-readme.py ${{ steps.next_ver_code.outputs.NEXT_VER_CODE }} "$GITHUB_REPOSITORY"
-          if git diff --quiet -- README.md; then
-            echo "README unchanged, skip commit"
-          else
-            gh api "repos/$GITHUB_REPOSITORY/contents/README.md" \
-              --method PUT \
-              --field message="Update README for Release $(date +%Y-%m-%d)" \
-              --field content="$(base64 -w0 README.md)" \
-              --field sha="$(git rev-parse HEAD:README.md)" \
-              --field branch="${GITHUB_REF_NAME}"
-            
-            if gh api "repos/$GITHUB_REPOSITORY/pages" &>/dev/null; then
-              sleep 3
-              gh workflow run deploy-pages.yml --ref "${GITHUB_REF_NAME}"
-            fi
-          fi
-               
       - name: Upload release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -93,7 +72,31 @@ jobs:
           else
             gh release create "$TAG" ./build/* --title "Release $(date +%Y-%m-%d)" --notes "$BODY" --draft
           fi
-          gh release edit "$TAG" --draft=false
+      
+      - name: Update README and Finalize release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TAG: ${{ steps.next_ver_code.outputs.NEXT_VER_CODE }}
+        run: |
+          python update-readme.py ${{ steps.next_ver_code.outputs.NEXT_VER_CODE }} "$GITHUB_REPOSITORY"
+          if git diff --quiet -- README.md; then
+            echo "README unchanged, skip commit"
+            gh release edit "$TAG" --draft=false
+          else
+            gh api "repos/$GITHUB_REPOSITORY/contents/README.md" \
+              --method PUT \
+              --field message="Update README for Release $(date +%Y-%m-%d)" \
+              --field content="$(base64 -w0 README.md)" \
+              --field sha="$(git rev-parse HEAD:README.md)" \
+              --field branch="${GITHUB_REF_NAME}" || true
+
+            gh release edit "$TAG" --draft=false
+
+            if gh api "repos/$GITHUB_REPOSITORY/pages" &>/dev/null; then
+              sleep 3
+              gh workflow run deploy-pages.yml --ref "${GITHUB_REF_NAME}"
+            fi
+          fi
 
       - name: Update modules changelog and update json
         id: update_config
