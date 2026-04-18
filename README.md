@@ -604,13 +604,13 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [Prime Video](https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient)
 
 <details>
-<summary id="Prime-Video">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/52/prime-video-hoo-dles-v3.0.447.757-all.apk"><img src="https://img.shields.io/badge/Prime_Video-v3.0.447.757-gray?labelColor=00A8E1&logo=Prime-Video&logoColor=white"></a></summary>
+<summary id="Prime-Video">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/54/prime-video-hoo-dles-v3.0.447.757-all.apk"><img src="https://img.shields.io/badge/Prime_Video-v3.0.447.757-gray?labelColor=00A8E1&logo=Prime-Video&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/52/prime-video-hoo-dles-module-v3.0.447.757-all.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/54/prime-video-hoo-dles-module-v3.0.447.757-all.zip)
 <blockquote>
 
-[Release 2026-04-16](https://github.com/nvbangg/morphe-builder/releases/tag/52)<br>
-Patches: [hoo-dles/patches-1.24.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.24.0)
+[Release 2026-04-18](https://github.com/nvbangg/morphe-builder/releases/tag/54)<br>
+Patches: [hoo-dles/patches-1.25.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.25.0)
 - Enable speed control
 - Rename shared permissions
 - Skip ads
@@ -692,13 +692,13 @@ Patches: [binarymend/patches-1.2.0.mpp](https://github.com/binarymend/morphe-pat
 ### [WPS Office](https://play.google.com/store/apps/details?id=cn.wps.moffice_eng) - PDF, Word, Sheet, PPT
 
 <details>
-<summary id="WPS-Office">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/52/wps-office-hoo-dles-v18.12.1-all.apk"><img src="https://img.shields.io/badge/WPS_Office-v18.12.1-gray?labelColor=C03426&logo=wpsoffice&logoColor=white"></a></summary>
+<summary id="WPS-Office">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/54/wps-office-hoo-dles-v18.12.1-all.apk"><img src="https://img.shields.io/badge/WPS_Office-v18.12.1-gray?labelColor=C03426&logo=wpsoffice&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/52/wps-office-hoo-dles-module-v18.12.1-all.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/54/wps-office-hoo-dles-module-v18.12.1-all.zip)
 <blockquote>
 
-[Release 2026-04-16](https://github.com/nvbangg/morphe-builder/releases/tag/52)<br>
-Patches: [hoo-dles/patches-1.24.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.24.0)
+[Release 2026-04-18](https://github.com/nvbangg/morphe-builder/releases/tag/54)<br>
+Patches: [hoo-dles/patches-1.25.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.25.0)
 - Disable anti-tamper
 - Enable Pro
 </blockquote>
@@ -708,13 +708,13 @@ Patches: [hoo-dles/patches-1.24.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Duolingo](https://play.google.com/store/apps/details?id=com.duolingo)
 
 <details>
-<summary id="Duolingo">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/52/duolingo-hoo-dles-v6.74.4-all.apk"><img src="https://img.shields.io/badge/Duolingo-v6.74.4-gray?labelColor=4DC730&logo=Duolingo&logoColor=white"></a></summary>
+<summary id="Duolingo">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/54/duolingo-hoo-dles-v6.74.4-all.apk"><img src="https://img.shields.io/badge/Duolingo-v6.74.4-gray?labelColor=4DC730&logo=Duolingo&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/52/duolingo-hoo-dles-module-v6.74.4-all.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/54/duolingo-hoo-dles-module-v6.74.4-all.zip)
 <blockquote>
 
-[Release 2026-04-16](https://github.com/nvbangg/morphe-builder/releases/tag/52)<br>
-Patches: [hoo-dles/patches-1.24.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.24.0)
+[Release 2026-04-18](https://github.com/nvbangg/morphe-builder/releases/tag/54)<br>
+Patches: [hoo-dles/patches-1.25.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.25.0)
 - Disable Login Integrity
 - Enable Premium
 </blockquote>
@@ -788,11 +788,11 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [ibis Paint X](https://play.google.com/store/apps/details?id=jp.ne.ibis.ibispaintx.app)
 
 <details>
-<summary id="ibis-Paint-X">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/52/ibis-paint-x-hoo-dles-v14.0.0-all.apk"><img src="https://img.shields.io/badge/ibis_Paint_X-v14.0.0-gray?labelColor=E64A8B&logo=ibispaintx&logoColor=white"></a></summary>
+<summary id="ibis-Paint-X">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/54/ibis-paint-x-hoo-dles-v14.0.0-all.apk"><img src="https://img.shields.io/badge/ibis_Paint_X-v14.0.0-gray?labelColor=E64A8B&logo=ibispaintx&logoColor=white"></a></summary>
 <blockquote>
 
-[Release 2026-04-16](https://github.com/nvbangg/morphe-builder/releases/tag/52)<br>
-Patches: [hoo-dles/patches-1.24.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.24.0)
+[Release 2026-04-18](https://github.com/nvbangg/morphe-builder/releases/tag/54)<br>
+Patches: [hoo-dles/patches-1.25.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.25.0)
 - Enable Prime membership
 </blockquote>
 </details>
@@ -816,13 +816,13 @@ Patches: [Paresh-Maheshwari/patches-1.7.0.mpp](https://github.com/Paresh-Maheshw
 ### [Pandora](https://play.google.com/store/apps/details?id=com.pandora.android) - Music & Podcasts
 
 <details>
-<summary id="Pandora">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/52/pandora-hoo-dles-v2602.1-all.apk"><img src="https://img.shields.io/badge/Pandora-v2602.1-gray?labelColor=3668FF&logo=Pandora&logoColor=white"></a></summary>
+<summary id="Pandora">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/54/pandora-hoo-dles-v2602.1-all.apk"><img src="https://img.shields.io/badge/Pandora-v2602.1-gray?labelColor=3668FF&logo=Pandora&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/52/pandora-hoo-dles-module-v2602.1-all.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/54/pandora-hoo-dles-module-v2602.1-all.zip)
 <blockquote>
 
-[Release 2026-04-16](https://github.com/nvbangg/morphe-builder/releases/tag/52)<br>
-Patches: [hoo-dles/patches-1.24.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.24.0)
+[Release 2026-04-18](https://github.com/nvbangg/morphe-builder/releases/tag/54)<br>
+Patches: [hoo-dles/patches-1.25.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.25.0)
 - Disable ads
 - Unlimited skips
 </blockquote>
@@ -920,13 +920,13 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android): The Music You Love
 
 <details>
-<summary id="SoundCloud">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/52/soundcloud-hoo-dles-v2026.03.20-release-all.apk"><img src="https://img.shields.io/badge/SoundCloud-v2026.03.20.release-gray?labelColor=FF5500&logo=SoundCloud&logoColor=white"></a></summary>
+<summary id="SoundCloud">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/54/soundcloud-hoo-dles-v2026.03.20-release-all.apk"><img src="https://img.shields.io/badge/SoundCloud-v2026.03.20.release-gray?labelColor=FF5500&logo=SoundCloud&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/52/soundcloud-hoo-dles-module-v2026.03.20-release-all.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/54/soundcloud-hoo-dles-module-v2026.03.20-release-all.zip)
 <blockquote>
 
-[Release 2026-04-16](https://github.com/nvbangg/morphe-builder/releases/tag/52)<br>
-Patches: [hoo-dles/patches-1.24.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.24.0)
+[Release 2026-04-18](https://github.com/nvbangg/morphe-builder/releases/tag/54)<br>
+Patches: [hoo-dles/patches-1.25.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.25.0)
 - Disable telemetry
 - Enable SoundCloud Go+
 </blockquote>
@@ -976,13 +976,13 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [MyFitnessPal](https://play.google.com/store/apps/details?id=com.myfitnesspal.android): Calorie Counter
 
 <details>
-<summary id="MyFitnessPal">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/52/myfitnesspal-hoo-dles-v25.50.0-all.apk"><img src="https://img.shields.io/badge/MyFitnessPal-v25.50.0-gray?labelColor=0066EE&logo=MyFitnessPal&logoColor=white"></a></summary>
+<summary id="MyFitnessPal">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/54/myfitnesspal-hoo-dles-v25.50.0-all.apk"><img src="https://img.shields.io/badge/MyFitnessPal-v25.50.0-gray?labelColor=0066EE&logo=MyFitnessPal&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/52/myfitnesspal-hoo-dles-module-v25.50.0-all.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/54/myfitnesspal-hoo-dles-module-v25.50.0-all.zip)
 <blockquote>
 
-[Release 2026-04-16](https://github.com/nvbangg/morphe-builder/releases/tag/52)<br>
-Patches: [hoo-dles/patches-1.24.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.24.0)
+[Release 2026-04-18](https://github.com/nvbangg/morphe-builder/releases/tag/54)<br>
+Patches: [hoo-dles/patches-1.25.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.25.0)
 - Enable Premium+
 </blockquote>
 </details>
@@ -991,13 +991,13 @@ Patches: [hoo-dles/patches-1.24.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Cake](https://play.google.com/store/apps/details?id=me.mycake) - Learn English & Korean
 
 <details>
-<summary id="Cake">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/52/cake-hoo-dles-v6.4.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cake-v6.4.0-gray?labelColor=FF6B35&logo=cake&logoColor=white"></a></summary>
+<summary id="Cake">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/54/cake-hoo-dles-v6.4.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Cake-v6.4.0-gray?labelColor=FF6B35&logo=cake&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/52/cake-hoo-dles-module-v6.4.0-arm64-v8a.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/54/cake-hoo-dles-module-v6.4.0-arm64-v8a.zip)
 <blockquote>
 
-[Release 2026-04-16](https://github.com/nvbangg/morphe-builder/releases/tag/52)<br>
-Patches: [hoo-dles/patches-1.24.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.24.0)
+[Release 2026-04-18](https://github.com/nvbangg/morphe-builder/releases/tag/54)<br>
+Patches: [hoo-dles/patches-1.25.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.25.0)
 - Enable Plus
 </blockquote>
 </details>
@@ -1021,13 +1021,13 @@ Patches: [hoo-dles/patches-1.23.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Proton VPN](https://play.google.com/store/apps/details?id=ch.protonvpn.android): Fast & Secure VPN
 
 <details>
-<summary id="Proton-VPN">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/52/proton-vpn-hoo-dles-v5.16.83.0-all.apk"><img src="https://img.shields.io/badge/Proton_VPN-v5.16.83.0-gray?labelColor=6D4AFF&logo=protonvpn&logoColor=white"></a></summary>
+<summary id="Proton-VPN">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/54/proton-vpn-hoo-dles-v5.16.83.0-all.apk"><img src="https://img.shields.io/badge/Proton_VPN-v5.16.83.0-gray?labelColor=6D4AFF&logo=protonvpn&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/52/proton-vpn-hoo-dles-module-v5.16.83.0-all.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/54/proton-vpn-hoo-dles-module-v5.16.83.0-all.zip)
 <blockquote>
 
-[Release 2026-04-16](https://github.com/nvbangg/morphe-builder/releases/tag/52)<br>
-Patches: [hoo-dles/patches-1.24.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.24.0)
+[Release 2026-04-18](https://github.com/nvbangg/morphe-builder/releases/tag/54)<br>
+Patches: [hoo-dles/patches-1.25.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.25.0)
 - Remove delay
 - Unlock custom DNS
 - Unlock split tunneling
@@ -1038,13 +1038,13 @@ Patches: [hoo-dles/patches-1.24.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Sofascore](https://play.google.com/store/apps/details?id=com.sofascore.results): Live Sports Scores
 
 <details>
-<summary id="Sofascore">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/52/sofascore-hoo-dles-v25.12.17-all.apk"><img src="https://img.shields.io/badge/Sofascore-v25.12.17-gray?labelColor=1A4BFF&logo=sofascore&logoColor=white"></a></summary>
+<summary id="Sofascore">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/54/sofascore-hoo-dles-v25.12.17-all.apk"><img src="https://img.shields.io/badge/Sofascore-v25.12.17-gray?labelColor=1A4BFF&logo=sofascore&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/52/sofascore-hoo-dles-module-v25.12.17-all.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/54/sofascore-hoo-dles-module-v25.12.17-all.zip)
 <blockquote>
 
-[Release 2026-04-16](https://github.com/nvbangg/morphe-builder/releases/tag/52)<br>
-Patches: [hoo-dles/patches-1.24.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.24.0)
+[Release 2026-04-18](https://github.com/nvbangg/morphe-builder/releases/tag/54)<br>
+Patches: [hoo-dles/patches-1.25.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.25.0)
 - Disable ads
 </blockquote>
 </details>
@@ -1068,13 +1068,13 @@ Patches: [Paresh-Maheshwari/patches-1.7.0.mpp](https://github.com/Paresh-Maheshw
 ### [Wallcraft](https://play.google.com/store/apps/details?id=com.wallpaperscraft.wallpaper) - Wallpaper 4K HD
 
 <details>
-<summary id="Wallcraft">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/52/wallcraft-hoo-dles-v3.61.01-all.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
+<summary id="Wallcraft">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/54/wallcraft-hoo-dles-v3.61.01-all.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/52/wallcraft-hoo-dles-module-v3.61.01-all.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/54/wallcraft-hoo-dles-module-v3.61.01-all.zip)
 <blockquote>
 
-[Release 2026-04-16](https://github.com/nvbangg/morphe-builder/releases/tag/52)<br>
-Patches: [hoo-dles/patches-1.24.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.24.0)
+[Release 2026-04-18](https://github.com/nvbangg/morphe-builder/releases/tag/54)<br>
+Patches: [hoo-dles/patches-1.25.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.25.0)
 - Enable Premium
 </blockquote>
 </details>
@@ -1098,13 +1098,13 @@ Patches: [Paresh-Maheshwari/patches-1.7.0.mpp](https://github.com/Paresh-Maheshw
 ### [Windy](https://play.google.com/store/apps/details?id=com.windyty.android) - Weather Forecast
 
 <details>
-<summary id="Windy">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/52/windy-hoo-dles-v49.0.1-all.apk"><img src="https://img.shields.io/badge/Windy-v49.0.1-gray?labelColor=C62828&logo=windy&logoColor=white"></a></summary>
+<summary id="Windy">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/54/windy-hoo-dles-v49.0.1-all.apk"><img src="https://img.shields.io/badge/Windy-v49.0.1-gray?labelColor=C62828&logo=windy&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/52/windy-hoo-dles-module-v49.0.1-all.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/54/windy-hoo-dles-module-v49.0.1-all.zip)
 <blockquote>
 
-[Release 2026-04-16](https://github.com/nvbangg/morphe-builder/releases/tag/52)<br>
-Patches: [hoo-dles/patches-1.24.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.24.0)
+[Release 2026-04-18](https://github.com/nvbangg/morphe-builder/releases/tag/54)<br>
+Patches: [hoo-dles/patches-1.25.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.25.0)
 - Enable Premium
 </blockquote>
 </details>
@@ -1135,13 +1135,13 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [Merriam Webster Dictionary](https://play.google.com/store/apps/details?id=com.merriamwebster)
 
 <details>
-<summary id="Merriam-Webster-Dictionary">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/52/merriam-webster-dictionary-hoo-dles-v5.5.0-all.apk"><img src="https://img.shields.io/badge/Merriam_Webster_Dictionary-v5.5.0-gray?labelColor=B30000&logo=merriam_webster&logoColor=white"></a></summary>
+<summary id="Merriam-Webster-Dictionary">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/54/merriam-webster-dictionary-hoo-dles-v5.5.0-all.apk"><img src="https://img.shields.io/badge/Merriam_Webster_Dictionary-v5.5.0-gray?labelColor=B30000&logo=merriam_webster&logoColor=white"></a></summary>
  
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/52/merriam-webster-dictionary-hoo-dles-module-v5.5.0-all.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/54/merriam-webster-dictionary-hoo-dles-module-v5.5.0-all.zip)
 <blockquote>
 
-[Release 2026-04-16](https://github.com/nvbangg/morphe-builder/releases/tag/52)<br>
-Patches: [hoo-dles/patches-1.24.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.24.0)
+[Release 2026-04-18](https://github.com/nvbangg/morphe-builder/releases/tag/54)<br>
+Patches: [hoo-dles/patches-1.25.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.25.0)
 - Enable Premium
 </blockquote>
 </details>
@@ -1150,13 +1150,13 @@ Patches: [hoo-dles/patches-1.24.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Busuu](https://play.google.com/store/apps/details?id=com.busuu.android.enc): Learn & Speak Languages
 
 <details>
-<summary id="Busuu">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/52/busuu-hoo-dles-v32.30.0.1575420.-all.apk"><img src="https://img.shields.io/badge/Busuu-v32.30.0(1575420)-gray?labelColor=116EEE&logo=busuu&logoColor=white"></a></summary>
+<summary id="Busuu">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/54/busuu-hoo-dles-v32.30.0.1575420.-all.apk"><img src="https://img.shields.io/badge/Busuu-v32.30.0(1575420)-gray?labelColor=116EEE&logo=busuu&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/52/busuu-hoo-dles-module-v32.30.0.1575420.-all.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/54/busuu-hoo-dles-module-v32.30.0.1575420.-all.zip)
 <blockquote>
 
-[Release 2026-04-16](https://github.com/nvbangg/morphe-builder/releases/tag/52)<br>
-Patches: [hoo-dles/patches-1.24.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.24.0)
+[Release 2026-04-18](https://github.com/nvbangg/morphe-builder/releases/tag/54)<br>
+Patches: [hoo-dles/patches-1.25.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.25.0)
 - Enable Premium
 </blockquote>
 </details>
@@ -1165,13 +1165,13 @@ Patches: [hoo-dles/patches-1.24.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Smart Launcher 6](https://play.google.com/store/apps/details?id=ginlemon.flowerfree)
 
 <details>
-<summary id="Smart-Launcher-6">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/52/smart-launcher-6-hoo-dles-v6.6build002patch1-all.apk"><img src="https://img.shields.io/badge/Smart_Launcher_6-v6.6build002patch1-gray?labelColor=0F1419&logo=smart_launcher&logoColor=white"></a></summary>
+<summary id="Smart-Launcher-6">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/54/smart-launcher-6-hoo-dles-v6.6build002patch1-all.apk"><img src="https://img.shields.io/badge/Smart_Launcher_6-v6.6build002patch1-gray?labelColor=0F1419&logo=smart_launcher&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/52/smart-launcher-6-hoo-dles-module-v6.6build002patch1-all.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/54/smart-launcher-6-hoo-dles-module-v6.6build002patch1-all.zip)
 <blockquote>
 
-[Release 2026-04-16](https://github.com/nvbangg/morphe-builder/releases/tag/52)<br>
-Patches: [hoo-dles/patches-1.24.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.24.0)
+[Release 2026-04-18](https://github.com/nvbangg/morphe-builder/releases/tag/54)<br>
+Patches: [hoo-dles/patches-1.25.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.25.0)
 - Disable signature check
 - Enable Pro
 </blockquote>
