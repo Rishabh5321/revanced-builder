@@ -662,13 +662,13 @@ Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patc
 ### [Truecaller](https://play.google.com/store/apps/details?id=com.truecaller)
 
 <details>
-<summary id="Truecaller">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/55/truecaller-paresh-maheshwari-v26.10.6-all.apk"><img src="https://img.shields.io/badge/Truecaller-v26.10.6-gray?labelColor=0099FF&logo=truecaller&logoColor=white"></a></summary>
+<summary id="Truecaller">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/56/truecaller-paresh-maheshwari-v26.10.6-all.apk"><img src="https://img.shields.io/badge/Truecaller-v26.10.6-gray?labelColor=0099FF&logo=truecaller&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/55/truecaller-paresh-maheshwari-module-v26.10.6-all.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/56/truecaller-paresh-maheshwari-module-v26.10.6-all.zip)
 <blockquote>
 
-[Release 2026-04-19](https://github.com/nvbangg/morphe-builder/releases/tag/55)<br>
-Patches: [Paresh-Maheshwari/patches-1.8.0.mpp](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.8.0)
+[Release 2026-04-20](https://github.com/nvbangg/morphe-builder/releases/tag/56)<br>
+Patches: [Paresh-Maheshwari/patches-1.10.0.mpp](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.10.0)
 - Hide Assistant tab
 - Hide Scams tab
 - Truecaller Premium
@@ -805,13 +805,13 @@ Patches: [hoo-dles/patches-1.26.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [VN - AI Video Editor](https://play.google.com/store/apps/details?id=com.frontrow.vlog)
 
 <details>
-<summary id="VN-Video-Editor">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/55/vn-video-editor-paresh-maheshwari-v2.12.0-all.apk"><img src="https://img.shields.io/badge/VN_Video_Editor-v2.12.0-gray?labelColor=FFFFFF&logo=vn-editor&logoColor=000000"></a></summary>
+<summary id="VN-Video-Editor">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/56/vn-video-editor-paresh-maheshwari-v2.12.0-all.apk"><img src="https://img.shields.io/badge/VN_Video_Editor-v2.12.0-gray?labelColor=FFFFFF&logo=vn-editor&logoColor=000000"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/55/vn-video-editor-paresh-maheshwari-module-v2.12.0-all.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/56/vn-video-editor-paresh-maheshwari-module-v2.12.0-all.zip)
 <blockquote>
 
-[Release 2026-04-19](https://github.com/nvbangg/morphe-builder/releases/tag/55)<br>
-Patches: [Paresh-Maheshwari/patches-1.8.0.mpp](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.8.0)
+[Release 2026-04-20](https://github.com/nvbangg/morphe-builder/releases/tag/56)<br>
+Patches: [Paresh-Maheshwari/patches-1.10.0.mpp](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.10.0)
 - VN Premium
 </blockquote>
 </details>
@@ -1057,13 +1057,13 @@ Patches: [hoo-dles/patches-1.26.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Document Scanner](https://play.google.com/store/apps/details?id=com.cv.docscanner) - PDF Creator
 
 <details>
-<summary id="Document-Scanner">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/55/document-scanner-paresh-maheshwari-v6.8.18-all.apk"><img src="https://img.shields.io/badge/Document_Scanner-v6.8.18-gray?labelColor=415259&logo=document&logoColor=white"></a></summary>
+<summary id="Document-Scanner">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/56/document-scanner-paresh-maheshwari-v6.8.18-all.apk"><img src="https://img.shields.io/badge/Document_Scanner-v6.8.18-gray?labelColor=415259&logo=document&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/55/document-scanner-paresh-maheshwari-module-v6.8.18-all.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/56/document-scanner-paresh-maheshwari-module-v6.8.18-all.zip)
 <blockquote>
 
-[Release 2026-04-19](https://github.com/nvbangg/morphe-builder/releases/tag/55)<br>
-Patches: [Paresh-Maheshwari/patches-1.8.0.mpp](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.8.0)
+[Release 2026-04-20](https://github.com/nvbangg/morphe-builder/releases/tag/56)<br>
+Patches: [Paresh-Maheshwari/patches-1.10.0.mpp](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.10.0)
 - Doc Scanner Premium
 </blockquote>
 </details>
@@ -1087,13 +1087,13 @@ Patches: [hoo-dles/patches-1.26.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Fing](https://play.google.com/store/apps/details?id=com.overlook.android.fing) - Network Tools
 
 <details>
-<summary id="Fing">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/55/fing-paresh-maheshwari-v12.11.9-all.apk"><img src="https://img.shields.io/badge/Fing-v12.11.9-gray?labelColor=007AFF&logo=Fing&logoColor=white"></a></summary>
+<summary id="Fing">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/56/fing-paresh-maheshwari-v12.11.9-all.apk"><img src="https://img.shields.io/badge/Fing-v12.11.9-gray?labelColor=007AFF&logo=Fing&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/55/fing-paresh-maheshwari-module-v12.11.9-all.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/56/fing-paresh-maheshwari-module-v12.11.9-all.zip)
 <blockquote>
 
-[Release 2026-04-19](https://github.com/nvbangg/morphe-builder/releases/tag/55)<br>
-Patches: [Paresh-Maheshwari/patches-1.8.0.mpp](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.8.0)
+[Release 2026-04-20](https://github.com/nvbangg/morphe-builder/releases/tag/56)<br>
+Patches: [Paresh-Maheshwari/patches-1.10.0.mpp](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.10.0)
 - Fing Premium
 </blockquote>
 </details>
