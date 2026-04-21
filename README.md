@@ -177,14 +177,14 @@
 ### [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
 
 <details>
-<summary id="YouTube">Recommended: <a href="https://github.com/nvbangg/morphe-builder/releases/download/46/youtube-nvbangg-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube">Recommended: <a href="https://github.com/nvbangg/morphe-builder/releases/download/57/youtube-nvbangg-v20.47.62-all.apk"><img src="https://img.shields.io/badge/YouTube-v20.47.62-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/46/youtube-nvbangg-module-v20.45.36-arm64-v8a.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/57/youtube-nvbangg-module-v20.47.62-all.zip)
 - This is a Morphe-based build with only essential patches, keeping YouTube close to the original experience. Great for beginners. 
 <blockquote>
 
-[Release 2026-04-10](https://github.com/nvbangg/morphe-builder/releases/tag/46)<br>
-Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.23.0)
+[Release 2026-04-21](https://github.com/nvbangg/morphe-builder/releases/tag/57)<br>
+Patches: [MorpheApp/patches-1.24.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.24.0)
 - Bypass URL redirects
 - Disable Shorts resuming on startup
 - Downloads
@@ -192,7 +192,6 @@ Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patc
 - Hide Shorts components
 - Hide ads
 - Open links externally
-- Override YouTube Music actions
 - Playback speed
 - Remove background playback restrictions
 - Sanitize sharing links
@@ -207,14 +206,14 @@ Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patc
 **Other builds:**
 
 <details>
-<summary id="YouTube-Morphe">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/46/youtube-morpheapp-v20.45.36-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.45.36-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube-Morphe">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/57/youtube-morpheapp-v20.47.62-all.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.47.62-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
      
 [Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/46/youtube-morpheapp-module-v20.45.36-arm64-v8a.zip)
 - This is YouTube Morphe with full patches applied
 <blockquote>
 
-[Release 2026-04-10](https://github.com/nvbangg/morphe-builder/releases/tag/46)<br>
-Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.23.0)
+[Release 2026-04-21](https://github.com/nvbangg/morphe-builder/releases/tag/57)<br>
+Patches: [MorpheApp/patches-1.24.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.24.0)
 - Alternative thumbnails
 - Ambient mode
 - Bypass URL redirects
@@ -263,7 +262,7 @@ Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patc
 - Open links externally
 - Open system share sheet
 - Open videos fullscreen
-- Override YouTube Music actions
+- Override YouTube Music buttons
 - Play all
 - Playback speed
 - Reload video
@@ -288,13 +287,13 @@ Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patc
 ### [YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
 
 <details>
-<summary id="YouTube-Music">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/46/youtube-music-morpheapp-v8.44.54-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music-v8.44.54-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
+<summary id="YouTube-Music">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/57/youtube-music-morpheapp-v8.47.56-arm64-v8a.apk"><img src="https://img.shields.io/badge/YouTube_Music-v8.47.56-gray?labelColor=FF0000&logo=youtube-music&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/46/youtube-music-morpheapp-module-v8.44.54-arm64-v8a.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/57/youtube-music-morpheapp-module-v8.47.56-arm64-v8a.zip)
 <blockquote>
 
-[Release 2026-04-10](https://github.com/nvbangg/morphe-builder/releases/tag/46)<br>
-Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.23.0)
+[Release 2026-04-21](https://github.com/nvbangg/morphe-builder/releases/tag/57)<br>
+Patches: [MorpheApp/patches-1.24.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.24.0)
 - Bypass certificate checks
 - Change header
 - Change miniplayer color
@@ -308,7 +307,7 @@ Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patc
 - Enable forced miniplayer
 - Force original audio
 - GmsCore support
-- Hide 'Get Music Premium'
+- Hide ads
 - Hide buttons
 - Hide category bar
 - Hide music video ads
@@ -319,6 +318,7 @@ Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patc
 - Sanitize sharing links
 - Spoof video streams
 - Theme
+- Track crossfade
 </blockquote>
 </details>
 
@@ -636,21 +636,23 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
 
 <details>
-<summary id="Reddit">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/46/reddit-morpheapp-v2026.04.0-arm64-v8a.apk"><img src="https://img.shields.io/badge/Reddit-v2026.04.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
+<summary id="Reddit">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/57/reddit-morpheapp-v2026.10.0-all.apk"><img src="https://img.shields.io/badge/Reddit-v2026.10.0-gray?labelColor=FF4500&logo=Reddit&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/46/reddit-morpheapp-module-v2026.04.0-arm64-v8a.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/57/reddit-morpheapp-module-v2026.10.0-all.zip)
 <blockquote>
 
-[Release 2026-04-10](https://github.com/nvbangg/morphe-builder/releases/tag/46)<br>
-Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.23.0)
+[Release 2026-04-21](https://github.com/nvbangg/morphe-builder/releases/tag/57)<br>
+Patches: [MorpheApp/patches-1.24.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.24.0)
 - Disable modern home
 - Disable screenshot popup
+- Hide Ask button
 - Hide Trending Today shelf
 - Hide ads
 - Hide navigation buttons
 - Hide recommended communities shelf
 - Hide sidebar components
 - Open links directly
+- Open links externally
 - Remove subreddit dialog
 - Sanitize sharing links
 - Show view count
@@ -662,13 +664,13 @@ Patches: [MorpheApp/patches-1.23.0.mpp](https://github.com/MorpheApp/morphe-patc
 ### [Truecaller](https://play.google.com/store/apps/details?id=com.truecaller)
 
 <details>
-<summary id="Truecaller">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/56/truecaller-paresh-maheshwari-v26.10.6-all.apk"><img src="https://img.shields.io/badge/Truecaller-v26.10.6-gray?labelColor=0099FF&logo=truecaller&logoColor=white"></a></summary>
+<summary id="Truecaller">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/57/truecaller-paresh-maheshwari-v26.10.6-all.apk"><img src="https://img.shields.io/badge/Truecaller-v26.10.6-gray?labelColor=0099FF&logo=truecaller&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/56/truecaller-paresh-maheshwari-module-v26.10.6-all.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/57/truecaller-paresh-maheshwari-module-v26.10.6-all.zip)
 <blockquote>
 
-[Release 2026-04-20](https://github.com/nvbangg/morphe-builder/releases/tag/56)<br>
-Patches: [Paresh-Maheshwari/patches-1.10.0.mpp](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.10.0)
+[Release 2026-04-21](https://github.com/nvbangg/morphe-builder/releases/tag/57)<br>
+Patches: [Paresh-Maheshwari/patches-1.11.0.mpp](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.11.0)
 - Hide Assistant tab
 - Hide Scams tab
 - Truecaller Premium
@@ -805,13 +807,13 @@ Patches: [hoo-dles/patches-1.26.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [VN - AI Video Editor](https://play.google.com/store/apps/details?id=com.frontrow.vlog)
 
 <details>
-<summary id="VN-Video-Editor">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/56/vn-video-editor-paresh-maheshwari-v2.12.0-all.apk"><img src="https://img.shields.io/badge/VN_Video_Editor-v2.12.0-gray?labelColor=FFFFFF&logo=vn-editor&logoColor=000000"></a></summary>
+<summary id="VN-Video-Editor">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/57/vn-video-editor-paresh-maheshwari-v2.12.0-all.apk"><img src="https://img.shields.io/badge/VN_Video_Editor-v2.12.0-gray?labelColor=FFFFFF&logo=vn-editor&logoColor=000000"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/56/vn-video-editor-paresh-maheshwari-module-v2.12.0-all.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/57/vn-video-editor-paresh-maheshwari-module-v2.12.0-all.zip)
 <blockquote>
 
-[Release 2026-04-20](https://github.com/nvbangg/morphe-builder/releases/tag/56)<br>
-Patches: [Paresh-Maheshwari/patches-1.10.0.mpp](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.10.0)
+[Release 2026-04-21](https://github.com/nvbangg/morphe-builder/releases/tag/57)<br>
+Patches: [Paresh-Maheshwari/patches-1.11.0.mpp](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.11.0)
 - VN Premium
 </blockquote>
 </details>
@@ -1057,13 +1059,13 @@ Patches: [hoo-dles/patches-1.26.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Document Scanner](https://play.google.com/store/apps/details?id=com.cv.docscanner) - PDF Creator
 
 <details>
-<summary id="Document-Scanner">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/56/document-scanner-paresh-maheshwari-v6.8.18-all.apk"><img src="https://img.shields.io/badge/Document_Scanner-v6.8.18-gray?labelColor=415259&logo=document&logoColor=white"></a></summary>
+<summary id="Document-Scanner">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/57/document-scanner-paresh-maheshwari-v6.8.18-all.apk"><img src="https://img.shields.io/badge/Document_Scanner-v6.8.18-gray?labelColor=415259&logo=document&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/56/document-scanner-paresh-maheshwari-module-v6.8.18-all.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/57/document-scanner-paresh-maheshwari-module-v6.8.18-all.zip)
 <blockquote>
 
-[Release 2026-04-20](https://github.com/nvbangg/morphe-builder/releases/tag/56)<br>
-Patches: [Paresh-Maheshwari/patches-1.10.0.mpp](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.10.0)
+[Release 2026-04-21](https://github.com/nvbangg/morphe-builder/releases/tag/57)<br>
+Patches: [Paresh-Maheshwari/patches-1.11.0.mpp](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.11.0)
 - Doc Scanner Premium
 </blockquote>
 </details>
@@ -1087,13 +1089,13 @@ Patches: [hoo-dles/patches-1.26.0.mpp](https://github.com/hoo-dles/morphe-patche
 ### [Fing](https://play.google.com/store/apps/details?id=com.overlook.android.fing) - Network Tools
 
 <details>
-<summary id="Fing">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/56/fing-paresh-maheshwari-v12.11.9-all.apk"><img src="https://img.shields.io/badge/Fing-v12.11.9-gray?labelColor=007AFF&logo=Fing&logoColor=white"></a></summary>
+<summary id="Fing">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/57/fing-paresh-maheshwari-v12.11.9-all.apk"><img src="https://img.shields.io/badge/Fing-v12.11.9-gray?labelColor=007AFF&logo=Fing&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/56/fing-paresh-maheshwari-module-v12.11.9-all.zip)
+[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/57/fing-paresh-maheshwari-module-v12.11.9-all.zip)
 <blockquote>
 
-[Release 2026-04-20](https://github.com/nvbangg/morphe-builder/releases/tag/56)<br>
-Patches: [Paresh-Maheshwari/patches-1.10.0.mpp](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.10.0)
+[Release 2026-04-21](https://github.com/nvbangg/morphe-builder/releases/tag/57)<br>
+Patches: [Paresh-Maheshwari/patches-1.11.0.mpp](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.11.0)
 - Fing Premium
 </blockquote>
 </details>
