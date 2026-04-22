@@ -469,12 +469,12 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 
 <details>
-<summary id="Telegram">&emsp;<a href="https://github.com/Rishabh5321/revanced-builder/releases/download/526/telegram-aunali321-v12.6.3-all.apk"><img src="https://img.shields.io/badge/Telegram-v12.6.3-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
+<summary id="Telegram">&emsp;<a href="https://github.com/Rishabh5321/revanced-builder/releases/download/529/telegram-aunali321-v12.6.3-all.apk"><img src="https://img.shields.io/badge/Telegram-v12.6.3-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/Rishabh5321/revanced-builder/releases/download/526/telegram-aunali321-module-v12.6.3-all.zip)
+[Module (.zip)](https://github.com/Rishabh5321/revanced-builder/releases/download/529/telegram-aunali321-module-v12.6.3-all.zip)
 <blockquote>
 
-[Release 2026-04-19](https://github.com/Rishabh5321/revanced-builder/releases/tag/526)<br>
+[Release 2026-04-22](https://github.com/Rishabh5321/revanced-builder/releases/tag/529)<br>
 Patches: [Aunali321/patches-2.0.0.rvp](https://github.com/Aunali321/ReVancedExperiments/releases/tag/v2.0.0)
 - Bypass Integrity
 - Disable Auto Update
@@ -1068,12 +1068,12 @@ Patches: [Paresh-Maheshwari/patches-1.7.0.mpp](https://github.com/Paresh-Maheshw
 ### [Wallcraft](https://play.google.com/store/apps/details?id=com.wallpaperscraft.wallpaper) - Wallpaper 4K HD
 
 <details>
-<summary id="Wallcraft">&emsp;<a href="https://github.com/Rishabh5321/revanced-builder/releases/download/527/wallcraft-hoo-dles-v3.61.01-all.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
+<summary id="Wallcraft">&emsp;<a href="https://github.com/Rishabh5321/revanced-builder/releases/download/529/wallcraft-hoo-dles-v3.61.01-all.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/Rishabh5321/revanced-builder/releases/download/527/wallcraft-hoo-dles-module-v3.61.01-all.zip)
+[Module (.zip)](https://github.com/Rishabh5321/revanced-builder/releases/download/529/wallcraft-hoo-dles-module-v3.61.01-all.zip)
 <blockquote>
 
-[Release 2026-04-20](https://github.com/Rishabh5321/revanced-builder/releases/tag/527)<br>
+[Release 2026-04-22](https://github.com/Rishabh5321/revanced-builder/releases/tag/529)<br>
 Patches: [hoo-dles/patches-1.26.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.26.0)
 - Enable Premium
 </blockquote>
