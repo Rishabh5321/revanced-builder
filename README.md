@@ -4,7 +4,7 @@
 > [!NOTE]
 > ⬇️ A page for quickly and easily downloading apps patched using Morphe or many other patches.    
 > 🤖 Uses GitHub Actions to daily check for new releases, build them, and automatically update patch details & download links. Builds both modules and APKs.    
-> ⭐ Expand to view patch details. Star and watch this repository to follow the latest updates.    
+> ⭐ Expand to view patch details. Star and watch [this repository](https://github.com/nvbangg/morphe-builder) to follow the latest updates.    
 > 🔒 All release files are immutable, meaning they cannot be modified once published — even by me.  
 
 <div align="center">
@@ -17,11 +17,7 @@
 
 - **🧩 Patches used in this repository:** 
 
-[![MorpheApp](https://img.shields.io/github/license/MorpheApp/morphe-patches?label=MorpheApp)](https://github.com/MorpheApp/morphe-patches) [![hoo-dles](https://img.shields.io/github/license/hoo-dles/morphe-patches?label=hoo-dles)](https://github.com/hoo-dles/morphe-patches) [![RookieEnough](https://img.shields.io/github/license/RookieEnough/De-ReVanced?label=RookieEnough)](https://github.com/RookieEnough/De-ReVanced) [![Aunali321](https://img.shields.io/github/license/Aunali321/ReVancedExperiments?label=Aunali321)](https://github.com/Aunali321/ReVancedExperiments) [![crimera](https://img.shields.io/github/license/crimera/piko?label=crimera)](https://github.com/crimera/piko) [![jkennethcarino](https://img.shields.io/github/license/jkennethcarino/adobo?label=jkennethcarino)](https://github.com/jkennethcarino/adobo) [![AmpleReVanced](https://img.shields.io/github/license/AmpleReVanced/revanced-patches?label=AmpleReVanced)](https://github.com/AmpleReVanced/revanced-patches) [![Paresh-Maheshwari](https://img.shields.io/github/license/Paresh-Maheshwari/paresh-patches?label=Paresh-Maheshwari)](https://github.com/Paresh-Maheshwari/paresh-patches) [![binarymend](https://img.shields.io/github/license/binarymend/morphe-patches?label=binarymend)](https://github.com/binarymend/morphe-patches)
-
-- **💻 CLI used in this repository:** 
- 
-[![Morphe CLI](https://img.shields.io/github/license/MorpheApp/morphe-cli?label=Morphe%20CLI)](https://github.com/MorpheApp/morphe-cli) [![ReVanced CLI](https://img.shields.io/github/license/revanced/revanced-cli?label=ReVanced%20CLI)](https://github.com/revanced/revanced-cli) 
+[![MorpheApp](https://img.shields.io/github/license/MorpheApp/morphe-patches?label=MorpheApp)](https://github.com/MorpheApp/morphe-patches) [![hoo-dles](https://img.shields.io/github/license/hoo-dles/morphe-patches?label=hoo-dles)](https://github.com/hoo-dles/morphe-patches) [![RookieEnough](https://img.shields.io/github/license/RookieEnough/De-ReVanced?label=RookieEnough)](https://github.com/RookieEnough/De-ReVanced) [![crimera](https://img.shields.io/github/license/crimera/piko?label=crimera)](https://github.com/crimera/piko) [![Paresh-Maheshwari](https://img.shields.io/github/license/Paresh-Maheshwari/paresh-patches?label=Paresh-Maheshwari)](https://github.com/Paresh-Maheshwari/paresh-patches) [![jkennethcarino](https://img.shields.io/github/license/jkennethcarino/adobo?label=jkennethcarino)](https://github.com/jkennethcarino/adobo) [![AmpleReVanced](https://img.shields.io/github/license/AmpleReVanced/revanced-patches?label=AmpleReVanced)](https://github.com/AmpleReVanced/revanced-patches) [![binarymend](https://img.shields.io/github/license/binarymend/morphe-patches?label=binarymend)](https://github.com/binarymend/morphe-patches)
 
 - ✅ Based on trusted code from [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) with transparent changes ([see diff](https://github.com/j-hc/revanced-magisk-module/compare/main...nvbangg:morphe-builder:main)), including main changes:
   - Automatically updates patch details and download links in the README
@@ -68,8 +64,7 @@
   - Messenger: `messenger`
   - Viber: `viber`
   - TikTok: `tiktok`
-  - Telegram: `telegram-aunali321`
-  - Telegram Web: `telegram-web-aunali321`
+  - Telegram: `telegram`
   - X (Twitter): `x-crimera`
   - Amazon Shopping: `amazon-shopping`
   - Prime Video: `prime-video`
@@ -169,9 +164,9 @@
 ### MicroG
 
 > [!IMPORTANT]
-> You need to install **MicroG-RE** (recommended) or **MicroG**, then sign in to your **Google account** for apps that require Google login, such as **YouTube**, **YouTube Music**, **Google Photos**, etc.
+> You need to install **MicroG-RE** and sign in to your **Google account** to use apps that require Google login, such as **YouTube**, **YouTube Music**, **Google Photos**, etc.
 
-[![MicroG-RE](https://img.shields.io/github/v/release/MorpheApp/MicroG-RE?label=MicroG-RE)](https://github.com/MorpheApp/MicroG-RE/releases)　[![MicroG](https://img.shields.io/github/v/release/ReVanced/GmsCore?label=MicroG)](https://github.com/ReVanced/GmsCore/releases)
+[![MicroG-RE](https://img.shields.io/github/v/release/MorpheApp/MicroG-RE?label=MicroG-RE)](https://github.com/MorpheApp/MicroG-RE/releases)
 
 ---
 ### [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
@@ -466,30 +461,10 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 </details>
 
 ---
-### [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger)
+### [Telegram](https://telegram.org/android)
 
 <details>
-<summary id="Telegram">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/43/telegram-aunali321-v12.6.3-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram-v12.6.3-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
-
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/43/telegram-aunali321-module-v12.6.3-arm64-v8a.zip)
-<blockquote>
-
-[Release 2026-04-07](https://github.com/nvbangg/morphe-builder/releases/tag/43)<br>
-Patches: [Aunali321/patches-2.0.0.rvp](https://github.com/Aunali321/ReVancedExperiments/releases/tag/v2.0.0)
-- Bypass Integrity
-- Disable Auto Update
-- Download Speed Boost
-- Hide sponsored ads
-- Hide typing indicator
-- Unlock Pro
-</blockquote>
-</details>
-
-
-[**Web version:**](https://telegram.org/android): This version has fewer restrictions
-
-<details>
-<summary id="Telegram-Web">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/43/telegram-web-aunali321-v12.6.3-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram_Web-v12.6.3-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
+<summary id="Telegram">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/43/telegram-web-aunali321-v12.6.3-arm64-v8a.apk"><img src="https://img.shields.io/badge/Telegram-v12.6.3-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
 
 [Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/43/telegram-web-aunali321-module-v12.6.3-arm64-v8a.zip)
 <blockquote>
