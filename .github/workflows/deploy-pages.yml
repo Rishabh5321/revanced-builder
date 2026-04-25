@@ -4,6 +4,10 @@ name: Deploy Pages
 
 on:
   workflow_dispatch:
+  workflow_run:
+    workflows: ["CI", "Build Modules"]
+    types:
+      - completed
 
 permissions:
   contents: read
@@ -11,7 +15,28 @@ permissions:
   id-token: write
 
 jobs:
+  check:
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    outputs:
+      pages_enabled: ${{ steps.check_pages.outputs.enabled }}
+    steps:
+      - name: Check GitHub Pages status
+        id: check_pages
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if gh api "repos/$GITHUB_REPOSITORY/pages" &>/dev/null; then
+            echo "enabled=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "::notice title=Deploy Pages::GitHub Pages not enabled, skipping deployment."
+            echo "::notice title=Deploy Pages::Disable this workflow if you don't use the Deploy Pages feature."
+            echo "enabled=false" >> "$GITHUB_OUTPUT"
+          fi
+
   build:
+    needs: check
+    if: needs.check.outputs.pages_enabled == 'true'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6

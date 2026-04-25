@@ -92,10 +92,6 @@ jobs:
 
             gh release edit "$TAG" --draft=false
 
-            if gh api "repos/$GITHUB_REPOSITORY/pages" &>/dev/null; then
-              sleep 3
-              gh workflow run deploy-pages.yml --ref "${GITHUB_REF_NAME}"
-            fi
           fi
 
       - name: Update modules changelog and update json
