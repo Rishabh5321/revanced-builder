@@ -140,14 +140,14 @@ Patches: [MorpheApp/patches-1.24.0.mpp](https://github.com/MorpheApp/morphe-patc
 **Other builds:**
 
 <details>
-<summary id="YouTube-Morphe">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/57/youtube-morpheapp-v20.47.62-all.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.47.62-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube-Morphe">&emsp;<a href="https://github.com/Rishabh5321/revanced-builder/releases/download/532/youtube-morphe-v20.47.62-all.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.47.62-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
      
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/46/youtube-morpheapp-module-v20.45.36-arm64-v8a.zip)
+[Module (.zip)](https://github.com/Rishabh5321/revanced-builder/releases/download/532/youtube-morphe-module-v20.47.62-all.zip)
 [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.morphe.android.youtube%22%2C%22name%22%3A%22YouTube%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fmorphe-builder%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22youtube-morpheapp%5C%22%7D%22%7D) 
 - This is YouTube Morphe with full patches applied
 <blockquote>
 
-[Release 2026-04-21](https://github.com/nvbangg/morphe-builder/releases/tag/57)<br>
+[Release 2026-04-28](https://github.com/Rishabh5321/revanced-builder/releases/tag/532)<br>
 Patches: [MorpheApp/patches-1.24.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.24.0)
 - Alternative thumbnails
 - Ambient mode
@@ -412,24 +412,20 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 ### [Telegram](https://telegram.org/android)
 
 <details>
-<summary id="Telegram">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/59/telegram-paresh-maheshwari-v12.6.4-all.apk"><img src="https://img.shields.io/badge/Telegram-v12.6.4-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
+<summary id="Telegram">&emsp;<a href="https://github.com/Rishabh5321/revanced-builder/releases/download/532/telegram-aunali321-v12.6.3-all.apk"><img src="https://img.shields.io/badge/Telegram-v12.6.3-gray?labelColor=2CA5E0&logo=telegram&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/59/telegram-paresh-maheshwari-module-v12.6.4-all.zip)
+[Module (.zip)](https://github.com/Rishabh5321/revanced-builder/releases/download/532/telegram-aunali321-module-v12.6.3-all.zip)
 [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22org.telegram.messenger.web%22%2C%22name%22%3A%22Telegram%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fmorphe-builder%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22telegram%5C%22%7D%22%7D) 
 <blockquote>
 
-[Release 2026-04-26](https://github.com/nvbangg/morphe-builder/releases/tag/59)<br>
-Patches: [Paresh-Maheshwari/patches-1.12.0.mpp](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.12.0)
-- Anti-delete messages
-- Anti-disappearing media
-- Bypass channel restrictions
-- Bypass content restrictions
-- Bypass integrity
-- Disable auto update
-- Download speed boost
+[Release 2026-04-28](https://github.com/Rishabh5321/revanced-builder/releases/tag/532)<br>
+Patches: [Aunali321/patches-2.0.0.rvp](https://github.com/Aunali321/ReVancedExperiments/releases/tag/v2.0.0)
+- Bypass Integrity
+- Disable Auto Update
+- Download Speed Boost
+- Hide sponsored ads
 - Hide typing indicator
-- Remove ads
-- Telegram Premium
+- Unlock Pro
 </blockquote>
 </details>
 
@@ -1032,13 +1028,13 @@ Patches: [Paresh-Maheshwari/patches-1.12.0.mpp](https://github.com/Paresh-Mahesh
 ### [Wallcraft](https://play.google.com/store/apps/details?id=com.wallpaperscraft.wallpaper) - Wallpaper 4K HD
 
 <details>
-<summary id="Wallcraft">&emsp;<a href="https://github.com/nvbangg/morphe-builder/releases/download/60/wallcraft-hoo-dles-v3.61.01-all.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
+<summary id="Wallcraft">&emsp;<a href="https://github.com/Rishabh5321/revanced-builder/releases/download/532/wallcraft-hoo-dles-v3.61.01-all.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/nvbangg/morphe-builder/releases/download/60/wallcraft-hoo-dles-module-v3.61.01-all.zip)
+[Module (.zip)](https://github.com/Rishabh5321/revanced-builder/releases/download/532/wallcraft-hoo-dles-module-v3.61.01-all.zip)
 [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.wallpaperscraft.wallpaper%22%2C%22name%22%3A%22Wallcraft%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fmorphe-builder%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22wallcraft%5C%22%7D%22%7D) 
 <blockquote>
 
-[Release 2026-04-27](https://github.com/nvbangg/morphe-builder/releases/tag/60)<br>
+[Release 2026-04-28](https://github.com/Rishabh5321/revanced-builder/releases/tag/532)<br>
 Patches: [hoo-dles/patches-1.28.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.28.0)
 - Enable Premium
 </blockquote>
