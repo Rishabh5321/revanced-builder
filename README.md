@@ -140,15 +140,15 @@ Patches: [MorpheApp/patches-1.24.0.mpp](https://github.com/MorpheApp/morphe-patc
 **Other builds:**
 
 <details>
-<summary id="YouTube-Morphe">&emsp;<a href="https://github.com/Rishabh5321/revanced-builder/releases/download/532/youtube-morphe-v20.47.62-all.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.47.62-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
+<summary id="YouTube-Morphe">&emsp;<a href="https://github.com/Rishabh5321/revanced-builder/releases/download/533/youtube-morphe-v20.47.62-all.apk"><img src="https://img.shields.io/badge/YouTube_Morphe-v20.47.62-gray?labelColor=FF0000&logo=YouTube&logoColor=white"></a></summary>
      
-[Module (.zip)](https://github.com/Rishabh5321/revanced-builder/releases/download/532/youtube-morphe-module-v20.47.62-all.zip)
+[Module (.zip)](https://github.com/Rishabh5321/revanced-builder/releases/download/533/youtube-morphe-module-v20.47.62-all.zip)
 [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.morphe.android.youtube%22%2C%22name%22%3A%22YouTube%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fmorphe-builder%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22youtube-morpheapp%5C%22%7D%22%7D) 
 - This is YouTube Morphe with full patches applied
 <blockquote>
 
-[Release 2026-04-28](https://github.com/Rishabh5321/revanced-builder/releases/tag/532)<br>
-Patches: [MorpheApp/patches-1.24.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.24.0)
+[Release 2026-05-02](https://github.com/Rishabh5321/revanced-builder/releases/tag/533)<br>
+Patches: [MorpheApp/patches-1.25.0.mpp](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.25.0)
 - Alternative thumbnails
 - Ambient mode
 - Bypass URL redirects
@@ -191,6 +191,7 @@ Patches: [MorpheApp/patches-1.24.0.mpp](https://github.com/MorpheApp/morphe-patc
 - Hide timestamp
 - Hide video action buttons
 - Loop video
+- Media notification controls
 - Miniplayer
 - Navigation bar
 - Open Shorts in regular player
@@ -1028,14 +1029,14 @@ Patches: [Paresh-Maheshwari/patches-1.12.0.mpp](https://github.com/Paresh-Mahesh
 ### [Wallcraft](https://play.google.com/store/apps/details?id=com.wallpaperscraft.wallpaper) - Wallpaper 4K HD
 
 <details>
-<summary id="Wallcraft">&emsp;<a href="https://github.com/Rishabh5321/revanced-builder/releases/download/532/wallcraft-hoo-dles-v3.61.01-all.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
+<summary id="Wallcraft">&emsp;<a href="https://github.com/Rishabh5321/revanced-builder/releases/download/533/wallcraft-hoo-dles-v3.61.01-all.apk"><img src="https://img.shields.io/badge/Wallcraft-v3.61.01-gray?labelColor=1E88E5&logo=wallpaper&logoColor=white"></a></summary>
 
-[Module (.zip)](https://github.com/Rishabh5321/revanced-builder/releases/download/532/wallcraft-hoo-dles-module-v3.61.01-all.zip)
+[Module (.zip)](https://github.com/Rishabh5321/revanced-builder/releases/download/533/wallcraft-hoo-dles-module-v3.61.01-all.zip)
 [![Obtainium](https://img.shields.io/badge/Add_to-Obtainium-4500FF?logo=obtainium)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.wallpaperscraft.wallpaper%22%2C%22name%22%3A%22Wallcraft%22%2C%22author%22%3A%22nvbangg%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fnvbangg%2Fmorphe-builder%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22wallcraft%5C%22%7D%22%7D) 
 <blockquote>
 
-[Release 2026-04-28](https://github.com/Rishabh5321/revanced-builder/releases/tag/532)<br>
-Patches: [hoo-dles/patches-1.28.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.28.0)
+[Release 2026-05-02](https://github.com/Rishabh5321/revanced-builder/releases/tag/533)<br>
+Patches: [hoo-dles/patches-1.29.0.mpp](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.29.0)
 - Enable Premium
 </blockquote>
 </details>
