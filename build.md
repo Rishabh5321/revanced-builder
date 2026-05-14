@@ -1,10 +1,10 @@
 Cricbuzz-Morphe: 6.24.01  
 Google-Photos-Morphe: 7.76.0.913939682  
+Reddit-Morphe: 2026.10.0  
 Telegram: 12.7.3  
 Wallcraft: 3.61.01  
-Reddit-Morphe: 2026.10.0  
-YouTube-Morphe: 20.47.62  
 X-Twitter: 11.81.0-release.0  
+YouTube-Morphe: 20.47.62  
 YouTube-Music-Morphe: 8.47.56  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
