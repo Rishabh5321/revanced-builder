@@ -68,6 +68,13 @@ rv-brand = "morphe-dev"
 patches-version = "dev"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
+[Reddit-Adobo-Dev]
+patches-source = "jkennethcarino/adobo"
+cli-source = "MorpheApp/morphe-cli"
+rv-brand = "adobo-dev"
+patches-version = "dev"
+uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
+
 [Cricbuzz-Morphe]
 cli-source = "MorpheApp/morphe-cli"
 patches-source = "RookieEnough/De-ReVanced"
