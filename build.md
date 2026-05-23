@@ -2,11 +2,14 @@ Cricbuzz-Morphe: 6.24.01
 Google-Photos-Morphe: 7.77.0.916869048  
 JioTV: 7.1.7  
 Reddit-Morphe: 2026.10.0  
+Reddit-Morphe-Dev: 2026.14.0  
 Telegram: 12.7.3  
 Wallcraft: 3.61.01  
 X-Twitter: 11.81.0-release.0  
 YouTube-Morphe: 20.47.62  
+YouTube-Morphe-Dev: 20.47.62  
 YouTube-Music-Morphe: 8.47.56  
+YouTube-Music-Morphe-Dev: 8.47.56  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music modules from Play Store  
@@ -25,6 +28,9 @@ Patches: hoo-dles/patches-1.33.0.mpp
 
 Patches: MorpheApp/patches-1.29.0.mpp  
 [Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.29.0)
+
+Patches: MorpheApp/patches-1.30.0-dev.1.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.30.0-dev.1)
 
 Patches: rabilrbl/patches-1.0.0-dev.14.mpp  
 [Changelog](https://github.com/rabilrbl/fluffy-patches/releases/tag/v1.0.0-dev.14)
