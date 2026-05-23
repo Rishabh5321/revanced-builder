@@ -19,6 +19,24 @@ arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
+[YouTube-Morphe-Dev]
+patches-source = "MorpheApp/morphe-patches"
+cli-source = "MorpheApp/morphe-cli"
+app-name = "youtube"
+rv-brand = "morphe"
+patches-version = "dev"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+
+[YouTube-Music-Morphe-Dev]
+patches-source = "MorpheApp/morphe-patches"
+cli-source = "MorpheApp/morphe-cli"
+app-name = "youtube-music"
+rv-brand = "morphe"
+arch = "arm64-v8a"
+patches-version = "dev"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+
 [Google-Photos-Morphe]
 patches-source = "RookieEnough/De-ReVanced"
 cli-source = "MorpheApp/morphe-cli"
@@ -41,6 +59,13 @@ version = "11.81.0-release.0"
 patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "morphe"
+uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
+
+[Reddit-Morphe-Dev]
+patches-source = "MorpheApp/morphe-patches"
+cli-source = "MorpheApp/morphe-cli"
+rv-brand = "morphe-dev"
+patches-version = "dev"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
 [Cricbuzz-Morphe]
@@ -66,4 +91,5 @@ patches-source = "rabilrbl/fluffy-patches"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "fluffy"
 patches-version = "dev"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/jio-platforms-limited/jiotv-live-sports-movies-shows/"
 uptodown-dlurl = "https://jiotv.en.uptodown.com/android"
