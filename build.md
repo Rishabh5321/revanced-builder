@@ -1,6 +1,7 @@
 Cricbuzz-Morphe: 6.24.01  
 Google-Photos-Morphe: 7.77.0.916869048  
 JioTV: 7.1.7  
+Reddit-Adobo-Dev: 2026.21.0  
 Reddit-Morphe: 2026.10.0  
 Reddit-Morphe-Dev: 2026.14.0  
 Telegram: 12.7.3  
@@ -25,6 +26,9 @@ Patches: crimera/patches-3.4.0.mpp
 
 Patches: hoo-dles/patches-1.33.0.mpp  
 [Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.33.0)
+
+Patches: jkennethcarino/patches-1.2.0-dev.2.mpp  
+[Changelog](https://github.com/jkennethcarino/adobo/releases/tag/v1.2.0-dev.2)
 
 Patches: MorpheApp/patches-1.29.0.mpp  
 [Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.29.0)
