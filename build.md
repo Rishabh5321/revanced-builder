@@ -1,4 +1,10 @@
+Cricbuzz-Morphe: 6.24.01  
+Google-Photos-Morphe: 7.77.0.916869048  
+JioTV: 7.1.7  
 Reddit-Morphe: 2026.10.0  
+Telegram: 12.7.3  
+Wallcraft: 3.61.01  
+X-Twitter: 11.81.0-release.0  
 YouTube-Morphe: 20.47.62  
 YouTube-Music-Morphe: 8.47.56  
 
@@ -7,12 +13,22 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
-CLI: MorpheApp/morphe-cli-1.8.1-all.jar  
-Patches: MorpheApp/patches-1.29.0.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.29.0)  
-
-Skipped:  
-Patches: RookieEnough/patches-1.0.4.mpp  
+CLI: ReVanced/revanced-cli-6.0.0-all.jar  
 Patches: Aunali321/patches-2.0.0.rvp  
-Patches: hoo-dles/patches-1.32.0.mpp    
-Patches: crimera/patches-3.4.0.mpp    
+[Changelog](https://github.com/Aunali321/ReVancedExperiments/releases/tag/v2.0.0)
+
+Patches: crimera/patches-3.4.0.mpp  
+[Changelog](https://github.com/crimera/piko/releases/tag/v3.4.0)
+
+Patches: hoo-dles/patches-1.33.0.mpp  
+[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.33.0)
+
+Patches: MorpheApp/patches-1.29.0.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.29.0)
+
+Patches: rabilrbl/patches-1.0.0-dev.14.mpp  
+[Changelog](https://github.com/rabilrbl/fluffy-patches/releases/tag/v1.0.0-dev.14)
+
+CLI: MorpheApp/morphe-cli-1.8.1-all.jar  
+Patches: RookieEnough/patches-1.0.4.mpp  
+[Changelog](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.4)  
