@@ -1,4 +1,5 @@
 Reddit-Morphe-Dev: 2026.14.0  
+X-Twitter: 11.81.0-release.0  
 YouTube-Morphe-Dev: 20.51.39  
 YouTube-Music-Morphe-Dev: 9.15.51  
 
@@ -7,9 +8,13 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
+CLI: ReVanced/revanced-cli-6.0.0-all.jar  
+Patches: crimera/patches-3.6.0.mpp  
+[Changelog](https://github.com/crimera/piko/releases/tag/v3.6.0)
+
 CLI: MorpheApp/morphe-cli-1.9.1-all.jar  
-Patches: MorpheApp/patches-1.32.0-dev.2.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.32.0-dev.2)  
+Patches: MorpheApp/patches-1.32.0-dev.3.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.32.0-dev.3)  
 
 Skipped:  
 Patches: RookieEnough/patches-1.0.4.mpp  
@@ -17,5 +22,4 @@ Patches: rabilrbl/patches-1.0.0-dev.19.mpp
 Patches: jkennethcarino/patches-1.2.0.mpp  
 Patches: MorpheApp/patches-1.31.0.mpp  
 Patches: Aunali321/patches-2.0.0.rvp  
-Patches: hoo-dles/patches-1.36.0.mpp    
-Patches: crimera/patches-3.5.0.mpp    
+Patches: hoo-dles/patches-1.36.0.mpp      
