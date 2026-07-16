@@ -18,14 +18,14 @@ uptodown-dlurl 	= "https://youtube.en.uptodown.com/android"
 patches-source 	= "MorpheApp/morphe-patches"
 cli-source 		= "MorpheApp/morphe-cli"
 rv-brand		= "morphe"
-uptodown-dlurl 	= "https://youtube.en.uptodown.com/android"
+uptodown-dlurl 	= "https://youtube-music.en.uptodown.com/android"
 
 [YouTube-Music-Morphe-Dev]
 patches-source 	= "MorpheApp/morphe-patches"
 cli-source 		= "MorpheApp/morphe-cli"
 rv-brand 		= "morphe"
 patches-version = "dev"
-uptodown-dlurl 	= "https://youtube.en.uptodown.com/android"
+uptodown-dlurl 	= "https://youtube-music.en.uptodown.com/android"
 
 [Reddit-Morphe]
 patches-source 	= "MorpheApp/morphe-patches"
