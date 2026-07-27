@@ -11,7 +11,7 @@
       let
         pkgs = import nixpkgs { inherit system; };
 
-        # utils.sh defines: java() { env -i java "$@"; }
+        # utils.sh defines: java() { env -i PATH="$PATH" HOME="$HOME" java ...; }
         # GNU env -i replaces its own environ before execvp, so the
         # fallback search path (/usr/local/bin:/bin:/usr/bin) is used
         # instead of the nix-shell PATH. This wrapper preserves PATH
@@ -27,7 +27,7 @@
         devShells.default = pkgs.mkShell {
           packages = with pkgs; [
             envWrapper
-            jdk17
+            jdk21
             jq
             zip
             unzip
@@ -38,10 +38,11 @@
             findutils
             gnugrep
             apkeep
+            pipx
           ];
 
           shellHook = ''
-            export JAVA_HOME="${pkgs.jdk17}/lib/openjdk"
+            export JAVA_HOME="${pkgs.jdk21}/lib/openjdk"
           '';
         };
       });
